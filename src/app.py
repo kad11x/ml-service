@@ -17,8 +17,6 @@ def read_root():
 
 
 @app.post("/predict")
-def predict(data: InputData):
-    # Here you could load a trained model and use it.
-    # For now, let's just return the sum of the numbers:
-    total = float(np.sum(data.numbers))
-    return {"sum": total}
+def predict():
+
+    return {"message": "ML Service is running! We are testinmg the update"}

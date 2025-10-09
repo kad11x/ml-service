@@ -7,12 +7,8 @@ cd ~/Desktop/ml-service
 git pull origin main   # or 'master' if that's your branch
 
 # 3) rebuild the image
-docker build -t my-ml-app:latest .
+docker compose up -d --build        # (or: docker compose up -d --build ml-service)
 
-# 4) restart the running container with the new image
-docker stop mlservice && docker rm mlservice
-docker run -d --restart always \
-  --name mlservice \
-  -p 8000:8000 \
-  --network web \            # include this if you set up Caddy reverse proxy
-  my-ml-app:latest
+# 4) check if it worked
+docker compose ps
+docker compose logs -f
