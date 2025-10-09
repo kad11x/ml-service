@@ -1,0 +1,18 @@
+How to rerunn repo in linux to update folder
+
+# 1) go to your repo folder (adjust path)
+cd ~/Desktop/ml-service
+
+# 2) pull latest code
+git pull origin main   # or 'master' if that's your branch
+
+# 3) rebuild the image
+docker build -t my-ml-app:latest .
+
+# 4) restart the running container with the new image
+docker stop mlservice && docker rm mlservice
+docker run -d --restart always \
+  --name mlservice \
+  -p 8000:8000 \
+  --network web \            # include this if you set up Caddy reverse proxy
+  my-ml-app:latest

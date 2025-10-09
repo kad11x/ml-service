@@ -13,7 +13,7 @@ class InputData(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "ML Service is running!"}
+    return {"message": "ML Service is running! We are testinmg the update"}
 
 
 @app.post("/predict")
