@@ -22,7 +22,7 @@ class Scraper:
     def __init__(self, year: str):
         self.year = str(year)
         # keep your header style (do not hardcode your key here)
-        self.headers = {"X-RapidAPI-Key": "d1ebf0d64f97d8545d20250dcb7803d5"}
+        self.headers = {"X-RapidAPI-Key": "***"}
         self.league = "39"  # EPL
 
         os.makedirs(RAW_DIR, exist_ok=True)
