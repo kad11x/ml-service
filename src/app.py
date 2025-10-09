@@ -16,7 +16,7 @@ def read_root():
     return {"message": "ML Service is running! We are testinmg the update"}
 
 
-@app.post("/predict")
+@app.get("/predict")
 def predict():
 
     return {"message": "ML Service is running! We are testinmg the update"}
