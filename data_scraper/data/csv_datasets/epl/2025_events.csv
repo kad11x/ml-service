@@ -1,0 +1,1079 @@
+﻿fixture_id,minute,minute_extra,team_id,team_name,type,detail,player_id,player_name,assist_id,assist_name
+1378969,14,,35,Bournemouth,Card,Yellow Card,18870,David Brooks,,
+1378969,37,,40,Liverpool,Goal,Normal Goal,174565,H. Ekitike,6716,A. Mac Allister
+1378969,43,,40,Liverpool,Card,Yellow Card,206254,Miloš Kerkez,,
+1378969,49,,40,Liverpool,Goal,Normal Goal,247,C. Gakpo,174565,H. Ekitike
+1378969,60,,40,Liverpool,subst,Substitution 1,152654,J. Frimpong,8500,W. Endo
+1378969,60,,40,Liverpool,subst,Substitution 2,206254,M. Kerkez,289,A. Robertson
+1378969,64,,35,Bournemouth,Goal,Normal Goal,19281,A. Semenyo,18870,D. Brooks
+1378969,72,,40,Liverpool,subst,Substitution 3,174565,H. Ekitike,284,J. Gomez
+1378969,72,,40,Liverpool,subst,Substitution 4,6716,A. Mac Allister,293,C. Jones
+1378969,74,,35,Bournemouth,subst,Substitution 1,304853,A. Scott,31057,H. J. Traore
+1378969,76,,35,Bournemouth,Goal,Normal Goal,19281,A. Semenyo,31057,H. J. Traore
+1378969,81,,35,Bournemouth,Card,Yellow Card,152856,Evanilson,,
+1378969,82,,40,Liverpool,subst,Substitution 5,203224,F. Wirtz,30410,F. Chiesa
+1378969,84,,35,Bournemouth,subst,Substitution 2,18870,D. Brooks,402432,B. Winterburn
+1378969,88,,40,Liverpool,Goal,Normal Goal,30410,F. Chiesa,,
+1378969,90,1,35,Bournemouth,subst,Substitution 3,1150,T. Adams,368030,E. J. Kroupi
+1378969,90,,35,Bournemouth,subst,Substitution 4,18869,A. Smith,20093,J. Hill
+1378969,90,,40,Liverpool,Goal,Normal Goal,306,M. Salah,8500,W. Endo
+1378970,45,,34,Newcastle,Card,Yellow Card,723,Joelinton,,
+1378970,58,,66,Aston Villa,Card,Yellow Card,1904,Boubacar Kamara,,
+1378970,66,,66,Aston Villa,Card,Red Card,19354,Ezri Konsa,,
+1378970,78,,34,Newcastle,subst,Substitution 1,153430,A. Elanga,19163,J. Murphy
+1378970,83,,34,Newcastle,subst,Substitution 2,723,Joelinton,328105,L. Miley
+1378970,84,,66,Aston Villa,subst,Substitution 1,19191,J. McGinn,249,D. Malen
+1378970,90,,34,Newcastle,subst,Substitution 3,18778,H. Barnes,315237,W. Osula
+1378971,31,,36,Fulham,Card,Yellow Card,152967,Calvin Bassey,,
+1378971,55,,51,Brighton,Goal,Penalty,19030,M. O'Riley,,
+1378971,60,,51,Brighton,Card,Yellow Card,106835,Kaoru Mitoma,,
+1378971,66,,36,Fulham,subst,Substitution 1,2887,R. Jimenez,195106,Rodrigo Muniz
+1378971,66,,36,Fulham,subst,Substitution 2,1934,S. Berge,19025,T. Cairney
+1378971,66,,36,Fulham,subst,Substitution 3,1455,A. Iwobi,18753,A. Traore
+1378971,69,,51,Brighton,subst,Substitution 1,90590,G. Rutter,1469,D. Welbeck
+1378971,69,,51,Brighton,subst,Substitution 2,383685,Y. Minteh,1361,F. Kadioglu
+1378971,69,,51,Brighton,subst,Substitution 3,356041,C. Baleba,278370,D. Gomez
+1378971,73,,51,Brighton,Card,Yellow Card,1361,Ferdi Kadıoğlu,,
+1378971,77,,36,Fulham,subst,Substitution 4,389315,J. King,1161,E. Smith Rowe
+1378971,78,,51,Brighton,Card,Yellow Card,278370,Diego Gómez,,
+1378971,83,,51,Brighton,subst,Substitution 4,106835,K. Mitoma,328225,B. Gruda
+1378971,84,,36,Fulham,subst,Substitution 5,131,J. Cuenca,2920,T. Castagne
+1378971,88,,51,Brighton,subst,Substitution 5,19030,M. O'Riley,296,J. Milner
+1378971,90,8,36,Fulham,Card,Yellow Card,195106,Rodrigo Muniz,,
+1378971,90,3,36,Fulham,Card,Yellow Card,19025,Tom Cairney,,
+1378971,90,,36,Fulham,Goal,Normal Goal,195106,Rodrigo Muniz,,
+1378972,5,,65,Nottingham Forest,Goal,Normal Goal,18931,C. Wood,,
+1378972,42,,65,Nottingham Forest,Goal,Normal Goal,48648,D. Ndoye,18746,M. Gibbs-White
+1378972,45,,65,Nottingham Forest,Goal,Normal Goal,18931,C. Wood,138908,E. Anderson
+1378972,46,,55,Brentford,subst,Substitution 1,319517,A. Milambo,178077,K. Schade
+1378972,52,,55,Brentford,Card,Yellow Card,19495,Nathan Collins,,
+1378972,53,,65,Nottingham Forest,Card,Yellow Card,138780,Neco Williams,,
+1378972,69,,55,Brentford,subst,Substitution 2,47438,M. Jensen,292,J. Henderson
+1378972,69,,55,Brentford,subst,Substitution 3,106725,K. Lewis-Potter,15799,F. Onyeka
+1378972,78,,55,Brentford,Goal,Penalty,196156,I. Thiago,,
+1378972,79,,65,Nottingham Forest,subst,Substitution 1,18931,C. Wood,9366,Igor Jesus
+1378972,79,,65,Nottingham Forest,subst,Substitution 2,48648,D. Ndoye,141901,Jota Silva
+1378972,84,,65,Nottingham Forest,subst,Substitution 3,18746,M. Gibbs-White,19305,R. Yates
+1378972,88,,55,Brentford,subst,Substitution 4,19346,R. Henry,44871,A. Hickey
+1378972,90,,55,Brentford,Card,Yellow Card,44871,Aaron Hickey,,
+1378973,53,,746,Sunderland,subst,Substitution 1,290545,J. Seelt,6168,O. Alderete
+1378973,61,,746,Sunderland,Goal,Normal Goal,349799,E. Mayenda,6168,O. Alderete
+1378973,70,,48,West Ham,Card,Yellow Card,18744,Max Kilman,,
+1378973,71,,48,West Ham,subst,Substitution 1,2476,G. Rodriguez,2939,C. Wilson
+1378973,71,,48,West Ham,subst,Substitution 2,2938,J. Ward-Prowse,1243,T. Soucek
+1378973,73,,746,Sunderland,Goal,Normal Goal,55904,D. Ballard,301771,S. Adingra
+1378973,76,,746,Sunderland,subst,Substitution 2,301771,S. Adingra,20638,E. Le Fee
+1378973,76,,746,Sunderland,subst,Substitution 3,349799,E. Mayenda,84087,W. Isidor
+1378973,82,,48,West Ham,subst,Substitution 3,138,J. Todibo,68466,A. Irving
+1378973,90,3,746,Sunderland,subst,Substitution 4,336659,C. Talbi,339201,C. Rigg
+1378973,90,,746,Sunderland,Goal,Normal Goal,84087,W. Isidor,336659,C. Talbi
+1378974,10,,47,Tottenham,Goal,Normal Goal,2413,Richarlison,15911,M. Kudus
+1378974,60,,47,Tottenham,Goal,Normal Goal,2413,Richarlison,15911,M. Kudus
+1378974,63,,44,Burnley,subst,Substitution 1,180560,H. Mejbri,22,J. Bruun Larsen
+1378974,63,,44,Burnley,subst,Substitution 2,20303,J. Laurent,270508,L. Ugochukwu
+1378974,66,,47,Tottenham,Goal,Normal Goal,129711,B. Johnson,237129,P. M. Sarr
+1378974,71,,47,Tottenham,subst,Substitution 1,2413,Richarlison,18883,D. Solanke
+1378974,71,,47,Tottenham,subst,Substitution 2,328089,A. Gray,863,R. Bentancur
+1378974,74,,44,Burnley,subst,Substitution 3,128895,O. Sonne,161621,L. Tchaouna
+1378974,74,,44,Burnley,subst,Substitution 4,98936,L. Foster,36927,Z. Flemming
+1378974,80,,47,Tottenham,subst,Substitution 3,347316,L. Bergvall,41104,J. Palhinha
+1378974,80,,47,Tottenham,subst,Substitution 4,129711,B. Johnson,336564,W. Odobert
+1378974,85,,47,Tottenham,subst,Substitution 5,15911,M. Kudus,270510,M. Tel
+1378974,85,,44,Burnley,subst,Substitution 5,196855,J. Anthony,37882,M. Edwards
+1378975,34,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,284230,R. Lewis
+1378975,37,,50,Manchester City,Goal,Normal Goal,36902,T. Reijnders,278133,O. Bobb
+1378975,54,,50,Manchester City,Card,Yellow Card,36902,Tijjani Reijnders,,
+1378975,61,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,36902,T. Reijnders
+1378975,66,,50,Manchester City,subst,Substitution 1,1422,J. Doku,81573,O. Marmoush
+1378975,66,,50,Manchester City,subst,Substitution 2,284230,R. Lewis,41621,M. Nunes
+1378975,66,,50,Manchester City,subst,Substitution 3,636,B. Silva,307123,N. O'Reilly
+1378975,67,,39,Wolves,Card,Yellow Card,18742,Matt Doherty,,
+1378975,72,,39,Wolves,subst,Substitution 1,265782,D. M. Wolfe,280687,H. Bueno
+1378975,72,,39,Wolves,subst,Substitution 2,265784,Andre,391822,F. Lopez
+1378975,73,,39,Wolves,subst,Substitution 3,20665,J. Bellegarde,13708,J. Arias
+1378975,73,,39,Wolves,subst,Substitution 4,285,K. Hoever,282770,R. Gomes
+1378975,73,,50,Manchester City,subst,Substitution 4,1100,E. Haaland,156477,R. Cherki
+1378975,81,,50,Manchester City,Card,Yellow Card,307123,Nico O'Reilly,,
+1378975,81,,50,Manchester City,Goal,Normal Goal,156477,R. Cherki,,
+1378975,82,,39,Wolves,subst,Substitution 5,2032,J. S. Larsen,24888,Hwang Hee-Chan
+1378975,82,,50,Manchester City,subst,Substitution 5,626,J. Stones,360114,A. Khusanov
+1378976,14,,52,Crystal Palace,Var,Goal cancelled,19586,Eberechi Eze,,
+1378976,24,,49,Chelsea,Card,Yellow Card,19545,Reece James,,
+1378976,28,,52,Crystal Palace,Card,Yellow Card,13736,Daniel Muñoz,,
+1378976,33,,52,Crystal Palace,Card,Yellow Card,25927,Jean-Philippe Mateta,,
+1378976,49,,52,Crystal Palace,Card,Yellow Card,18806,Will Hughes,,
+1378976,54,,49,Chelsea,subst,Substitution 1,286894,J. Gittens,425733,Estêvão
+1378976,70,,52,Crystal Palace,subst,Substitution 1,18806,W. Hughes,2490,J. Lerma
+1378976,73,,49,Chelsea,subst,Substitution 2,10329,Joao Pedro,161948,L. Delap
+1378976,74,,49,Chelsea,Card,Yellow Card,425733,Estêvão Willian,,
+1378976,79,,49,Chelsea,subst,Substitution 3,5996,E. Fernandez,305834,Andrey Santos
+1378976,79,,49,Chelsea,subst,Substitution 4,19545,R. James,161907,M. Gusto
+1378976,84,,52,Crystal Palace,subst,Substitution 2,19586,E. Eze,286458,J. Devenny
+1378977,13,,42,Arsenal,Goal,Normal Goal,157052,R. Calafiori,,
+1378977,42,,42,Arsenal,Card,Yellow Card,157052,Riccardo Calafiori,,
+1378977,55,,33,Manchester United,subst,Substitution 1,886,D. Dalot,157997,A. Diallo
+1378977,60,,42,Arsenal,subst,Substitution 1,127769,G. Martinelli,136723,N. Madueke
+1378977,60,,42,Arsenal,subst,Substitution 2,18979,V. Gyökeres,978,K. Havertz
+1378977,65,,33,Manchester United,subst,Substitution 2,747,Casemiro,51494,M. Ugarte
+1378977,65,,33,Manchester United,subst,Substitution 3,19220,M. Mount,115589,B. Sesko
+1378977,71,,42,Arsenal,subst,Substitution 3,19959,B. White,38746,J. Timber
+1378977,72,,42,Arsenal,subst,Substitution 4,157052,R. Calafiori,313245,M. Lewis-Skelly
+1378977,80,,33,Manchester United,subst,Substitution 4,891,L. Shaw,2935,H. Maguire
+1378977,83,,42,Arsenal,subst,Substitution 5,2937,D. Rice,47311,M. Merino
+1378977,85,,33,Manchester United,Card,Yellow Card,382452,Patrick Dorgu,,
+1378977,85,,42,Arsenal,Card,Yellow Card,19465,David Raya,,
+1378977,90,3,42,Arsenal,Card,Yellow Card,313245,Myles Lewis-Skelly,,
+1378977,90,1,42,Arsenal,Card,Yellow Card,38746,Jurriën Timber,,
+1378978,56,,45,Everton,Card,Yellow Card,284500,Tim Iroegbunam,,
+1378978,63,,45,Everton,Card,Yellow Card,195993,Carlos Alcaraz,,
+1378978,67,,63,Leeds,subst,Substitution 1,162128,W. Gnonto,50739,B. Aaronson
+1378978,71,,45,Everton,subst,Substitution 1,284500,T. Iroegbunam,19187,J. Grealish
+1378978,78,,63,Leeds,subst,Substitution 2,2279,E. Ampadu,129142,I. Gruev
+1378978,78,,63,Leeds,subst,Substitution 3,19329,D. James,19128,J. Harrison
+1378978,78,,63,Leeds,subst,Substitution 4,250,J. Piroe,19461,L. Nmecha
+1378978,84,,63,Leeds,Goal,Penalty,19461,L. Nmecha,,
+1378978,86,,45,Everton,subst,Substitution 2,195993,C. Alcaraz,343684,T. Barry
+1378978,90,4,63,Leeds,subst,Substitution 5,32966,A. Tanaka,18901,S. Longstaff
+1378979,9,,63,Leeds,Card,Yellow Card,19201,Jayden Bogle,,
+1378979,34,,42,Arsenal,Goal,Normal Goal,38746,J. Timber,2937,D. Rice
+1378979,38,,42,Arsenal,subst,Substitution 1,37127,M. Odegaard,313236,E. Nwaneri
+1378979,45,,42,Arsenal,Goal,Normal Goal,1460,B. Saka,38746,J. Timber
+1378979,48,,42,Arsenal,Goal,Normal Goal,18979,R. Calafiori,,
+1378979,53,,42,Arsenal,subst,Substitution 2,1460,B. Saka,1946,L. Trossard
+1378979,56,,42,Arsenal,Goal,Normal Goal,38746,J. Timber,157052,R. Calafiori
+1378979,58,,63,Leeds,subst,Substitution 1,32966,A. Tanaka,18901,S. Longstaff
+1378979,58,,63,Leeds,subst,Substitution 2,250,J. Piroe,19461,L. Nmecha
+1378979,64,,42,Arsenal,subst,Substitution 3,38746,J. Timber,333682,C. Mosquera
+1378979,64,,42,Arsenal,subst,Substitution 4,157052,R. Calafiori,313245,M. Lewis-Skelly
+1378979,64,,42,Arsenal,subst,Substitution 5,136723,N. Madueke,442044,M. Dowman
+1378979,66,,63,Leeds,subst,Substitution 3,19329,D. James,50739,B. Aaronson
+1378979,66,,63,Leeds,subst,Substitution 4,162128,W. Gnonto,48389,N. Okafor
+1378979,80,,63,Leeds,Card,Yellow Card,47969,Gabriel Gudmundsson,,
+1378979,83,,63,Leeds,subst,Substitution 5,19201,J. Bogle,19287,S. Byram
+1378979,90,,42,Arsenal,Goal,Penalty,,,,
+1378980,4,,35,Bournemouth,Goal,Normal Goal,19245,M. Tavernier,19281,A. Semenyo
+1378980,9,,39,Wolves,Card,Yellow Card,41606,Toti Gomes,,
+1378980,35,,39,Wolves,subst,Substitution 1,285,K. Hoever,296560,J. Tchatchoua
+1378980,46,,39,Wolves,subst,Substitution 2,265782,D. M. Wolfe,280687,H. Bueno
+1378980,46,,39,Wolves,subst,Substitution 3,20665,J. Bellegarde,265784,Andre
+1378980,49,,39,Wolves,Card,Red Card,41606,Toti Gomes,,
+1378980,56,,39,Wolves,subst,Substitution 4,13708,J. Arias,135334,S. Bueno
+1378980,58,,35,Bournemouth,Card,Yellow Card,1150,Tyler Adams,,
+1378980,63,,35,Bournemouth,Card,Yellow Card,304853,Alex Scott,,
+1378980,63,,39,Wolves,Card,Yellow Card,280687,Hugo Bueno,,
+1378980,66,,35,Bournemouth,subst,Substitution 1,304853,A. Scott,1125,R. Christie
+1378980,66,,35,Bournemouth,subst,Substitution 2,18870,D. Brooks,129682,A. Adli
+1378980,78,,35,Bournemouth,subst,Substitution 3,19245,M. Tavernier,792,J. Kluivert
+1378980,78,,39,Wolves,subst,Substitution 5,2032,J. S. Larsen,24888,Hwang Hee-Chan
+1378980,84,,39,Wolves,Card,Yellow Card,18742,Matt Doherty,,
+1378980,85,,39,Wolves,Card,Yellow Card,195103,João Gomes,,
+1378980,88,,35,Bournemouth,subst,Substitution 4,152856,Evanilson,368030,E. J. Kroupi
+1378980,88,,35,Bournemouth,subst,Substitution 5,1150,T. Adams,20093,J. Hill
+1378981,12,,55,Brentford,Goal,Normal Goal,284797,D. Ouattara,,
+1378981,16,,66,Aston Villa,subst,Substitution 1,1904,B. Kamara,19071,E. Buendia
+1378981,55,,55,Brentford,Card,Yellow Card,281,Caoimhin Kelleher,,
+1378981,57,,66,Aston Villa,Card,Yellow Card,162714,Amadou Onana,,
+1378981,64,,66,Aston Villa,subst,Substitution 2,2724,L. Digne,138816,I. Maatsen
+1378981,64,,66,Aston Villa,subst,Substitution 3,162714,A. Onana,249,D. Malen
+1378981,69,,55,Brentford,subst,Substitution 1,292,J. Henderson,15799,F. Onyeka
+1378981,74,,66,Aston Villa,subst,Substitution 4,19191,J. McGinn,284457,L. Bogarde
+1378981,75,,66,Aston Villa,subst,Substitution 5,,,137303,E. Guessand
+1378981,79,,55,Brentford,subst,Substitution 2,178077,K. Schade,44871,A. Hickey
+1378981,79,,55,Brentford,subst,Substitution 3,263538,Y. Yarmolyuk,47438,M. Jensen
+1378981,84,,66,Aston Villa,Card,Yellow Card,284457,Lamare Bogarde,,
+1378981,84,,55,Brentford,subst,Substitution 4,284797,D. Ouattara,19346,R. Henry
+1378981,85,,55,Brentford,subst,Substitution 5,342022,M. Kayode,1119,K. Ajer
+1378982,9,,746,Sunderland,subst,Substitution 1,55904,D. Ballard,290545,J. Seelt
+1378982,19,,746,Sunderland,Card,Yellow Card,301771,Simon Adingra,,
+1378982,47,,44,Burnley,Goal,Normal Goal,19827,J. Cullen,196855,J. Anthony
+1378982,63,,746,Sunderland,subst,Substitution 2,336659,C. Talbi,47521,P. Roberts
+1378982,63,,746,Sunderland,subst,Substitution 3,301771,S. Adingra,20638,E. Le Fee
+1378982,63,,746,Sunderland,subst,Substitution 4,349799,E. Mayenda,84087,W. Isidor
+1378982,69,,44,Burnley,subst,Substitution 1,22,J. Bruun Larsen,128895,O. Sonne
+1378982,69,,44,Burnley,subst,Substitution 2,270508,L. Ugochukwu,20303,J. Laurent
+1378982,80,,746,Sunderland,subst,Substitution 5,327631,H. Diarra,392270,M. Guiu
+1378982,83,,44,Burnley,subst,Substitution 3,179400,M. Esteve,1746,J. Worrall
+1378982,83,,44,Burnley,subst,Substitution 4,180560,H. Mejbri,161621,L. Tchaouna
+1378982,86,,44,Burnley,subst,Substitution 5,98936,L. Foster,36927,Z. Flemming
+1378982,88,,44,Burnley,Goal,Normal Goal,196855,J. Anthony,19827,J. Cullen
+1378983,14,,52,Crystal Palace,Card,Yellow Card,20995,Maxence Lacroix,,
+1378983,37,,52,Crystal Palace,Goal,Normal Goal,2218,I. Sarr,13736,D. Munoz
+1378983,53,,65,Nottingham Forest,Card,Yellow Card,2919,Matz Sels,,
+1378983,54,,52,Crystal Palace,Card,Yellow Card,182201,Tyrick Mitchell,,
+1378983,57,,65,Nottingham Forest,Goal,Normal Goal,2298,C. Hudson-Odoi,48648,D. Ndoye
+1378983,66,,52,Crystal Palace,subst,Substitution 1,286458,J. Devenny,402640,R. Esse
+1378983,68,,65,Nottingham Forest,Card,Yellow Card,2771,Ola Aina,,
+1378983,71,,65,Nottingham Forest,subst,Substitution 1,48648,D. Ndoye,147831,A. Kalimuendo
+1378983,72,,65,Nottingham Forest,subst,Substitution 2,2298,C. Hudson-Odoi,158697,J. McAtee
+1378983,82,,52,Crystal Palace,subst,Substitution 2,288102,A. Wharton,2490,J. Lerma
+1378983,82,,65,Nottingham Forest,subst,Substitution 3,18746,M. Gibbs-White,284428,O. Hutchinson
+1378983,87,,52,Crystal Palace,Card,Yellow Card,18806,Will Hughes,,
+1378983,88,,52,Crystal Palace,subst,Substitution 3,25927,J. Mateta,1135,O. Edouard
+1378983,88,,65,Nottingham Forest,subst,Substitution 4,18931,C. Wood,9366,Igor Jesus
+1378983,88,,65,Nottingham Forest,subst,Substitution 5,22149,I. Sangare,19305,R. Yates
+1378983,90,2,65,Nottingham Forest,Card,Yellow Card,363695,Murillo,,
+1378984,23,,45,Everton,Goal,Normal Goal,18592,I. Ndiaye,19187,J. Grealish
+1378984,28,,51,Brighton,Card,Yellow Card,162007,Maxim De Cuyper,,
+1378984,39,,45,Everton,Card,Yellow Card,284500,Tim Iroegbunam,,
+1378984,40,,51,Brighton,Card,Yellow Card,92993,Mats Wieffer,,
+1378984,46,,51,Brighton,subst,Substitution 1,356041,C. Baleba,305730,J. Hinshelwood
+1378984,52,,45,Everton,Goal,Normal Goal,895,J. Garner,19187,J. Grealish
+1378984,63,,45,Everton,Card,Yellow Card,895,James Garner,,
+1378984,64,,45,Everton,subst,Substitution 1,343684,T. Barry,125743,Beto
+1378984,64,,45,Everton,subst,Substitution 2,18592,I. Ndiaye,195993,C. Alcaraz
+1378984,67,,51,Brighton,subst,Substitution 2,162007,M. De Cuyper,1361,F. Kadioglu
+1378984,67,,51,Brighton,subst,Substitution 3,265820,Y. Ayari,278370,D. Gomez
+1378984,71,,45,Everton,subst,Substitution 3,284500,T. Iroegbunam,18929,D. McNeil
+1378984,85,,51,Brighton,subst,Substitution 4,92993,M. Wieffer,328225,B. Gruda
+1378984,89,,45,Everton,Card,Yellow Card,148099,Kiernan Dewsbury-Hall,,
+1378984,90,5,45,Everton,Card,Yellow Card,125743,Beto,,
+1378984,90,1,51,Brighton,Card,Yellow Card,1361,Ferdi Kadıoğlu,,
+1378984,90,4,45,Everton,subst,Substitution 4,19187,J. Grealish,405360,H. Armstrong
+1378985,35,,33,Manchester United,Var,Penalty confirmed,19220,Mason Mount,,
+1378985,39,,33,Manchester United,Card,Yellow Card,747,Casemiro,,
+1378985,52,,33,Manchester United,subst,Substitution 1,157997,A. Diallo,886,D. Dalot
+1378985,53,,33,Manchester United,subst,Substitution 2,747,Casemiro,115589,B. Sesko
+1378985,58,,33,Manchester United,Goal,Own Goal,195106,Rodrigo Muniz,,
+1378985,62,,36,Fulham,subst,Substitution 1,19032,R. Sessegnon,19549,A. Robinson
+1378985,62,,36,Fulham,subst,Substitution 2,2920,T. Castagne,19221,H. Wilson
+1378985,69,,33,Manchester United,subst,Substitution 3,19220,M. Mount,51494,M. Ugarte
+1378985,71,,36,Fulham,subst,Substitution 3,389315,J. King,1161,E. Smith Rowe
+1378985,71,,36,Fulham,subst,Substitution 4,195106,Rodrigo Muniz,2887,R. Jimenez
+1378985,73,,36,Fulham,Goal,Normal Goal,1161,E. Smith Rowe,1455,A. Iwobi
+1378985,86,,36,Fulham,Card,Yellow Card,2823,Saša Lukić,,
+1378985,87,,33,Manchester United,subst,Substitution 4,342970,L. Yoro,402329,A. Heaven
+1378985,87,,33,Manchester United,subst,Substitution 5,891,L. Shaw,2935,H. Maguire
+1378986,23,,50,Manchester City,subst,Substitution 1,21138,R. Ait Nouri,18861,N. Ake
+1378986,34,,47,Tottenham,Card,Yellow Card,129711,Brennan Johnson,,
+1378986,35,,47,Tottenham,Goal,Normal Goal,129711,B. Johnson,2413,Richarlison
+1378986,37,,47,Tottenham,Var,Goal confirmed,129711,Brennan Johnson,,
+1378986,45,,47,Tottenham,Goal,Normal Goal,41104,J. Palhinha,,
+1378986,54,,50,Manchester City,subst,Substitution 2,81573,O. Marmoush,1422,J. Doku
+1378986,54,,50,Manchester City,subst,Substitution 3,156477,R. Cherki,636,B. Silva
+1378986,68,,47,Tottenham,Card,Yellow Card,30776,Cristian Romero,,
+1378986,71,,50,Manchester City,Card,Yellow Card,161933,Nico González,,
+1378986,71,,47,Tottenham,Card,Yellow Card,2413,Richarlison,,
+1378986,75,,50,Manchester City,subst,Substitution 4,161933,Nico,44,Rodri
+1378986,75,,50,Manchester City,subst,Substitution 5,278133,O. Bobb,631,P. Foden
+1378986,78,,47,Tottenham,subst,Substitution 1,2413,Richarlison,18883,D. Solanke
+1378986,78,,47,Tottenham,subst,Substitution 2,129711,B. Johnson,336564,W. Odobert
+1378986,81,,47,Tottenham,Card,Yellow Card,47519,Pedro Porro,,
+1378986,86,,47,Tottenham,subst,Substitution 3,15911,M. Kudus,347316,L. Bergvall
+1378986,90,1,47,Tottenham,subst,Substitution 4,41104,J. Palhinha,25287,K. Danso
+1378987,8,,40,Liverpool,Card,Yellow Card,542,Ryan Gravenberch,,
+1378987,25,,40,Liverpool,Card,Yellow Card,1145,Ibrahima Konaté,,
+1378987,35,,40,Liverpool,Goal,Normal Goal,542,R. Gravenberch,247,C. Gakpo
+1378987,44,,34,Newcastle,Card,Yellow Card,18961,Dan Burn,,
+1378987,45,3,34,Newcastle,Card,Red Card,138787,Anthony Gordon,,
+1378987,45,1,34,Newcastle,Var,Card upgrade,138787,Anthony Gordon,,
+1378987,46,,40,Liverpool,Goal,Normal Goal,174565,H. Ekitike,247,C. Gakpo
+1378987,47,,34,Newcastle,Card,Yellow Card,10135,Bruno Guimarães,,
+1378987,57,,34,Newcastle,Goal,Normal Goal,10135,Bruno Guimaraes,158694,V. Livramento
+1378987,66,,34,Newcastle,subst,Substitution 1,31146,S. Tonali,328105,L. Miley
+1378987,76,,34,Newcastle,subst,Substitution 2,169,K. Trippier,284492,L. Hall
+1378987,76,,34,Newcastle,subst,Substitution 3,18778,H. Barnes,315237,W. Osula
+1378987,76,,34,Newcastle,subst,Substitution 4,723,Joelinton,19192,J. Ramsey
+1378987,80,,40,Liverpool,subst,Substitution 1,203224,F. Wirtz,180317,C. Bradley
+1378987,80,,40,Liverpool,subst,Substitution 2,174565,H. Ekitike,30410,F. Chiesa
+1378987,81,,34,Newcastle,subst,Substitution 5,2806,F. Schar,163189,M. Thiaw
+1378987,87,,40,Liverpool,Card,Yellow Card,180317,Conor Bradley,,
+1378987,88,,34,Newcastle,Goal,Normal Goal,315237,W. Osula,,
+1378987,90,12,40,Liverpool,subst,Substitution 3,306,M. Salah,8500,W. Endo
+1378987,90,6,40,Liverpool,subst,Substitution 4,293,C. Jones,19035,H. Elliott
+1378987,90,6,40,Liverpool,subst,Substitution 5,247,C. Gakpo,452685,R. Ngumoha
+1378987,90,,40,Liverpool,Goal,Normal Goal,452685,R. Ngumoha,306,M. Salah
+1378988,6,,48,West Ham,Goal,Normal Goal,1646,Lucas Paqueta,409303,M. Diouf
+1378988,15,,49,Chelsea,Goal,Normal Goal,10329,Joao Pedro,47380,M. Cucurella
+1378988,18,,48,West Ham,Var,Goal cancelled,25391,Niclas Füllkrug,,
+1378988,23,,49,Chelsea,Goal,Normal Goal,1864,P. Neto,10329,Joao Pedro
+1378988,34,,49,Chelsea,Goal,Normal Goal,5996,E. Fernandez,,
+1378988,46,,48,West Ham,subst,Substitution 1,25391,N. Fullkrug,2939,C. Wilson
+1378988,46,,48,West Ham,subst,Substitution 2,138,J. Todibo,284446,F. Potts
+1378988,54,,49,Chelsea,Goal,Normal Goal,116117,M. Caicedo,,
+1378988,58,,49,Chelsea,Goal,Normal Goal,19720,T. Chalobah,10329,Joao Pedro
+1378988,62,,49,Chelsea,subst,Substitution 1,161948,L. Delap,305834,Andrey Santos
+1378988,69,,49,Chelsea,subst,Substitution 2,19720,T. Chalobah,22094,W. Fofana
+1378988,69,,49,Chelsea,subst,Substitution 3,47380,M. Cucurella,341642,J. Hato
+1378988,69,,49,Chelsea,subst,Substitution 4,161907,M. Gusto,19545,R. James
+1378988,70,,48,West Ham,subst,Substitution 3,1243,T. Soucek,171,K. Walker-Peters
+1378988,77,,49,Chelsea,subst,Substitution 5,425733,Estêvão,286894,J. Gittens
+1378988,87,,49,Chelsea,Card,Yellow Card,341642,Jorrel Hato,,
+1378989,13,,66,Aston Villa,Card,Yellow Card,19298,Matty Cash,,
+1378989,20,,66,Aston Villa,Card,Yellow Card,36878,Marco Bizot,,
+1378989,21,,52,Crystal Palace,Goal,Penalty,25927,J. Mateta,,
+1378989,22,,52,Crystal Palace,Card,Yellow Card,25927,Jean-Philippe Mateta,,
+1378989,46,,66,Aston Villa,subst,Substitution 1,137303,E. Guessand,19071,E. Buendia
+1378989,52,,52,Crystal Palace,Card,Yellow Card,18806,Will Hughes,,
+1378989,56,,52,Crystal Palace,subst,Substitution 1,288102,A. Wharton,2490,J. Lerma
+1378989,68,,52,Crystal Palace,Goal,Normal Goal,67971,M. Guehi,,
+1378989,71,,52,Crystal Palace,subst,Substitution 2,18806,W. Hughes,184226,Y. Pino
+1378989,74,,66,Aston Villa,subst,Substitution 2,19191,J. McGinn,46815,P. Torres
+1378989,74,,66,Aston Villa,subst,Substitution 3,19298,M. Cash,453101,B. Burrowes
+1378989,78,,52,Crystal Palace,Goal,Normal Goal,2218,I. Sarr,20995,M. Lacroix
+1378989,83,,66,Aston Villa,subst,Substitution 4,249,D. Malen,2724,L. Digne
+1378989,84,,66,Aston Villa,subst,Substitution 5,138816,I. Maatsen,284457,L. Bogarde
+1378989,85,,52,Crystal Palace,subst,Substitution 3,25927,J. Mateta,286458,J. Devenny
+1378989,86,,52,Crystal Palace,subst,Substitution 4,2601,D. Kamada,18862,N. Clyne
+1378989,87,,52,Crystal Palace,Card,Yellow Card,2218,Ismaïla Sarr,,
+1378990,16,,51,Brighton,Card,Yellow Card,38695,Jan Paul van Hecke,,
+1378990,34,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,81573,O. Marmoush
+1378990,60,,51,Brighton,subst,Substitution 1,356041,C. Baleba,296,J. Milner
+1378990,61,,51,Brighton,subst,Substitution 2,278370,D. Gomez,328225,B. Gruda
+1378990,61,,51,Brighton,subst,Substitution 3,1469,D. Welbeck,90590,G. Rutter
+1378990,61,,51,Brighton,subst,Substitution 4,305730,J. Hinshelwood,265820,Y. Ayari
+1378990,63,,50,Manchester City,Card,Yellow Card,360114,Abdukodir Khusanov,,
+1378990,67,,51,Brighton,Goal,Penalty,296,J. Milner,,
+1378990,69,,50,Manchester City,Card,Yellow Card,21138,Rayan Aït-Nouri,,
+1378990,72,,50,Manchester City,subst,Substitution 1,81573,O. Marmoush,1422,J. Doku
+1378990,72,,50,Manchester City,subst,Substitution 2,636,B. Silva,307123,N. O'Reilly
+1378990,77,,51,Brighton,Card,Yellow Card,537,Joël Veltman,,
+1378990,85,,50,Manchester City,subst,Substitution 3,360114,A. Khusanov,567,R. Dias
+1378990,85,,50,Manchester City,subst,Substitution 4,41621,M. Nunes,284230,R. Lewis
+1378990,89,,51,Brighton,Goal,Normal Goal,328225,B. Gruda,106835,K. Mitoma
+1378990,90,5,51,Brighton,subst,Substitution 5,383685,Y. Minteh,342063,D. Coppola
+1378991,14,,49,Chelsea,subst,Substitution 1,161948,L. Delap,334037,T. George
+1378991,23,,36,Fulham,Var,Goal cancelled,389315,Joshua King,,
+1378991,38,,49,Chelsea,Card,Yellow Card,116117,Moisés Caicedo,,
+1378991,45,,49,Chelsea,Goal,Normal Goal,10329,Joao Pedro,5996,E. Fernandez
+1378991,52,,49,Chelsea,Var,Penalty confirmed,19720,Trevoh Chalobah,,
+1378991,56,,49,Chelsea,Goal,Penalty,5996,E. Fernandez,,
+1378991,59,,36,Fulham,subst,Substitution 1,195106,Rodrigo Muniz,2887,R. Jimenez
+1378991,60,,36,Fulham,subst,Substitution 2,2920,T. Castagne,19221,H. Wilson
+1378991,67,,36,Fulham,subst,Substitution 3,19032,R. Sessegnon,19549,A. Robinson
+1378991,67,,36,Fulham,subst,Substitution 4,389315,J. King,1161,E. Smith Rowe
+1378991,68,,49,Chelsea,subst,Substitution 2,425733,Estêvão,286894,J. Gittens
+1378991,73,,36,Fulham,Card,Yellow Card,1455,Alex Iwobi,,
+1378991,81,,49,Chelsea,subst,Substitution 3,1864,P. Neto,19545,R. James
+1378991,81,,49,Chelsea,subst,Substitution 4,,,305834,Andrey Santos
+1378991,84,,36,Fulham,subst,Substitution 5,1455,A. Iwobi,18753,A. Traore
+1378991,90,3,49,Chelsea,Card,Yellow Card,305834,Andrey Santos,,
+1378991,90,6,36,Fulham,Card,Yellow Card,2823,Saša Lukić,,
+1378992,36,,34,Newcastle,Card,Yellow Card,18911,Nick Pope,,
+1378992,40,,63,Leeds,Card,Yellow Card,162128,Wilfried Gnonto,,
+1378992,46,,34,Newcastle,subst,Substitution 1,19192,J. Ramsey,328105,L. Miley
+1378992,60,,63,Leeds,subst,Substitution 1,19329,D. James,50739,B. Aaronson
+1378992,60,,63,Leeds,subst,Substitution 2,162128,W. Gnonto,19128,J. Harrison
+1378992,62,,34,Newcastle,subst,Substitution 2,169,K. Trippier,284492,L. Hall
+1378992,62,,34,Newcastle,subst,Substitution 3,19163,J. Murphy,153430,A. Elanga
+1378992,69,,34,Newcastle,subst,Substitution 4,38734,S. Botman,18778,H. Barnes
+1378992,70,,63,Leeds,subst,Substitution 3,19461,L. Nmecha,18766,D. Calvert-Lewin
+1378992,80,,63,Leeds,subst,Substitution 4,47969,G. Gudmundsson,19760,J. Justin
+1378993,5,,42,Arsenal,subst,Substitution 1,22090,W. Saliba,333682,C. Mosquera
+1378993,29,,40,Liverpool,Card,Yellow Card,542,Ryan Gravenberch,,
+1378993,61,,40,Liverpool,subst,Substitution 1,6716,A. Mac Allister,293,C. Jones
+1378993,66,,42,Arsenal,Card,Yellow Card,18979,Viktor Gyökeres,,
+1378993,70,,42,Arsenal,subst,Substitution 2,47311,M. Merino,37127,M. Odegaard
+1378993,70,,42,Arsenal,subst,Substitution 3,127769,G. Martinelli,19586,E. Eze
+1378993,79,,40,Liverpool,subst,Substitution 2,1145,I. Konate,284,J. Gomez
+1378993,79,,40,Liverpool,subst,Substitution 3,174565,H. Ekitike,30410,F. Chiesa
+1378993,81,,42,Arsenal,Card,Yellow Card,47315,Martín Zubimendi,,
+1378993,83,,40,Liverpool,Goal,Normal Goal,1096,D. Szoboszlai,,
+1378993,89,,40,Liverpool,subst,Substitution 4,203224,F. Wirtz,8500,W. Endo
+1378993,89,,42,Arsenal,subst,Substitution 4,136723,N. Madueke,442044,M. Dowman
+1378993,90,8,40,Liverpool,Card,Yellow Card,8500,Wataru Endo,,
+1378994,18,,33,Manchester United,Var,Penalty cancelled,19220,Mason Mount,,
+1378994,27,,33,Manchester United,Goal,Own Goal,19827,J. Cullen,,
+1378994,31,,33,Manchester United,subst,Substitution 1,1165,M. Cunha,70100,J. Zirkzee
+1378994,46,,33,Manchester United,subst,Substitution 2,19220,M. Mount,284322,K. Mainoo
+1378994,55,,44,Burnley,Goal,Normal Goal,98936,L. Foster,22,J. Bruun Larsen
+1378994,57,,33,Manchester United,Goal,Normal Goal,20589,B. Mbeumo,886,D. Dalot
+1378994,65,,44,Burnley,subst,Substitution 1,180560,H. Mejbri,161621,L. Tchaouna
+1378994,66,,44,Burnley,Goal,Normal Goal,196855,J. Anthony,,
+1378994,72,,33,Manchester United,subst,Substitution 3,747,Casemiro,115589,B. Sesko
+1378994,76,,33,Manchester United,Card,Yellow Card,1485,Bruno Fernandes,,
+1378994,76,,44,Burnley,subst,Substitution 2,270508,L. Ugochukwu,20303,J. Laurent
+1378994,83,,44,Burnley,subst,Substitution 3,47903,H. Ekdal,1746,J. Worrall
+1378994,83,,44,Burnley,subst,Substitution 4,22,J. Bruun Larsen,128895,O. Sonne
+1378994,85,,33,Manchester United,subst,Substitution 4,342970,L. Yoro,545,N. Mazraoui
+1378994,89,,44,Burnley,Card,Yellow Card,161621,Loum Tchaouna,,
+1378994,90,2,33,Manchester United,Var,Penalty confirmed,157997,Amad Diallo,,
+1378994,90,7,44,Burnley,Card,Yellow Card,627,Kyle Walker,,
+1378994,90,7,44,Burnley,Card,Yellow Card,20303,Josh Laurent,,
+1378994,90,6,44,Burnley,Card,Yellow Card,98936,Lyle Foster,,
+1378994,90,4,44,Burnley,Card,Yellow Card,196855,Jaidon Anthony,,
+1378994,90,,33,Manchester United,Goal,Penalty,1485,B. Fernandes,,
+1378995,58,,65,Nottingham Forest,subst,Substitution 1,48648,D. Ndoye,158697,J. McAtee
+1378995,64,,48,West Ham,subst,Substitution 1,25391,N. Fullkrug,2939,C. Wilson
+1378995,73,,65,Nottingham Forest,subst,Substitution 2,18931,C. Wood,9366,Igor Jesus
+1378995,75,,48,West Ham,subst,Substitution 2,2938,J. Ward-Prowse,68466,A. Irving
+1378995,82,,48,West Ham,subst,Substitution 3,336585,M. Fernandes,37724,C. Summerville
+1378995,84,,48,West Ham,Goal,Normal Goal,19428,J. Bowen,37724,C. Summerville
+1378995,88,,48,West Ham,Goal,Penalty,1646,Lucas Paqueta,,
+1378995,89,,65,Nottingham Forest,subst,Substitution 3,22149,I. Sangare,147831,A. Kalimuendo
+1378995,89,,65,Nottingham Forest,subst,Substitution 4,2298,C. Hudson-Odoi,284428,O. Hutchinson
+1378995,90,,48,West Ham,Goal,Normal Goal,2939,C. Wilson,409303,M. Diouf
+1378996,23,,55,Brentford,Var,Goal cancelled,284797,Dango Ouattara,,
+1378996,57,,746,Sunderland,Card,Yellow Card,22225,Reinildo Mandava,,
+1378996,58,,746,Sunderland,Card,Yellow Card,327631,Habib Diarra,,
+1378996,61,,55,Brentford,Card,Yellow Card,196156,Igor Thiago,,
+1378996,65,,746,Sunderland,subst,Substitution 1,349799,E. Mayenda,84087,W. Isidor
+1378996,65,,746,Sunderland,subst,Substitution 2,336659,C. Talbi,301771,S. Adingra
+1378996,71,,55,Brentford,subst,Substitution 1,292,J. Henderson,15799,F. Onyeka
+1378996,72,,55,Brentford,subst,Substitution 2,106725,K. Lewis-Potter,19346,R. Henry
+1378996,77,,55,Brentford,Goal,Normal Goal,196156,I. Thiago,15799,F. Onyeka
+1378996,80,,55,Brentford,Card,Yellow Card,19346,Rico Henry,,
+1378996,82,,746,Sunderland,Goal,Penalty,20638,E. Le Fee,,
+1378996,87,,746,Sunderland,subst,Substitution 3,327631,H. Diarra,392270,M. Guiu
+1378996,90,4,746,Sunderland,Card,Yellow Card,1464,Granit Xhaka,,
+1378996,90,,55,Brentford,subst,Substitution 3,178077,K. Schade,153066,F. Carvalho
+1378996,90,,746,Sunderland,Goal,Normal Goal,84087,W. Isidor,1464,G. Xhaka
+1378997,5,,35,Bournemouth,Goal,Normal Goal,152856,Evanilson,6610,M. Senesi
+1378997,12,,35,Bournemouth,Card,Yellow Card,19281,Antoine Semenyo,,
+1378997,14,,47,Tottenham,Card,Yellow Card,152849,Micky van de Ven,,
+1378997,26,,35,Bournemouth,subst,Substitution 1,18869,A. Smith,20093,J. Hill
+1378997,54,,47,Tottenham,subst,Substitution 1,41104,J. Palhinha,347316,L. Bergvall
+1378997,54,,47,Tottenham,subst,Substitution 2,129711,B. Johnson,336564,W. Odobert
+1378997,63,,35,Bournemouth,subst,Substitution 2,304853,A. Scott,1125,R. Christie
+1378997,64,,35,Bournemouth,subst,Substitution 3,18870,D. Brooks,129682,A. Adli
+1378997,65,,47,Tottenham,Card,Yellow Card,19235,Djed Spence,,
+1378997,71,,47,Tottenham,subst,Substitution 3,47519,P. Porro,204039,D. Udogie
+1378997,72,,35,Bournemouth,Card,Yellow Card,118307,Đorđe Petrović,,
+1378997,76,,47,Tottenham,subst,Substitution 4,237129,P. M. Sarr,270510,M. Tel
+1378997,81,,35,Bournemouth,subst,Substitution 4,152856,Evanilson,792,J. Kluivert
+1378997,81,,35,Bournemouth,subst,Substitution 5,19245,M. Tavernier,368030,E. J. Kroupi
+1378997,88,,35,Bournemouth,Card,Yellow Card,1150,Tyler Adams,,
+1378997,90,7,35,Bournemouth,Card,Yellow Card,20093,James Hill,,
+1378998,7,,45,Everton,Goal,Normal Goal,125743,Beto,19187,J. Grealish
+1378998,16,,45,Everton,Card,Yellow Card,148099,Kiernan Dewsbury-Hall,,
+1378998,21,,39,Wolves,Goal,Normal Goal,24888,Hwang Hee-Chan,3080,M. Munetsi
+1378998,33,,45,Everton,Goal,Normal Goal,18592,I. Ndiaye,148099,K. Dewsbury-Hall
+1378998,55,,45,Everton,Goal,Normal Goal,148099,K. Dewsbury-Hall,19187,J. Grealish
+1378998,63,,39,Wolves,subst,Substitution 1,296560,J. Tchatchoua,282770,R. Gomes
+1378998,64,,39,Wolves,subst,Substitution 2,13708,J. Arias,20665,J. Bellegarde
+1378998,64,,39,Wolves,subst,Substitution 3,265784,Andre,391822,F. Lopez
+1378998,75,,39,Wolves,subst,Substitution 4,280687,H. Bueno,265782,D. M. Wolfe
+1378998,76,,39,Wolves,subst,Substitution 5,24888,Hwang Hee-Chan,7722,S. Kalajdzic
+1378998,76,,45,Everton,subst,Substitution 1,125743,Beto,343684,T. Barry
+1378998,76,,45,Everton,subst,Substitution 2,2990,I. Gueye,284500,T. Iroegbunam
+1378998,79,,39,Wolves,Goal,Normal Goal,282770,R. Gomes,265782,D. M. Wolfe
+1378998,88,,45,Everton,subst,Substitution 3,19187,J. Grealish,195993,C. Alcaraz
+1378998,90,6,45,Everton,subst,Substitution 4,18592,I. Ndiaye,18758,S. Coleman
+1378999,18,,42,Arsenal,subst,Substitution 1,37127,M. Odegaard,313236,E. Nwaneri
+1378999,32,,42,Arsenal,Goal,Normal Goal,47315,M. Zubimendi,,
+1378999,37,,65,Nottingham Forest,subst,Substitution 1,363695,Murillo,181806,N. Savona
+1378999,46,,42,Arsenal,Goal,Normal Goal,18979,E. Eze,,
+1378999,60,,65,Nottingham Forest,subst,Substitution 2,2298,C. Hudson-Odoi,147831,A. Kalimuendo
+1378999,60,,65,Nottingham Forest,subst,Substitution 3,18931,C. Wood,129695,D. Bakwa
+1378999,61,,42,Arsenal,Card,Yellow Card,157052,Riccardo Calafiori,,
+1378999,68,,42,Arsenal,subst,Substitution 2,18979,V. Gyökeres,2937,D. Rice
+1378999,68,,42,Arsenal,subst,Substitution 3,157052,R. Calafiori,313245,M. Lewis-Skelly
+1378999,73,,65,Nottingham Forest,subst,Substitution 4,22149,I. Sangare,19305,R. Yates
+1378999,73,,65,Nottingham Forest,subst,Substitution 5,18746,M. Gibbs-White,158697,J. McAtee
+1378999,78,,65,Nottingham Forest,Card,Yellow Card,138780,Neco Williams,,
+1378999,78,,42,Arsenal,subst,Substitution 4,136723,N. Madueke,127769,G. Martinelli
+1378999,79,,42,Arsenal,subst,Substitution 5,19586,E. Eze,1946,L. Trossard
+1378999,79,,42,Arsenal,Goal,Normal Goal,47315,M. Zubimendi,1946,L. Trossard
+1379000,3,,51,Brighton,subst,Substitution 1,305730,J. Hinshelwood,265820,Y. Ayari
+1379000,18,,35,Bournemouth,Goal,Normal Goal,304853,A. Scott,19281,A. Semenyo
+1379000,24,,51,Brighton,subst,Substitution 2,162007,M. De Cuyper,1361,F. Kadioglu
+1379000,30,,51,Brighton,Card,Yellow Card,18963,Lewis Dunk,,
+1379000,31,,35,Bournemouth,Card,Yellow Card,18870,David Brooks,,
+1379000,36,,35,Bournemouth,Card,Yellow Card,6610,Marcos Senesi,,
+1379000,45,5,35,Bournemouth,Card,Yellow Card,1150,Tyler Adams,,
+1379000,48,,51,Brighton,Goal,Normal Goal,106835,K. Mitoma,383685,Y. Minteh
+1379000,57,,51,Brighton,Card,Yellow Card,90590,Georginio Rutter,,
+1379000,61,,35,Bournemouth,Goal,Penalty,19281,A. Semenyo,,
+1379000,63,,51,Brighton,Card,Yellow Card,296,James Milner,,
+1379000,66,,51,Brighton,subst,Substitution 3,296,J. Milner,356041,C. Baleba
+1379000,67,,35,Bournemouth,subst,Substitution 1,18870,D. Brooks,792,J. Kluivert
+1379000,67,,35,Bournemouth,subst,Substitution 2,304853,A. Scott,129682,A. Adli
+1379000,67,,51,Brighton,subst,Substitution 4,90590,G. Rutter,328225,B. Gruda
+1379000,67,,51,Brighton,subst,Substitution 5,1469,D. Welbeck,343311,S. Tzimas
+1379000,73,,51,Brighton,Card,Yellow Card,356041,Carlos Baleba,,
+1379000,86,,35,Bournemouth,subst,Substitution 3,19245,M. Tavernier,18872,L. Cook
+1379000,87,,35,Bournemouth,subst,Substitution 4,20093,J. Hill,330437,A. Jimenez
+1379000,90,6,35,Bournemouth,Card,Yellow Card,330437,Álex Jiménez,,
+1379000,90,2,35,Bournemouth,subst,Substitution 5,152856,Evanilson,363333,J. Soler
+1379001,8,,55,Brentford,Card,Yellow Card,196156,Igor Thiago,,
+1379001,30,,49,Chelsea,Card,Yellow Card,341642,Jorrel Hato,,
+1379001,35,,55,Brentford,Goal,Normal Goal,178077,K. Schade,292,J. Henderson
+1379001,46,,49,Chelsea,subst,Substitution 1,341642,J. Hato,47380,M. Cucurella
+1379001,46,,49,Chelsea,subst,Substitution 2,22094,W. Fofana,19545,R. James
+1379001,46,,49,Chelsea,subst,Substitution 3,311334,F. Buonanotte,334037,T. George
+1379001,56,,49,Chelsea,subst,Substitution 4,286894,J. Gittens,152982,C. Palmer
+1379001,61,,49,Chelsea,Goal,Normal Goal,152982,C. Palmer,10329,Joao Pedro
+1379001,64,,55,Brentford,Card,Yellow Card,263538,Yehor Yarmolyuk,,
+1379001,72,,55,Brentford,subst,Substitution 1,196156,I. Thiago,284797,D. Ouattara
+1379001,73,,55,Brentford,subst,Substitution 2,47438,M. Jensen,19346,R. Henry
+1379001,79,,49,Chelsea,subst,Substitution 5,10329,Joao Pedro,284324,A. Garnacho
+1379001,82,,55,Brentford,Card,Yellow Card,19789,Ethan Pinnock,,
+1379001,83,,55,Brentford,subst,Substitution 3,342022,M. Kayode,44871,A. Hickey
+1379001,83,,55,Brentford,subst,Substitution 4,19789,E. Pinnock,1119,K. Ajer
+1379001,85,,49,Chelsea,Goal,Normal Goal,116117,M. Caicedo,,
+1379001,90,1,49,Chelsea,Card,Yellow Card,334037,Tyrique George,,
+1379001,90,,55,Brentford,subst,Substitution 5,106725,K. Lewis-Potter,153066,F. Carvalho
+1379001,90,,55,Brentford,Goal,Normal Goal,153066,F. Carvalho,1119,K. Ajer
+1379002,16,,44,Burnley,Card,Yellow Card,270508,Lesley Ugochukwu,,
+1379002,22,,40,Liverpool,Card,Yellow Card,206254,Miloš Kerkez,,
+1379002,38,,40,Liverpool,subst,Substitution 1,206254,M. Kerkez,289,A. Robertson
+1379002,46,,40,Liverpool,subst,Substitution 2,6716,A. Mac Allister,180317,C. Bradley
+1379002,63,,44,Burnley,subst,Substitution 1,19827,J. Cullen,575,Florentino
+1379002,63,,44,Burnley,subst,Substitution 2,161621,L. Tchaouna,180560,H. Mejbri
+1379002,72,,40,Liverpool,subst,Substitution 3,174565,H. Ekitike,30410,F. Chiesa
+1379002,75,,40,Liverpool,Card,Yellow Card,180317,Conor Bradley,,
+1379002,84,,44,Burnley,Card,Yellow Card,270508,Lesley Ugochukwu,,
+1379002,84,,44,Burnley,Card,Red Card,270508,Lesley Ugochukwu,,
+1379002,86,,44,Burnley,subst,Substitution 3,98936,L. Foster,1746,J. Worrall
+1379002,87,,40,Liverpool,subst,Substitution 4,1145,I. Konate,152654,J. Frimpong
+1379002,87,,40,Liverpool,subst,Substitution 5,203224,F. Wirtz,452685,R. Ngumoha
+1379002,89,,44,Burnley,subst,Substitution 4,196855,J. Anthony,138822,A. Broja
+1379002,90,,40,Liverpool,Goal,Penalty,306,M. Salah,,
+1379003,14,,52,Crystal Palace,Card,Yellow Card,13736,Daniel Muñoz,,
+1379003,69,,52,Crystal Palace,subst,Substitution 1,2490,J. Lerma,286458,J. Devenny
+1379003,69,,746,Sunderland,subst,Substitution 1,301771,S. Adingra,38750,B. Brobbey
+1379003,77,,746,Sunderland,Card,Yellow Card,194536,Robin Roefs,,
+1379003,84,,52,Crystal Palace,subst,Substitution 2,184226,Y. Pino,403554,C. Uche
+1379003,84,,746,Sunderland,subst,Substitution 2,365331,N. Sadiki,37143,L. Geertruida
+1379003,90,4,746,Sunderland,subst,Substitution 3,84087,W. Isidor,339201,C. Rigg
+1379004,34,,66,Aston Villa,Card,Yellow Card,19298,Matty Cash,,
+1379004,45,1,45,Everton,Card,Yellow Card,284500,Tim Iroegbunam,,
+1379004,46,,66,Aston Villa,subst,Substitution 1,2926,Y. Tielemans,137303,E. Guessand
+1379004,57,,66,Aston Villa,Card,Yellow Card,2724,Lucas Digne,,
+1379004,65,,45,Everton,Card,Yellow Card,148099,Kiernan Dewsbury-Hall,,
+1379004,66,,45,Everton,subst,Substitution 1,284500,T. Iroegbunam,202854,M. Rohl
+1379004,69,,45,Everton,Card,Yellow Card,19187,Jack Grealish,,
+1379004,70,,66,Aston Villa,Card,Yellow Card,19071,Emiliano Buendía,,
+1379004,71,,66,Aston Villa,subst,Substitution 2,19071,E. Buendia,19035,H. Elliott
+1379004,75,,45,Everton,subst,Substitution 2,125743,Beto,343684,T. Barry
+1379004,83,,66,Aston Villa,subst,Substitution 3,284457,L. Bogarde,889,V. Lindelof
+1379004,83,,66,Aston Villa,subst,Substitution 4,19366,O. Watkins,249,D. Malen
+1379005,11,,63,Leeds,Card,Yellow Card,177665,Anton Stach,,
+1379005,60,,36,Fulham,subst,Substitution 1,389315,J. King,1161,E. Smith Rowe
+1379005,60,,36,Fulham,subst,Substitution 2,19221,H. Wilson,18753,A. Traore
+1379005,64,,63,Leeds,Card,Yellow Card,48389,Noah Okafor,,
+1379005,68,,63,Leeds,subst,Substitution 1,48389,N. Okafor,19128,J. Harrison
+1379005,69,,63,Leeds,subst,Substitution 2,18766,D. Calvert-Lewin,19461,L. Nmecha
+1379005,76,,36,Fulham,subst,Substitution 3,1455,A. Iwobi,237819,Kevin
+1379005,77,,63,Leeds,subst,Substitution 3,50739,B. Aaronson,19329,D. James
+1379005,79,,36,Fulham,Card,Yellow Card,1934,Sander Berge,,
+1379005,84,,36,Fulham,subst,Substitution 4,1934,S. Berge,19025,T. Cairney
+1379005,84,,36,Fulham,subst,Substitution 5,195106,Rodrigo Muniz,2887,R. Jimenez
+1379005,89,,63,Leeds,subst,Substitution 4,,,162128,W. Gnonto
+1379005,90,,36,Fulham,Goal,Own Goal,47969,G. Gudmundsson,,
+1379006,18,,50,Manchester City,Goal,Normal Goal,631,P. Foden,1422,J. Doku
+1379006,53,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,1422,J. Doku
+1379006,62,,33,Manchester United,subst,Substitution 1,342970,L. Yoro,2935,H. Maguire
+1379006,62,,33,Manchester United,subst,Substitution 2,545,N. Mazraoui,284322,K. Mainoo
+1379006,68,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,636,B. Silva
+1379006,76,,50,Manchester City,subst,Substitution 1,44,Rodri,161933,Nico
+1379006,77,,50,Manchester City,subst,Substitution 2,1422,J. Doku,266657,Savinho
+1379006,80,,33,Manchester United,subst,Substitution 3,51494,M. Ugarte,70100,J. Zirkzee
+1379006,80,,33,Manchester United,subst,Substitution 4,115589,B. Sesko,747,Casemiro
+1379006,87,,50,Manchester City,subst,Substitution 3,1100,E. Haaland,278133,O. Bobb
+1379006,88,,50,Manchester City,subst,Substitution 4,636,B. Silva,18861,N. Ake
+1379007,7,,39,Wolves,Card,Yellow Card,66407,Ladislav Krejčí,,
+1379007,29,,34,Newcastle,Goal,Normal Goal,158054,N. Woltemade,19163,J. Murphy
+1379007,31,,39,Wolves,Card,Yellow Card,265784,André,,
+1379007,65,,34,Newcastle,subst,Substitution 1,158054,N. Woltemade,315237,W. Osula
+1379007,65,,34,Newcastle,subst,Substitution 2,723,Joelinton,1463,J. Willock
+1379007,66,,39,Wolves,subst,Substitution 1,265784,Andre,3080,M. Munetsi
+1379007,66,,39,Wolves,subst,Substitution 2,110153,T. Arokodare,13708,J. Arias
+1379007,66,,39,Wolves,subst,Substitution 3,195717,Y. Mosquera,20665,J. Bellegarde
+1379007,67,,39,Wolves,Card,Yellow Card,3080,Marshall Munetsi,,
+1379007,68,,39,Wolves,Card,Yellow Card,195103,João Gomes,,
+1379007,77,,39,Wolves,subst,Substitution 4,24888,Hwang Hee-Chan,391822,F. Lopez
+1379007,77,,39,Wolves,subst,Substitution 5,282770,R. Gomes,296560,J. Tchatchoua
+1379007,80,,34,Newcastle,subst,Substitution 3,18778,H. Barnes,153430,A. Elanga
+1379007,88,,34,Newcastle,Card,Yellow Card,10135,Bruno Guimarães,,
+1379007,90,5,34,Newcastle,subst,Substitution 4,19163,J. Murphy,38734,S. Botman
+1379008,47,,47,Tottenham,Goal,Normal Goal,237129,P. M. Sarr,162016,X. Simons
+1379008,52,,47,Tottenham,Card,Yellow Card,19235,Djed Spence,,
+1379008,54,,48,West Ham,Card,Red Card,1243,Tomáš Souček,,
+1379008,57,,47,Tottenham,Goal,Normal Goal,347316,L. Bergvall,30776,C. Romero
+1379008,61,,48,West Ham,subst,Substitution 1,37724,C. Summerville,404574,Luis Guilherme
+1379008,61,,48,West Ham,subst,Substitution 2,336585,M. Fernandes,326176,S. Magassa
+1379008,64,,47,Tottenham,Goal,Normal Goal,152849,M. van de Ven,347316,L. Bergvall
+1379008,68,,48,West Ham,subst,Substitution 3,1646,Lucas Paqueta,2939,C. Wilson
+1379008,71,,47,Tottenham,subst,Substitution 1,162016,X. Simons,2413,Richarlison
+1379008,71,,47,Tottenham,subst,Substitution 2,19235,D. Spence,204039,D. Udogie
+1379008,79,,47,Tottenham,subst,Substitution 3,270510,M. Tel,336564,W. Odobert
+1379008,80,,47,Tottenham,subst,Substitution 4,152849,M. van de Ven,25287,K. Danso
+1379008,80,,47,Tottenham,subst,Substitution 5,347316,L. Bergvall,129711,B. Johnson
+1379008,90,2,48,West Ham,subst,Substitution 4,2938,J. Ward-Prowse,68466,A. Irving
+1379009,9,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,36902,T. Reijnders
+1379009,36,,50,Manchester City,Card,Yellow Card,636,Bernardo Silva,,
+1379009,46,,42,Arsenal,Card,Yellow Card,38746,Jurriën Timber,,
+1379009,46,,42,Arsenal,subst,Substitution 1,136723,N. Madueke,1460,B. Saka
+1379009,46,,42,Arsenal,subst,Substitution 2,47311,M. Merino,19586,E. Eze
+1379009,46,,50,Manchester City,subst,Substitution 1,360114,A. Khusanov,41621,M. Nunes
+1379009,68,,50,Manchester City,subst,Substitution 2,631,P. Foden,18861,N. Ake
+1379009,76,,50,Manchester City,subst,Substitution 3,1100,E. Haaland,161933,Nico
+1379009,77,,50,Manchester City,Card,Yellow Card,1622,Gianluigi Donnarumma,,
+1379009,80,,42,Arsenal,subst,Substitution 3,38746,J. Timber,127769,G. Martinelli
+1379009,84,,42,Arsenal,subst,Substitution 4,1946,L. Trossard,313236,E. Nwaneri
+1379009,87,,50,Manchester City,subst,Substitution 4,307123,N. O'Reilly,626,J. Stones
+1379009,87,,50,Manchester City,subst,Substitution 5,1422,J. Doku,266657,Savinho
+1379009,90,8,42,Arsenal,subst,Substitution 5,47315,M. Zubimendi,333682,C. Mosquera
+1379009,90,,42,Arsenal,Goal,Normal Goal,127769,G. Martinelli,19586,E. Eze
+1379010,45,3,35,Bournemouth,Card,Yellow Card,330437,Álex Jiménez,,
+1379010,46,,35,Bournemouth,subst,Substitution 1,330437,A. Jimenez,20093,J. Hill
+1379010,62,,34,Newcastle,subst,Substitution 1,1463,J. Willock,18778,H. Barnes
+1379010,62,,34,Newcastle,subst,Substitution 2,19163,J. Murphy,153430,A. Elanga
+1379010,63,,35,Bournemouth,subst,Substitution 2,304853,A. Scott,1125,R. Christie
+1379010,63,,35,Bournemouth,subst,Substitution 3,18870,D. Brooks,792,J. Kluivert
+1379010,74,,35,Bournemouth,Card,Yellow Card,22136,Bafodé Diakité,,
+1379010,75,,35,Bournemouth,subst,Substitution 4,19245,M. Tavernier,129682,A. Adli
+1379010,77,,34,Newcastle,Card,Yellow Card,163189,Malick Thiaw,,
+1379010,84,,34,Newcastle,subst,Substitution 3,163189,M. Thiaw,18894,J. Lascelles
+1379010,84,,34,Newcastle,subst,Substitution 4,158054,N. Woltemade,315237,W. Osula
+1379011,8,,51,Brighton,Goal,Normal Goal,383685,Y. Minteh,90590,G. Rutter
+1379011,31,,51,Brighton,Goal,Normal Goal,265820,Y. Ayari,,
+1379011,43,,47,Tottenham,Goal,Normal Goal,2413,Richarlison,15911,M. Kudus
+1379011,46,,47,Tottenham,Card,Yellow Card,15911,Mohammed Kudus,,
+1379011,46,,51,Brighton,subst,Substitution 1,356041,C. Baleba,278370,D. Gomez
+1379011,61,,47,Tottenham,subst,Substitution 1,863,R. Bentancur,162016,X. Simons
+1379011,63,,51,Brighton,subst,Substitution 2,328225,B. Gruda,296,J. Milner
+1379011,72,,47,Tottenham,subst,Substitution 2,336564,W. Odobert,129711,B. Johnson
+1379011,73,,51,Brighton,Card,Yellow Card,278370,Diego Gómez,,
+1379011,75,,51,Brighton,subst,Substitution 3,90590,G. Rutter,1469,D. Welbeck
+1379011,75,,51,Brighton,subst,Substitution 4,383685,Y. Minteh,342063,D. Coppola
+1379011,82,,47,Tottenham,Goal,Own Goal,38695,J. P. van Hecke,,
+1379011,85,,51,Brighton,subst,Substitution 5,1361,F. Kadioglu,92993,M. Wieffer
+1379011,88,,47,Tottenham,Card,Yellow Card,30776,Cristian Romero,,
+1379011,89,,47,Tottenham,subst,Substitution 3,347316,L. Bergvall,328089,A. Gray
+1379011,89,,47,Tottenham,subst,Substitution 4,47519,P. Porro,19235,D. Spence
+1379012,2,,65,Nottingham Forest,Goal,Normal Goal,138780,N. Williams,,
+1379012,16,,44,Burnley,Card,Yellow Card,575,Florentino Luís,,
+1379012,20,,44,Burnley,Goal,Normal Goal,196855,J. Anthony,98936,L. Foster
+1379012,59,,65,Nottingham Forest,subst,Substitution 1,129695,D. Bakwa,2298,C. Hudson-Odoi
+1379012,75,,65,Nottingham Forest,subst,Substitution 2,18931,C. Wood,9366,Igor Jesus
+1379012,76,,65,Nottingham Forest,subst,Substitution 3,48648,D. Ndoye,22149,I. Sangare
+1379012,76,,65,Nottingham Forest,subst,Substitution 4,47522,Douglas Luiz,147831,A. Kalimuendo
+1379012,81,,44,Burnley,subst,Substitution 1,161621,L. Tchaouna,180560,H. Mejbri
+1379012,86,,44,Burnley,subst,Substitution 2,98936,L. Foster,36927,Z. Flemming
+1379012,90,2,65,Nottingham Forest,Card,Yellow Card,67943,Morato,,
+1379013,20,,55,Brentford,Goal,Normal Goal,15908,M. Damsgaard,,
+1379013,38,,36,Fulham,Goal,Normal Goal,1455,A. Iwobi,195106,Rodrigo Muniz
+1379013,40,,36,Fulham,Goal,Normal Goal,19221,H. Wilson,1455,A. Iwobi
+1379013,43,,36,Fulham,Card,Yellow Card,389315,Joshua King,,
+1379013,50,,36,Fulham,Goal,Own Goal,19789,E. Pinnock,,
+1379013,53,,36,Fulham,Card,Yellow Card,2823,Saša Lukić,,
+1379013,60,,36,Fulham,Var,Goal cancelled,195106,Rodrigo Muniz,,
+1379013,65,,55,Brentford,subst,Substitution 1,196156,I. Thiago,284797,D. Ouattara
+1379013,66,,55,Brentford,subst,Substitution 2,106725,K. Lewis-Potter,19346,R. Henry
+1379013,67,,36,Fulham,subst,Substitution 1,389315,J. King,237819,Kevin
+1379013,69,,55,Brentford,Card,Yellow Card,19495,Nathan Collins,,
+1379013,74,,55,Brentford,subst,Substitution 3,19789,E. Pinnock,1119,K. Ajer
+1379013,74,,55,Brentford,subst,Substitution 4,292,J. Henderson,25073,V. Janelt
+1379013,80,,36,Fulham,subst,Substitution 2,1455,A. Iwobi,1161,E. Smith Rowe
+1379013,80,,36,Fulham,subst,Substitution 3,195106,Rodrigo Muniz,2887,R. Jimenez
+1379013,81,,36,Fulham,Card,Yellow Card,1438,Bernd Leno,,
+1379013,86,,36,Fulham,subst,Substitution 4,19221,H. Wilson,131,J. Cuenca
+1379013,86,,36,Fulham,subst,Substitution 5,2823,S. Lukic,19025,T. Cairney
+1379013,87,,55,Brentford,subst,Substitution 5,15908,M. Damsgaard,153066,F. Carvalho
+1379013,90,3,36,Fulham,Card,Yellow Card,237819,Kevin,,
+1379014,10,,40,Liverpool,Goal,Normal Goal,542,R. Gravenberch,306,M. Salah
+1379014,28,,45,Everton,Card,Yellow Card,18592,Iliman Ndiaye,,
+1379014,29,,40,Liverpool,Goal,Normal Goal,174565,H. Ekitike,542,R. Gravenberch
+1379014,46,,45,Everton,subst,Substitution 1,125743,Beto,343684,T. Barry
+1379014,58,,45,Everton,Goal,Normal Goal,2990,I. Gueye,18592,I. Ndiaye
+1379014,61,,40,Liverpool,subst,Substitution 1,247,C. Gakpo,203224,F. Wirtz
+1379014,61,,40,Liverpool,subst,Substitution 2,6716,A. Mac Allister,293,C. Jones
+1379014,67,,40,Liverpool,subst,Substitution 3,174565,H. Ekitike,2864,A. Isak
+1379014,69,,40,Liverpool,Card,Yellow Card,1096,Dominik Szoboszlai,,
+1379014,78,,45,Everton,Card,Yellow Card,148099,Kiernan Dewsbury-Hall,,
+1379014,82,,40,Liverpool,Card,Yellow Card,203224,Florian Wirtz,,
+1379014,86,,45,Everton,subst,Substitution 2,18592,I. Ndiaye,304317,T. Dibling
+1379014,86,,45,Everton,subst,Substitution 3,2165,V. Mykolenko,195993,C. Alcaraz
+1379014,90,4,45,Everton,Card,Yellow Card,19187,Jack Grealish,,
+1379015,5,,49,Chelsea,Card,Red Card,18959,Robert Sánchez,,
+1379015,6,,49,Chelsea,subst,Substitution 1,425733,Estêvão,286616,F. Jorgensen
+1379015,7,,49,Chelsea,subst,Substitution 2,1864,P. Neto,19145,T. Adarabioyo
+1379015,14,,33,Manchester United,Goal,Normal Goal,1485,B. Fernandes,382452,P. Dorgu
+1379015,17,,33,Manchester United,Card,Yellow Card,747,Casemiro,,
+1379015,21,,49,Chelsea,subst,Substitution 3,152982,C. Palmer,305834,Andrey Santos
+1379015,37,,33,Manchester United,Goal,Normal Goal,747,Casemiro,2935,H. Maguire
+1379015,44,,49,Chelsea,Card,Yellow Card,47380,Marc Cucurella,,
+1379015,45,5,33,Manchester United,Card,Yellow Card,747,Casemiro,,
+1379015,45,5,33,Manchester United,Card,Red Card,747,Casemiro,,
+1379015,46,,33,Manchester United,subst,Substitution 1,115589,B. Sesko,51494,M. Ugarte
+1379015,48,,49,Chelsea,Card,Yellow Card,5996,Enzo Fernández,,
+1379015,50,,49,Chelsea,Card,Yellow Card,19720,Trevoh Chalobah,,
+1379015,64,,33,Manchester United,subst,Substitution 2,545,N. Mazraoui,1165,M. Cunha
+1379015,64,,49,Chelsea,subst,Substitution 4,47380,M. Cucurella,161907,M. Gusto
+1379015,64,,49,Chelsea,subst,Substitution 5,22094,W. Fofana,334037,T. George
+1379015,69,,33,Manchester United,subst,Substitution 3,20589,B. Mbeumo,19220,M. Mount
+1379015,70,,33,Manchester United,subst,Substitution 4,2935,H. Maguire,342970,L. Yoro
+1379015,72,,49,Chelsea,Card,Yellow Card,334037,Tyrique George,,
+1379015,80,,49,Chelsea,Goal,Normal Goal,19720,T. Chalobah,19545,R. James
+1379015,87,,33,Manchester United,subst,Substitution 5,1485,B. Fernandes,284322,K. Mainoo
+1379015,90,6,49,Chelsea,Card,Yellow Card,19145,Tosin Adarabioyo,,
+1379016,33,,746,Sunderland,Card,Red Card,22225,Reinildo Mandava,,
+1379016,37,,746,Sunderland,subst,Substitution 1,339201,C. Rigg,55904,D. Ballard
+1379016,58,,66,Aston Villa,subst,Substitution 1,19071,E. Buendia,138816,I. Maatsen
+1379016,58,,66,Aston Villa,subst,Substitution 2,2724,L. Digne,19035,H. Elliott
+1379016,63,,66,Aston Villa,Card,Yellow Card,138816,Ian Maatsen,,
+1379016,67,,66,Aston Villa,Goal,Normal Goal,19298,M. Cash,1904,B. Kamara
+1379016,73,,66,Aston Villa,subst,Substitution 3,137303,E. Guessand,249,D. Malen
+1379016,74,,746,Sunderland,Card,Yellow Card,365331,Noah Sadiki,,
+1379016,75,,746,Sunderland,Goal,Normal Goal,84087,W. Isidor,1464,G. Xhaka
+1379016,80,,746,Sunderland,subst,Substitution 2,84087,W. Isidor,349799,E. Mayenda
+1379016,80,,746,Sunderland,subst,Substitution 3,336659,C. Talbi,18816,A. Masuaku
+1379016,81,,746,Sunderland,subst,Substitution 4,20638,E. Le Fee,37143,L. Geertruida
+1379016,82,,66,Aston Villa,subst,Substitution 4,1904,B. Kamara,284457,L. Bogarde
+1379016,82,,66,Aston Villa,subst,Substitution 5,19170,M. Rogers,18,J. Sancho
+1379016,88,,746,Sunderland,Card,Yellow Card,1464,Granit Xhaka,,
+1379016,90,1,746,Sunderland,subst,Substitution 5,365331,N. Sadiki,19910,D. Neil
+1379017,37,,52,Crystal Palace,Goal,Normal Goal,25927,J. Mateta,,
+1379017,40,,52,Crystal Palace,Card,Yellow Card,182201,Tyrick Mitchell,,
+1379017,45,1,48,West Ham,Card,Yellow Card,18744,Max Kilman,,
+1379017,46,,52,Crystal Palace,subst,Substitution 1,184226,Y. Pino,286458,J. Devenny
+1379017,49,,48,West Ham,Goal,Normal Goal,19428,J. Bowen,409303,M. Diouf
+1379017,59,,48,West Ham,subst,Substitution 1,2939,C. Wilson,25391,N. Fullkrug
+1379017,65,,52,Crystal Palace,subst,Substitution 2,18806,W. Hughes,2490,J. Lerma
+1379017,68,,52,Crystal Palace,Goal,Normal Goal,182201,T. Mitchell,,
+1379017,74,,48,West Ham,Card,Yellow Card,1646,Lucas Paquetá,,
+1379017,75,,52,Crystal Palace,subst,Substitution 3,288102,A. Wharton,1468,E. Nketiah
+1379017,78,,48,West Ham,subst,Substitution 2,37724,C. Summerville,404574,Luis Guilherme
+1379017,78,,48,West Ham,subst,Substitution 3,336585,M. Fernandes,326176,S. Magassa
+1379017,82,,48,West Ham,Card,Yellow Card,409303,El Hadji Malick Diouf,,
+1379017,90,3,52,Crystal Palace,Card,Yellow Card,19088,Dean Henderson,,
+1379017,90,1,52,Crystal Palace,Card,Yellow Card,2490,Jefferson Lerma,,
+1379018,8,,39,Wolves,Goal,Normal Goal,66407,L. Krejci,391822,F. Lopez
+1379018,12,,39,Wolves,Card,Yellow Card,391822,Fer López,,
+1379018,31,,63,Leeds,Goal,Normal Goal,18766,D. Calvert-Lewin,,
+1379018,39,,63,Leeds,Goal,Normal Goal,177665,A. Stach,,
+1379018,41,,63,Leeds,Card,Yellow Card,19201,Jayden Bogle,,
+1379018,45,,63,Leeds,Goal,Normal Goal,48389,N. Okafor,177665,A. Stach
+1379018,46,,39,Wolves,subst,Substitution 1,282770,R. Gomes,280687,H. Bueno
+1379018,46,,39,Wolves,subst,Substitution 2,20665,J. Bellegarde,3080,M. Munetsi
+1379018,46,,39,Wolves,subst,Substitution 3,391822,F. Lopez,2032,J. S. Larsen
+1379018,70,,63,Leeds,subst,Substitution 1,48389,N. Okafor,19128,J. Harrison
+1379018,72,,39,Wolves,subst,Substitution 4,195717,Y. Mosquera,265784,Andre
+1379018,72,,39,Wolves,subst,Substitution 5,41606,Toti,13708,J. Arias
+1379018,83,,63,Leeds,subst,Substitution 2,19201,J. Bogle,19760,J. Justin
+1379018,83,,63,Leeds,subst,Substitution 3,18901,S. Longstaff,32966,A. Tanaka
+1379018,90,2,63,Leeds,subst,Substitution 4,50739,B. Aaronson,129142,I. Gruev
+1379018,90,2,63,Leeds,subst,Substitution 5,18766,D. Calvert-Lewin,19461,L. Nmecha
+1379019,3,,36,Fulham,Goal,Normal Goal,2887,R. Jimenez,2823,S. Lukic
+1379019,11,,36,Fulham,subst,Substitution 1,2887,R. Jimenez,18753,A. Traore
+1379019,22,,36,Fulham,Card,Yellow Card,389315,Joshua King,,
+1379019,32,,66,Aston Villa,subst,Substitution 1,19179,T. Mings,46815,P. Torres
+1379019,34,,36,Fulham,Card,Yellow Card,2823,Saša Lukić,,
+1379019,37,,66,Aston Villa,Goal,Normal Goal,19366,O. Watkins,2724,L. Digne
+1379019,45,5,66,Aston Villa,Card,Yellow Card,19191,John McGinn,,
+1379019,45,1,36,Fulham,Card,Yellow Card,19221,Harry Wilson,,
+1379019,46,,66,Aston Villa,subst,Substitution 2,19035,H. Elliott,19071,E. Buendia
+1379019,49,,66,Aston Villa,Goal,Normal Goal,19191,J. McGinn,19071,E. Buendia
+1379019,51,,66,Aston Villa,Goal,Normal Goal,19071,E. Buendia,19170,M. Rogers
+1379019,55,,36,Fulham,Card,Yellow Card,152967,Calvin Bassey,,
+1379019,65,,36,Fulham,subst,Substitution 2,389315,J. King,1161,E. Smith Rowe
+1379019,65,,36,Fulham,subst,Substitution 3,1455,A. Iwobi,237819,Kevin
+1379019,72,,66,Aston Villa,subst,Substitution 3,19191,J. McGinn,1904,B. Kamara
+1379019,80,,36,Fulham,subst,Substitution 4,19032,R. Sessegnon,19549,A. Robinson
+1379019,80,,36,Fulham,subst,Substitution 5,19221,H. Wilson,1696,S. Chukwueze
+1379019,82,,66,Aston Villa,subst,Substitution 4,284457,L. Bogarde,889,V. Lindelof
+1379019,83,,66,Aston Villa,subst,Substitution 5,137303,E. Guessand,249,D. Malen
+1379020,8,,55,Brentford,Goal,Normal Goal,196156,I. Thiago,292,J. Henderson
+1379020,20,,55,Brentford,Goal,Normal Goal,196156,I. Thiago,,
+1379020,26,,33,Manchester United,Goal,Normal Goal,115589,B. Sesko,,
+1379020,55,,33,Manchester United,Card,Yellow Card,1485,Bruno Fernandes,,
+1379020,66,,33,Manchester United,subst,Substitution 1,2935,H. Maguire,342970,L. Yoro
+1379020,66,,33,Manchester United,subst,Substitution 2,51494,M. Ugarte,284322,K. Mainoo
+1379020,72,,55,Brentford,Card,Yellow Card,19495,Nathan Collins,,
+1379020,75,,55,Brentford,subst,Substitution 1,44871,A. Hickey,19346,R. Henry
+1379020,75,,55,Brentford,subst,Substitution 2,284797,D. Ouattara,106725,K. Lewis-Potter
+1379020,80,,55,Brentford,Card,Yellow Card,178077,Kevin Schade,,
+1379020,81,,55,Brentford,subst,Substitution 3,292,J. Henderson,15799,F. Onyeka
+1379020,81,,55,Brentford,subst,Substitution 4,15908,M. Damsgaard,25073,V. Janelt
+1379020,81,,33,Manchester United,subst,Substitution 3,891,L. Shaw,19220,M. Mount
+1379020,84,,33,Manchester United,Card,Yellow Card,382452,Patrick Dorgu,,
+1379020,85,,33,Manchester United,subst,Substitution 4,382452,P. Dorgu,70100,J. Zirkzee
+1379020,90,,55,Brentford,subst,Substitution 5,196156,I. Thiago,47438,M. Jensen
+1379020,90,,55,Brentford,Goal,Normal Goal,47438,M. Jensen,263538,Y. Yarmolyuk
+1379021,9,,51,Brighton,Card,Yellow Card,537,Joël Veltman,,
+1379021,24,,49,Chelsea,Goal,Normal Goal,5996,E. Fernandez,,
+1379021,42,,49,Chelsea,Card,Yellow Card,47380,Marc Cucurella,,
+1379021,51,,49,Chelsea,Var,Card upgrade,19720,Trevoh Chalobah,,
+1379021,53,,49,Chelsea,Card,Red Card,19720,Trevoh Chalobah,,
+1379021,54,,49,Chelsea,subst,Substitution 1,305834,Andrey Santos,366735,J. Acheampong
+1379021,55,,51,Brighton,subst,Substitution 1,537,J. Veltman,92993,M. Wieffer
+1379021,63,,49,Chelsea,subst,Substitution 2,425733,Estêvão,161907,M. Gusto
+1379021,64,,51,Brighton,Card,Yellow Card,92993,Mats Wieffer,,
+1379021,66,,49,Chelsea,Card,Yellow Card,19545,Reece James,,
+1379021,67,,51,Brighton,subst,Substitution 2,356041,C. Baleba,328225,B. Gruda
+1379021,67,,51,Brighton,subst,Substitution 3,106835,K. Mitoma,1469,D. Welbeck
+1379021,77,,51,Brighton,Goal,Normal Goal,1469,D. Welbeck,383685,Y. Minteh
+1379021,79,,49,Chelsea,subst,Substitution 3,341642,J. Hato,95,B. Badiashile
+1379021,79,,49,Chelsea,subst,Substitution 4,1864,P. Neto,282125,R. Lavia
+1379021,85,,51,Brighton,subst,Substitution 4,90590,G. Rutter,343311,S. Tzimas
+1379021,85,,51,Brighton,subst,Substitution 5,278370,D. Gomez,162007,M. De Cuyper
+1379021,89,,49,Chelsea,Card,Yellow Card,95,Benoît Badiashile,,
+1379021,89,,51,Brighton,Card,Yellow Card,38695,Jan Paul van Hecke,,
+1379021,90,11,51,Brighton,Card,Yellow Card,1469,Danny Welbeck,,
+1379021,90,,51,Brighton,Card,Yellow Card,18963,Lewis Dunk,,
+1379021,90,,51,Brighton,Goal,Normal Goal,162007,M. De Cuyper,92993,M. Wieffer
+1379021,90,,51,Brighton,Goal,Normal Goal,1469,D. Welbeck,328225,B. Gruda
+1379022,9,,52,Crystal Palace,Goal,Normal Goal,2218,I. Sarr,,
+1379022,26,,40,Liverpool,Card,Yellow Card,1145,Ibrahima Konaté,,
+1379022,46,,40,Liverpool,subst,Substitution 1,180317,C. Bradley,247,C. Gakpo
+1379022,61,,40,Liverpool,Card,Yellow Card,290,Virgil van Dijk,,
+1379022,62,,52,Crystal Palace,subst,Substitution 1,288102,A. Wharton,18806,W. Hughes
+1379022,65,,40,Liverpool,subst,Substitution 2,6716,A. Mac Allister,293,C. Jones
+1379022,74,,52,Crystal Palace,subst,Substitution 2,184226,Y. Pino,2490,J. Lerma
+1379022,74,,40,Liverpool,subst,Substitution 3,203224,F. Wirtz,30410,F. Chiesa
+1379022,74,,40,Liverpool,subst,Substitution 4,1145,I. Konate,152654,J. Frimpong
+1379022,75,,52,Crystal Palace,subst,Substitution 3,2218,I. Sarr,1468,E. Nketiah
+1379022,77,,40,Liverpool,Card,Yellow Card,30410,Federico Chiesa,,
+1379022,78,,52,Crystal Palace,Card,Yellow Card,1468,Edward Nketiah,,
+1379022,84,,40,Liverpool,subst,Substitution 5,2864,A. Isak,452685,R. Ngumoha
+1379022,87,,40,Liverpool,Goal,Normal Goal,30410,F. Chiesa,,
+1379022,90,1,52,Crystal Palace,subst,Substitution 4,2601,D. Kamada,286458,J. Devenny
+1379022,90,,52,Crystal Palace,Goal,Normal Goal,1468,E. Nketiah,67971,M. Guehi
+1379023,18,,45,Everton,Goal,Normal Goal,2934,M. Keane,895,J. Garner
+1379023,24,,45,Everton,Card,Yellow Card,2936,James Tarkowski,,
+1379023,33,,48,West Ham,Card,Yellow Card,171,Kyle Walker-Peters,,
+1379023,48,,48,West Ham,Card,Yellow Card,326176,Soungoutou Magassa,,
+1379023,59,,48,West Ham,subst,Substitution 1,326176,S. Magassa,284446,F. Potts
+1379023,64,,48,West Ham,Card,Yellow Card,18744,Max Kilman,,
+1379023,65,,48,West Ham,Goal,Normal Goal,19428,J. Bowen,,
+1379023,69,,45,Everton,subst,Substitution 1,125743,Beto,343684,T. Barry
+1379023,77,,48,West Ham,subst,Substitution 2,37724,C. Summerville,404574,Luis Guilherme
+1379023,81,,45,Everton,subst,Substitution 2,18592,I. Ndiaye,304317,T. Dibling
+1379023,82,,48,West Ham,Card,Yellow Card,1445,Konstantinos Mavropanos,,
+1379023,87,,45,Everton,Card,Yellow Card,2165,Vitaliy Mykolenko,,
+1379023,90,,45,Everton,Card,Yellow Card,148099,Kiernan Dewsbury-Hall,,
+1379023,90,4,48,West Ham,subst,Substitution 3,1646,Lucas Paqueta,7600,Igor
+1379023,90,4,48,West Ham,subst,Substitution 4,25391,N. Fullkrug,68466,A. Irving
+1379024,12,,35,Bournemouth,Card,Yellow Card,330437,Álex Jiménez,,
+1379024,26,,35,Bournemouth,Goal,Normal Goal,19281,A. Semenyo,,
+1379024,37,,63,Leeds,Goal,Normal Goal,19321,J. Rodon,18901,S. Longstaff
+1379024,54,,63,Leeds,Goal,Normal Goal,18901,S. Longstaff,,
+1379024,60,,35,Bournemouth,subst,Substitution 1,129682,A. Adli,18870,D. Brooks
+1379024,60,,35,Bournemouth,subst,Substitution 2,1125,R. Christie,304853,A. Scott
+1379024,60,,35,Bournemouth,subst,Substitution 3,792,J. Kluivert,19245,M. Tavernier
+1379024,67,,63,Leeds,subst,Substitution 1,48389,N. Okafor,19128,J. Harrison
+1379024,70,,63,Leeds,Card,Yellow Card,50739,Brenden Aaronson,,
+1379024,73,,35,Bournemouth,subst,Substitution 4,330437,A. Jimenez,343576,B. Doak
+1379024,81,,35,Bournemouth,subst,Substitution 5,1150,T. Adams,368030,E. J. Kroupi
+1379024,87,,63,Leeds,subst,Substitution 2,50739,B. Aaronson,32966,A. Tanaka
+1379024,90,2,63,Leeds,Card,Yellow Card,2279,Ethan Ampadu,,
+1379024,90,3,35,Bournemouth,Card,Yellow Card,368030,Eli Junior Kroupi,,
+1379024,90,2,63,Leeds,subst,Substitution 3,18766,D. Calvert-Lewin,19461,L. Nmecha
+1379024,90,,35,Bournemouth,Goal,Normal Goal,368030,E. J. Kroupi,6610,M. Senesi
+1379025,12,,50,Manchester City,Goal,Own Goal,179400,M. Esteve,,
+1379025,27,,44,Burnley,Card,Yellow Card,375915,Quilindschy Hartman,,
+1379025,30,,44,Burnley,Card,Yellow Card,627,Kyle Walker,,
+1379025,38,,44,Burnley,Goal,Normal Goal,196855,J. Anthony,375915,Q. Hartman
+1379025,61,,50,Manchester City,Goal,Normal Goal,41621,M. Nunes,1100,E. Haaland
+1379025,62,,50,Manchester City,subst,Substitution 1,266657,Savinho,278133,O. Bobb
+1379025,62,,44,Burnley,subst,Substitution 1,161621,L. Tchaouna,22,J. Bruun Larsen
+1379025,63,,44,Burnley,Card,Yellow Card,196855,Jaidon Anthony,,
+1379025,65,,50,Manchester City,Goal,Own Goal,179400,M. Esteve,,
+1379025,70,,50,Manchester City,subst,Substitution 2,129033,J. Gvardiol,18861,N. Ake
+1379025,79,,44,Burnley,subst,Substitution 2,19827,J. Cullen,138822,A. Broja
+1379025,80,,44,Burnley,subst,Substitution 3,98936,L. Foster,270508,L. Ugochukwu
+1379025,83,,50,Manchester City,Card,Yellow Card,631,Phil Foden,,
+1379025,83,,50,Manchester City,subst,Substitution 3,36902,T. Reijnders,636,B. Silva
+1379025,83,,50,Manchester City,subst,Substitution 4,307123,N. O'Reilly,284230,R. Lewis
+1379025,88,,44,Burnley,subst,Substitution 4,196855,J. Anthony,181797,B. Humphreys
+1379025,88,,44,Burnley,subst,Substitution 5,375915,Q. Hartman,180560,H. Mejbri
+1379025,90,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,1422,J. Doku
+1379025,90,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,,
+1379026,15,,42,Arsenal,Var,Penalty cancelled,18979,Viktor Gyökeres,,
+1379026,34,,34,Newcastle,Goal,Normal Goal,158054,N. Woltemade,31146,S. Tonali
+1379026,46,,42,Arsenal,subst,Substitution 1,333682,C. Mosquera,22090,W. Saliba
+1379026,56,,42,Arsenal,Card,Yellow Card,157052,Riccardo Calafiori,,
+1379026,66,,34,Newcastle,subst,Substitution 1,19163,J. Murphy,153430,A. Elanga
+1379026,67,,34,Newcastle,subst,Substitution 2,138787,A. Gordon,169,K. Trippier
+1379026,67,,34,Newcastle,subst,Substitution 3,158054,N. Woltemade,315237,W. Osula
+1379026,70,,42,Arsenal,subst,Substitution 2,157052,R. Calafiori,47311,M. Merino
+1379026,70,,42,Arsenal,subst,Substitution 3,1460,B. Saka,127769,G. Martinelli
+1379026,77,,34,Newcastle,subst,Substitution 4,158694,V. Livramento,18894,J. Lascelles
+1379026,82,,42,Arsenal,subst,Substitution 4,47315,M. Zubimendi,37127,M. Odegaard
+1379026,83,,34,Newcastle,Card,Yellow Card,723,Joelinton,,
+1379026,84,,42,Arsenal,Goal,Normal Goal,47311,M. Merino,2937,D. Rice
+1379026,88,,34,Newcastle,Card,Yellow Card,18961,Dan Burn,,
+1379026,88,,42,Arsenal,subst,Substitution 5,1946,L. Trossard,313245,M. Lewis-Skelly
+1379026,90,4,34,Newcastle,subst,Substitution 5,723,Joelinton,18778,H. Barnes
+1379026,90,,42,Arsenal,Goal,Normal Goal,22224,Gabriel,37127,M. Odegaard
+1379027,9,,746,Sunderland,Card,Yellow Card,365331,Noah Sadiki,,
+1379027,31,,746,Sunderland,Card,Yellow Card,18816,Arthur Masuaku,,
+1379027,36,,65,Nottingham Forest,Card,Yellow Card,6056,Nicolás Domínguez,,
+1379027,38,,65,Nottingham Forest,Card,Yellow Card,2817,Nikola Milenković,,
+1379027,38,,746,Sunderland,Goal,Normal Goal,6168,O. Alderete,1464,G. Xhaka
+1379027,46,,65,Nottingham Forest,subst,Substitution 1,6056,N. Dominguez,18746,M. Gibbs-White
+1379027,49,,65,Nottingham Forest,Card,Yellow Card,138780,Neco Williams,,
+1379027,59,,746,Sunderland,subst,Substitution 1,18816,A. Masuaku,37143,L. Geertruida
+1379027,59,,746,Sunderland,subst,Substitution 2,339201,C. Rigg,671,B. Traore
+1379027,60,,65,Nottingham Forest,subst,Substitution 2,158697,J. McAtee,2298,C. Hudson-Odoi
+1379027,60,,65,Nottingham Forest,subst,Substitution 3,48648,D. Ndoye,9366,Igor Jesus
+1379027,72,,65,Nottingham Forest,subst,Substitution 4,129695,D. Bakwa,284428,O. Hutchinson
+1379027,75,,746,Sunderland,subst,Substitution 3,20638,E. Le Fee,55904,D. Ballard
+1379027,82,,65,Nottingham Forest,Card,Yellow Card,138908,Elliot Anderson,,
+1379027,85,,746,Sunderland,subst,Substitution 4,84087,W. Isidor,38750,B. Brobbey
+1379027,85,,746,Sunderland,subst,Substitution 5,336659,C. Talbi,301771,S. Adingra
+1379027,90,,65,Nottingham Forest,subst,Substitution 5,18931,C. Wood,147831,A. Kalimuendo
+1379028,32,,47,Tottenham,Card,Yellow Card,162016,Xavi Simons,,
+1379028,35,,39,Wolves,Card,Yellow Card,18742,Matt Doherty,,
+1379028,39,,39,Wolves,Card,Yellow Card,195103,João Gomes,,
+1379028,46,,39,Wolves,subst,Substitution 1,18742,M. Doherty,135068,E. Agbadou
+1379028,46,,39,Wolves,subst,Substitution 2,24888,Hwang Hee-Chan,296560,J. Tchatchoua
+1379028,54,,39,Wolves,Goal,Normal Goal,135334,S. Bueno,,
+1379028,62,,47,Tottenham,subst,Substitution 1,863,R. Bentancur,129711,B. Johnson
+1379028,63,,47,Tottenham,subst,Substitution 2,19235,D. Spence,47519,P. Porro
+1379028,64,,39,Wolves,subst,Substitution 3,195103,Joao Gomes,20665,J. Bellegarde
+1379028,65,,47,Tottenham,Card,Yellow Card,347316,Lucas Bergvall,,
+1379028,78,,47,Tottenham,subst,Substitution 3,162016,X. Simons,336564,W. Odobert
+1379028,78,,47,Tottenham,subst,Substitution 4,347316,L. Bergvall,237129,P. M. Sarr
+1379028,84,,47,Tottenham,subst,Substitution 5,204039,D. Udogie,270510,M. Tel
+1379028,84,,39,Wolves,subst,Substitution 4,2032,J. S. Larsen,110153,T. Arokodare
+1379028,90,4,47,Tottenham,Card,Yellow Card,41104,João Palhinha,,
+1379028,90,2,39,Wolves,subst,Substitution 5,13708,J. Arias,41606,Toti
+1379028,90,,47,Tottenham,Goal,Normal Goal,41104,J. Palhinha,237129,P. M. Sarr
+1379029,30,,42,Arsenal,subst,Substitution 1,37127,M. Odegaard,47315,M. Zubimendi
+1379029,38,,42,Arsenal,Goal,Normal Goal,2937,D. Rice,,
+1379029,58,,48,West Ham,Card,Yellow Card,37724,Crysencio Summerville,,
+1379029,61,,48,West Ham,subst,Substitution 1,326176,S. Magassa,284446,F. Potts
+1379029,61,,48,West Ham,subst,Substitution 2,25391,N. Fullkrug,344707,C. Marshall
+1379029,67,,42,Arsenal,Goal,Penalty,1460,B. Saka,,
+1379029,69,,48,West Ham,Card,Yellow Card,1646,Lucas Paquetá,,
+1379029,75,,42,Arsenal,subst,Substitution 2,1946,L. Trossard,313236,E. Nwaneri
+1379029,75,,42,Arsenal,subst,Substitution 3,157052,R. Calafiori,313245,M. Lewis-Skelly
+1379029,79,,42,Arsenal,subst,Substitution 4,19586,E. Eze,127769,G. Martinelli
+1379029,79,,42,Arsenal,subst,Substitution 5,2937,D. Rice,47311,M. Merino
+1379029,79,,48,West Ham,subst,Substitution 3,18846,A. Wan-Bissaka,171,K. Walker-Peters
+1379030,17,,44,Burnley,Card,Yellow Card,98936,Lyle Foster,,
+1379030,25,,66,Aston Villa,Goal,Normal Goal,249,D. Malen,1904,B. Kamara
+1379030,53,,66,Aston Villa,Card,Yellow Card,2724,Lucas Digne,,
+1379030,59,,44,Burnley,subst,Substitution 1,161621,L. Tchaouna,22,J. Bruun Larsen
+1379030,59,,44,Burnley,subst,Substitution 2,196855,J. Anthony,138822,A. Broja
+1379030,63,,66,Aston Villa,Goal,Normal Goal,249,D. Malen,19170,M. Rogers
+1379030,67,,66,Aston Villa,subst,Substitution 1,19366,O. Watkins,19071,E. Buendia
+1379030,67,,66,Aston Villa,subst,Substitution 2,19191,J. McGinn,137303,E. Guessand
+1379030,69,,44,Burnley,subst,Substitution 3,98936,L. Foster,270508,L. Ugochukwu
+1379030,78,,44,Burnley,Goal,Normal Goal,270508,L. Ugochukwu,375915,Q. Hartman
+1379030,82,,44,Burnley,subst,Substitution 4,20303,J. Laurent,36927,Z. Flemming
+1379030,84,,66,Aston Villa,subst,Substitution 3,19298,M. Cash,889,V. Lindelof
+1379030,84,,66,Aston Villa,subst,Substitution 4,249,D. Malen,2287,R. Barkley
+1379030,90,3,66,Aston Villa,Card,Yellow Card,19599,Emiliano Martínez,,
+1379030,90,1,66,Aston Villa,Card,Yellow Card,19071,Emiliano Buendía,,
+1379030,90,10,66,Aston Villa,subst,Substitution 5,,,138816,I. Maatsen
+1379030,90,,66,Aston Villa,subst,Substitution 6,284457,L. Bogarde,162714,A. Onana
+1379030,90,10,44,Burnley,subst,Substitution 5,179400,M. Esteve,1746,J. Worrall
+1379031,14,,36,Fulham,subst,Substitution 1,2823,S. Lukic,19025,T. Cairney
+1379031,61,,35,Bournemouth,subst,Substitution 1,19245,M. Tavernier,792,J. Kluivert
+1379031,61,,35,Bournemouth,subst,Substitution 2,20093,J. Hill,330437,A. Jimenez
+1379031,67,,36,Fulham,subst,Substitution 2,19221,H. Wilson,1696,S. Chukwueze
+1379031,67,,36,Fulham,subst,Substitution 3,389315,J. King,237819,Kevin
+1379031,70,,36,Fulham,Goal,Normal Goal,19032,R. Sessegnon,1696,S. Chukwueze
+1379031,76,,36,Fulham,Card,Yellow Card,18814,Issa Diop,,
+1379031,78,,35,Bournemouth,subst,Substitution 3,1150,T. Adams,1125,R. Christie
+1379031,78,,35,Bournemouth,subst,Substitution 4,6610,M. Senesi,343576,B. Doak
+1379031,78,,35,Bournemouth,Goal,Normal Goal,19281,A. Semenyo,162267,A. Truffert
+1379031,84,,35,Bournemouth,Goal,Normal Goal,792,J. Kluivert,19281,A. Semenyo
+1379031,85,,35,Bournemouth,subst,Substitution 5,18870,D. Brooks,412719,V. Milosavljevic
+1379031,86,,36,Fulham,subst,Substitution 4,1455,A. Iwobi,18753,A. Traore
+1379031,86,,36,Fulham,subst,Substitution 5,18814,I. Diop,1161,E. Smith Rowe
+1379031,90,,35,Bournemouth,Goal,Normal Goal,19281,A. Semenyo,343576,B. Doak
+1379032,9,,50,Manchester City,Goal,Normal Goal,1100,E. Haaland,129033,J. Gvardiol
+1379032,22,,50,Manchester City,subst,Substitution 1,44,Rodri,161933,Nico
+1379032,45,1,55,Brentford,Card,Yellow Card,178077,Kevin Schade,,
+1379032,68,,55,Brentford,subst,Substitution 1,15908,M. Damsgaard,47438,M. Jensen
+1379032,68,,55,Brentford,subst,Substitution 2,196156,I. Thiago,284797,D. Ouattara
+1379032,70,,55,Brentford,Card,Yellow Card,292,Jordan Henderson,,
+1379032,73,,55,Brentford,subst,Substitution 3,263538,Y. Yarmolyuk,15799,F. Onyeka
+1379032,74,,55,Brentford,subst,Substitution 4,292,J. Henderson,25073,V. Janelt
+1379032,76,,50,Manchester City,subst,Substitution 2,278133,O. Bobb,1422,J. Doku
+1379032,76,,50,Manchester City,subst,Substitution 3,36902,T. Reijnders,636,B. Silva
+1379032,77,,50,Manchester City,Card,Yellow Card,41621,Matheus Nunes,,
+1379032,83,,50,Manchester City,Card,Yellow Card,307123,Nico O'Reilly,,
+1379032,84,,55,Brentford,Card,Yellow Card,284797,Dango Ouattara,,
+1379032,90,2,55,Brentford,subst,Substitution 5,1119,K. Ajer,153066,F. Carvalho
+1379033,14,,49,Chelsea,Goal,Normal Goal,116117,M. Caicedo,161907,M. Gusto
+1379033,34,,40,Liverpool,Card,Yellow Card,180317,Conor Bradley,,
+1379033,46,,40,Liverpool,subst,Substitution 1,180317,C. Bradley,203224,F. Wirtz
+1379033,55,,49,Chelsea,subst,Substitution 1,95,B. Badiashile,282125,R. Lavia
+1379033,55,,40,Liverpool,subst,Substitution 2,206254,M. Kerkez,289,A. Robertson
+1379033,56,,40,Liverpool,subst,Substitution 3,1145,I. Konate,293,C. Jones
+1379033,63,,40,Liverpool,Goal,Normal Goal,247,C. Gakpo,2864,A. Isak
+1379033,68,,49,Chelsea,subst,Substitution 2,366735,J. Acheampong,341642,J. Hato
+1379033,74,,49,Chelsea,subst,Substitution 3,10329,Joao Pedro,392270,M. Guiu
+1379033,74,,40,Liverpool,subst,Substitution 4,2864,A. Isak,174565,H. Ekitike
+1379033,75,,49,Chelsea,subst,Substitution 4,284324,A. Garnacho,286894,J. Gittens
+1379033,75,,49,Chelsea,subst,Substitution 5,1864,P. Neto,425733,Estêvão
+1379033,79,,40,Liverpool,Card,Yellow Card,1096,Dominik Szoboszlai,,
+1379033,86,,40,Liverpool,subst,Substitution 5,6716,A. Mac Allister,8500,W. Endo
+1379033,90,,49,Chelsea,Goal,Normal Goal,425733,M. Cucurella,,
+1379034,37,,52,Crystal Palace,Goal,Normal Goal,13736,D. Munoz,2218,I. Sarr
+1379034,46,,45,Everton,subst,Substitution 1,343684,T. Barry,125743,Beto
+1379034,46,,45,Everton,subst,Substitution 2,304317,T. Dibling,195993,C. Alcaraz
+1379034,65,,45,Everton,subst,Substitution 3,2934,M. Keane,284500,T. Iroegbunam
+1379034,68,,45,Everton,Card,Yellow Card,895,James Garner,,
+1379034,68,,52,Crystal Palace,Card,Yellow Card,184226,Yéremy Pino,,
+1379034,70,,52,Crystal Palace,subst,Substitution 1,25927,J. Mateta,1468,E. Nketiah
+1379034,76,,45,Everton,Goal,Penalty,18592,I. Ndiaye,,
+1379034,82,,52,Crystal Palace,Card,Yellow Card,288102,Adam Wharton,,
+1379034,82,,52,Crystal Palace,subst,Substitution 2,2601,D. Kamada,2490,J. Lerma
+1379034,87,,52,Crystal Palace,Card,Yellow Card,13736,Daniel Muñoz,,
+1379034,88,,52,Crystal Palace,subst,Substitution 3,184226,Y. Pino,286458,J. Devenny
+1379034,89,,52,Crystal Palace,subst,Substitution 4,2218,I. Sarr,403554,C. Uche
+1379034,90,5,45,Everton,Card,Yellow Card,18592,Iliman Ndiaye,,
+1379034,90,10,45,Everton,subst,Substitution 4,18592,I. Ndiaye,18758,S. Coleman
+1379034,90,,45,Everton,Goal,Normal Goal,19187,J. Grealish,,
+1379035,22,,47,Tottenham,Card,Yellow Card,15911,Mohammed Kudus,,
+1379035,23,,47,Tottenham,Goal,Normal Goal,270510,M. Tel,15911,M. Kudus
+1379035,34,,63,Leeds,Goal,Normal Goal,48389,N. Okafor,,
+1379035,41,,47,Tottenham,Card,Yellow Card,41104,João Palhinha,,
+1379035,52,,63,Leeds,Card,Yellow Card,2279,Ethan Ampadu,,
+1379035,57,,47,Tottenham,Goal,Normal Goal,15911,M. Kudus,,
+1379035,64,,63,Leeds,Card,Yellow Card,48389,Noah Okafor,,
+1379035,64,,47,Tottenham,Card,Yellow Card,30776,Cristian Romero,,
+1379035,67,,63,Leeds,subst,Substitution 1,177665,A. Stach,32966,A. Tanaka
+1379035,67,,63,Leeds,subst,Substitution 2,50739,B. Aaronson,19128,J. Harrison
+1379035,73,,47,Tottenham,subst,Substitution 1,270510,M. Tel,237129,P. M. Sarr
+1379035,74,,47,Tottenham,subst,Substitution 2,162016,X. Simons,2413,Richarlison
+1379035,79,,63,Leeds,subst,Substitution 3,47969,G. Gudmundsson,19461,L. Nmecha
+1379035,79,,63,Leeds,subst,Substitution 4,48389,N. Okafor,250,J. Piroe
+1379035,85,,47,Tottenham,subst,Substitution 3,336564,W. Odobert,25287,K. Danso
+1379035,89,,63,Leeds,subst,Substitution 5,19201,J. Bogle,19760,J. Justin
+1379035,90,,47,Tottenham,subst,Substitution 4,15911,M. Kudus,129711,B. Johnson
+1379036,8,,33,Manchester United,Goal,Normal Goal,19220,M. Mount,20589,B. Mbeumo
+1379036,29,,746,Sunderland,Card,Yellow Card,6168,Omar Alderete,,
+1379036,31,,33,Manchester United,Goal,Normal Goal,115589,B. Sesko,,
+1379036,35,,746,Sunderland,Card,Yellow Card,365331,Noah Sadiki,,
+1379036,37,,746,Sunderland,subst,Substitution 1,301771,S. Adingra,55904,D. Ballard
+1379036,45,5,746,Sunderland,Var,Penalty cancelled,119121,Trai Hume,,
+1379036,57,,746,Sunderland,Card,Yellow Card,671,Bertrand Traoré,,
+1379036,58,,746,Sunderland,subst,Substitution 2,18816,A. Masuaku,336659,C. Talbi
+1379036,58,,746,Sunderland,subst,Substitution 3,671,B. Traore,349799,E. Mayenda
+1379036,59,,746,Sunderland,subst,Substitution 4,84087,W. Isidor,38750,B. Brobbey
+1379036,64,,33,Manchester United,subst,Substitution 1,886,D. Dalot,382452,P. Dorgu
+1379036,65,,33,Manchester United,subst,Substitution 2,19220,M. Mount,1165,M. Cunha
+1379036,76,,746,Sunderland,Card,Yellow Card,1464,Granit Xhaka,,
+1379036,77,,33,Manchester United,subst,Substitution 3,20589,B. Mbeumo,284322,K. Mainoo
+1379036,79,,746,Sunderland,subst,Substitution 5,119121,T. Hume,37143,L. Geertruida
+1379036,81,,33,Manchester United,Card,Yellow Card,747,Casemiro,,
+1379036,85,,33,Manchester United,subst,Substitution 4,342970,L. Yoro,2935,H. Maguire
+1379036,85,,33,Manchester United,subst,Substitution 5,747,Casemiro,51494,M. Ugarte
+1379037,32,,65,Nottingham Forest,Card,Yellow Card,19305,Ryan Yates,,
+1379037,34,,65,Nottingham Forest,Card,Yellow Card,138780,Neco Williams,,
+1379037,58,,34,Newcastle,Goal,Normal Goal,10135,Bruno Guimaraes,18961,D. Burn
+1379037,64,,65,Nottingham Forest,subst,Substitution 1,19305,R. Yates,2298,C. Hudson-Odoi
+1379037,64,,65,Nottingham Forest,subst,Substitution 2,18931,C. Wood,9366,Igor Jesus
+1379037,65,,65,Nottingham Forest,subst,Substitution 3,48648,D. Ndoye,284428,O. Hutchinson
+1379037,68,,65,Nottingham Forest,Card,Yellow Card,67943,Morato,,
+1379037,70,,34,Newcastle,subst,Substitution 1,138787,A. Gordon,18778,H. Barnes
+1379037,70,,34,Newcastle,subst,Substitution 2,153430,A. Elanga,19163,J. Murphy
+1379037,77,,65,Nottingham Forest,subst,Substitution 4,67943,Morato,129695,D. Bakwa
+1379037,83,,65,Nottingham Forest,Card,Yellow Card,138908,Elliot Anderson,,
+1379037,84,,34,Newcastle,Goal,Penalty,158054,N. Woltemade,,
+1379037,90,2,34,Newcastle,subst,Substitution 3,158054,N. Woltemade,315237,W. Osula
+1379037,90,2,34,Newcastle,subst,Substitution 4,723,Joelinton,328105,L. Miley
+1379038,20,,51,Brighton,Card,Yellow Card,356041,Carlos Baleba,,
+1379038,21,,39,Wolves,Goal,Own Goal,129058,B. Verbruggen,,
+1379038,36,,51,Brighton,Card,Yellow Card,18963,Lewis Dunk,,
+1379038,43,,51,Brighton,Card,Yellow Card,92993,Mats Wieffer,,
+1379038,45,2,51,Brighton,Card,Yellow Card,1469,Danny Welbeck,,
+1379038,46,,51,Brighton,subst,Substitution 1,356041,C. Baleba,90590,G. Rutter
+1379038,51,,39,Wolves,Card,Yellow Card,135334,Santiago Bueno,,
+1379038,60,,39,Wolves,subst,Substitution 1,24888,Hwang Hee-Chan,135068,E. Agbadou
+1379038,70,,51,Brighton,subst,Substitution 2,328225,B. Gruda,343311,S. Tzimas
+1379038,70,,51,Brighton,subst,Substitution 3,92993,M. Wieffer,162007,M. De Cuyper
+1379038,76,,39,Wolves,subst,Substitution 2,2032,J. S. Larsen,20665,J. Bellegarde
+1379038,76,,51,Brighton,subst,Substitution 4,278370,D. Gomez,296,J. Milner
+1379038,77,,39,Wolves,subst,Substitution 3,135334,S. Bueno,265782,D. M. Wolfe
+1379038,86,,51,Brighton,Goal,Normal Goal,38695,J. P. van Hecke,343311,S. Tzimas
+1379038,90,6,39,Wolves,Card,Yellow Card,265784,André,,
+1379038,90,1,39,Wolves,subst,Substitution 4,3080,M. Munetsi,110153,T. Arokodare
+1379038,90,1,39,Wolves,subst,Substitution 5,195103,Joao Gomes,195717,Y. Mosquera

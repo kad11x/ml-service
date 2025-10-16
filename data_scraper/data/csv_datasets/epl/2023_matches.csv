@@ -1,0 +1,381 @@
+﻿fixture_id,date_utc,timezone,status_short,status_long,season,round,league_id,league_name,venue_id,venue_name,venue_city,referee,home_team_id,home_team,away_team_id,away_team,home_goals,away_goals,home_formation,away_formation
+1035037,2023-08-11T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,512,Turf Moor,Burnley,C. Pawson,44,Burnley,50,Manchester City,0,3,5-4-1,4-2-3-1
+1035038,2023-08-12T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,494,Emirates Stadium,London,M. Oliver,42,Arsenal,65,Nottingham Forest,2,1,4-3-3,3-4-3
+1035039,2023-08-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",P. Bankes,35,Bournemouth,48,West Ham,1,1,4-2-3-1,4-2-3-1
+1035040,2023-08-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",D. Coote,51,Brighton,1359,Luton,4,1,4-2-3-1,3-5-2
+1035041,2023-08-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,8560,Goodison Park,Liverpool,S. Attwell,45,Everton,36,Fulham,0,1,4-4-1-1,4-3-3
+1035042,2023-08-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,581,Bramall Lane,Sheffield,J. Brooks,62,Sheffield Utd,52,Crystal Palace,0,1,3-5-2,4-2-3-1
+1035043,2023-08-12T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,562,St. James' Park,Newcastle upon Tyne,A. Madley,34,Newcastle,66,Aston Villa,5,1,4-3-3,4-2-3-1
+1035044,2023-08-13T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",R. Jones,55,Brentford,47,Tottenham,2,2,5-3-2,4-2-3-1
+1035045,2023-08-13T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,519,Stamford Bridge,London,A. Taylor,49,Chelsea,40,Liverpool,1,1,3-4-2-1,4-3-3
+1035046,2023-08-14T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 1,39,Premier League,556,Old Trafford,Manchester,S. Hooper,33,Manchester United,39,Wolves,1,0,4-1-4-1,4-4-2
+1035047,2023-08-20T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,495,Villa Park,Birmingham,A. Taylor,66,Aston Villa,45,Everton,4,0,4-2-3-1,4-1-4-1
+1035048,2023-08-21T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,525,Selhurst Park,London,D. Coote,52,Crystal Palace,42,Arsenal,0,1,4-2-3-1,4-3-3
+1035049,2023-08-19T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,535,Craven Cottage,London,D. Bond,36,Fulham,55,Brentford,0,3,4-3-3,4-3-3
+1035050,2023-08-19T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,550,Anfield,Liverpool,T. Bramall,40,Liverpool,35,Bournemouth,3,1,4-3-3,4-2-3-1
+1035051,2023-10-03T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",P. Bankes,1359,Luton,44,Burnley,1,2,3-4-2-1,4-3-3
+1035052,2023-08-19T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,555,Etihad Stadium,Manchester,R. Jones,50,Manchester City,34,Newcastle,1,0,4-2-3-1,4-3-3
+1035053,2023-08-18T18:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",P. Bankes,65,Nottingham Forest,62,Sheffield Utd,2,1,3-4-3,3-4-2-1
+1035054,2023-08-19T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,593,Tottenham Hotspur Stadium,London,M. Oliver,47,Tottenham,33,Manchester United,2,0,4-2-3-1,4-2-3-1
+1035055,2023-08-20T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,598,London Stadium,London,J. Brooks,48,West Ham,49,Chelsea,3,1,4-2-3-1,3-4-2-1
+1035056,2023-08-19T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 2,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",A. Madley,39,Wolves,51,Brighton,1,4,4-4-1-1,4-2-3-1
+1035057,2023-08-26T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",T. Robinson,35,Bournemouth,47,Tottenham,0,2,4-2-3-1,4-2-3-1
+1035058,2023-08-26T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,494,Emirates Stadium,London,P. Tierney,42,Arsenal,36,Fulham,2,2,4-3-3,4-3-3
+1035059,2023-08-26T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",P. Bankes,55,Brentford,52,Crystal Palace,1,1,4-3-3,4-2-3-1
+1035060,2023-08-26T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,51,Brighton,48,West Ham,1,3,4-2-3-1,4-1-4-1
+1035061,2023-08-27T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,512,Turf Moor,Burnley,M. Salisbury,44,Burnley,66,Aston Villa,1,3,4-4-2,3-4-2-1
+1035062,2023-08-25T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,519,Stamford Bridge,London,R. Jones,49,Chelsea,1359,Luton,3,0,3-4-2-1,5-3-2
+1035063,2023-08-26T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,8560,Goodison Park,Liverpool,C. Pawson,45,Everton,39,Wolves,0,1,4-1-4-1,4-4-1-1
+1035064,2023-08-26T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,556,Old Trafford,Manchester,S. Attwell,33,Manchester United,65,Nottingham Forest,3,2,4-2-3-1,3-4-2-1
+1035065,2023-08-27T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,562,St. James' Park,Newcastle upon Tyne,J. Brooks,34,Newcastle,40,Liverpool,1,2,4-3-3,4-3-3
+1035066,2023-08-27T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 3,39,Premier League,581,Bramall Lane,Sheffield,J. Gillett,62,Sheffield Utd,50,Manchester City,1,2,3-5-2,4-2-3-1
+1035067,2023-09-03T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,494,Emirates Stadium,London,A. Taylor,42,Arsenal,33,Manchester United,3,1,4-3-3,4-2-3-1
+1035068,2023-09-02T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",R. Madley,55,Brentford,35,Bournemouth,2,2,4-3-3,4-2-3-1
+1035069,2023-09-02T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",S. Attwell,51,Brighton,34,Newcastle,3,1,4-2-3-1,4-3-3
+1035070,2023-09-02T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,512,Turf Moor,Burnley,D. England,44,Burnley,47,Tottenham,2,5,4-4-2,4-2-3-1
+1035071,2023-09-02T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,519,Stamford Bridge,London,T. Robinson,49,Chelsea,65,Nottingham Forest,0,1,3-4-2-1,3-4-2-1
+1035072,2023-09-03T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,525,Selhurst Park,London,R. Jones,52,Crystal Palace,39,Wolves,3,2,4-2-3-1,4-4-1-1
+1035073,2023-09-03T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,550,Anfield,Liverpool,S. Hooper,40,Liverpool,66,Aston Villa,3,0,4-3-3,4-4-2
+1035074,2023-09-01T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",P. Tierney,1359,Luton,48,West Ham,1,2,5-3-2,4-2-3-1
+1035075,2023-09-02T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,555,Etihad Stadium,Manchester,M. Oliver,50,Manchester City,36,Fulham,5,1,4-2-3-1,4-3-3
+1035076,2023-09-02T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 4,39,Premier League,581,Bramall Lane,Sheffield,A. Madley,62,Sheffield Utd,45,Everton,2,2,3-5-2,4-4-1-1
+1035077,2023-09-17T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",D. Coote,35,Bournemouth,49,Chelsea,0,0,4-2-3-1,4-2-3-1
+1035078,2023-09-16T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,495,Villa Park,Birmingham,D. England,66,Aston Villa,52,Crystal Palace,3,1,4-2-3-1,4-2-3-1
+1035079,2023-09-17T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,8560,Goodison Park,Liverpool,S. Hooper,45,Everton,42,Arsenal,0,1,4-5-1,4-3-3
+1035080,2023-09-16T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,535,Craven Cottage,London,M. Salisbury,36,Fulham,1359,Luton,1,0,4-3-3,5-3-2
+1035081,2023-09-16T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,556,Old Trafford,Manchester,J. Gillett,33,Manchester United,51,Brighton,1,3,4-3-1-2,4-2-3-1
+1035082,2023-09-16T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,562,St. James' Park,Newcastle upon Tyne,C. Pawson,34,Newcastle,55,Brentford,1,0,4-3-3,5-3-2
+1035083,2023-09-18T18:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",R. Jones,65,Nottingham Forest,44,Burnley,1,1,4-2-3-1,4-2-3-1
+1035084,2023-09-16T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,593,Tottenham Hotspur Stadium,London,P. Bankes,47,Tottenham,62,Sheffield Utd,2,1,4-2-3-1,3-5-2
+1035085,2023-09-16T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,598,London Stadium,London,A. Madley,48,West Ham,50,Manchester City,1,3,4-2-3-1,4-2-3-1
+1035086,2023-09-16T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 5,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",M. Oliver,39,Wolves,40,Liverpool,1,3,4-2-3-1,4-3-3
+1035087,2023-09-24T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,494,Emirates Stadium,London,R. Jones,42,Arsenal,47,Tottenham,2,2,4-3-3,4-2-3-1
+1035088,2023-09-23T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,55,Brentford,45,Everton,1,3,4-3-3,4-4-1-1
+1035089,2023-09-24T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",J. Brooks,51,Brighton,35,Bournemouth,3,1,4-2-3-1,4-2-3-1
+1035090,2023-09-23T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,512,Turf Moor,Burnley,T. Harrington,44,Burnley,33,Manchester United,0,1,4-3-3,4-2-3-1
+1035091,2023-09-24T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,519,Stamford Bridge,London,J. Gillett,49,Chelsea,66,Aston Villa,0,1,4-2-3-1,4-2-3-1
+1035092,2023-09-23T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,525,Selhurst Park,London,P. Tierney,52,Crystal Palace,36,Fulham,0,0,4-2-3-1,4-3-3
+1035093,2023-09-24T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,550,Anfield,Liverpool,C. Kavanagh,40,Liverpool,48,West Ham,3,1,4-3-3,4-2-3-1
+1035094,2023-09-23T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",J. Smith,1359,Luton,39,Wolves,1,1,3-4-3,4-2-3-1
+1035095,2023-09-23T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,555,Etihad Stadium,Manchester,A. Taylor,50,Manchester City,65,Nottingham Forest,2,0,4-2-3-1,5-4-1
+1035096,2023-09-24T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 6,39,Premier League,581,Bramall Lane,Sheffield,S. Attwell,62,Sheffield Utd,34,Newcastle,0,8,3-4-2-1,4-3-3
+1035097,2023-09-30T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",M. Salisbury,35,Bournemouth,42,Arsenal,0,4,4-2-3-1,4-3-3
+1035098,2023-09-30T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,495,Villa Park,Birmingham,A. Madley,66,Aston Villa,51,Brighton,6,1,4-2-3-1,4-2-3-1
+1035099,2023-09-30T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,8560,Goodison Park,Liverpool,A. Taylor,45,Everton,1359,Luton,1,2,4-4-1-1,3-4-2-1
+1035100,2023-10-02T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,535,Craven Cottage,London,T. Robinson,36,Fulham,49,Chelsea,0,2,4-3-3,4-3-3
+1035101,2023-09-30T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,556,Old Trafford,Manchester,C. Kavanagh,33,Manchester United,52,Crystal Palace,0,1,4-2-3-1,4-2-3-1
+1035102,2023-09-30T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,562,St. James' Park,Newcastle upon Tyne,T. Bramall,34,Newcastle,44,Burnley,2,0,4-3-3,4-2-3-1
+1035103,2023-10-01T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,65,Nottingham Forest,55,Brentford,1,1,4-3-3,4-3-3
+1035104,2023-09-30T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,593,Tottenham Hotspur Stadium,London,S. Hooper,47,Tottenham,40,Liverpool,2,1,4-2-3-1,4-3-3
+1035105,2023-09-30T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,598,London Stadium,London,G. Scott,48,West Ham,62,Sheffield Utd,2,0,4-2-3-1,3-5-2
+1035106,2023-09-30T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 7,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",C. Pawson,39,Wolves,50,Manchester City,2,1,3-4-3,4-2-3-1
+1035107,2023-10-08T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,494,Emirates Stadium,London,M. Oliver,42,Arsenal,50,Manchester City,1,0,4-3-3,4-3-3
+1035108,2023-10-08T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,51,Brighton,40,Liverpool,2,2,4-2-3-1,4-3-3
+1035109,2023-10-07T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,512,Turf Moor,Burnley,S. Attwell,44,Burnley,49,Chelsea,1,4,4-3-3,4-3-3
+1035110,2023-10-07T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,525,Selhurst Park,London,C. Pawson,52,Crystal Palace,65,Nottingham Forest,0,0,4-3-3,4-3-3
+1035111,2023-10-07T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,8560,Goodison Park,Liverpool,D. Coote,45,Everton,35,Bournemouth,3,0,4-4-1-1,4-2-3-1
+1035112,2023-10-07T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,535,Craven Cottage,London,S. Barrott,36,Fulham,62,Sheffield Utd,3,1,4-3-3,3-5-2
+1035113,2023-10-07T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",J. Brooks,1359,Luton,47,Tottenham,0,1,4-4-2,4-2-3-1
+1035114,2023-10-07T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,556,Old Trafford,Manchester,A. Madley,33,Manchester United,55,Brentford,2,1,4-2-3-1,3-5-2
+1035115,2023-10-08T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,598,London Stadium,London,P. Bankes,48,West Ham,34,Newcastle,2,2,4-2-3-1,4-3-3
+1035116,2023-10-08T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 8,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",R. Jones,39,Wolves,66,Aston Villa,1,1,3-4-3,4-4-2
+1035117,2023-10-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,35,Bournemouth,39,Wolves,1,2,4-2-3-1,3-4-3
+1035118,2023-10-22T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,495,Villa Park,Birmingham,D. Coote,66,Aston Villa,48,West Ham,4,1,4-4-2,4-2-3-1
+1035119,2023-10-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",J. Smith,55,Brentford,44,Burnley,3,0,4-3-3,4-2-3-1
+1035120,2023-10-21T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,519,Stamford Bridge,London,C. Kavanagh,49,Chelsea,42,Arsenal,2,2,4-2-3-1,4-3-3
+1035121,2023-10-21T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,550,Anfield,Liverpool,C. Pawson,40,Liverpool,45,Everton,2,0,4-3-3,4-4-1-1
+1035122,2023-10-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,555,Etihad Stadium,Manchester,R. Jones,50,Manchester City,51,Brighton,2,1,3-2-4-1,4-2-3-1
+1035123,2023-10-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,562,St. James' Park,Newcastle upon Tyne,T. Robinson,34,Newcastle,52,Crystal Palace,4,0,4-3-3,4-3-3
+1035124,2023-10-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",S. Barrott,65,Nottingham Forest,1359,Luton,2,2,4-3-3,4-4-2
+1035125,2023-10-21T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,581,Bramall Lane,Sheffield,M. Oliver,62,Sheffield Utd,33,Manchester United,1,2,4-4-2,4-2-3-1
+1035126,2023-10-23T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 9,39,Premier League,593,Tottenham Hotspur Stadium,London,A. Taylor,47,Tottenham,36,Fulham,2,0,4-2-3-1,4-2-3-1
+1035127,2023-10-28T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",S. Barrott,35,Bournemouth,44,Burnley,2,1,4-2-3-1,4-3-3
+1035128,2023-10-28T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,494,Emirates Stadium,London,T. Robinson,42,Arsenal,62,Sheffield Utd,5,0,4-3-3,4-4-2
+1035129,2023-10-29T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,495,Villa Park,Birmingham,J. Brooks,66,Aston Villa,1359,Luton,3,1,4-4-2,3-4-2-1
+1035130,2023-10-29T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",M. Salisbury,51,Brighton,36,Fulham,1,1,3-4-2-1,4-2-3-1
+1035131,2023-10-28T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,519,Stamford Bridge,London,S. Hooper,49,Chelsea,55,Brentford,0,2,4-2-3-1,3-5-2
+1035132,2023-10-27T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,525,Selhurst Park,London,A. Madley,52,Crystal Palace,47,Tottenham,1,2,4-2-3-1,4-2-3-1
+1035133,2023-10-29T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,550,Anfield,Liverpool,C. Kavanagh,40,Liverpool,65,Nottingham Forest,3,0,4-3-3,5-4-1
+1035134,2023-10-29T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,556,Old Trafford,Manchester,P. Tierney,33,Manchester United,50,Manchester City,0,3,4-2-3-1,4-2-3-1
+1035135,2023-10-29T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,598,London Stadium,London,S. Attwell,48,West Ham,45,Everton,0,1,4-2-3-1,4-4-1-1
+1035136,2023-10-28T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 10,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",A. Taylor,39,Wolves,34,Newcastle,2,2,4-4-2,4-3-3
+1035137,2023-11-04T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",T. Bramall,55,Brentford,48,West Ham,3,2,4-3-3,4-4-2
+1035138,2023-11-04T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,512,Turf Moor,Burnley,P. Bankes,44,Burnley,52,Crystal Palace,0,2,4-4-2,4-2-3-1
+1035139,2023-11-04T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,8560,Goodison Park,Liverpool,T. Robinson,45,Everton,51,Brighton,1,1,4-4-1-1,4-3-3
+1035140,2023-11-04T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,535,Craven Cottage,London,J. Brooks,36,Fulham,33,Manchester United,0,1,4-2-3-1,4-2-3-1
+1035141,2023-11-05T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",A. Madley,1359,Luton,40,Liverpool,1,1,3-4-2-1,4-3-3
+1035142,2023-11-04T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,555,Etihad Stadium,Manchester,C. Pawson,50,Manchester City,35,Bournemouth,6,1,3-4-2-1,5-4-1
+1035143,2023-11-04T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,562,St. James' Park,Newcastle upon Tyne,S. Attwell,34,Newcastle,42,Arsenal,1,0,4-3-3,4-3-3
+1035144,2023-11-05T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,65,Nottingham Forest,66,Aston Villa,2,0,4-3-3,4-4-2
+1035145,2023-11-04T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,581,Bramall Lane,Sheffield,R. Jones,62,Sheffield Utd,39,Wolves,2,1,3-4-1-2,4-4-1-1
+1035146,2023-11-06T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 11,39,Premier League,593,Tottenham Hotspur Stadium,London,M. Oliver,47,Tottenham,49,Chelsea,1,4,4-2-3-1,4-2-3-1
+1035147,2023-11-11T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",C. Kavanagh,35,Bournemouth,34,Newcastle,2,0,4-2-3-1,4-3-3
+1035148,2023-11-11T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,494,Emirates Stadium,London,M. Oliver,42,Arsenal,44,Burnley,3,1,4-3-3,4-4-2
+1035149,2023-11-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,495,Villa Park,Birmingham,S. Hooper,66,Aston Villa,36,Fulham,3,1,4-2-2-2,4-2-3-1
+1035150,2023-11-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",J. Brooks,51,Brighton,62,Sheffield Utd,1,1,4-2-3-1,3-4-2-1
+1035151,2023-11-12T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,519,Stamford Bridge,London,A. Taylor,49,Chelsea,50,Manchester City,4,4,4-2-3-1,3-2-4-1
+1035152,2023-11-11T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,525,Selhurst Park,London,S. Barrott,52,Crystal Palace,45,Everton,2,3,4-2-3-1,4-4-1-1
+1035153,2023-11-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,550,Anfield,Liverpool,P. Tierney,40,Liverpool,55,Brentford,3,0,4-3-3,5-3-2
+1035154,2023-11-11T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,556,Old Trafford,Manchester,G. Scott,33,Manchester United,1359,Luton,1,0,4-2-3-1,3-4-2-1
+1035155,2023-11-12T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,598,London Stadium,London,M. Salisbury,48,West Ham,65,Nottingham Forest,3,2,4-2-3-1,4-3-3
+1035156,2023-11-11T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 12,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",T. Robinson,39,Wolves,47,Tottenham,2,1,3-5-2,4-3-3
+1035294,2023-11-25T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",T. Robinson,55,Brentford,42,Arsenal,0,1,5-3-2,4-3-3
+1035295,2023-11-25T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,512,Turf Moor,Burnley,S. Barrott,44,Burnley,48,West Ham,1,2,4-4-2,4-2-3-1
+1035296,2023-11-26T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,8560,Goodison Park,Liverpool,J. Brooks,45,Everton,33,Manchester United,0,3,4-4-1-1,4-2-3-1
+1035297,2023-11-27T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,535,Craven Cottage,London,M. Salisbury,36,Fulham,39,Wolves,3,2,4-2-3-1,3-5-2
+1035298,2023-11-25T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",J. Gillett,1359,Luton,52,Crystal Palace,2,1,3-4-2-1,4-2-3-1
+1035299,2023-11-25T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,555,Etihad Stadium,Manchester,C. Kavanagh,50,Manchester City,40,Liverpool,1,1,3-2-4-1,4-3-3
+1035300,2023-11-25T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,562,St. James' Park,Newcastle upon Tyne,S. Hooper,34,Newcastle,49,Chelsea,4,1,4-3-3,4-2-3-1
+1035301,2023-11-25T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,65,Nottingham Forest,51,Brighton,2,3,4-1-4-1,4-2-3-1
+1035302,2023-11-25T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,581,Bramall Lane,Sheffield,A. Madley,62,Sheffield Utd,35,Bournemouth,1,3,3-4-2-1,4-2-3-1
+1035303,2023-11-26T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 13,39,Premier League,593,Tottenham Hotspur Stadium,London,R. Jones,47,Tottenham,66,Aston Villa,1,2,4-2-3-1,4-4-2
+1035304,2023-12-03T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",T. Bramall,35,Bournemouth,66,Aston Villa,2,2,4-2-3-1,4-4-2
+1035305,2023-12-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,494,Emirates Stadium,London,P. Bankes,42,Arsenal,39,Wolves,2,1,4-3-3,3-5-2
+1035306,2023-12-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",A. Taylor,55,Brentford,1359,Luton,3,1,4-3-3,3-4-2-1
+1035307,2023-12-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,512,Turf Moor,Burnley,C. Kavanagh,44,Burnley,62,Sheffield Utd,5,0,4-4-2,3-4-2-1
+1035308,2023-12-03T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,519,Stamford Bridge,London,C. Pawson,49,Chelsea,51,Brighton,3,2,4-2-3-1,4-2-3-1
+1035309,2023-12-03T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,550,Anfield,Liverpool,S. Attwell,40,Liverpool,36,Fulham,4,3,4-3-3,4-2-3-1
+1035310,2023-12-03T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,555,Etihad Stadium,Manchester,S. Hooper,50,Manchester City,47,Tottenham,3,3,3-2-4-1,4-2-3-1
+1035311,2023-12-02T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,562,St. James' Park,Newcastle upon Tyne,R. Jones,34,Newcastle,33,Manchester United,1,0,4-3-3,4-2-3-1
+1035312,2023-12-02T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,65,Nottingham Forest,45,Everton,0,1,4-3-3,4-4-1-1
+1035313,2023-12-03T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 14,39,Premier League,598,London Stadium,London,M. Oliver,48,West Ham,52,Crystal Palace,1,1,4-2-3-1,4-2-3-1
+1035314,2023-12-06T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,495,Villa Park,Birmingham,J. Brooks,66,Aston Villa,50,Manchester City,1,0,4-4-1-1,3-2-4-1
+1035315,2023-12-06T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",P. Bankes,51,Brighton,55,Brentford,2,1,4-2-3-1,4-4-2
+1035316,2023-12-07T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,8560,Goodison Park,Liverpool,T. Robinson,45,Everton,34,Newcastle,3,0,4-4-1-1,4-3-3
+1035317,2023-12-06T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,535,Craven Cottage,London,J. Smith,36,Fulham,65,Nottingham Forest,5,0,4-2-3-1,4-2-3-1
+1035318,2023-12-05T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",S. Barrott,1359,Luton,42,Arsenal,3,4,3-4-2-1,4-3-3
+1035319,2023-12-06T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,581,Bramall Lane,Sheffield,S. Hooper,62,Sheffield Utd,40,Liverpool,0,2,3-4-2-1,4-3-3
+1035320,2023-12-07T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,593,Tottenham Hotspur Stadium,London,M. Salisbury,47,Tottenham,48,West Ham,1,2,4-2-3-1,4-3-3
+1035321,2023-12-05T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",J. Gillett,39,Wolves,44,Burnley,1,0,3-4-3,4-4-2
+1035322,2023-12-06T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,525,Selhurst Park,London,C. Pawson,52,Crystal Palace,35,Bournemouth,0,2,4-2-3-1,4-2-3-1
+1035323,2023-12-06T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 15,39,Premier League,556,Old Trafford,Manchester,C. Kavanagh,33,Manchester United,49,Chelsea,2,1,4-2-3-1,4-2-3-1
+1035324,2023-12-09T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,495,Villa Park,Birmingham,J. Gillett,66,Aston Villa,42,Arsenal,1,0,4-4-1-1,4-3-3
+1035325,2023-12-09T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,508,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,51,Brighton,44,Burnley,1,1,4-2-3-1,4-4-2
+1035326,2023-12-09T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,525,Selhurst Park,London,A. Madley,52,Crystal Palace,40,Liverpool,1,2,4-3-3,4-3-3
+1035327,2023-12-10T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,8560,Goodison Park,Liverpool,M. Oliver,45,Everton,49,Chelsea,2,0,4-4-1-1,4-2-3-1
+1035328,2023-12-10T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,535,Craven Cottage,London,P. Tierney,36,Fulham,48,West Ham,5,0,4-2-3-1,4-4-1-1
+1035329,2023-12-10T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",T. Robinson,1359,Luton,50,Manchester City,1,2,3-4-3,4-2-3-1
+1035330,2023-12-09T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,556,Old Trafford,Manchester,P. Bankes,33,Manchester United,35,Bournemouth,0,3,4-2-3-1,4-2-3-1
+1035331,2023-12-09T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,581,Bramall Lane,Sheffield,S. Attwell,62,Sheffield Utd,55,Brentford,1,0,4-1-4-1,4-3-3
+1035332,2023-12-10T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,593,Tottenham Hotspur Stadium,London,C. Kavanagh,47,Tottenham,34,Newcastle,4,1,4-2-3-1,4-3-3
+1035333,2023-12-09T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 16,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",S. Barrott,39,Wolves,65,Nottingham Forest,1,1,3-4-3,3-5-2
+1035334,2024-03-13T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",S. Allison,35,Bournemouth,1359,Luton,4,3,4-2-3-1,3-4-2-1
+1035335,2023-12-17T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,494,Emirates Stadium,London,T. Robinson,42,Arsenal,51,Brighton,2,0,4-3-3,4-2-3-1
+1035336,2023-12-17T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",D. Coote,55,Brentford,66,Aston Villa,1,2,3-5-2,3-5-2
+1035337,2023-12-16T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,512,Turf Moor,Burnley,A. Taylor,44,Burnley,45,Everton,0,2,4-4-2,5-4-1
+1035338,2023-12-16T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,519,Stamford Bridge,London,A. Madley,49,Chelsea,62,Sheffield Utd,2,0,4-2-3-1,4-1-4-1
+1035339,2023-12-17T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,550,Anfield,Liverpool,M. Oliver,40,Liverpool,33,Manchester United,0,0,4-3-3,4-2-3-1
+1035340,2023-12-16T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,555,Etihad Stadium,Manchester,P. Tierney,50,Manchester City,52,Crystal Palace,2,2,4-2-3-1,5-4-1
+1035341,2023-12-16T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,562,St. James' Park,Newcastle upon Tyne,S. Barrott,34,Newcastle,36,Fulham,3,0,4-3-3,4-2-3-1
+1035342,2023-12-15T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,65,Nottingham Forest,47,Tottenham,0,2,3-5-2,4-2-3-1
+1035343,2023-12-17T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 17,39,Premier League,598,London Stadium,London,C. Kavanagh,48,West Ham,39,Wolves,3,0,4-2-3-1,3-4-3
+1035344,2023-12-22T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,495,Villa Park,Birmingham,A. Taylor,66,Aston Villa,62,Sheffield Utd,1,1,4-4-1-1,3-4-2-1
+1035345,2023-12-21T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,525,Selhurst Park,London,J. Brooks,52,Crystal Palace,51,Brighton,1,1,4-3-3,4-2-3-1
+1035346,2023-12-23T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,535,Craven Cottage,London,R. Welch,36,Fulham,44,Burnley,0,2,4-2-3-1,4-4-2
+1035347,2023-12-23T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,550,Anfield,Liverpool,C. Kavanagh,40,Liverpool,42,Arsenal,1,1,4-3-3,4-3-3
+1035348,2023-12-23T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",D. England,1359,Luton,34,Newcastle,1,0,3-4-2-1,4-3-3
+1035349,2024-02-20T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,555,Etihad Stadium,Manchester,D. England,50,Manchester City,55,Brentford,1,0,4-2-3-1,3-5-2
+1035350,2023-12-23T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",R. Jones,65,Nottingham Forest,35,Bournemouth,2,3,4-2-3-1,4-2-3-1
+1035351,2023-12-23T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,593,Tottenham Hotspur Stadium,London,S. Attwell,47,Tottenham,45,Everton,2,1,4-2-3-1,4-2-3-1
+1035352,2023-12-23T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,598,London Stadium,London,S. Hooper,48,West Ham,33,Manchester United,2,0,4-2-3-1,4-2-3-1
+1035353,2023-12-24T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 18,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,39,Wolves,49,Chelsea,2,1,3-4-2-1,4-2-3-1
+1035354,2023-12-26T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",T. Robinson,35,Bournemouth,36,Fulham,3,0,4-2-3-1,4-2-3-1
+1035355,2023-12-28T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,494,Emirates Stadium,London,M. Oliver,42,Arsenal,48,West Ham,0,2,4-3-3,4-2-3-1
+1035356,2023-12-27T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",A. Madley,55,Brentford,39,Wolves,1,4,4-3-3,3-4-2-1
+1035357,2023-12-28T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",J. Gillett,51,Brighton,47,Tottenham,4,2,4-3-1-2,4-2-3-1
+1035358,2023-12-26T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,512,Turf Moor,Burnley,P. Tierney,44,Burnley,40,Liverpool,0,2,4-4-2,4-3-3
+1035359,2023-12-27T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,519,Stamford Bridge,London,M. Salisbury,49,Chelsea,52,Crystal Palace,2,1,4-2-3-1,4-3-3
+1035360,2023-12-27T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,8560,Goodison Park,Liverpool,J. Brooks,45,Everton,50,Manchester City,1,3,4-2-3-1,4-2-3-1
+1035361,2023-12-26T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,556,Old Trafford,Manchester,C. Pawson,33,Manchester United,66,Aston Villa,3,2,4-2-3-1,4-2-3-1
+1035362,2023-12-26T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,562,St. James' Park,Newcastle upon Tyne,C. Kavanagh,34,Newcastle,65,Nottingham Forest,1,3,4-3-3,4-2-3-1
+1035363,2023-12-26T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 19,39,Premier League,581,Bramall Lane,Sheffield,S. Allison,62,Sheffield Utd,1359,Luton,2,3,4-4-2,3-4-2-1
+1035364,2023-12-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,495,Villa Park,Birmingham,S. Attwell,66,Aston Villa,44,Burnley,3,2,4-4-1-1,4-4-2
+1035365,2023-12-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,525,Selhurst Park,London,R. Jones,52,Crystal Palace,55,Brentford,3,1,4-3-3,3-5-2
+1035366,2023-12-31T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,535,Craven Cottage,London,J. Smith,36,Fulham,42,Arsenal,2,1,4-2-3-1,4-3-3
+1035367,2024-01-01T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,550,Anfield,Liverpool,A. Taylor,40,Liverpool,34,Newcastle,4,2,4-3-3,4-3-3
+1035368,2023-12-30T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",P. Tierney,1359,Luton,49,Chelsea,2,3,3-4-2-1,4-2-3-1
+1035369,2023-12-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,555,Etihad Stadium,Manchester,D. Coote,50,Manchester City,62,Sheffield Utd,2,0,4-2-3-1,3-4-2-1
+1035370,2023-12-30T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",T. Robinson,65,Nottingham Forest,33,Manchester United,2,1,4-2-3-1,4-2-3-1
+1035371,2023-12-31T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,593,Tottenham Hotspur Stadium,London,S. Hooper,47,Tottenham,35,Bournemouth,3,1,4-3-3,4-2-3-1
+1035372,2024-01-02T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,598,London Stadium,London,S. Barrott,48,West Ham,51,Brighton,0,0,4-2-3-1,4-3-1-2
+1035373,2023-12-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 20,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,39,Wolves,45,Everton,3,0,3-4-2-1,5-4-1
+1035374,2024-01-21T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",A. Madley,35,Bournemouth,40,Liverpool,0,4,4-2-3-1,4-3-3
+1035375,2024-01-20T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,494,Emirates Stadium,London,P. Tierney,42,Arsenal,52,Crystal Palace,5,0,4-3-3,3-4-3
+1035376,2024-01-20T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",D. England,55,Brentford,65,Nottingham Forest,3,2,3-5-2,4-2-3-1
+1035377,2024-01-22T19:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",C. Pawson,51,Brighton,39,Wolves,0,0,4-3-3,3-4-2-1
+1035378,2024-01-12T19:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,512,Turf Moor,Burnley,T. Harrington,44,Burnley,1359,Luton,1,1,4-4-2,3-4-2-1
+1035379,2024-01-13T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,519,Stamford Bridge,London,A. Taylor,49,Chelsea,36,Fulham,1,0,4-2-3-1,4-2-3-1
+1035380,2024-01-14T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,8560,Goodison Park,Liverpool,D. Coote,45,Everton,66,Aston Villa,0,0,4-2-3-1,4-4-2
+1035381,2024-01-14T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,556,Old Trafford,Manchester,J. Brooks,33,Manchester United,47,Tottenham,2,2,4-2-3-1,4-3-3
+1035382,2024-01-13T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,562,St. James' Park,Newcastle upon Tyne,C. Kavanagh,34,Newcastle,50,Manchester City,2,3,4-3-3,4-2-3-1
+1035383,2024-01-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 21,39,Premier League,581,Bramall Lane,Sheffield,M. Salisbury,62,Sheffield Utd,48,West Ham,2,2,4-1-4-1,4-4-1-1
+1035384,2024-01-30T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,495,Villa Park,Birmingham,J. Brooks,66,Aston Villa,34,Newcastle,1,3,4-4-2,4-3-3
+1035385,2024-01-30T19:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,535,Craven Cottage,London,T. Bramall,36,Fulham,45,Everton,0,0,4-2-3-1,4-4-1-1
+1035386,2024-01-30T19:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",R. Jones,1359,Luton,51,Brighton,4,0,3-4-2-1,3-4-2-1
+1035387,2024-01-30T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,65,Nottingham Forest,42,Arsenal,1,2,4-2-3-1,4-3-3
+1035388,2024-01-31T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,593,Tottenham Hotspur Stadium,London,D. Coote,47,Tottenham,55,Brentford,3,2,4-2-3-1,3-5-2
+1035389,2024-02-01T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,598,London Stadium,London,T. Robinson,48,West Ham,35,Bournemouth,1,1,4-3-2-1,4-2-3-1
+1035390,2024-02-01T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",J. Gillett,39,Wolves,33,Manchester United,3,4,3-4-2-1,4-2-3-1
+1035391,2024-01-30T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,525,Selhurst Park,London,T. Harrington,52,Crystal Palace,62,Sheffield Utd,3,2,4-3-3,4-1-4-1
+1035392,2024-01-31T20:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,550,Anfield,Liverpool,P. Tierney,40,Liverpool,49,Chelsea,4,1,4-3-3,4-2-3-1
+1035393,2024-01-31T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 22,39,Premier League,555,Etihad Stadium,Manchester,S. Barrott,50,Manchester City,44,Burnley,3,1,4-2-3-1,4-4-2
+1035394,2024-02-04T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",R. Welch,35,Bournemouth,65,Nottingham Forest,1,1,4-2-3-1,4-2-3-1
+1035395,2024-02-04T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,494,Emirates Stadium,London,A. Taylor,42,Arsenal,40,Liverpool,3,1,4-3-3,4-3-3
+1035396,2024-02-05T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,55,Brentford,50,Manchester City,1,3,3-5-2,4-1-4-1
+1035397,2024-02-03T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",S. Hooper,51,Brighton,52,Crystal Palace,4,1,3-4-2-1,4-3-3
+1035398,2024-02-03T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,512,Turf Moor,Burnley,D. Bond,44,Burnley,36,Fulham,2,2,4-4-2,4-2-3-1
+1035399,2024-02-04T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,519,Stamford Bridge,London,T. Robinson,49,Chelsea,39,Wolves,2,4,4-2-3-1,3-4-2-1
+1035400,2024-02-03T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,8560,Goodison Park,Liverpool,M. Oliver,45,Everton,47,Tottenham,2,2,4-4-1-1,4-2-3-1
+1035401,2024-02-04T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,556,Old Trafford,Manchester,A. Madley,33,Manchester United,48,West Ham,3,0,4-2-3-1,4-2-3-1
+1035402,2024-02-03T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,562,St. James' Park,Newcastle upon Tyne,T. Bramall,34,Newcastle,1359,Luton,4,4,4-3-3,3-4-2-1
+1035403,2024-02-03T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 23,39,Premier League,581,Bramall Lane,Sheffield,P. Tierney,62,Sheffield Utd,66,Aston Villa,0,5,5-4-1,4-2-3-1
+1035404,2024-02-11T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,495,Villa Park,Birmingham,R. Jones,66,Aston Villa,33,Manchester United,1,2,4-2-3-1,4-2-3-1
+1035405,2024-02-12T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,525,Selhurst Park,London,M. Oliver,52,Crystal Palace,49,Chelsea,1,3,4-1-4-1,4-2-3-1
+1035406,2024-02-10T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,535,Craven Cottage,London,D. England,36,Fulham,35,Bournemouth,3,1,4-2-3-1,4-2-3-1
+1035407,2024-02-10T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,550,Anfield,Liverpool,T. Robinson,40,Liverpool,44,Burnley,3,1,4-3-3,4-4-2
+1035408,2024-02-10T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",C. Kavanagh,1359,Luton,62,Sheffield Utd,1,3,3-4-2-1,5-4-1
+1035409,2024-02-10T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,555,Etihad Stadium,Manchester,J. Brooks,50,Manchester City,45,Everton,2,0,4-1-4-1,4-2-3-1
+1035410,2024-02-10T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,65,Nottingham Forest,34,Newcastle,2,3,4-2-3-1,4-3-3
+1035411,2024-02-10T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,593,Tottenham Hotspur Stadium,London,S. Barrott,47,Tottenham,51,Brighton,2,1,4-2-3-1,4-2-3-1
+1035412,2024-02-11T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,598,London Stadium,London,C. Pawson,48,West Ham,42,Arsenal,0,6,4-2-3-1,4-3-3
+1035413,2024-02-10T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 24,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",S. Hooper,39,Wolves,55,Brentford,0,2,3-4-2-1,3-5-2
+1035414,2024-02-17T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,55,Brentford,40,Liverpool,1,4,3-5-2,4-3-3
+1035415,2024-02-17T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,512,Turf Moor,Burnley,J. Gillett,44,Burnley,42,Arsenal,0,5,4-4-2,4-3-3
+1035416,2024-02-19T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,8560,Goodison Park,Liverpool,P. Tierney,45,Everton,52,Crystal Palace,1,1,4-4-1-1,3-4-2-1
+1035417,2024-02-17T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,535,Craven Cottage,London,L. Smith,36,Fulham,66,Aston Villa,1,2,4-2-3-1,4-4-2
+1035418,2024-02-18T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",D. Coote,1359,Luton,33,Manchester United,1,2,3-4-2-1,4-2-3-1
+1035419,2024-02-17T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,555,Etihad Stadium,Manchester,A. Madley,50,Manchester City,49,Chelsea,1,1,4-1-4-1,4-2-3-1
+1035420,2024-02-17T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,562,St. James' Park,Newcastle upon Tyne,M. Salisbury,34,Newcastle,35,Bournemouth,2,2,4-3-3,4-2-3-1
+1035421,2024-02-17T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",T. Bramall,65,Nottingham Forest,48,West Ham,2,0,4-2-3-1,4-2-3-1
+1035422,2024-02-18T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,581,Bramall Lane,Sheffield,S. Attwell,62,Sheffield Utd,51,Brighton,0,5,3-5-1-1,4-2-3-1
+1035423,2024-02-17T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 25,39,Premier League,593,Tottenham Hotspur Stadium,London,A. Taylor,47,Tottenham,39,Wolves,1,2,4-2-3-1,3-4-2-1
+1035424,2024-02-24T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",J. Gillett,35,Bournemouth,50,Manchester City,0,1,4-2-3-1,3-2-4-1
+1035425,2024-02-24T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,494,Emirates Stadium,London,P. Tierney,42,Arsenal,34,Newcastle,4,1,4-3-3,4-3-3
+1035426,2024-02-24T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,495,Villa Park,Birmingham,S. Barrott,66,Aston Villa,65,Nottingham Forest,4,2,4-4-2,4-2-3-1
+1035427,2024-02-24T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",T. Harrington,51,Brighton,45,Everton,1,1,4-2-3-1,4-4-1-1
+1035428,2024-05-02T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,519,Stamford Bridge,London,R. Jones,49,Chelsea,47,Tottenham,2,0,4-2-3-1,4-2-3-1
+1035429,2024-02-24T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,525,Selhurst Park,London,L. Smith,52,Crystal Palace,44,Burnley,3,0,3-4-2-1,4-4-2
+1035430,2024-02-21T19:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,550,Anfield,Liverpool,A. Madley,40,Liverpool,1359,Luton,4,1,4-3-3,3-4-2-1
+1035431,2024-02-24T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,556,Old Trafford,Manchester,M. Oliver,33,Manchester United,36,Fulham,1,2,4-2-3-1,4-2-3-1
+1035432,2024-02-26T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,598,London Stadium,London,S. Hooper,48,West Ham,55,Brentford,4,2,4-2-3-1,3-5-2
+1035433,2024-02-25T13:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 26,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",D. Bond,39,Wolves,62,Sheffield Utd,1,0,3-4-2-1,3-5-2
+1035434,2024-03-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,55,Brentford,49,Chelsea,2,2,3-5-2,3-5-2
+1035435,2024-03-03T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,512,Turf Moor,Burnley,D. Coote,44,Burnley,35,Bournemouth,0,2,4-4-2,4-2-3-1
+1035436,2024-03-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,8560,Goodison Park,Liverpool,C. Pawson,45,Everton,48,West Ham,1,3,4-4-1-1,4-2-3-1
+1035437,2024-03-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,535,Craven Cottage,London,S. Hooper,36,Fulham,51,Brighton,3,0,4-2-3-1,3-4-2-1
+1035438,2024-03-02T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",M. Oliver,1359,Luton,66,Aston Villa,2,3,3-4-2-1,4-4-2
+1035439,2024-03-03T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,555,Etihad Stadium,Manchester,A. Madley,50,Manchester City,33,Manchester United,3,1,3-2-4-1,4-2-4
+1035440,2024-03-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,562,St. James' Park,Newcastle upon Tyne,T. Robinson,34,Newcastle,39,Wolves,3,0,4-3-3,3-4-2-1
+1035441,2024-03-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,65,Nottingham Forest,40,Liverpool,0,1,4-2-3-1,4-3-3
+1035442,2024-03-04T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,581,Bramall Lane,Sheffield,S. Barrott,62,Sheffield Utd,42,Arsenal,0,6,4-5-1,4-3-3
+1035443,2024-03-02T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 27,39,Premier League,593,Tottenham Hotspur Stadium,London,J. Brooks,47,Tottenham,52,Crystal Palace,3,1,4-2-3-1,3-4-2-1
+1035444,2024-03-09T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,35,Bournemouth,62,Sheffield Utd,2,2,4-2-3-1,3-5-2
+1035445,2024-03-09T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,494,Emirates Stadium,London,R. Jones,42,Arsenal,55,Brentford,2,1,4-3-3,3-5-2
+1035446,2024-03-10T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,495,Villa Park,Birmingham,C. Kavanagh,66,Aston Villa,47,Tottenham,0,4,5-3-2,4-2-3-1
+1035447,2024-03-10T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",M. Salisbury,51,Brighton,65,Nottingham Forest,1,0,4-2-3-1,4-3-3
+1035448,2024-03-11T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,519,Stamford Bridge,London,J. Brooks,49,Chelsea,34,Newcastle,3,2,4-2-3-1,4-3-3
+1035449,2024-03-09T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,525,Selhurst Park,London,S. Singh,52,Crystal Palace,1359,Luton,1,1,3-4-3,3-4-2-1
+1035450,2024-03-10T15:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,550,Anfield,Liverpool,M. Oliver,40,Liverpool,50,Manchester City,1,1,4-3-3,3-2-4-1
+1035451,2024-03-09T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,556,Old Trafford,Manchester,S. Hooper,33,Manchester United,45,Everton,2,0,4-3-1-2,4-4-1-1
+1035452,2024-03-10T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,598,London Stadium,London,D. England,48,West Ham,44,Burnley,2,2,4-2-3-1,4-4-2
+1035453,2024-03-09T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 28,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",T. Harrington,39,Wolves,36,Fulham,2,1,4-2-3-1,4-2-3-1
+1035454,2024-04-23T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,494,Emirates Stadium,London,S. Hooper,42,Arsenal,49,Chelsea,5,0,4-3-3,4-2-3-1
+1035455,2024-04-25T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",J. Gillett,51,Brighton,50,Manchester City,0,4,4-2-3-1,4-1-4-1
+1035456,2024-03-16T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,512,Turf Moor,Burnley,D. Bond,44,Burnley,55,Brentford,2,1,4-4-2,3-5-2
+1035457,2024-04-24T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,525,Selhurst Park,London,T. Bramall,52,Crystal Palace,34,Newcastle,2,0,3-4-2-1,3-4-2-1
+1035458,2024-04-24T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,8560,Goodison Park,Liverpool,A. Madley,45,Everton,40,Liverpool,2,0,4-4-1-1,4-3-3
+1035459,2024-03-16T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,535,Craven Cottage,London,R. Jones,36,Fulham,47,Tottenham,3,0,4-2-3-1,4-2-3-1
+1035460,2024-03-16T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",D. England,1359,Luton,65,Nottingham Forest,1,1,3-4-2-1,4-2-3-1
+1035461,2024-04-24T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,556,Old Trafford,Manchester,M. Salisbury,33,Manchester United,62,Sheffield Utd,4,2,4-2-3-1,3-5-2
+1035462,2024-03-17T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,598,London Stadium,London,J. Gillett,48,West Ham,66,Aston Villa,1,1,4-2-3-1,4-4-2
+1035463,2024-04-24T18:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 29,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,39,Wolves,35,Bournemouth,0,1,4-1-4-1,4-2-3-1
+1035464,2024-03-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",S. Barrott,35,Bournemouth,45,Everton,2,1,4-2-3-1,4-4-1-1
+1035465,2024-03-30T17:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,495,Villa Park,Birmingham,P. Tierney,66,Aston Villa,39,Wolves,2,0,4-4-2,3-4-2-1
+1035466,2024-03-30T20:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",S. Hooper,55,Brentford,33,Manchester United,1,1,3-5-2,4-2-3-1
+1035467,2024-03-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,519,Stamford Bridge,London,D. England,49,Chelsea,44,Burnley,2,2,4-2-3-1,4-4-2
+1035468,2024-03-31T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,550,Anfield,Liverpool,D. Coote,40,Liverpool,51,Brighton,2,1,4-3-3,4-2-3-1
+1035469,2024-03-31T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,555,Etihad Stadium,Manchester,A. Taylor,50,Manchester City,42,Arsenal,0,0,4-1-4-1,4-3-3
+1035470,2024-03-30T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,562,St. James' Park,Newcastle upon Tyne,R. Jones,34,Newcastle,48,West Ham,4,3,4-3-3,4-2-3-1
+1035471,2024-03-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",C. Kavanagh,65,Nottingham Forest,52,Crystal Palace,1,1,4-2-3-1,3-4-2-1
+1035472,2024-03-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,581,Bramall Lane,Sheffield,T. Robinson,62,Sheffield Utd,36,Fulham,3,3,3-5-2,4-2-3-1
+1035473,2024-03-30T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 30,39,Premier League,593,Tottenham Hotspur Stadium,London,J. Gillett,47,Tottenham,1359,Luton,2,1,4-2-3-1,4-3-3
+1035474,2024-04-02T18:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",G. Scott,35,Bournemouth,52,Crystal Palace,1,0,4-3-3,3-4-3
+1035475,2024-04-03T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,494,Emirates Stadium,London,C. Pawson,42,Arsenal,1359,Luton,2,0,4-3-3,3-4-2-1
+1035476,2024-04-03T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",A. Madley,55,Brentford,51,Brighton,0,0,3-5-2,4-2-3-1
+1035477,2024-04-02T18:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,512,Turf Moor,Burnley,T. Bramall,44,Burnley,39,Wolves,1,1,4-4-2,4-4-1-1
+1035478,2024-04-02T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",M. Oliver,65,Nottingham Forest,36,Fulham,3,1,4-2-3-1,4-2-3-1
+1035479,2024-04-02T19:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,598,London Stadium,London,J. Brooks,48,West Ham,47,Tottenham,1,1,4-5-1,4-2-3-1
+1035480,2024-04-04T19:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,519,Stamford Bridge,London,J. Gillett,49,Chelsea,33,Manchester United,4,3,4-2-3-1,4-2-3-1
+1035481,2024-04-02T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,562,St. James' Park,Newcastle upon Tyne,T. Harrington,34,Newcastle,45,Everton,1,1,4-3-3,4-4-1-1
+1035482,2024-04-04T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,550,Anfield,Liverpool,S. Attwell,40,Liverpool,62,Sheffield Utd,3,1,4-3-3,3-5-2
+1035483,2024-04-03T19:15:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 31,39,Premier League,555,Etihad Stadium,Manchester,D. England,50,Manchester City,66,Aston Villa,4,1,4-2-3-1,4-2-3-1
+1035484,2024-04-06T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,495,Villa Park,Birmingham,M. Salisbury,66,Aston Villa,55,Brentford,3,3,4-4-1-1,3-5-2
+1035485,2024-04-06T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",J. Brooks,51,Brighton,42,Arsenal,0,3,4-2-3-1,4-3-3
+1035486,2024-04-06T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,525,Selhurst Park,London,P. Tierney,52,Crystal Palace,50,Manchester City,2,4,3-4-3,3-2-4-1
+1035487,2024-04-06T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,8560,Goodison Park,Liverpool,M. Oliver,45,Everton,44,Burnley,1,0,4-4-1-1,4-4-2
+1035488,2024-04-06T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,535,Craven Cottage,London,S. Allison,36,Fulham,34,Newcastle,0,1,4-2-3-1,4-3-3
+1035489,2024-04-06T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",A. Madley,1359,Luton,35,Bournemouth,2,1,3-4-2-1,4-2-3-1
+1035490,2024-04-07T14:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,556,Old Trafford,Manchester,A. Taylor,33,Manchester United,40,Liverpool,2,2,4-2-3-1,4-3-3
+1035491,2024-04-07T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,581,Bramall Lane,Sheffield,R. Jones,62,Sheffield Utd,49,Chelsea,2,2,3-5-2,4-2-3-1
+1035492,2024-04-07T17:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,593,Tottenham Hotspur Stadium,London,S. Hooper,47,Tottenham,65,Nottingham Forest,3,1,4-2-3-1,4-2-3-1
+1035493,2024-04-06T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 32,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",T. Harrington,39,Wolves,48,West Ham,1,2,3-4-2-1,4-2-3-1
+1035494,2024-04-13T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",T. Harrington,35,Bournemouth,33,Manchester United,2,2,4-2-3-1,4-2-3-1
+1035495,2024-04-14T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,494,Emirates Stadium,London,D. Coote,42,Arsenal,66,Aston Villa,0,2,4-3-3,4-2-3-1
+1035496,2024-04-13T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",S. Barrott,55,Brentford,62,Sheffield Utd,2,0,4-3-3,3-5-2
+1035497,2024-04-13T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,512,Turf Moor,Burnley,S. Hooper,44,Burnley,51,Brighton,1,1,4-4-2,4-2-3-1
+1035498,2024-04-15T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,519,Stamford Bridge,London,P. Tierney,49,Chelsea,45,Everton,6,0,4-2-3-1,4-4-1-1
+1035499,2024-04-14T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,550,Anfield,Liverpool,C. Kavanagh,40,Liverpool,52,Crystal Palace,0,1,4-3-3,3-4-3
+1035500,2024-04-13T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,555,Etihad Stadium,Manchester,J. Brooks,50,Manchester City,1359,Luton,5,1,4-2-3-1,3-4-2-1
+1035501,2024-04-13T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,562,St. James' Park,Newcastle upon Tyne,T. Robinson,34,Newcastle,47,Tottenham,4,0,4-3-3,4-2-3-1
+1035502,2024-04-13T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",C. Pawson,65,Nottingham Forest,39,Wolves,2,2,4-2-3-1,3-4-1-2
+1035503,2024-04-14T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 33,39,Premier League,598,London Stadium,London,S. Attwell,48,West Ham,36,Fulham,0,2,4-2-3-1,4-2-3-1
+1035504,2024-04-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,495,Villa Park,Birmingham,T. Robinson,66,Aston Villa,35,Bournemouth,3,1,4-2-3-1,4-2-3-1
+1035505,2024-05-15T18:45:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",M. Salisbury,51,Brighton,49,Chelsea,1,2,4-2-3-1,4-2-3-1
+1035506,2024-04-21T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,525,Selhurst Park,London,G. Scott,52,Crystal Palace,48,West Ham,5,2,3-4-2-1,4-2-3-1
+1035507,2024-04-21T12:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,8560,Goodison Park,Liverpool,A. Taylor,45,Everton,65,Nottingham Forest,2,0,4-1-4-1,4-2-3-1
+1035508,2024-04-21T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,535,Craven Cottage,London,C. Pawson,36,Fulham,40,Liverpool,1,3,4-2-3-1,4-3-3
+1035509,2024-04-20T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",J. Gillett,1359,Luton,55,Brentford,1,5,3-4-2-1,4-3-3
+1035510,2024-05-15T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,556,Old Trafford,Manchester,R. Jones,33,Manchester United,34,Newcastle,3,2,4-2-2-2,4-3-3
+1035511,2024-04-20T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,581,Bramall Lane,Sheffield,A. Madley,62,Sheffield Utd,44,Burnley,1,4,4-2-3-1,4-4-2
+1035512,2024-05-14T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,593,Tottenham Hotspur Stadium,London,C. Kavanagh,47,Tottenham,50,Manchester City,0,2,4-3-1-2,4-2-3-1
+1035513,2024-04-20T18:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 34,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",P. Tierney,39,Wolves,42,Arsenal,0,2,4-4-2,4-3-3
+1035514,2024-04-28T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,35,Bournemouth,51,Brighton,3,0,4-4-2,4-2-3-1
+1035515,2024-04-27T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,495,Villa Park,Birmingham,C. Pawson,66,Aston Villa,49,Chelsea,2,2,4-4-1-1,4-2-3-1
+1035516,2024-04-27T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,8560,Goodison Park,Liverpool,D. England,45,Everton,55,Brentford,1,0,4-4-1-1,4-3-3
+1035517,2024-04-27T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,535,Craven Cottage,London,S. Attwell,36,Fulham,52,Crystal Palace,1,1,4-2-3-1,3-4-2-1
+1035518,2024-04-27T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,556,Old Trafford,Manchester,J. Brooks,33,Manchester United,44,Burnley,1,1,4-2-3-1,4-4-2
+1035519,2024-04-27T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,562,St. James' Park,Newcastle upon Tyne,T. Harrington,34,Newcastle,62,Sheffield Utd,5,1,4-3-3,3-5-2
+1035520,2024-04-28T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,65,Nottingham Forest,50,Manchester City,0,2,5-4-1,4-1-4-1
+1035521,2024-04-28T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,593,Tottenham Hotspur Stadium,London,M. Oliver,47,Tottenham,42,Arsenal,2,3,4-2-3-1,4-3-3
+1035522,2024-04-27T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,598,London Stadium,London,A. Taylor,48,West Ham,40,Liverpool,2,2,4-2-3-1,4-3-3
+1035523,2024-04-27T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 35,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,39,Wolves,1359,Luton,2,1,3-5-1-1,3-4-2-1
+1035524,2024-05-04T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,494,Emirates Stadium,London,D. Coote,42,Arsenal,35,Bournemouth,3,0,4-3-3,4-3-3
+1035525,2024-05-04T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",G. Scott,55,Brentford,36,Fulham,0,0,4-3-3,4-2-3-1
+1035526,2024-05-05T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",R. Jones,51,Brighton,66,Aston Villa,1,0,4-2-3-1,4-2-3-1
+1035527,2024-05-04T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,512,Turf Moor,Burnley,A. Taylor,44,Burnley,34,Newcastle,1,4,4-2-3-1,4-4-2
+1035528,2024-05-05T13:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,519,Stamford Bridge,London,A. Madley,49,Chelsea,48,West Ham,5,0,4-2-3-1,4-2-3-1
+1035529,2024-05-06T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,525,Selhurst Park,London,J. Gillett,52,Crystal Palace,33,Manchester United,4,0,3-4-2-1,4-2-3-1
+1035530,2024-05-05T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,550,Anfield,Liverpool,P. Tierney,40,Liverpool,47,Tottenham,4,2,4-3-3,4-3-3
+1035531,2024-05-03T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",T. Robinson,1359,Luton,45,Everton,1,1,3-4-2-1,4-4-1-1
+1035532,2024-05-04T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,555,Etihad Stadium,Manchester,C. Pawson,50,Manchester City,39,Wolves,5,1,4-2-3-1,3-5-2
+1035533,2024-05-04T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 36,39,Premier League,581,Bramall Lane,Sheffield,C. Kavanagh,62,Sheffield Utd,65,Nottingham Forest,1,3,3-5-2,4-2-3-1
+1035534,2024-05-11T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,504,Vitality Stadium,"Bournemouth, Dorset",M. Donohue,35,Bournemouth,55,Brentford,1,2,4-2-3-1,4-3-3
+1035535,2024-05-13T19:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,495,Villa Park,Birmingham,S. Hooper,66,Aston Villa,40,Liverpool,3,3,4-2-3-1,4-3-3
+1035536,2024-05-11T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,8560,Goodison Park,Liverpool,S. Attwell,45,Everton,62,Sheffield Utd,1,0,4-4-1-1,3-5-2
+1035537,2024-05-11T11:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,535,Craven Cottage,London,A. Taylor,36,Fulham,50,Manchester City,0,4,4-2-3-1,4-2-3-1
+1035538,2024-05-12T15:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,556,Old Trafford,Manchester,P. Tierney,33,Manchester United,42,Arsenal,0,1,4-2-3-1,4-3-3
+1035539,2024-05-11T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,562,St. James' Park,Newcastle upon Tyne,D. England,34,Newcastle,51,Brighton,1,1,4-3-3,4-2-3-1
+1035540,2024-05-11T16:30:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,566,The City Ground,"Nottingham, Nottinghamshire",T. Harrington,65,Nottingham Forest,49,Chelsea,2,3,5-4-1,4-2-3-1
+1035541,2024-05-11T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,593,Tottenham Hotspur Stadium,London,J. Gillett,47,Tottenham,44,Burnley,2,1,4-3-3,4-4-2
+1035542,2024-05-11T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,598,London Stadium,London,M. Oliver,48,West Ham,1359,Luton,3,1,4-2-3-1,3-4-2-1
+1035543,2024-05-11T14:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 37,39,Premier League,600,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,39,Wolves,52,Crystal Palace,1,3,3-5-1-1,3-4-2-1
+1035544,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,494,Emirates Stadium,London,M. Oliver,42,Arsenal,45,Everton,2,1,4-3-3,4-4-1-1
+1035545,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,10503,Gtech Community Stadium,"Brentford, Middlesex",S. Hooper,55,Brentford,34,Newcastle,2,4,4-3-3,4-3-3
+1035546,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,508,American Express Stadium,"Falmer, East Sussex",C. Pawson,51,Brighton,33,Manchester United,0,2,4-2-3-1,4-2-2-2
+1035547,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,512,Turf Moor,Burnley,G. Scott,44,Burnley,65,Nottingham Forest,1,2,4-4-2,4-2-3-1
+1035548,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,519,Stamford Bridge,London,A. Taylor,49,Chelsea,35,Bournemouth,2,1,4-2-3-1,4-2-3-1
+1035549,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,525,Selhurst Park,London,D. Bond,52,Crystal Palace,66,Aston Villa,5,0,3-4-2-1,4-4-2
+1035550,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,550,Anfield,Liverpool,C. Kavanagh,40,Liverpool,39,Wolves,2,0,4-3-3,3-5-1-1
+1035551,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,551,Kenilworth Road,"Luton, Bedfordshire",M. Donohue,1359,Luton,36,Fulham,2,4,3-4-3,4-2-3-1
+1035552,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,555,Etihad Stadium,Manchester,J. Brooks,50,Manchester City,48,West Ham,3,1,4-1-4-1,3-4-3
+1035553,2024-05-19T15:00:00+00:00,UTC,FT,Match Finished,2023,Regular Season - 38,39,Premier League,581,Bramall Lane,Sheffield,A. Madley,62,Sheffield Utd,47,Tottenham,0,3,5-3-2,4-2-3-1
