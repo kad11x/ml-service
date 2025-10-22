@@ -23,7 +23,8 @@ class Scraper:
         self.year = str(year)
         # keep your header style (do not hardcode your key here)
         self.headers = {"X-RapidAPI-Key": "***"}
-        self.league = "39"  # EPL
+        self.league = "39"  # EPL # add championship for the teams that have been added to premier league and for the rest days to be complete, we need to add international break, turnements and so on: 
+        # international break, FA cup, Carabao cup, comunity shield, championse legue, europa and confrance.  
 
         os.makedirs(RAW_DIR, exist_ok=True)
 
