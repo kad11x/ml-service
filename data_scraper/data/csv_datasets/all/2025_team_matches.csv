@@ -1,0 +1,245 @@
+fixture_id,date_utc,season,round,league_id,league_name,country,team_id,team_name,opponent_id,opponent,goals_for,goals_against,is_home
+1378977,2025-08-17 15:30:00,2025,Regular Season - 1,39,Premier League,England,33,Manchester United,42,Arsenal,0,1,True
+1378985,2025-08-24 15:30:00,2025,Regular Season - 2,39,Premier League,England,33,Manchester United,36,Fulham,1,1,False
+1378994,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,33,Manchester United,44,Burnley,3,2,True
+1379006,2025-09-14 15:30:00,2025,Regular Season - 4,39,Premier League,England,33,Manchester United,50,Manchester City,0,3,False
+1379015,2025-09-20 16:30:00,2025,Regular Season - 5,39,Premier League,England,33,Manchester United,49,Chelsea,2,1,True
+1379020,2025-09-27 11:30:00,2025,Regular Season - 6,39,Premier League,England,33,Manchester United,55,Brentford,1,3,False
+1379036,2025-10-04 14:00:00,2025,Regular Season - 7,39,Premier League,England,33,Manchester United,746,Sunderland,2,0,True
+1379043,2025-10-19 15:30:00,2025,Regular Season - 8,39,Premier League,England,33,Manchester United,40,Liverpool,2,1,False
+1378970,2025-08-16 11:30:00,2025,Regular Season - 1,39,Premier League,England,34,Newcastle,66,Aston Villa,0,0,False
+1378987,2025-08-25 19:00:00,2025,Regular Season - 2,39,Premier League,England,34,Newcastle,40,Liverpool,2,3,True
+1378992,2025-08-30 16:30:00,2025,Regular Season - 3,39,Premier League,England,34,Newcastle,63,Leeds,0,0,False
+1379007,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,34,Newcastle,39,Wolves,1,0,True
+1451036,2025-09-18 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,34,Newcastle,529,Barcelona,1,2,True
+1379010,2025-09-21 13:00:00,2025,Regular Season - 5,39,Premier League,England,34,Newcastle,35,Bournemouth,0,0,False
+1457282,2025-09-24 18:45:00,2025,3rd Round,48,League Cup,England,34,Newcastle,1343,Bradford,4,1,True
+1379026,2025-09-28 15:30:00,2025,Regular Season - 6,39,Premier League,England,34,Newcastle,42,Arsenal,1,2,True
+1451048,2025-10-01 16:45:00,2025,League Stage - 2,2,UEFA Champions League,World,34,Newcastle,1393,Union St. Gilloise,4,0,False
+1379037,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,34,Newcastle,65,Nottingham Forest,2,0,True
+1379039,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,34,Newcastle,51,Brighton,1,2,False
+1451064,2025-10-21 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,34,Newcastle,211,Benfica,3,0,True
+1378969,2025-08-15 19:00:00,2025,Regular Season - 1,39,Premier League,England,35,Bournemouth,40,Liverpool,2,4,False
+1378980,2025-08-23 14:00:00,2025,Regular Season - 2,39,Premier League,England,35,Bournemouth,39,Wolves,1,0,True
+1436273,2025-08-26 18:45:00,2025,2nd Round,48,League Cup,England,35,Bournemouth,55,Brentford,0,2,True
+1378997,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,35,Bournemouth,47,Tottenham,1,0,False
+1379000,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,35,Bournemouth,51,Brighton,2,1,True
+1379010,2025-09-21 13:00:00,2025,Regular Season - 5,39,Premier League,England,35,Bournemouth,34,Newcastle,0,0,True
+1379024,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,35,Bournemouth,63,Leeds,2,2,False
+1379031,2025-10-03 19:00:00,2025,Regular Season - 7,39,Premier League,England,35,Bournemouth,36,Fulham,3,1,True
+1379041,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,35,Bournemouth,52,Crystal Palace,3,3,False
+1378971,2025-08-16 14:00:00,2025,Regular Season - 1,39,Premier League,England,36,Fulham,51,Brighton,1,1,False
+1378985,2025-08-24 15:30:00,2025,Regular Season - 2,39,Premier League,England,36,Fulham,33,Manchester United,1,1,True
+1436265,2025-08-27 18:45:00,2025,2nd Round,48,League Cup,England,36,Fulham,56,Bristol City,2,0,True
+1378991,2025-08-30 11:30:00,2025,Regular Season - 3,39,Premier League,England,36,Fulham,49,Chelsea,0,2,False
+1379005,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,36,Fulham,63,Leeds,1,0,True
+1379013,2025-09-20 19:00:00,2025,Regular Season - 5,39,Premier League,England,36,Fulham,55,Brentford,3,1,True
+1457273,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,36,Fulham,1370,Cambridge United,1,0,True
+1379019,2025-09-28 13:00:00,2025,Regular Season - 6,39,Premier League,England,36,Fulham,66,Aston Villa,1,3,False
+1379031,2025-10-03 19:00:00,2025,Regular Season - 7,39,Premier League,England,36,Fulham,35,Bournemouth,1,3,False
+1379042,2025-10-18 16:30:00,2025,Regular Season - 8,39,Premier League,England,36,Fulham,42,Arsenal,0,1,True
+1457281,2025-09-24 18:45:00,2025,3rd Round,48,League Cup,England,37,Huddersfield,50,Manchester City,0,2,True
+1378975,2025-08-16 16:30:00,2025,Regular Season - 1,39,Premier League,England,39,Wolves,50,Manchester City,0,4,True
+1378980,2025-08-23 14:00:00,2025,Regular Season - 2,39,Premier League,England,39,Wolves,35,Bournemouth,0,1,False
+1436269,2025-08-26 18:30:00,2025,2nd Round,48,League Cup,England,39,Wolves,48,West Ham,3,2,True
+1378998,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,39,Wolves,45,Everton,2,3,True
+1379007,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,39,Wolves,34,Newcastle,0,1,False
+1379018,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,39,Wolves,63,Leeds,1,3,True
+1457274,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,39,Wolves,45,Everton,2,0,True
+1379028,2025-09-27 19:00:00,2025,Regular Season - 6,39,Premier League,England,39,Wolves,47,Tottenham,1,1,False
+1379038,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,39,Wolves,51,Brighton,1,1,True
+1379046,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,39,Wolves,746,Sunderland,0,2,False
+1378969,2025-08-15 19:00:00,2025,Regular Season - 1,39,Premier League,England,40,Liverpool,35,Bournemouth,4,2,True
+1378987,2025-08-25 19:00:00,2025,Regular Season - 2,39,Premier League,England,40,Liverpool,34,Newcastle,3,2,False
+1378993,2025-08-31 15:30:00,2025,Regular Season - 3,39,Premier League,England,40,Liverpool,42,Arsenal,1,0,True
+1379002,2025-09-14 13:00:00,2025,Regular Season - 4,39,Premier League,England,40,Liverpool,44,Burnley,1,0,False
+1451030,2025-09-17 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,40,Liverpool,530,Atletico Madrid,3,2,True
+1379014,2025-09-20 11:30:00,2025,Regular Season - 5,39,Premier League,England,40,Liverpool,45,Everton,2,1,True
+1457279,2025-09-23 19:00:00,2025,3rd Round,48,League Cup,England,40,Liverpool,41,Southampton,2,1,True
+1379022,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,40,Liverpool,52,Crystal Palace,1,2,False
+1451046,2025-09-30 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,40,Liverpool,645,Galatasaray,0,1,False
+1379033,2025-10-04 16:30:00,2025,Regular Season - 7,39,Premier League,England,40,Liverpool,49,Chelsea,1,2,False
+1379043,2025-10-19 15:30:00,2025,Regular Season - 8,39,Premier League,England,40,Liverpool,33,Manchester United,1,2,True
+1451069,2025-10-22 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,40,Liverpool,169,Eintracht Frankfurt,5,1,False
+1457279,2025-09-23 19:00:00,2025,3rd Round,48,League Cup,England,41,Southampton,40,Liverpool,1,2,False
+1378977,2025-08-17 15:30:00,2025,Regular Season - 1,39,Premier League,England,42,Arsenal,33,Manchester United,1,0,False
+1378979,2025-08-23 16:30:00,2025,Regular Season - 2,39,Premier League,England,42,Arsenal,63,Leeds,5,0,True
+1378993,2025-08-31 15:30:00,2025,Regular Season - 3,39,Premier League,England,42,Arsenal,40,Liverpool,0,1,False
+1378999,2025-09-13 11:30:00,2025,Regular Season - 4,39,Premier League,England,42,Arsenal,65,Nottingham Forest,3,0,True
+1451021,2025-09-16 16:45:00,2025,League Stage - 1,2,UEFA Champions League,World,42,Arsenal,531,Athletic Club,2,0,False
+1379009,2025-09-21 15:30:00,2025,Regular Season - 5,39,Premier League,England,42,Arsenal,50,Manchester City,1,1,True
+1457283,2025-09-24 19:00:00,2025,3rd Round,48,League Cup,England,42,Arsenal,1351,Port Vale,2,0,False
+1379026,2025-09-28 15:30:00,2025,Regular Season - 6,39,Premier League,England,42,Arsenal,34,Newcastle,2,1,False
+1451052,2025-10-01 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,42,Arsenal,553,Olympiakos Piraeus,2,0,True
+1379029,2025-10-04 14:00:00,2025,Regular Season - 7,39,Premier League,England,42,Arsenal,48,West Ham,2,0,True
+1379042,2025-10-18 16:30:00,2025,Regular Season - 8,39,Premier League,England,42,Arsenal,36,Fulham,1,0,False
+1451061,2025-10-21 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,42,Arsenal,530,Atletico Madrid,4,0,True
+1457276,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,43,Cardiff,44,Burnley,2,1,False
+1378974,2025-08-16 14:00:00,2025,Regular Season - 1,39,Premier League,England,44,Burnley,47,Tottenham,0,3,False
+1378982,2025-08-23 14:00:00,2025,Regular Season - 2,39,Premier League,England,44,Burnley,746,Sunderland,2,0,True
+1436801,2025-08-26 18:45:00,2025,2nd Round,48,League Cup,England,44,Burnley,69,Derby,2,1,True
+1378994,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,44,Burnley,33,Manchester United,2,3,False
+1379002,2025-09-14 13:00:00,2025,Regular Season - 4,39,Premier League,England,44,Burnley,40,Liverpool,0,1,True
+1379012,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,44,Burnley,65,Nottingham Forest,1,1,True
+1457276,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,44,Burnley,43,Cardiff,1,2,True
+1379025,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,44,Burnley,50,Manchester City,1,5,False
+1379030,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,44,Burnley,66,Aston Villa,1,2,False
+1379040,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,44,Burnley,63,Leeds,2,0,True
+1378978,2025-08-18 19:00:00,2025,Regular Season - 1,39,Premier League,England,45,Everton,63,Leeds,0,1,False
+1378984,2025-08-24 13:00:00,2025,Regular Season - 2,39,Premier League,England,45,Everton,51,Brighton,2,0,True
+1436799,2025-08-27 19:00:00,2025,2nd Round,48,League Cup,England,45,Everton,1374,Mansfield Town,2,0,True
+1378998,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,45,Everton,39,Wolves,3,2,False
+1379004,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,45,Everton,66,Aston Villa,0,0,True
+1379014,2025-09-20 11:30:00,2025,Regular Season - 5,39,Premier League,England,45,Everton,40,Liverpool,1,2,False
+1457274,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,45,Everton,39,Wolves,0,2,False
+1379023,2025-09-29 19:00:00,2025,Regular Season - 6,39,Premier League,England,45,Everton,48,West Ham,1,1,True
+1379034,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,45,Everton,52,Crystal Palace,2,1,True
+1379044,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,45,Everton,50,Manchester City,0,2,False
+1378974,2025-08-16 14:00:00,2025,Regular Season - 1,39,Premier League,England,47,Tottenham,44,Burnley,3,0,True
+1378986,2025-08-23 11:30:00,2025,Regular Season - 2,39,Premier League,England,47,Tottenham,50,Manchester City,2,0,False
+1378997,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,47,Tottenham,35,Bournemouth,0,1,True
+1379008,2025-09-13 16:30:00,2025,Regular Season - 4,39,Premier League,England,47,Tottenham,48,West Ham,3,0,False
+1451023,2025-09-16 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,47,Tottenham,533,Villarreal,1,0,True
+1379011,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,47,Tottenham,51,Brighton,2,2,False
+1457280,2025-09-24 18:45:00,2025,3rd Round,48,League Cup,England,47,Tottenham,1354,Doncaster,3,0,True
+1379028,2025-09-27 19:00:00,2025,Regular Season - 6,39,Premier League,England,47,Tottenham,39,Wolves,1,1,True
+1451044,2025-09-30 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,47,Tottenham,327,Bodo/Glimt,2,2,False
+1379035,2025-10-04 11:30:00,2025,Regular Season - 7,39,Premier League,England,47,Tottenham,63,Leeds,2,1,False
+1379047,2025-10-19 13:00:00,2025,Regular Season - 8,39,Premier League,England,47,Tottenham,66,Aston Villa,1,2,True
+1451067,2025-10-22 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,47,Tottenham,91,Monaco,0,0,False
+1378973,2025-08-16 14:00:00,2025,Regular Season - 1,39,Premier League,England,48,West Ham,746,Sunderland,0,3,False
+1378988,2025-08-22 19:00:00,2025,Regular Season - 2,39,Premier League,England,48,West Ham,49,Chelsea,1,5,True
+1436269,2025-08-26 18:30:00,2025,2nd Round,48,League Cup,England,48,West Ham,39,Wolves,2,3,False
+1378995,2025-08-31 13:00:00,2025,Regular Season - 3,39,Premier League,England,48,West Ham,65,Nottingham Forest,3,0,False
+1379008,2025-09-13 16:30:00,2025,Regular Season - 4,39,Premier League,England,48,West Ham,47,Tottenham,0,3,True
+1379017,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,48,West Ham,52,Crystal Palace,1,2,True
+1379023,2025-09-29 19:00:00,2025,Regular Season - 6,39,Premier League,England,48,West Ham,45,Everton,1,1,False
+1379029,2025-10-04 14:00:00,2025,Regular Season - 7,39,Premier League,England,48,West Ham,42,Arsenal,0,2,False
+1379048,2025-10-20 19:00:00,2025,Regular Season - 8,39,Premier League,England,48,West Ham,55,Brentford,0,2,True
+1378976,2025-08-17 13:00:00,2025,Regular Season - 1,39,Premier League,England,49,Chelsea,52,Crystal Palace,0,0,True
+1378988,2025-08-22 19:00:00,2025,Regular Season - 2,39,Premier League,England,49,Chelsea,48,West Ham,5,1,False
+1378991,2025-08-30 11:30:00,2025,Regular Season - 3,39,Premier League,England,49,Chelsea,36,Fulham,2,0,True
+1379001,2025-09-13 19:00:00,2025,Regular Season - 4,39,Premier League,England,49,Chelsea,55,Brentford,2,2,False
+1451031,2025-09-17 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,49,Chelsea,157,Bayern München,1,3,False
+1379015,2025-09-20 16:30:00,2025,Regular Season - 5,39,Premier League,England,49,Chelsea,33,Manchester United,1,2,False
+1457278,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,49,Chelsea,1379,Lincoln,2,1,False
+1379021,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,49,Chelsea,51,Brighton,1,3,True
+1451042,2025-09-30 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,49,Chelsea,211,Benfica,1,0,True
+1379033,2025-10-04 16:30:00,2025,Regular Season - 7,39,Premier League,England,49,Chelsea,40,Liverpool,2,1,True
+1379045,2025-10-18 11:30:00,2025,Regular Season - 8,39,Premier League,England,49,Chelsea,65,Nottingham Forest,3,0,False
+1451070,2025-10-22 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,49,Chelsea,194,Ajax,5,1,True
+1378975,2025-08-16 16:30:00,2025,Regular Season - 1,39,Premier League,England,50,Manchester City,39,Wolves,4,0,False
+1378986,2025-08-23 11:30:00,2025,Regular Season - 2,39,Premier League,England,50,Manchester City,47,Tottenham,0,2,True
+1378990,2025-08-31 13:00:00,2025,Regular Season - 3,39,Premier League,England,50,Manchester City,51,Brighton,1,2,False
+1379006,2025-09-14 15:30:00,2025,Regular Season - 4,39,Premier League,England,50,Manchester City,33,Manchester United,3,0,True
+1451037,2025-09-18 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,50,Manchester City,492,Napoli,2,0,True
+1379009,2025-09-21 15:30:00,2025,Regular Season - 5,39,Premier League,England,50,Manchester City,42,Arsenal,1,1,False
+1457281,2025-09-24 18:45:00,2025,3rd Round,48,League Cup,England,50,Manchester City,37,Huddersfield,2,0,False
+1379025,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,50,Manchester City,44,Burnley,5,1,True
+1451051,2025-10-01 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,50,Manchester City,91,Monaco,2,2,False
+1379032,2025-10-05 15:30:00,2025,Regular Season - 7,39,Premier League,England,50,Manchester City,55,Brentford,1,0,False
+1379044,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,50,Manchester City,45,Everton,2,0,True
+1451063,2025-10-21 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,50,Manchester City,533,Villarreal,2,0,False
+1378971,2025-08-16 14:00:00,2025,Regular Season - 1,39,Premier League,England,51,Brighton,36,Fulham,1,1,True
+1378984,2025-08-24 13:00:00,2025,Regular Season - 2,39,Premier League,England,51,Brighton,45,Everton,0,2,False
+1436259,2025-08-27 18:45:00,2025,2nd Round,48,League Cup,England,51,Brighton,1338,Oxford United,6,0,False
+1378990,2025-08-31 13:00:00,2025,Regular Season - 3,39,Premier League,England,51,Brighton,50,Manchester City,2,1,True
+1379000,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,51,Brighton,35,Bournemouth,1,2,False
+1379011,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,51,Brighton,47,Tottenham,2,2,True
+1457277,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,51,Brighton,747,Barnsley,6,0,False
+1379021,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,51,Brighton,49,Chelsea,3,1,False
+1379038,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,51,Brighton,39,Wolves,1,1,False
+1379039,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,51,Brighton,34,Newcastle,2,1,True
+1378976,2025-08-17 13:00:00,2025,Regular Season - 1,39,Premier League,England,52,Crystal Palace,49,Chelsea,0,0,False
+1438706,2025-08-21 19:00:00,2025,Playoff round,848,UEFA Europa Conference League,World,52,Crystal Palace,2149,Fredrikstad,1,0,True
+1378983,2025-08-24 13:00:00,2025,Regular Season - 2,39,Premier League,England,52,Crystal Palace,65,Nottingham Forest,1,1,True
+1438711,2025-08-28 16:00:00,2025,Playoff round,848,UEFA Europa Conference League,World,52,Crystal Palace,2149,Fredrikstad,0,0,False
+1378989,2025-08-31 18:00:00,2025,Regular Season - 3,39,Premier League,England,52,Crystal Palace,66,Aston Villa,3,0,False
+1379003,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,52,Crystal Palace,746,Sunderland,0,0,True
+1379017,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,52,Crystal Palace,48,West Ham,2,1,False
+1379022,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,52,Crystal Palace,40,Liverpool,2,1,True
+1451358,2025-10-02 16:45:00,2025,League Stage - 1,848,UEFA Europa Conference League,World,52,Crystal Palace,572,Dynamo Kyiv,2,0,False
+1379034,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,52,Crystal Palace,45,Everton,1,2,False
+1379041,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,52,Crystal Palace,35,Bournemouth,3,3,True
+1378972,2025-08-17 13:00:00,2025,Regular Season - 1,39,Premier League,England,55,Brentford,65,Nottingham Forest,1,3,False
+1378981,2025-08-23 14:00:00,2025,Regular Season - 2,39,Premier League,England,55,Brentford,66,Aston Villa,1,0,True
+1436273,2025-08-26 18:45:00,2025,2nd Round,48,League Cup,England,55,Brentford,35,Bournemouth,2,0,False
+1378996,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,55,Brentford,746,Sunderland,1,2,False
+1379001,2025-09-13 19:00:00,2025,Regular Season - 4,39,Premier League,England,55,Brentford,49,Chelsea,2,2,True
+1379013,2025-09-20 19:00:00,2025,Regular Season - 5,39,Premier League,England,55,Brentford,36,Fulham,1,3,False
+1379020,2025-09-27 11:30:00,2025,Regular Season - 6,39,Premier League,England,55,Brentford,33,Manchester United,3,1,True
+1379032,2025-10-05 15:30:00,2025,Regular Season - 7,39,Premier League,England,55,Brentford,50,Manchester City,0,1,True
+1379048,2025-10-20 19:00:00,2025,Regular Season - 8,39,Premier League,England,55,Brentford,48,West Ham,2,0,False
+1436265,2025-08-27 18:45:00,2025,2nd Round,48,League Cup,England,56,Bristol City,36,Fulham,0,2,False
+1378978,2025-08-18 19:00:00,2025,Regular Season - 1,39,Premier League,England,63,Leeds,45,Everton,1,0,True
+1378979,2025-08-23 16:30:00,2025,Regular Season - 2,39,Premier League,England,63,Leeds,42,Arsenal,0,5,False
+1378992,2025-08-30 16:30:00,2025,Regular Season - 3,39,Premier League,England,63,Leeds,34,Newcastle,0,0,True
+1379005,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,63,Leeds,36,Fulham,0,1,False
+1379018,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,63,Leeds,39,Wolves,3,1,False
+1379024,2025-09-27 14:00:00,2025,Regular Season - 6,39,Premier League,England,63,Leeds,35,Bournemouth,2,2,True
+1379035,2025-10-04 11:30:00,2025,Regular Season - 7,39,Premier League,England,63,Leeds,47,Tottenham,1,2,True
+1379040,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,63,Leeds,44,Burnley,0,2,False
+1378972,2025-08-17 13:00:00,2025,Regular Season - 1,39,Premier League,England,65,Nottingham Forest,55,Brentford,3,1,True
+1378983,2025-08-24 13:00:00,2025,Regular Season - 2,39,Premier League,England,65,Nottingham Forest,52,Crystal Palace,1,1,False
+1378995,2025-08-31 13:00:00,2025,Regular Season - 3,39,Premier League,England,65,Nottingham Forest,48,West Ham,0,3,True
+1378999,2025-09-13 11:30:00,2025,Regular Season - 4,39,Premier League,England,65,Nottingham Forest,42,Arsenal,0,3,False
+1457271,2025-09-17 19:00:00,2025,3rd Round,48,League Cup,England,65,Nottingham Forest,76,Swansea,2,3,False
+1379012,2025-09-20 14:00:00,2025,Regular Season - 5,39,Premier League,England,65,Nottingham Forest,44,Burnley,1,1,False
+1451170,2025-09-24 19:00:00,2025,League Stage - 1,3,UEFA Europa League,World,65,Nottingham Forest,543,Real Betis,2,2,False
+1379027,2025-09-27 16:30:00,2025,Regular Season - 6,39,Premier League,England,65,Nottingham Forest,746,Sunderland,0,1,True
+1451194,2025-10-02 19:00:00,2025,League Stage - 2,3,UEFA Europa League,World,65,Nottingham Forest,397,FC Midtjylland,2,3,True
+1379037,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,65,Nottingham Forest,34,Newcastle,0,2,False
+1379045,2025-10-18 11:30:00,2025,Regular Season - 8,39,Premier League,England,65,Nottingham Forest,49,Chelsea,0,3,True
+1378970,2025-08-16 11:30:00,2025,Regular Season - 1,39,Premier League,England,66,Aston Villa,34,Newcastle,0,0,True
+1378981,2025-08-23 14:00:00,2025,Regular Season - 2,39,Premier League,England,66,Aston Villa,55,Brentford,0,1,False
+1378989,2025-08-31 18:00:00,2025,Regular Season - 3,39,Premier League,England,66,Aston Villa,52,Crystal Palace,0,3,True
+1379004,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,66,Aston Villa,45,Everton,0,0,False
+1379016,2025-09-21 13:00:00,2025,Regular Season - 5,39,Premier League,England,66,Aston Villa,746,Sunderland,1,1,False
+1451176,2025-09-25 19:00:00,2025,League Stage - 1,3,UEFA Europa League,World,66,Aston Villa,500,Bologna,1,0,True
+1379019,2025-09-28 13:00:00,2025,Regular Season - 6,39,Premier League,England,66,Aston Villa,36,Fulham,3,1,True
+1452155,2025-10-02 19:00:00,2025,League Stage - 2,3,UEFA Europa League,World,66,Aston Villa,209,Feyenoord,2,0,False
+1379030,2025-10-05 13:00:00,2025,Regular Season - 7,39,Premier League,England,66,Aston Villa,44,Burnley,2,1,True
+1379047,2025-10-19 13:00:00,2025,Regular Season - 8,39,Premier League,England,66,Aston Villa,47,Tottenham,2,1,False
+1436801,2025-08-26 18:45:00,2025,2nd Round,48,League Cup,England,69,Derby,44,Burnley,1,2,False
+1457271,2025-09-17 19:00:00,2025,3rd Round,48,League Cup,England,76,Swansea,65,Nottingham Forest,3,2,True
+1451051,2025-10-01 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,91,Monaco,50,Manchester City,2,2,True
+1451067,2025-10-22 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,91,Monaco,47,Tottenham,0,0,True
+1451031,2025-09-17 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,157,Bayern München,49,Chelsea,3,1,True
+1451069,2025-10-22 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,169,Eintracht Frankfurt,40,Liverpool,1,5,True
+1451070,2025-10-22 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,194,Ajax,49,Chelsea,1,5,False
+1452155,2025-10-02 19:00:00,2025,League Stage - 2,3,UEFA Europa League,World,209,Feyenoord,66,Aston Villa,0,2,True
+1451042,2025-09-30 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,211,Benfica,49,Chelsea,0,1,False
+1451064,2025-10-21 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,211,Benfica,34,Newcastle,0,3,False
+1451044,2025-09-30 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,327,Bodo/Glimt,47,Tottenham,2,2,True
+1451194,2025-10-02 19:00:00,2025,League Stage - 2,3,UEFA Europa League,World,397,FC Midtjylland,65,Nottingham Forest,3,2,False
+1451037,2025-09-18 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,492,Napoli,50,Manchester City,0,2,False
+1451176,2025-09-25 19:00:00,2025,League Stage - 1,3,UEFA Europa League,World,500,Bologna,66,Aston Villa,0,1,False
+1451036,2025-09-18 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,529,Barcelona,34,Newcastle,2,1,False
+1451030,2025-09-17 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,530,Atletico Madrid,40,Liverpool,2,3,False
+1451061,2025-10-21 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,530,Atletico Madrid,42,Arsenal,0,4,False
+1451021,2025-09-16 16:45:00,2025,League Stage - 1,2,UEFA Champions League,World,531,Athletic Club,42,Arsenal,0,2,True
+1451023,2025-09-16 19:00:00,2025,League Stage - 1,2,UEFA Champions League,World,533,Villarreal,47,Tottenham,0,1,False
+1451063,2025-10-21 19:00:00,2025,League Stage - 3,2,UEFA Champions League,World,533,Villarreal,50,Manchester City,0,2,True
+1451170,2025-09-24 19:00:00,2025,League Stage - 1,3,UEFA Europa League,World,543,Real Betis,65,Nottingham Forest,2,2,True
+1451052,2025-10-01 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,553,Olympiakos Piraeus,42,Arsenal,0,2,False
+1451358,2025-10-02 16:45:00,2025,League Stage - 1,848,UEFA Europa Conference League,World,572,Dynamo Kyiv,52,Crystal Palace,0,2,True
+1451046,2025-09-30 19:00:00,2025,League Stage - 2,2,UEFA Champions League,World,645,Galatasaray,40,Liverpool,1,0,True
+1378973,2025-08-16 14:00:00,2025,Regular Season - 1,39,Premier League,England,746,Sunderland,48,West Ham,3,0,True
+1378982,2025-08-23 14:00:00,2025,Regular Season - 2,39,Premier League,England,746,Sunderland,44,Burnley,0,2,False
+1378996,2025-08-30 14:00:00,2025,Regular Season - 3,39,Premier League,England,746,Sunderland,55,Brentford,2,1,True
+1379003,2025-09-13 14:00:00,2025,Regular Season - 4,39,Premier League,England,746,Sunderland,52,Crystal Palace,0,0,False
+1379016,2025-09-21 13:00:00,2025,Regular Season - 5,39,Premier League,England,746,Sunderland,66,Aston Villa,1,1,True
+1379027,2025-09-27 16:30:00,2025,Regular Season - 6,39,Premier League,England,746,Sunderland,65,Nottingham Forest,1,0,False
+1379036,2025-10-04 14:00:00,2025,Regular Season - 7,39,Premier League,England,746,Sunderland,33,Manchester United,0,2,False
+1379046,2025-10-18 14:00:00,2025,Regular Season - 8,39,Premier League,England,746,Sunderland,39,Wolves,2,0,True
+1457277,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,747,Barnsley,51,Brighton,0,6,True
+1436259,2025-08-27 18:45:00,2025,2nd Round,48,League Cup,England,1338,Oxford United,51,Brighton,0,6,True
+1457282,2025-09-24 18:45:00,2025,3rd Round,48,League Cup,England,1343,Bradford,34,Newcastle,1,4,False
+1457283,2025-09-24 19:00:00,2025,3rd Round,48,League Cup,England,1351,Port Vale,42,Arsenal,0,2,True
+1457280,2025-09-24 18:45:00,2025,3rd Round,48,League Cup,England,1354,Doncaster,47,Tottenham,0,3,False
+1457273,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,1370,Cambridge United,36,Fulham,0,1,False
+1436799,2025-08-27 19:00:00,2025,2nd Round,48,League Cup,England,1374,Mansfield Town,45,Everton,0,2,False
+1457278,2025-09-23 18:45:00,2025,3rd Round,48,League Cup,England,1379,Lincoln,49,Chelsea,1,2,True
+1451048,2025-10-01 16:45:00,2025,League Stage - 2,2,UEFA Champions League,World,1393,Union St. Gilloise,34,Newcastle,0,4,True
+1438706,2025-08-21 19:00:00,2025,Playoff round,848,UEFA Europa Conference League,World,2149,Fredrikstad,52,Crystal Palace,0,1,False
+1438711,2025-08-28 16:00:00,2025,Playoff round,848,UEFA Europa Conference League,World,2149,Fredrikstad,52,Crystal Palace,0,0,True

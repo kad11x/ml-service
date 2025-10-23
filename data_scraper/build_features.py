@@ -17,10 +17,10 @@ from collections import defaultdict
 # ====================================================
 CONFIG = {
     # Folder containing your season CSVs. Files must be named like:
-    #   2023_matches.csv, 2023_team_matches.csv, 2023_player_matches.csv
-    "base_dir": "data/csv_datasets/epl",
+    #   2025_matches.csv, 2025_team_matches.csv, 2025_player_matches.csv
+    "base_dir": "data/csv_datasets/all",
     # Seasons to include (edit this)
-    "seasons": [2023, 2024, 2025],
+    "seasons": [2025],
     # Single combined output file
     "output_csv": "data/output/features_all_seasons.csv",
     # Rolling windows
@@ -58,7 +58,8 @@ def normalize_matches_df(df: pd.DataFrame) -> pd.DataFrame:
             "round": ["round", "stage", "phase"],
         },
     )
-    df["date_utc"] = pd.to_datetime(df["date_utc"], errors="coerce")
+    if "date_utc" in df.columns:
+        df["date_utc"] = pd.to_datetime(df["date_utc"], errors="coerce")
     for c in ["home_goals", "away_goals"]:
         if c in df.columns:
             df[c] = pd.to_numeric(df[c], errors="coerce")
@@ -75,6 +76,7 @@ def normalize_team_matches_df(df: pd.DataFrame) -> pd.DataFrame:
             "expected_goals": ["expected_goals", "xG", "team_xg"],
             "goals_for": ["goals_for", "goals", "gf"],
             "goals_against": ["goals_against", "ga", "conceded"],
+            "date_utc": ["date_utc", "utc_date", "kickoff_time", "date", "datetime"],
         },
     )
     # Normalize boolean for is_home
@@ -97,6 +99,11 @@ def normalize_team_matches_df(df: pd.DataFrame) -> pd.DataFrame:
     for c in ["expected_goals", "goals_for", "goals_against"]:
         if c in df.columns:
             df[c] = pd.to_numeric(df[c], errors="coerce")
+
+    # Ensure date_utc is datetime if present
+    if "date_utc" in df.columns:
+        df["date_utc"] = pd.to_datetime(df["date_utc"], errors="coerce")
+
     return df
 
 
@@ -144,15 +151,29 @@ def build_features_all(cfg):
     all_matches, all_team_matches, all_player_matches = [], [], []
     for season in cfg["seasons"]:
         print(f" Loading season {season}...")
-        m = normalize_matches_df(
-            pd.read_csv(os.path.join(cfg["base_dir"], f"{season}_matches.csv"))
-        )
-        tm = normalize_team_matches_df(
-            pd.read_csv(os.path.join(cfg["base_dir"], f"{season}_team_matches.csv"))
-        )
-        pm = normalize_player_matches_df(
-            pd.read_csv(os.path.join(cfg["base_dir"], f"{season}_player_matches.csv"))
-        )
+        m_path = os.path.join(cfg["base_dir"], f"{season}_matches.csv")
+        tm_path = os.path.join(cfg["base_dir"], f"{season}_team_matches.csv")
+        pm_path = os.path.join(cfg["base_dir"], f"{season}_player_matches.csv")
+
+        if not os.path.exists(m_path):
+            raise FileNotFoundError(f"Missing file: {m_path}")
+        if not os.path.exists(tm_path):
+            raise FileNotFoundError(f"Missing file: {tm_path}")
+        if not os.path.exists(pm_path):
+            raise FileNotFoundError(f"Missing file: {pm_path}")
+
+        m = normalize_matches_df(pd.read_csv(m_path))
+        tm = normalize_team_matches_df(pd.read_csv(tm_path))
+        pm = normalize_player_matches_df(pd.read_csv(pm_path))
+
+        # Sanity: must have fixture_id + date for matches
+        if "fixture_id" not in m.columns:
+            raise KeyError(f"{season}_matches.csv missing 'fixture_id'")
+        if "date_utc" not in m.columns:
+            raise KeyError(
+                f"{season}_matches.csv missing 'date_utc' (or alias); check CSV headers."
+            )
+
         m["season"] = season
         tm["season"] = season
         pm["season"] = season
@@ -188,26 +209,29 @@ def build_features_all(cfg):
             ]
         )
 
-    # Attach match dates for sorting team_matches chronologically
-    team_matches = (
-        team_matches.merge(
+    # ---------- Attach match dates for sorting team_matches chronologically (no column clash) ----------
+    # If team_matches already has date_utc, just use it; otherwise pull from matches.
+    if "date_utc" in team_matches.columns:
+        team_matches["date_utc"] = pd.to_datetime(
+            team_matches["date_utc"], errors="coerce"
+        )
+    else:
+        team_matches = team_matches.merge(
             matches[["fixture_id", "date_utc"]], on="fixture_id", how="left"
         )
-        .sort_values("date_utc")
-        .drop(columns=["date_utc"])
-    )
+
+    # Sort by date and then drop the helper column (we don't need it further in team_matches)
+    team_matches = team_matches.sort_values("date_utc").drop(columns=["date_utc"])
 
     # 2) Build features across full timeline (cross-season)
 
     # 2.1 Opponent xG WITHOUT self-merge (robust)
     tm = team_matches.copy()
-    # Ensure expected_goals numeric
     tm["expected_goals"] = pd.to_numeric(tm.get("expected_goals"), errors="coerce")
-    # Sum expected_goals per fixture; opponent xG = sum - self
     fx_sum_xg = tm.groupby("fixture_id")["expected_goals"].transform("sum")
     tm["opp_expected_goals"] = fx_sum_xg - tm["expected_goals"]
 
-    # Bring match dates (again, after copy)
+    # Bring match dates (fresh) for chronological ops
     tm = (
         tm.merge(matches[["fixture_id", "date_utc"]], on="fixture_id", how="left")
         .sort_values(["team_id", "date_utc"])
@@ -279,21 +303,18 @@ def build_features_all(cfg):
         g["away_win_streak_team"] = pd.Series(a, index=g.index).shift(1)
         return g
 
-    # === FIX: preserve team_id through groupby.apply across pandas versions
-    tm["_team_id_backup"] = tm["team_id"]  # keep a safe copy
+    # === Preserve team_id through groupby.apply across pandas versions
+    tm["_team_id_backup"] = tm["team_id"]
     try:
         tm = tm.groupby("team_id", group_keys=False).apply(
             _streaks, include_groups=False
         )
     except TypeError:
         tm = tm.groupby("team_id", group_keys=False).apply(_streaks)
-    # If groupby.apply put team_id into the index and removed the column, restore it:
     if "team_id" not in tm.columns:
         tm = tm.reset_index(drop=False)
-        # If still missing, fall back to the backup
         if "team_id" not in tm.columns and "_team_id_backup" in tm.columns:
             tm["team_id"] = tm["_team_id_backup"]
-    # Drop backup helper
     if "_team_id_backup" in tm.columns:
         tm = tm.drop(columns=["_team_id_backup"])
 
@@ -352,7 +373,6 @@ def build_features_all(cfg):
             .rename(columns={"rating": "team_avg_player_rating"})
         )
 
-        # === FIX: belt-and-suspenders—ensure tm still has team_id before merge
         if "team_id" not in tm.columns:
             raise KeyError(
                 "Internal: tm lost 'team_id' before ratings merge. "

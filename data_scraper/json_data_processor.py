@@ -1,359 +1,376 @@
+"""
+Reads per-fixture raw JSON (PL + cups/Europe + Championship) and produces per-season CSVs:
+
+Output folder: ./data/csv_datasets/all
+
+  - {season}_matches.csv          : one row per match
+  - {season}_team_matches.csv     : one row per team per match
+  - {season}_events.csv           : one row per timeline event (goals, cards, subs, VAR, etc.)
+  - {season}_player_matches.csv   : one row per player per match with rich stats
+
+Notes:
+- The scraper attaches 'statistics', 'players', 'events', and 'lineups' directly on each fixture JSON.
+- This processor is robust to missing sections (it will just skip those rows).
+"""
+
+import glob
 import os
+from datetime import datetime
+from pathlib import Path
+from typing import Dict, Any, List
+
+import pandas as pd
 import ujson as json
-import csv
-from collections import defaultdict
-from typing import Any, Dict, Iterable, List
-
-RAW_DIR = "./data/raw_datasets/epl"
-OUT_DIR = "./data/csv_datasets/epl"
 
 
-def ensure_dirs():
-    os.makedirs(RAW_DIR, exist_ok=True)
-    os.makedirs(OUT_DIR, exist_ok=True)
+RAW_DIR = "./data/raw_datasets/all"
+OUT_DIR = "./data/csv_datasets/all"
+
+os.makedirs(OUT_DIR, exist_ok=True)
 
 
-def normalize_fixtures(obj: Any) -> List[Dict]:
-    # Accept:
-    #  - single full fixture dict (your scraper output)
-    #  - list of fixture dicts
-    #  - {"response": [fixtures]} (API style)
-    if obj is None:
-        return []
-    if isinstance(obj, dict):
-        if isinstance(obj.get("response"), list):
-            return obj["response"]
-        if "fixture" in obj and "league" in obj:
-            return [obj]
-        vals = list(obj.values())
-        if vals and isinstance(vals[0], dict) and "fixture" in vals[0]:
-            return vals
-        return []
-    if isinstance(obj, list):
-        return obj
-    return []
+# -----------------------------
+# Helpers
+# -----------------------------
+def _safe(d: Any, *path, default=None):
+    cur = d
+    for p in path:
+        if isinstance(cur, dict) and p in cur:
+            cur = cur[p]
+        else:
+            return default
+    return cur
 
 
-def stats_list_to_cols(lst: Iterable[Dict]) -> Dict[str, Any]:
-    out = {}
-    for it in lst or []:
-        key = str(it.get("type", "")).lower().replace(" ", "_")
-        val = it.get("value")
-        if isinstance(val, str) and val.endswith("%"):
-            try:
-                val = float(val.strip("%")) / 100.0
-            except Exception:
-                pass
-        out[key] = val
-    return out
+def _as_dt(s: str):
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00"))
+    except Exception:
+        return None
 
 
-def match_row_from_fixture(core: Dict) -> Dict[str, Any]:
-    fixture = core.get("fixture", {}) or {}
-    league = core.get("league", {}) or {}
-    teams = core.get("teams", {}) or {}
-    goals = core.get("goals", {}) or {}
-    lineups = core.get("lineups", None)
+# -----------------------------
+# Parsers
+# -----------------------------
+def _parse_fixture_row(doc: Dict[str, Any]) -> Dict[str, Any]:
+    """Flatten one fixture to a match-level row."""
+    fixture = doc.get("fixture", {})
+    league = doc.get("league", {})
+    teams = doc.get("teams", {})
+    goals = doc.get("goals", {})
+    score = doc.get("score", {})
 
-    home_form = away_form = None
-    if isinstance(lineups, list):
-        if len(lineups) > 0:
-            home_form = lineups[0].get("formation")
-        if len(lineups) > 1:
-            away_form = lineups[1].get("formation")
+    date_dt = _as_dt(_safe(fixture, "date", default=""))
 
     return {
-        "fixture_id": fixture.get("id"),
-        "date_utc": fixture.get("date"),
-        "timezone": fixture.get("timezone"),
-        "status_short": (fixture.get("status") or {}).get("short"),
-        "status_long": (fixture.get("status") or {}).get("long"),
-        "season": league.get("season"),
-        "round": league.get("round"),
-        "league_id": league.get("id"),
-        "league_name": league.get("name"),
-        "venue_id": (fixture.get("venue") or {}).get("id"),
-        "venue_name": (fixture.get("venue") or {}).get("name"),
-        "venue_city": (fixture.get("venue") or {}).get("city"),
-        "referee": fixture.get("referee"),
-        "home_team_id": (teams.get("home") or {}).get("id"),
-        "home_team": (teams.get("home") or {}).get("name"),
-        "away_team_id": (teams.get("away") or {}).get("id"),
-        "away_team": (teams.get("away") or {}).get("name"),
-        "home_goals": goals.get("home"),
-        "away_goals": goals.get("away"),
-        "home_formation": home_form,
-        "away_formation": away_form,
+        "fixture_id": _safe(fixture, "id"),
+        "date_utc": date_dt.strftime("%Y-%m-%d %H:%M:%S") if date_dt else None,
+        "season": _safe(league, "season"),
+        "round": _safe(league, "round"),
+        "league_id": _safe(league, "id"),
+        "league_name": _safe(league, "name"),
+        "country": _safe(league, "country"),
+        "home_team_id": _safe(teams, "home", "id"),
+        "home_team": _safe(teams, "home", "name"),
+        "away_team_id": _safe(teams, "away", "id"),
+        "away_team": _safe(teams, "away", "name"),
+        "home_goals": _safe(goals, "home"),
+        "away_goals": _safe(goals, "away"),
+        "ht_home": _safe(score, "halftime", "home"),
+        "ht_away": _safe(score, "halftime", "away"),
+        "ft_home": _safe(score, "fulltime", "home"),
+        "ft_away": _safe(score, "fulltime", "away"),
+        "et_home": _safe(score, "extratime", "home"),
+        "et_away": _safe(score, "extratime", "away"),
+        "pen_home": _safe(score, "penalty", "home"),
+        "pen_away": _safe(score, "penalty", "away"),
+        "status": _safe(fixture, "status", "short"),
+        "venue_id": _safe(fixture, "venue", "id"),
+        "venue_name": _safe(fixture, "venue", "name"),
+        "referee": _safe(fixture, "referee"),
     }
 
 
-def team_rows_from_fixture(core: Dict, ft_only: bool = True) -> List[Dict[str, Any]]:
+def _explode_team_rows(matches_df: pd.DataFrame) -> pd.DataFrame:
+    """Create team-centric rows (one row per team per match)."""
+    home = matches_df.copy()
+    home["team_id"] = home["home_team_id"]
+    home["team_name"] = home["home_team"]
+    home["opponent_id"] = home["away_team_id"]
+    home["opponent"] = home["away_team"]
+    home["goals_for"] = home["home_goals"]
+    home["goals_against"] = home["away_goals"]
+    home["is_home"] = True
+
+    away = matches_df.copy()
+    away["team_id"] = away["away_team_id"]
+    away["team_name"] = away["away_team"]
+    away["opponent_id"] = away["home_team_id"]
+    away["opponent"] = away["home_team"]
+    away["goals_for"] = away["away_goals"]
+    away["goals_against"] = away["home_goals"]
+    away["is_home"] = False
+
+    cols = [
+        "fixture_id",
+        "date_utc",
+        "season",
+        "round",
+        "league_id",
+        "league_name",
+        "country",
+        "team_id",
+        "team_name",
+        "opponent_id",
+        "opponent",
+        "goals_for",
+        "goals_against",
+        "is_home",
+    ]
+    return pd.concat([home[cols], away[cols]], ignore_index=True)
+
+
+def _parse_events_rows(doc: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """Return one row per timeline event."""
+    fixture = doc.get("fixture", {})
+    league = doc.get("league", {})
+    teams = doc.get("teams", {})
+    events = doc.get("events", []) or []
+
+    date_dt = _as_dt(_safe(fixture, "date", default=""))
+    common = {
+        "fixture_id": _safe(fixture, "id"),
+        "date_utc": date_dt.strftime("%Y-%m-%d %H:%M:%S") if date_dt else None,
+        "season": _safe(league, "season"),
+        "league_id": _safe(league, "id"),
+        "league_name": _safe(league, "name"),
+        "home_team_id": _safe(teams, "home", "id"),
+        "home_team": _safe(teams, "home", "name"),
+        "away_team_id": _safe(teams, "away", "id"),
+        "away_team": _safe(teams, "away", "name"),
+    }
+
     rows = []
-    m = match_row_from_fixture(core)
-    if ft_only and m.get("status_short") != "FT":
-        return rows
-    stats_blocks = core.get("statistics") or []
-    for block in stats_blocks:
-        team = block.get("team", {}) or {}
-        stat_cols = stats_list_to_cols(block.get("statistics"))
-        is_home = team.get("id") == m.get("home_team_id")
-        gf = m.get("home_goals") if is_home else m.get("away_goals")
-        ga = m.get("away_goals") if is_home else m.get("home_goals")
-        result = (
-            None
-            if (gf is None or ga is None)
-            else ("WIN" if gf > ga else ("DRAW" if gf == ga else "LOSS"))
-        )
-        rows.append(
+    for ev in events:
+        row = dict(common)
+        row.update(
             {
-                "fixture_id": m.get("fixture_id"),
-                "team_id": team.get("id"),
-                "team_name": team.get("name"),
-                "is_home": is_home,
-                "goals_for": gf,
-                "goals_against": ga,
-                "result": result,
-                **stat_cols,
+                "elapsed": _safe(ev, "time", "elapsed"),
+                "elapsed_plus": _safe(ev, "time", "extra"),
+                "team_id": _safe(ev, "team", "id"),
+                "team_name": _safe(ev, "team", "name"),
+                "player_id": _safe(ev, "player", "id"),
+                "player_name": _safe(ev, "player", "name"),
+                "assist_id": _safe(ev, "assist", "id"),
+                "assist_name": _safe(ev, "assist", "name"),
+                "type": _safe(ev, "type"),
+                "detail": _safe(ev, "detail"),
+                "comments": _safe(ev, "comments"),
             }
         )
+        rows.append(row)
     return rows
 
 
-def player_rows_from_fixture(core: Dict, ft_only: bool = True) -> List[Dict[str, Any]]:
-    out = []
-    m = match_row_from_fixture(core)
-    if ft_only and m.get("status_short") != "FT":
-        return out
-    for tpack in core.get("players") or []:
-        tid = (tpack.get("team") or {}).get("id")
-        tname = (tpack.get("team") or {}).get("name")
-        for p in tpack.get("players") or []:
-            pl = p.get("player") or {}
-            st = (p.get("statistics") or [{}])[0]
-            games = st.get("games") or {}
-            shots = st.get("shots") or {}
-            goals_s = st.get("goals") or {}
-            passes = st.get("passes") or {}
-            tackles = st.get("tackles") or {}
-            duels = st.get("duels") or {}
-            dribbles = st.get("dribbles") or {}
-            fouls = st.get("fouls") or {}
-            cards = st.get("cards") or {}
-            try:
-                rating = (
-                    float(games.get("rating"))
-                    if games.get("rating") not in [None, ""]
-                    else None
+def _parse_player_rows(doc: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Return one row per player per match from 'players' section.
+    Structure is:
+      players: [
+        {
+          "team": {...},
+          "players": [
+            {
+              "player": {...},
+              "statistics": [ { ... many sub-objects ... } ]
+            },
+            ...
+          ]
+        },
+        ...
+      ]
+    We flatten the most common stats fields into top-level columns.
+    """
+    fixture = doc.get("fixture", {})
+    league = doc.get("league", {})
+    teams = doc.get("teams", {})
+    blocks = doc.get("players", []) or []
+
+    date_dt = _as_dt(_safe(fixture, "date", default=""))
+    base = {
+        "fixture_id": _safe(fixture, "id"),
+        "date_utc": date_dt.strftime("%Y-%m-%d %H:%M:%S") if date_dt else None,
+        "season": _safe(league, "season"),
+        "league_id": _safe(league, "id"),
+        "league_name": _safe(league, "name"),
+        "home_team_id": _safe(teams, "home", "id"),
+        "home_team": _safe(teams, "home", "name"),
+        "away_team_id": _safe(teams, "away", "id"),
+        "away_team": _safe(teams, "away", "name"),
+    }
+
+    out_rows: List[Dict[str, Any]] = []
+
+    for block in blocks:
+        team_id = _safe(block, "team", "id")
+        team_name = _safe(block, "team", "name")
+
+        for p in block.get("players", []) or []:
+            player_id = _safe(p, "player", "id")
+            player_name = _safe(p, "player", "name")
+
+            # statistics is usually a list with 1 item per competition context
+            for st in p.get("statistics", []) or []:
+                games = _safe(st, "games", default={}) or {}
+                shots = _safe(st, "shots", default={}) or {}
+                goals = _safe(st, "goals", default={}) or {}
+                passes = _safe(st, "passes", default={}) or {}
+                tackles = _safe(st, "tackles", default={}) or {}
+                duels = _safe(st, "duels", default={}) or {}
+                dribbles = _safe(st, "dribbles", default={}) or {}
+                fouls = _safe(st, "fouls", default={}) or {}
+                cards = _safe(st, "cards", default={}) or {}
+                penalty = _safe(st, "penalty", default={}) or {}
+
+                row = dict(base)
+                row.update(
+                    {
+                        "team_id": team_id,
+                        "team_name": team_name,
+                        "player_id": player_id,
+                        "player_name": player_name,
+                        # Games / role
+                        "position": games.get("position"),
+                        "rating": games.get("rating"),
+                        "minutes": games.get("minutes"),
+                        "captain": games.get("captain"),
+                        "substitute": games.get("substitute"),
+                        "number": games.get("number"),
+                        "appearences": games.get("appearences"),  # API spelling
+                        # Shots / Goals
+                        "shots_total": shots.get("total"),
+                        "shots_on": shots.get("on"),
+                        "goals_total": goals.get("total"),
+                        "goals_conceded": goals.get("conceded"),
+                        "goals_assists": goals.get("assists"),
+                        "goals_saves": goals.get("saves"),
+                        # Passes
+                        "passes_total": passes.get("total"),
+                        "passes_key": passes.get("key"),
+                        "passes_accuracy": passes.get("accuracy"),
+                        # Defensive
+                        "tackles_total": tackles.get("total"),
+                        "tackles_blocks": tackles.get("blocks"),
+                        "tackles_interceptions": tackles.get("interceptions"),
+                        "duels_total": duels.get("total"),
+                        "duels_won": duels.get("won"),
+                        "dribbles_attempts": dribbles.get("attempts"),
+                        "dribbles_success": dribbles.get("success"),
+                        "dribbles_past": dribbles.get("past"),
+                        "fouls_drawn": fouls.get("drawn"),
+                        "fouls_committed": fouls.get("committed"),
+                        "cards_yellow": cards.get("yellow"),
+                        "cards_red": cards.get("red"),
+                        "penalty_won": penalty.get("won"),
+                        "penalty_committed": penalty.get("committed"),
+                        "penalty_scored": penalty.get("scored"),
+                        "penalty_missed": penalty.get("missed"),
+                        "penalty_saved": penalty.get("saved"),
+                    }
                 )
-            except Exception:
-                rating = None
-            out.append(
-                {
-                    "fixture_id": m.get("fixture_id"),
-                    "team_id": tid,
-                    "team_name": tname,
-                    "player_id": pl.get("id"),
-                    "player_name": pl.get("name"),
-                    "minutes": games.get("minutes"),
-                    "number": games.get("number"),
-                    "position": games.get("position"),
-                    "rating": rating,
-                    "captain": games.get("captain"),
-                    "starter": not games.get("substitute", False),
-                    "shots_total": shots.get("total"),
-                    "shots_on": shots.get("on"),
-                    "goals": goals_s.get("total"),
-                    "assists": goals_s.get("assists"),
-                    "passes_total": passes.get("total"),
-                    "passes_key": passes.get("key"),
-                    "passes_accuracy": passes.get("accuracy"),
-                    "tackles_total": tackles.get("total"),
-                    "blocks": tackles.get("blocks"),
-                    "interceptions": tackles.get("interceptions"),
-                    "duels_total": duels.get("total"),
-                    "duels_won": duels.get("won"),
-                    "dribbles_attempts": dribbles.get("attempts"),
-                    "dribbles_success": dribbles.get("success"),
-                    "fouls_drawn": fouls.get("drawn"),
-                    "fouls_committed": fouls.get("committed"),
-                    "yellow": cards.get("yellow"),
-                    "red": cards.get("red"),
-                }
-            )
-    return out
+                out_rows.append(row)
+
+    return out_rows
 
 
-def event_rows_from_fixture(core: Dict, ft_only: bool = True) -> List[Dict[str, Any]]:
-    rows = []
-    m = match_row_from_fixture(core)
-    if ft_only and m.get("status_short") != "FT":
-        return rows
-    for e in core.get("events") or []:
-        time = e.get("time") or {}
-        team = e.get("team") or {}
-        player = e.get("player") or {}
-        assist = e.get("assist") or {}
-        rows.append(
-            {
-                "fixture_id": m.get("fixture_id"),
-                "minute": time.get("elapsed"),
-                "minute_extra": time.get("extra"),
-                "team_id": team.get("id"),
-                "team_name": team.get("name"),
-                "type": e.get("type"),
-                "detail": e.get("detail"),
-                "player_id": player.get("id"),
-                "player_name": player.get("name"),
-                "assist_id": assist.get("id"),
-                "assist_name": assist.get("name"),
-            }
-        )
-    return rows
+# -----------------------------
+# Main
+# -----------------------------
+def process_all():
+    files = sorted(glob.glob(os.path.join(RAW_DIR, "*.json")))
+    if not files:
+        print(f"No raw JSON found in {RAW_DIR}")
+        return
 
+    match_rows: List[Dict[str, Any]] = []
+    event_rows: List[Dict[str, Any]] = []
+    player_rows: List[Dict[str, Any]] = []
 
-def write_csv(path: str, fieldnames: List[str], rows: List[Dict[str, Any]]):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", newline="", encoding="utf-8-sig") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
-        w.writeheader()
-        for r in rows:
-            w.writerow(r)
-
-
-def output_data():
-    ensure_dirs()
-    per_season = defaultdict(
-        lambda: {
-            "match_rows": [],
-            "team_rows": [],
-            "player_rows": [],
-            "event_rows": [],
-        }
-    )
-
-    files = [fn for fn in os.listdir(RAW_DIR) if fn.endswith(".json")]
-    files.sort()  # stable order
-
-    for fn in files:
-        path = os.path.join(RAW_DIR, fn)
+    for fp in files:
         try:
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
+            with open(fp, "r", encoding="utf-8") as f:
+                doc = json.load(f)
         except Exception as e:
-            print(f"[WARN] could not read {fn}: {e}")
+            print(f"[WARN] Failed to read {fp}: {e}")
             continue
 
-        fixtures = normalize_fixtures(data)
-        if not fixtures:
-            # This can happen if the file is an empty {} etc.
+        # Matches
+        try:
+            match_rows.append(_parse_fixture_row(doc))
+        except Exception as e:
+            print(f"[WARN] Failed to parse match row {fp}: {e}")
+
+        # Events
+        try:
+            event_rows.extend(_parse_events_rows(doc))
+        except Exception as e:
+            print(f"[WARN] Failed to parse events in {fp}: {e}")
+
+        # Player stats
+        try:
+            player_rows.extend(_parse_player_rows(doc))
+        except Exception as e:
+            print(f"[WARN] Failed to parse players in {fp}: {e}")
+
+    # Build dataframes
+    matches_df = pd.DataFrame(match_rows).dropna(
+        subset=["fixture_id", "date_utc", "home_team_id", "away_team_id"]
+    )
+    events_df = pd.DataFrame(event_rows)
+    players_df = pd.DataFrame(player_rows)
+
+    # Write per-season files
+    for season, grp in matches_df.groupby("season"):
+        try:
+            season = int(season)
+        except Exception:
+            print(f"[WARN] Bad season value {season}, skipping...")
             continue
 
-        for core in fixtures:
-            m = match_row_from_fixture(core)
-            season = m.get("season") or "unknown"
-            buf = per_season[season]
-            buf["match_rows"].append(m)
-            buf["team_rows"].extend(team_rows_from_fixture(core, ft_only=True))
-            buf["player_rows"].extend(player_rows_from_fixture(core, ft_only=True))
-            buf["event_rows"].extend(event_rows_from_fixture(core, ft_only=True))
+        # Matches
+        out_matches = Path(OUT_DIR) / f"{season}_matches.csv"
+        out_team_matches = Path(OUT_DIR) / f"{season}_team_matches.csv"
+        grp_sorted = grp.sort_values(["date_utc", "fixture_id"])
+        grp_sorted.to_csv(out_matches, index=False)
 
-    # write once per season (no overwriting per file!)
-    for season, payload in per_season.items():
-        matches_csv = os.path.join(OUT_DIR, f"{season}_matches.csv")
-        team_csv = os.path.join(OUT_DIR, f"{season}_team_matches.csv")
-        player_csv = os.path.join(OUT_DIR, f"{season}_player_matches.csv")
-        events_csv = os.path.join(OUT_DIR, f"{season}_events.csv")
+        team_df = _explode_team_rows(grp_sorted)
+        team_df = team_df.sort_values(["team_id", "date_utc"])
+        team_df.to_csv(out_team_matches, index=False)
+        print(f"Written: {out_matches}")
+        print(f"Written: {out_team_matches}")
 
-        match_cols = [
-            "fixture_id",
-            "date_utc",
-            "timezone",
-            "status_short",
-            "status_long",
-            "season",
-            "round",
-            "league_id",
-            "league_name",
-            "venue_id",
-            "venue_name",
-            "venue_city",
-            "referee",
-            "home_team_id",
-            "home_team",
-            "away_team_id",
-            "away_team",
-            "home_goals",
-            "away_goals",
-            "home_formation",
-            "away_formation",
-        ]
+        # Events
+        if not events_df.empty:
+            ev_grp = events_df.loc[events_df["season"] == season].copy()
+            if not ev_grp.empty:
+                ev_grp = ev_grp.sort_values(
+                    ["fixture_id", "elapsed", "elapsed_plus"]
+                ).reset_index(drop=True)
+                out_events = Path(OUT_DIR) / f"{season}_events.csv"
+                ev_grp.to_csv(out_events, index=False)
+                print(f"Written: {out_events}")
 
-        team_base = [
-            "fixture_id",
-            "team_id",
-            "team_name",
-            "is_home",
-            "goals_for",
-            "goals_against",
-            "result",
-        ]
-        dyn_keys = set()
-        for r in payload["team_rows"]:
-            for k in r.keys():
-                if k not in team_base:
-                    dyn_keys.add(k)
-        team_cols = team_base + sorted(dyn_keys)
-
-        player_cols = [
-            "fixture_id",
-            "team_id",
-            "team_name",
-            "player_id",
-            "player_name",
-            "minutes",
-            "number",
-            "position",
-            "rating",
-            "captain",
-            "starter",
-            "shots_total",
-            "shots_on",
-            "goals",
-            "assists",
-            "passes_total",
-            "passes_key",
-            "passes_accuracy",
-            "tackles_total",
-            "blocks",
-            "interceptions",
-            "duels_total",
-            "duels_won",
-            "dribbles_attempts",
-            "dribbles_success",
-            "fouls_drawn",
-            "fouls_committed",
-            "yellow",
-            "red",
-        ]
-        event_cols = [
-            "fixture_id",
-            "minute",
-            "minute_extra",
-            "team_id",
-            "team_name",
-            "type",
-            "detail",
-            "player_id",
-            "player_name",
-            "assist_id",
-            "assist_name",
-        ]
-
-        write_csv(matches_csv, match_cols, payload["match_rows"])
-        write_csv(team_csv, team_cols, payload["team_rows"])
-        write_csv(player_csv, player_cols, payload["player_rows"])
-        write_csv(events_csv, event_cols, payload["event_rows"])
+        # Player matches
+        if not players_df.empty:
+            pl_grp = players_df.loc[players_df["season"] == season].copy()
+            if not pl_grp.empty:
+                pl_grp = pl_grp.sort_values(
+                    ["fixture_id", "team_id", "player_id"]
+                ).reset_index(drop=True)
+                out_players = Path(OUT_DIR) / f"{season}_player_matches.csv"
+                pl_grp.to_csv(out_players, index=False)
+                print(f"Written: {out_players}")
 
 
 if __name__ == "__main__":
-    output_data()
+    process_all()
