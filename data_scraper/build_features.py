@@ -3,7 +3,7 @@ Multi-season feature builder (cross-season history).
 Creates ONE combined CSV with the same columns as your per-season output,
 for all seasons you choose. H2H and rolling stats look across previous years.
 
-Author: ChatGPT
+
 """
 
 import os
@@ -146,18 +146,25 @@ def _ensure_is_home(team_matches: pd.DataFrame, matches: pd.DataFrame) -> pd.Dat
     return tm2.drop(columns=["home_team_id"], errors="ignore")
 
 
-def _coalesce_date_utc(df: pd.DataFrame) -> pd.DataFrame:
-    """After merges, collapse date_utc_x/date_utc_y into date_utc."""
-    if "date_utc" in df.columns:
+def _coalesce_merge_cols(df: pd.DataFrame, col: str) -> pd.DataFrame:
+    """
+    If a merge created <col>_x/<col>_y, combine them into a single <col> with left-pref,
+    falling back to right when left is NA, then drop the suffixed columns.
+    """
+    if col in df.columns:
         return df
-    left = pd.to_datetime(df.get("date_utc_x"), errors="coerce")
-    right = pd.to_datetime(df.get("date_utc_y"), errors="coerce")
-    if ("date_utc_x" not in df.columns) and ("date_utc_y" not in df.columns):
+    cx, cy = f"{col}_x", f"{col}_y"
+    if cx not in df.columns and cy not in df.columns:
         return df
-    df["date_utc"] = left
-    if "date_utc_y" in df.columns:
-        df["date_utc"] = df["date_utc"].where(df["date_utc"].notna(), right)
-    return df.drop(columns=[c for c in ["date_utc_x", "date_utc_y"] if c in df.columns])
+    left = df[cx] if cx in df.columns else None
+    right = df[cy] if cy in df.columns else None
+    if col == "date_utc":
+        left = pd.to_datetime(left, errors="coerce") if left is not None else None
+        right = pd.to_datetime(right, errors="coerce") if right is not None else None
+    df[col] = left
+    if right is not None:
+        df[col] = df[col].where(df[col].notna(), right)
+    return df.drop(columns=[c for c in (cx, cy) if c in df.columns])
 
 
 def add_calculated_expected_goals(
@@ -174,14 +181,15 @@ def add_calculated_expected_goals(
     w = int(win_size_home_away)
     min_mp = int(min_matches_for_factors)
 
-    # Attach season & opponent ids and date to team rows (this merge can create date_utc_x/y)
+    # Attach season & opponent ids and date to team rows (merge may create *_x/*_y)
     mm = matches[
         ["fixture_id", "date_utc", "season", "home_team_id", "away_team_id"]
     ].copy()
     tm = team_matches.merge(mm, on="fixture_id", how="left")
 
-    # Coalesce date_utc_x / date_utc_y if created
-    tm = _coalesce_date_utc(tm)
+    # Coalesce columns that may have collided
+    tm = _coalesce_merge_cols(tm, "date_utc")
+    tm = _coalesce_merge_cols(tm, "season")
 
     # Ensure is_home present; infer if missing
     tm = _ensure_is_home(tm, matches)
@@ -259,7 +267,7 @@ def add_calculated_expected_goals(
         1.0,
     )
 
-    # Get opponent defensive factor per fixture
+    # Opponent defensive factor per fixture
     opp = tm[
         [
             "fixture_id",
