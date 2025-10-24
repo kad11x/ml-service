@@ -1,0 +1,527 @@
+fixture_id,date_utc,season,round,league_id,league_name,country,home_team_id,home_team,away_team_id,away_team,home_goals,away_goals,ht_home,ht_away,ft_home,ft_away,et_home,et_away,pen_home,pen_away,status,venue_id,venue_name,referee
+862929,2022-07-30 16:00:00,2022,Final,528,Community Shield,England,40,Liverpool,50,Manchester City,3,1,1,0,3,1,,,,,FT,547.0,King Power Stadium,C. Pawson
+867946,2022-08-05 19:00:00,2022,Regular Season - 1,39,Premier League,England,52,Crystal Palace,42,Arsenal,0,2,0,1,0,2,,,,,FT,525.0,Selhurst Park,A. Taylor
+867947,2022-08-06 11:30:00,2022,Regular Season - 1,39,Premier League,England,36,Fulham,40,Liverpool,2,2,1,0,2,2,,,,,FT,535.0,Craven Cottage,A. Madley
+867948,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,35,Bournemouth,66,Aston Villa,2,0,1,0,2,0,,,,,FT,504.0,Vitality Stadium,P. Bankes
+867949,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,63,Leeds,39,Wolves,2,1,1,1,2,1,,,,,FT,546.0,Elland Road,R. Jones
+867951,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,34,Newcastle,65,Nottingham Forest,2,0,0,0,2,0,,,,,FT,562.0,St. James' Park,S. Hooper
+867952,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,47,Tottenham,41,Southampton,4,1,2,1,4,1,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Marriner
+867953,2022-08-06 16:30:00,2022,Regular Season - 1,39,Premier League,England,45,Everton,49,Chelsea,0,1,0,1,0,1,,,,,FT,8560.0,Goodison Park,C. Pawson
+867950,2022-08-07 13:00:00,2022,Regular Season - 1,39,Premier League,England,46,Leicester,55,Brentford,2,2,1,0,2,2,,,,,FT,547.0,King Power Stadium,J. Gillett
+867954,2022-08-07 13:00:00,2022,Regular Season - 1,39,Premier League,England,33,Manchester United,51,Brighton,1,2,0,2,1,2,,,,,FT,556.0,Old Trafford,P. Tierney
+867955,2022-08-07 15:30:00,2022,Regular Season - 1,39,Premier League,England,48,West Ham,50,Manchester City,0,2,0,1,0,2,,,,,FT,598.0,London Stadium,M. Oliver
+867957,2022-08-13 11:30:00,2022,Regular Season - 2,39,Premier League,England,66,Aston Villa,45,Everton,2,1,1,0,2,1,,,,,FT,495.0,Villa Park,M. Oliver
+867956,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,42,Arsenal,46,Leicester,4,2,2,0,4,2,,,,,FT,494.0,Emirates Stadium,D. England
+867959,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,51,Brighton,34,Newcastle,0,0,0,0,0,0,,,,,FT,508.0,The American Express Community Stadium,G. Scott
+867962,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,50,Manchester City,35,Bournemouth,4,0,3,0,4,0,,,,,FT,555.0,Etihad Stadium,D. Coote
+867964,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,41,Southampton,63,Leeds,2,2,0,0,2,2,,,,,FT,585.0,St. Mary's Stadium,T. Harrington
+867965,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,39,Wolves,36,Fulham,0,0,0,0,0,0,,,,,FT,600.0,Molineux Stadium,J. Brooks
+867958,2022-08-13 16:30:00,2022,Regular Season - 2,39,Premier League,England,55,Brentford,33,Manchester United,4,0,4,0,4,0,,,,,FT,10503.0,Gtech Community Stadium,S. Attwell
+867963,2022-08-14 13:00:00,2022,Regular Season - 2,39,Premier League,England,65,Nottingham Forest,48,West Ham,1,0,1,0,1,0,,,,,FT,566.0,The City Ground,R. Jones
+867960,2022-08-14 15:30:00,2022,Regular Season - 2,39,Premier League,England,49,Chelsea,47,Tottenham,2,2,1,0,2,2,,,,,FT,519.0,Stamford Bridge,A. Taylor
+867961,2022-08-15 19:00:00,2022,Regular Season - 2,39,Premier League,England,40,Liverpool,52,Crystal Palace,1,1,0,1,1,1,,,,,FT,550.0,Anfield,P. Tierney
+932865,2022-08-18 18:45:00,2022,Play-offs,848,UEFA Europa Conference League,World,48,West Ham,2070,Viborg,3,1,1,0,3,1,,,,,FT,598.0,London Stadium,M. Di Bello
+867974,2022-08-20 11:30:00,2022,Regular Season - 3,39,Premier League,England,47,Tottenham,39,Wolves,1,0,0,0,1,0,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Hooper
+867967,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,52,Crystal Palace,66,Aston Villa,3,1,1,1,3,1,,,,,FT,525.0,Selhurst Park,A. Madley
+867968,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,45,Everton,65,Nottingham Forest,1,1,0,0,1,1,,,,,FT,8560.0,Goodison Park,A. Marriner
+867969,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,36,Fulham,55,Brentford,3,2,2,1,3,2,,,,,FT,535.0,Craven Cottage,P. Bankes
+867971,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,46,Leicester,41,Southampton,1,2,0,0,1,2,,,,,FT,547.0,King Power Stadium,M. Salisbury
+867966,2022-08-20 16:30:00,2022,Regular Season - 3,39,Premier League,England,35,Bournemouth,42,Arsenal,0,3,0,2,0,3,,,,,FT,504.0,Vitality Stadium,C. Pawson
+867970,2022-08-21 13:00:00,2022,Regular Season - 3,39,Premier League,England,63,Leeds,49,Chelsea,3,0,2,0,3,0,,,,,FT,546.0,Elland Road,S. Attwell
+867975,2022-08-21 13:00:00,2022,Regular Season - 3,39,Premier League,England,48,West Ham,51,Brighton,0,2,0,1,0,2,,,,,FT,598.0,London Stadium,A. Taylor
+867973,2022-08-21 15:30:00,2022,Regular Season - 3,39,Premier League,England,34,Newcastle,50,Manchester City,3,3,2,1,3,3,,,,,FT,562.0,St. James' Park,J. Gillett
+867972,2022-08-22 19:00:00,2022,Regular Season - 3,39,Premier League,England,33,Manchester United,40,Liverpool,2,1,1,0,2,1,,,,,FT,556.0,Old Trafford,M. Oliver
+933619,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,68,Bolton,66,Aston Villa,1,4,1,1,1,4,,,,,FT,502.0,University of Bolton Stadium,A. Kitchen
+933620,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,39,Wolves,59,Preston,2,1,2,0,2,1,,,,,FT,600.0,Molineux Stadium,T. Bramall
+933622,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1336,Fleetwood Town,45,Everton,0,1,0,1,0,1,,,,,FT,533.0,Highbury Stadium,T. Reeves
+933629,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1365,Grimsby,65,Nottingham Forest,0,3,0,2,0,3,,,,,FT,538.0,Blundell Park,S. Stockbridge
+933634,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1338,Oxford United,52,Crystal Palace,0,2,0,0,0,2,,,,,FT,569.0,The Kassam Stadium,P. Bankes
+933636,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1361,Colchester,55,Brentford,0,2,0,1,0,2,,,,,FT,522.0,JobServe Community Stadium,J. Linington
+933639,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1362,Crawley Town,36,Fulham,2,0,1,0,2,0,,,,,FT,19200.0,Broadfield Stadium,L. Swabey
+933640,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1370,Cambridge United,41,Southampton,0,3,0,1,0,3,,,,,FT,515.0,Abbey Stadium,D. Rock
+933621,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,63,Leeds,747,Barnsley,3,1,2,1,3,1,,,,,FT,546.0,Elland Road,J. Brooks
+933624,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,1381,Tranmere,34,Newcastle,1,2,1,1,1,2,,,,,FT,594.0,Prenton Park,A. Backhouse
+933642,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,1378,Forest Green,51,Brighton,0,3,0,2,0,3,,,,,FT,19201.0,The Bolt New Lawn,T. Robinson
+932866,2022-08-25 17:00:00,2022,Play-offs,848,UEFA Europa Conference League,World,2070,Viborg,48,West Ham,0,3,0,1,0,3,,,,,FT,463.0,Energi Viborg Arena,H. Lechner
+867984,2022-08-27 11:30:00,2022,Regular Season - 4,39,Premier League,England,41,Southampton,33,Manchester United,0,1,0,0,0,1,,,,,FT,585.0,St. Mary's Stadium,A. Madley
+867978,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,55,Brentford,45,Everton,1,1,0,1,1,1,,,,,FT,10503.0,Gtech Community Stadium,J. Brooks
+867979,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,51,Brighton,63,Leeds,1,0,0,0,1,0,,,,,FT,508.0,The American Express Community Stadium,M. Salisbury
+867980,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,49,Chelsea,46,Leicester,2,1,0,0,2,1,,,,,FT,519.0,Stamford Bridge,P. Tierney
+867981,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,40,Liverpool,35,Bournemouth,9,0,5,0,9,0,,,,,FT,550.0,Anfield,S. Attwell
+867982,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,50,Manchester City,52,Crystal Palace,4,2,0,2,4,2,,,,,FT,555.0,Etihad Stadium,D. England
+867976,2022-08-27 16:30:00,2022,Regular Season - 4,39,Premier League,England,42,Arsenal,36,Fulham,2,1,0,0,2,1,,,,,FT,494.0,Emirates Stadium,J. Gillett
+867977,2022-08-28 13:00:00,2022,Regular Season - 4,39,Premier League,England,66,Aston Villa,48,West Ham,0,1,0,0,0,1,,,,,FT,495.0,Villa Park,D. Coote
+867985,2022-08-28 13:00:00,2022,Regular Season - 4,39,Premier League,England,39,Wolves,34,Newcastle,1,1,1,0,1,1,,,,,FT,600.0,Molineux Stadium,P. Bankes
+867983,2022-08-28 15:30:00,2022,Regular Season - 4,39,Premier League,England,65,Nottingham Forest,47,Tottenham,0,2,0,1,0,2,,,,,FT,566.0,The City Ground,C. Pawson
+867988,2022-08-30 18:30:00,2022,Regular Season - 5,39,Premier League,England,36,Fulham,51,Brighton,2,1,0,0,2,1,,,,,FT,535.0,Craven Cottage,T. Bramall
+867992,2022-08-30 18:30:00,2022,Regular Season - 5,39,Premier League,England,52,Crystal Palace,55,Brentford,1,1,0,0,1,1,,,,,FT,525.0,Selhurst Park,S. Hooper
+867993,2022-08-30 18:45:00,2022,Regular Season - 5,39,Premier League,England,41,Southampton,49,Chelsea,2,1,2,1,2,1,,,,,FT,585.0,St. Mary's Stadium,M. Oliver
+867989,2022-08-30 19:00:00,2022,Regular Season - 5,39,Premier League,England,63,Leeds,45,Everton,1,1,0,1,1,1,,,,,FT,546.0,Elland Road,D. England
+867986,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,35,Bournemouth,39,Wolves,0,0,0,0,0,0,,,,,FT,504.0,Vitality Stadium,A. Taylor
+867987,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,42,Arsenal,66,Aston Villa,2,1,1,0,2,1,,,,,FT,494.0,Emirates Stadium,R. Jones
+867995,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,50,Manchester City,65,Nottingham Forest,6,0,3,0,6,0,,,,,FT,555.0,Etihad Stadium,P. Tierney
+867991,2022-08-31 18:45:00,2022,Regular Season - 5,39,Premier League,England,48,West Ham,47,Tottenham,1,1,0,1,1,1,,,,,FT,598.0,London Stadium,P. Bankes
+867994,2022-08-31 19:00:00,2022,Regular Season - 5,39,Premier League,England,40,Liverpool,34,Newcastle,2,1,0,1,2,1,,,,,FT,550.0,Anfield,A. Marriner
+867990,2022-09-01 19:00:00,2022,Regular Season - 5,39,Premier League,England,46,Leicester,33,Manchester United,0,1,0,1,0,1,,,,,FT,547.0,King Power Stadium,C. Pawson
+868000,2022-09-03 11:30:00,2022,Regular Season - 6,39,Premier League,England,45,Everton,40,Liverpool,0,0,0,0,0,0,,,,,FT,8560.0,Goodison Park,A. Taylor
+867997,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,55,Brentford,63,Leeds,5,2,2,1,5,2,,,,,FT,10503.0,Gtech Community Stadium,R. Jones
+867999,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,49,Chelsea,48,West Ham,2,1,0,0,2,1,,,,,FT,519.0,Stamford Bridge,A. Madley
+868002,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,34,Newcastle,52,Crystal Palace,0,0,0,0,0,0,,,,,FT,562.0,St. James' Park,M. Salisbury
+868003,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,65,Nottingham Forest,35,Bournemouth,2,3,2,0,2,3,,,,,FT,566.0,The City Ground,M. Oliver
+868004,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,47,Tottenham,36,Fulham,2,1,1,0,2,1,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Attwell
+868005,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,39,Wolves,41,Southampton,1,0,1,0,1,0,,,,,FT,600.0,Molineux Stadium,J. Brooks
+867996,2022-09-03 16:30:00,2022,Regular Season - 6,39,Premier League,England,66,Aston Villa,50,Manchester City,1,1,0,0,1,1,,,,,FT,495.0,Villa Park,S. Hooper
+867998,2022-09-04 13:00:00,2022,Regular Season - 6,39,Premier League,England,51,Brighton,46,Leicester,5,2,2,2,5,2,,,,,FT,508.0,The American Express Community Stadium,T. Harrington
+868001,2022-09-04 15:30:00,2022,Regular Season - 6,39,Premier League,England,33,Manchester United,42,Arsenal,3,1,1,0,3,1,,,,,FT,556.0,Old Trafford,P. Tierney
+946849,2022-09-06 16:45:00,2022,Group E - 1,2,UEFA Champions League,World,620,Dinamo Zagreb,49,Chelsea,1,0,1,0,1,0,,,,,FT,412.0,Stadion Maksimir,I. Kovacs
+946854,2022-09-06 19:00:00,2022,Group G - 1,2,UEFA Champions League,World,536,Sevilla,50,Manchester City,0,4,0,1,0,4,,,,,FT,1494.0,Estadio Ramón Sánchez Pizjuán,D. Massa
+946859,2022-09-07 19:00:00,2022,Group A - 1,2,UEFA Champions League,World,492,Napoli,40,Liverpool,4,1,3,0,4,1,,,,,FT,11904.0,Stadio Diego Armando Maradona,Carlos del Cerro
+946864,2022-09-07 19:00:00,2022,Group D - 1,2,UEFA Champions League,World,47,Tottenham,81,Marseille,2,0,0,0,2,0,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Vinčić
+946753,2022-09-08 16:45:00,2022,Group Stage - 1,3,UEFA Europa League,World,783,FC Zurich,42,Arsenal,1,2,1,1,1,2,,,,,FT,1543.0,Kybunpark,M. Al Hakim
+946665,2022-09-08 19:00:00,2022,Group Stage - 1,848,UEFA Europa Conference League,World,48,West Ham,559,FCSB,3,1,0,1,3,1,,,,,FT,598.0,London Stadium,B. Bastien
+946761,2022-09-08 19:00:00,2022,Group Stage - 1,3,UEFA Europa League,World,33,Manchester United,548,Real Sociedad,0,1,0,0,0,1,,,,,FT,556.0,Old Trafford,M. Di Bello
+946866,2022-09-13 16:45:00,2022,Group D - 2,2,UEFA Champions League,World,228,Sporting CP,47,Tottenham,2,0,0,0,2,0,,,,,FT,1293.0,Estádio José Alvalade,S. Jovanović
+946867,2022-09-13 19:00:00,2022,Group A - 2,2,UEFA Champions League,World,40,Liverpool,194,Ajax,2,1,1,1,2,1,,,,,FT,550.0,Anfield,Artur Soares Dias
+946875,2022-09-14 19:00:00,2022,Group E - 2,2,UEFA Champions League,World,49,Chelsea,571,Red Bull Salzburg,1,1,0,0,1,1,,,,,FT,519.0,Stamford Bridge,I. Kružliak
+946877,2022-09-14 19:00:00,2022,Group G - 2,2,UEFA Champions League,World,50,Manchester City,165,Borussia Dortmund,2,1,0,0,2,1,,,,,FT,555.0,Etihad Stadium,D. Orsato
+946770,2022-09-15 16:45:00,2022,Group Stage - 2,3,UEFA Europa League,World,568,Sheriff Tiraspol,33,Manchester United,0,2,0,2,0,2,,,,,FT,2615.0,Stadionul Zimbru,P. Raczkowski
+946684,2022-09-15 19:00:00,2022,Group Stage - 2,848,UEFA Europa Conference League,World,2073,Silkeborg,48,West Ham,2,3,1,3,2,3,,,,,FT,459.0,JYSK park,Fábio Veríssimo
+868016,2022-09-16 19:00:00,2022,Regular Season - 8,39,Premier League,England,66,Aston Villa,41,Southampton,1,0,1,0,1,0,,,,,FT,495.0,Villa Park,T. Harrington
+868023,2022-09-16 19:00:00,2022,Regular Season - 8,39,Premier League,England,65,Nottingham Forest,36,Fulham,2,3,1,0,2,3,,,,,FT,566.0,The City Ground,J. Gillett
+868025,2022-09-17 11:30:00,2022,Regular Season - 8,39,Premier League,England,39,Wolves,50,Manchester City,0,3,0,2,0,3,,,,,FT,600.0,Molineux Stadium,A. Taylor
+868022,2022-09-17 14:00:00,2022,Regular Season - 8,39,Premier League,England,34,Newcastle,35,Bournemouth,1,1,0,0,1,1,,,,,FT,562.0,St. James' Park,C. Pawson
+868024,2022-09-17 16:30:00,2022,Regular Season - 8,39,Premier League,England,47,Tottenham,46,Leicester,6,2,2,2,6,2,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Hooper
+868017,2022-09-18 11:00:00,2022,Regular Season - 8,39,Premier League,England,55,Brentford,42,Arsenal,0,3,0,2,0,3,,,,,FT,10503.0,Gtech Community Stadium,D. Coote
+868020,2022-09-18 13:15:00,2022,Regular Season - 8,39,Premier League,England,45,Everton,48,West Ham,1,0,0,0,1,0,,,,,FT,8560.0,Goodison Park,M. Oliver
+868027,2022-10-01 11:30:00,2022,Regular Season - 9,39,Premier League,England,42,Arsenal,47,Tottenham,3,1,1,1,3,1,,,,,FT,494.0,Emirates Stadium,A. Taylor
+868026,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,35,Bournemouth,55,Brentford,0,0,0,0,0,0,,,,,FT,504.0,Vitality Stadium,T. Bramall
+868028,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,52,Crystal Palace,49,Chelsea,1,2,1,1,1,2,,,,,FT,525.0,Selhurst Park,C. Kavanagh
+868029,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,36,Fulham,34,Newcastle,1,4,0,3,1,4,,,,,FT,535.0,Craven Cottage,D. England
+868032,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,40,Liverpool,51,Brighton,3,3,1,2,3,3,,,,,FT,550.0,Anfield,A. Madley
+868034,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,41,Southampton,45,Everton,1,2,0,0,1,2,,,,,FT,585.0,St. Mary's Stadium,A. Marriner
+868035,2022-10-01 16:30:00,2022,Regular Season - 9,39,Premier League,England,48,West Ham,39,Wolves,2,0,1,0,2,0,,,,,FT,598.0,London Stadium,P. Tierney
+868033,2022-10-02 13:00:00,2022,Regular Season - 9,39,Premier League,England,50,Manchester City,33,Manchester United,6,3,4,0,6,3,,,,,FT,555.0,Etihad Stadium,M. Oliver
+868030,2022-10-02 15:30:00,2022,Regular Season - 9,39,Premier League,England,63,Leeds,66,Aston Villa,0,0,0,0,0,0,,,,,FT,546.0,Elland Road,S. Attwell
+868031,2022-10-03 19:00:00,2022,Regular Season - 9,39,Premier League,England,46,Leicester,65,Nottingham Forest,4,0,3,0,4,0,,,,,FT,547.0,King Power Stadium,R. Jones
+946883,2022-10-04 19:00:00,2022,Group A - 3,2,UEFA Champions League,World,40,Liverpool,257,Rangers,2,0,1,0,2,0,,,,,FT,550.0,Anfield,C. Turpin
+946888,2022-10-04 19:00:00,2022,Group D - 3,2,UEFA Champions League,World,169,Eintracht Frankfurt,47,Tottenham,0,0,0,0,0,0,,,,,FT,10491.0,Deutsche Bank Park,D. Orsato
+946891,2022-10-05 19:00:00,2022,Group E - 3,2,UEFA Champions League,World,49,Chelsea,489,AC Milan,3,0,1,0,3,0,,,,,FT,519.0,Stamford Bridge,D. Makkelie
+946893,2022-10-05 19:00:00,2022,Group G - 3,2,UEFA Champions League,World,50,Manchester City,400,FC Copenhagen,5,0,3,0,5,0,,,,,FT,555.0,Etihad Stadium,D. Rumšas
+946689,2022-10-06 16:45:00,2022,Group Stage - 3,848,UEFA Europa Conference League,World,554,Anderlecht,48,West Ham,0,1,0,0,0,1,,,,,FT,,Lotto Park,N. Simović
+946789,2022-10-06 16:45:00,2022,Group Stage - 3,3,UEFA Europa League,World,3402,Omonia Nicosia,33,Manchester United,2,3,1,0,2,3,,,,,FT,,Neo GSP,João Pedro Pinheiro
+946793,2022-10-06 19:00:00,2022,Group Stage - 3,3,UEFA Europa League,World,42,Arsenal,327,Bodo/Glimt,3,0,2,0,3,0,,,,,FT,494.0,Emirates Stadium,H. Osmers
+868036,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,35,Bournemouth,46,Leicester,2,1,0,1,2,1,,,,,FT,504.0,Vitality Stadium,M. Salisbury
+868039,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,49,Chelsea,39,Wolves,3,0,1,0,3,0,,,,,FT,519.0,Stamford Bridge,S. Hooper
+868042,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,50,Manchester City,41,Southampton,4,0,2,0,4,0,,,,,FT,555.0,Etihad Stadium,A. Madley
+868043,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,34,Newcastle,55,Brentford,5,1,2,0,5,1,,,,,FT,562.0,St. James' Park,J. Brooks
+868038,2022-10-08 16:30:00,2022,Regular Season - 10,39,Premier League,England,51,Brighton,47,Tottenham,0,1,0,1,0,1,,,,,FT,508.0,The American Express Community Stadium,T. Harrington
+868040,2022-10-09 13:00:00,2022,Regular Season - 10,39,Premier League,England,52,Crystal Palace,63,Leeds,2,1,1,1,2,1,,,,,FT,525.0,Selhurst Park,P. Tierney
+868045,2022-10-09 13:00:00,2022,Regular Season - 10,39,Premier League,England,48,West Ham,36,Fulham,3,1,1,1,3,1,,,,,FT,598.0,London Stadium,C. Kavanagh
+868037,2022-10-09 15:30:00,2022,Regular Season - 10,39,Premier League,England,42,Arsenal,40,Liverpool,3,2,2,1,3,2,,,,,FT,494.0,Emirates Stadium,M. Oliver
+868041,2022-10-09 18:00:00,2022,Regular Season - 10,39,Premier League,England,45,Everton,33,Manchester United,1,2,1,2,1,2,,,,,FT,8560.0,Goodison Park,D. Coote
+868044,2022-10-10 19:00:00,2022,Regular Season - 10,39,Premier League,England,65,Nottingham Forest,66,Aston Villa,1,1,1,1,1,1,,,,,FT,566.0,The City Ground,A. Taylor
+946897,2022-10-11 16:45:00,2022,Group G - 4,2,UEFA Champions League,World,400,FC Copenhagen,50,Manchester City,0,0,0,0,0,0,,,,,FT,11600.0,Parken,Artur Soares Dias
+946900,2022-10-11 19:00:00,2022,Group E - 4,2,UEFA Champions League,World,489,AC Milan,49,Chelsea,0,2,0,2,0,2,,,,,FT,907.0,Stadio Giuseppe Meazza,D. Siebert
+946907,2022-10-12 19:00:00,2022,Group A - 4,2,UEFA Champions League,World,257,Rangers,40,Liverpool,1,7,1,1,1,7,,,,,FT,1401.0,Ibrox Stadium,S. Vinčić
+946911,2022-10-12 19:00:00,2022,Group D - 4,2,UEFA Champions League,World,47,Tottenham,169,Eintracht Frankfurt,3,2,3,1,3,2,,,,,FT,593.0,Tottenham Hotspur Stadium,Carlos del Cerro
+946801,2022-10-13 16:45:00,2022,Group Stage - 4,3,UEFA Europa League,World,327,Bodo/Glimt,42,Arsenal,0,1,0,1,0,1,,,,,FT,1175.0,Aspmyra Stadion,I. Peljto
+946714,2022-10-13 19:00:00,2022,Group Stage - 4,848,UEFA Europa Conference League,World,48,West Ham,554,Anderlecht,2,1,2,0,2,1,,,,,FT,598.0,London Stadium,W. Delajod
+946812,2022-10-13 19:00:00,2022,Group Stage - 4,3,UEFA Europa League,World,33,Manchester United,3402,Omonia Nicosia,1,0,0,0,1,0,,,,,FT,556.0,Old Trafford,J. Brisard
+868047,2022-10-14 19:00:00,2022,Regular Season - 11,39,Premier League,England,55,Brentford,51,Brighton,2,0,1,0,2,0,,,,,FT,10503.0,Gtech Community Stadium,M. Salisbury
+868050,2022-10-15 11:30:00,2022,Regular Season - 11,39,Premier League,England,46,Leicester,52,Crystal Palace,0,0,0,0,0,0,,,,,FT,547.0,King Power Stadium,A. Madley
+868048,2022-10-15 14:00:00,2022,Regular Season - 11,39,Premier League,England,36,Fulham,35,Bournemouth,2,2,1,2,2,2,,,,,FT,535.0,Craven Cottage,G. Scott
+868055,2022-10-15 14:00:00,2022,Regular Season - 11,39,Premier League,England,39,Wolves,65,Nottingham Forest,1,0,0,0,1,0,,,,,FT,600.0,Molineux Stadium,T. Bramall
+868054,2022-10-15 16:30:00,2022,Regular Season - 11,39,Premier League,England,47,Tottenham,45,Everton,2,0,0,0,2,0,,,,,FT,593.0,Tottenham Hotspur Stadium,P. Tierney
+868046,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,66,Aston Villa,49,Chelsea,0,2,0,1,0,2,,,,,FT,495.0,Villa Park,R. Jones
+868049,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,63,Leeds,42,Arsenal,0,1,0,1,0,1,,,,,FT,546.0,Elland Road,C. Kavanagh
+868052,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,33,Manchester United,34,Newcastle,0,0,0,0,0,0,,,,,FT,556.0,Old Trafford,C. Pawson
+868053,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,41,Southampton,48,West Ham,1,1,1,0,1,1,,,,,FT,585.0,St. Mary's Stadium,P. Bankes
+868051,2022-10-16 15:30:00,2022,Regular Season - 11,39,Premier League,England,40,Liverpool,50,Manchester City,1,0,0,0,1,0,,,,,FT,550.0,Anfield,A. Taylor
+868059,2022-10-18 18:30:00,2022,Regular Season - 12,39,Premier League,England,51,Brighton,65,Nottingham Forest,0,0,0,0,0,0,,,,,FT,508.0,The American Express Community Stadium,D. England
+868062,2022-10-18 19:15:00,2022,Regular Season - 12,39,Premier League,England,52,Crystal Palace,39,Wolves,2,1,0,1,2,1,,,,,FT,525.0,Selhurst Park,D. Coote
+868056,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,35,Bournemouth,41,Southampton,0,1,0,1,0,1,,,,,FT,504.0,Vitality Stadium,J. Brooks
+868058,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,55,Brentford,49,Chelsea,0,0,0,0,0,0,,,,,FT,10503.0,Gtech Community Stadium,J. Gillett
+868063,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,34,Newcastle,45,Everton,1,0,1,0,1,0,,,,,FT,562.0,St. James' Park,T. Harrington
+868064,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,40,Liverpool,48,West Ham,1,0,1,0,1,0,,,,,FT,550.0,Anfield,S. Attwell
+868065,2022-10-19 19:15:00,2022,Regular Season - 12,39,Premier League,England,33,Manchester United,47,Tottenham,2,0,0,0,2,0,,,,,FT,556.0,Old Trafford,S. Hooper
+946777,2022-10-20 17:00:00,2022,Group Stage - 2,3,UEFA Europa League,World,42,Arsenal,197,PSV Eindhoven,1,0,0,0,1,0,,,,,FT,494.0,Emirates Stadium,Alejandro Hernández
+868060,2022-10-20 18:30:00,2022,Regular Season - 12,39,Premier League,England,36,Fulham,66,Aston Villa,3,0,1,0,3,0,,,,,FT,535.0,Craven Cottage,M. Oliver
+868061,2022-10-20 19:15:00,2022,Regular Season - 12,39,Premier League,England,46,Leicester,63,Leeds,2,0,2,0,2,0,,,,,FT,547.0,King Power Stadium,P. Bankes
+868071,2022-10-22 11:30:00,2022,Regular Season - 13,39,Premier League,England,65,Nottingham Forest,40,Liverpool,1,0,0,0,1,0,,,,,FT,566.0,The City Ground,P. Tierney
+868068,2022-10-22 14:00:00,2022,Regular Season - 13,39,Premier League,England,45,Everton,52,Crystal Palace,3,0,1,0,3,0,,,,,FT,8560.0,Goodison Park,S. Hooper
+868070,2022-10-22 14:00:00,2022,Regular Season - 13,39,Premier League,England,50,Manchester City,51,Brighton,3,1,2,0,3,1,,,,,FT,555.0,Etihad Stadium,C. Pawson
+868067,2022-10-22 16:30:00,2022,Regular Season - 13,39,Premier League,England,49,Chelsea,33,Manchester United,1,1,0,0,1,1,,,,,FT,519.0,Stamford Bridge,S. Attwell
+868066,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,66,Aston Villa,55,Brentford,4,0,3,0,4,0,,,,,FT,495.0,Villa Park,D. England
+868069,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,63,Leeds,36,Fulham,2,3,1,1,2,3,,,,,FT,546.0,Elland Road,A. Taylor
+868072,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,41,Southampton,42,Arsenal,1,1,0,1,1,1,,,,,FT,585.0,St. Mary's Stadium,R. Jones
+868075,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,39,Wolves,46,Leicester,0,4,0,2,0,4,,,,,FT,600.0,Molineux Stadium,M. Oliver
+868073,2022-10-23 15:30:00,2022,Regular Season - 13,39,Premier League,England,47,Tottenham,34,Newcastle,1,2,0,2,1,2,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Gillett
+868074,2022-10-24 19:00:00,2022,Regular Season - 13,39,Premier League,England,48,West Ham,35,Bournemouth,2,0,1,0,2,0,,,,,FT,598.0,London Stadium,D. Coote
+946913,2022-10-25 16:45:00,2022,Group E - 5,2,UEFA Champions League,World,571,Red Bull Salzburg,49,Chelsea,1,2,0,1,1,2,,,,,FT,148.0,Red Bull Arena,S. Schärer
+946918,2022-10-25 19:00:00,2022,Group G - 5,2,UEFA Champions League,World,165,Borussia Dortmund,50,Manchester City,0,0,0,0,0,0,,,,,FT,19381.0,SIGNAL IDUNA PARK,D. Massa
+946924,2022-10-26 19:00:00,2022,Group A - 5,2,UEFA Champions League,World,194,Ajax,40,Liverpool,0,3,0,1,0,3,,,,,FT,1117.0,Johan Cruijff Arena,José Sánchez
+946927,2022-10-26 19:00:00,2022,Group D - 5,2,UEFA Champions League,World,47,Tottenham,228,Sporting CP,1,1,0,1,1,1,,,,,FT,593.0,Tottenham Hotspur Stadium,D. Makkelie
+946818,2022-10-27 16:45:00,2022,Group Stage - 5,3,UEFA Europa League,World,197,PSV Eindhoven,42,Arsenal,2,0,0,0,2,0,,,,,FT,1143.0,Philips Stadion,M. Di Bello
+946729,2022-10-27 19:00:00,2022,Group Stage - 5,848,UEFA Europa Conference League,World,48,West Ham,2073,Silkeborg,1,0,1,0,1,0,,,,,FT,598.0,London Stadium,J. Hyytiä
+946825,2022-10-27 19:00:00,2022,Group Stage - 5,3,UEFA Europa League,World,33,Manchester United,568,Sheriff Tiraspol,3,0,1,0,3,0,,,,,FT,556.0,Old Trafford,A. Sidiropoulos
+868082,2022-10-29 11:30:00,2022,Regular Season - 14,39,Premier League,England,46,Leicester,50,Manchester City,0,1,0,0,0,1,,,,,FT,547.0,King Power Stadium,R. Jones
+868076,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,35,Bournemouth,47,Tottenham,2,3,1,0,2,3,,,,,FT,504.0,Vitality Stadium,A. Taylor
+868078,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,55,Brentford,39,Wolves,1,1,0,0,1,1,,,,,FT,10503.0,Gtech Community Stadium,R. Madley
+868079,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,51,Brighton,49,Chelsea,4,1,3,0,4,1,,,,,FT,508.0,The American Express Community Stadium,A. Madley
+868080,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,52,Crystal Palace,41,Southampton,1,0,1,0,1,0,,,,,FT,525.0,Selhurst Park,M. Salisbury
+868085,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,34,Newcastle,66,Aston Villa,4,0,1,0,4,0,,,,,FT,562.0,St. James' Park,P. Tierney
+868081,2022-10-29 16:30:00,2022,Regular Season - 14,39,Premier League,England,36,Fulham,45,Everton,0,0,0,0,0,0,,,,,FT,535.0,Craven Cottage,J. Brooks
+868083,2022-10-29 18:45:00,2022,Regular Season - 14,39,Premier League,England,40,Liverpool,63,Leeds,1,2,1,1,1,2,,,,,FT,550.0,Anfield,M. Oliver
+868077,2022-10-30 14:00:00,2022,Regular Season - 14,39,Premier League,England,42,Arsenal,65,Nottingham Forest,5,0,1,0,5,0,,,,,FT,494.0,Emirates Stadium,S. Hooper
+868084,2022-10-30 16:15:00,2022,Regular Season - 14,39,Premier League,England,33,Manchester United,48,West Ham,1,0,1,0,1,0,,,,,FT,556.0,Old Trafford,C. Kavanagh
+946931,2022-11-01 20:00:00,2022,Group A - 6,2,UEFA Champions League,World,40,Liverpool,492,Napoli,2,0,0,0,2,0,,,,,FT,550.0,Anfield,T. Stieler
+946936,2022-11-01 20:00:00,2022,Group D - 6,2,UEFA Champions League,World,81,Marseille,47,Tottenham,1,2,1,0,1,2,,,,,FT,12678.0,Stade Orange Vélodrome,S. Marciniak
+946939,2022-11-02 20:00:00,2022,Group E - 6,2,UEFA Champions League,World,49,Chelsea,620,Dinamo Zagreb,2,1,2,1,2,1,,,,,FT,519.0,Stamford Bridge,F. Letexier
+946941,2022-11-02 20:00:00,2022,Group G - 6,2,UEFA Champions League,World,50,Manchester City,536,Sevilla,3,1,0,1,3,1,,,,,FT,555.0,Etihad Stadium,O. Grinfeeld
+946833,2022-11-03 17:45:00,2022,Group Stage - 6,3,UEFA Europa League,World,548,Real Sociedad,33,Manchester United,0,1,0,1,0,1,,,,,FT,1491.0,Reale Arena,G. Kabakov
+946747,2022-11-03 20:00:00,2022,Group Stage - 6,848,UEFA Europa Conference League,World,559,FCSB,48,West Ham,0,3,0,1,0,3,,,,,FT,1326.0,Arena Naţională,S. Stegemann
+946841,2022-11-03 20:00:00,2022,Group Stage - 6,3,UEFA Europa League,World,42,Arsenal,783,FC Zurich,1,0,1,0,1,0,,,,,FT,494.0,Emirates Stadium,E. Lambrechts
+868089,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,63,Leeds,35,Bournemouth,4,3,1,2,4,3,,,,,FT,546.0,Elland Road,T. Harrington
+868090,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,50,Manchester City,36,Fulham,2,1,1,1,2,1,,,,,FT,555.0,Etihad Stadium,D. England
+868091,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,65,Nottingham Forest,55,Brentford,2,2,1,1,2,2,,,,,FT,566.0,The City Ground,A. Marriner
+868095,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,39,Wolves,51,Brighton,2,3,2,2,2,3,,,,,FT,600.0,Molineux Stadium,G. Scott
+868088,2022-11-05 17:30:00,2022,Regular Season - 15,39,Premier League,England,45,Everton,46,Leicester,0,2,0,1,0,2,,,,,FT,8560.0,Goodison Park,D. Coote
+868087,2022-11-06 12:00:00,2022,Regular Season - 15,39,Premier League,England,49,Chelsea,42,Arsenal,0,1,0,0,0,1,,,,,FT,519.0,Stamford Bridge,M. Oliver
+868086,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,66,Aston Villa,33,Manchester United,3,1,2,1,3,1,,,,,FT,495.0,Villa Park,A. Taylor
+868092,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,41,Southampton,34,Newcastle,1,4,0,1,1,4,,,,,FT,585.0,St. Mary's Stadium,S. Attwell
+868094,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,48,West Ham,52,Crystal Palace,1,2,1,1,1,2,,,,,FT,598.0,London Stadium,P. Tierney
+868093,2022-11-06 16:30:00,2022,Regular Season - 15,39,Premier League,England,47,Tottenham,40,Liverpool,1,2,0,2,1,2,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Madley
+945930,2022-11-08 19:45:00,2022,3rd Round,48,League Cup,England,46,Leicester,1367,Newport County,3,0,1,0,3,0,,,,,FT,547.0,King Power Stadium,D. Bond
+945935,2022-11-08 19:45:00,2022,3rd Round,48,League Cup,England,35,Bournemouth,45,Everton,4,1,1,0,4,1,,,,,FT,504.0,Vitality Stadium,D. England
+945932,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,39,Wolves,63,Leeds,1,0,0,0,1,0,,,,,FT,600.0,Molineux Stadium,A. Marriner
+945933,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,65,Nottingham Forest,47,Tottenham,2,0,0,0,2,0,,,,,FT,566.0,The City Ground,P. Bankes
+945944,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,42,Arsenal,51,Brighton,1,3,1,1,1,3,,,,,FT,494.0,Emirates Stadium,J. Gillett
+945939,2022-11-09 20:00:00,2022,3rd Round,48,League Cup,England,50,Manchester City,49,Chelsea,2,0,0,0,2,0,,,,,FT,555.0,Etihad Stadium,S. Hooper
+945934,2022-11-10 20:00:00,2022,3rd Round,48,League Cup,England,33,Manchester United,66,Aston Villa,4,2,0,0,4,2,,,,,FT,556.0,Old Trafford,D. Coote
+868100,2022-11-12 12:30:00,2022,Regular Season - 16,39,Premier League,England,50,Manchester City,55,Brentford,1,2,1,1,1,2,,,,,FT,555.0,Etihad Stadium,P. Bankes
+868096,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,35,Bournemouth,45,Everton,3,0,2,0,3,0,,,,,FT,504.0,Vitality Stadium,C. Pawson
+868099,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,40,Liverpool,41,Southampton,3,1,3,1,3,1,,,,,FT,550.0,Anfield,S. Hooper
+868102,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,65,Nottingham Forest,52,Crystal Palace,1,0,0,0,1,0,,,,,FT,566.0,The City Ground,J. Brooks
+868103,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,47,Tottenham,63,Leeds,4,3,1,2,4,3,,,,,FT,593.0,Tottenham Hotspur Stadium,M. Salisbury
+868104,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,48,West Ham,46,Leicester,0,2,0,1,0,2,,,,,FT,598.0,London Stadium,J. Gillett
+868101,2022-11-12 17:30:00,2022,Regular Season - 16,39,Premier League,England,34,Newcastle,49,Chelsea,1,0,0,0,1,0,,,,,FT,562.0,St. James' Park,R. Jones
+868105,2022-11-12 19:45:00,2022,Regular Season - 16,39,Premier League,England,39,Wolves,42,Arsenal,0,2,0,0,0,2,,,,,FT,600.0,Molineux Stadium,S. Attwell
+868097,2022-11-13 14:00:00,2022,Regular Season - 16,39,Premier League,England,51,Brighton,66,Aston Villa,1,2,1,1,1,2,,,,,FT,508.0,The American Express Community Stadium,C. Kavanagh
+868098,2022-11-13 16:30:00,2022,Regular Season - 16,39,Premier League,England,36,Fulham,33,Manchester United,1,2,0,1,1,2,,,,,FT,535.0,Craven Cottage,P. Tierney
+972358,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,39,Wolves,1347,Gillingham,2,0,0,0,2,0,,,,,FT,600.0,Molineux Stadium,M. Salisbury
+972359,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,41,Southampton,1379,Lincoln,2,1,1,1,2,1,,,,,FT,585.0,St. Mary's Stadium,J. Gillett
+972361,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,34,Newcastle,35,Bournemouth,1,0,0,0,1,0,,,,,FT,562.0,St. James' Park,J. Brooks
+972364,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,1348,Milton Keynes Dons,46,Leicester,0,3,0,2,0,3,,,,,FT,560.0,Stadium mk,A. Marriner
+972360,2022-12-21 19:45:00,2022,Round of 16,48,League Cup,England,67,Blackburn,65,Nottingham Forest,1,4,1,1,1,4,,,,,FT,500.0,Ewood Park,R. Jones
+972363,2022-12-21 20:00:00,2022,Round of 16,48,League Cup,England,33,Manchester United,44,Burnley,2,0,1,0,2,0,,,,,FT,556.0,Old Trafford,G. Scott
+972362,2022-12-22 20:00:00,2022,Round of 16,48,League Cup,England,50,Manchester City,40,Liverpool,3,2,1,1,3,2,,,,,FT,555.0,Etihad Stadium,D. Coote
+868108,2022-12-26 12:30:00,2022,Regular Season - 17,39,Premier League,England,55,Brentford,47,Tottenham,2,2,1,0,2,2,,,,,FT,10503.0,Gtech Community Stadium,D. Coote
+868110,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,52,Crystal Palace,36,Fulham,0,3,0,1,0,3,,,,,FT,525.0,Selhurst Park,A. Madley
+868111,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,45,Everton,39,Wolves,1,2,1,1,1,2,,,,,FT,8560.0,Goodison Park,C. Pawson
+868113,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,46,Leicester,34,Newcastle,0,3,0,3,0,3,,,,,FT,547.0,King Power Stadium,J. Gillett
+868115,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,41,Southampton,51,Brighton,1,3,0,2,1,3,,,,,FT,585.0,St. Mary's Stadium,R. Jones
+868107,2022-12-26 17:30:00,2022,Regular Season - 17,39,Premier League,England,66,Aston Villa,40,Liverpool,1,3,0,2,1,3,,,,,FT,495.0,Villa Park,P. Tierney
+868106,2022-12-26 20:00:00,2022,Regular Season - 17,39,Premier League,England,42,Arsenal,48,West Ham,3,1,0,1,3,1,,,,,FT,494.0,Emirates Stadium,M. Oliver
+868109,2022-12-27 17:30:00,2022,Regular Season - 17,39,Premier League,England,49,Chelsea,35,Bournemouth,2,0,2,0,2,0,,,,,FT,519.0,Stamford Bridge,S. Hooper
+868114,2022-12-27 20:00:00,2022,Regular Season - 17,39,Premier League,England,33,Manchester United,65,Nottingham Forest,3,0,2,0,3,0,,,,,FT,556.0,Old Trafford,A. Taylor
+868112,2022-12-28 20:00:00,2022,Regular Season - 17,39,Premier League,England,63,Leeds,50,Manchester City,1,3,0,1,1,3,,,,,FT,546.0,Elland Road,S. Attwell
+868124,2022-12-30 19:45:00,2022,Regular Season - 18,39,Premier League,England,48,West Ham,55,Brentford,0,2,0,2,0,2,,,,,FT,598.0,London Stadium,D. England
+868119,2022-12-30 20:00:00,2022,Regular Season - 18,39,Premier League,England,40,Liverpool,46,Leicester,2,1,2,1,2,1,,,,,FT,550.0,Anfield,C. Pawson
+868125,2022-12-31 12:30:00,2022,Regular Season - 18,39,Premier League,England,39,Wolves,33,Manchester United,0,1,0,0,0,1,,,,,FT,600.0,Molineux Stadium,R. Jones
+868116,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,35,Bournemouth,52,Crystal Palace,0,2,0,2,0,2,,,,,FT,504.0,Vitality Stadium,A. Marriner
+868118,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,36,Fulham,41,Southampton,2,1,1,0,2,1,,,,,FT,535.0,Craven Cottage,G. Scott
+868120,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,50,Manchester City,45,Everton,1,1,1,0,1,1,,,,,FT,555.0,Etihad Stadium,A. Madley
+868121,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,34,Newcastle,63,Leeds,0,0,0,0,0,0,,,,,FT,562.0,St. James' Park,S. Hooper
+868117,2022-12-31 17:30:00,2022,Regular Season - 18,39,Premier League,England,51,Brighton,42,Arsenal,2,4,0,2,2,4,,,,,FT,508.0,The American Express Community Stadium,A. Taylor
+868123,2023-01-01 14:00:00,2022,Regular Season - 18,39,Premier League,England,47,Tottenham,66,Aston Villa,0,2,0,0,0,2,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Brooks
+868122,2023-01-01 16:30:00,2022,Regular Season - 18,39,Premier League,England,65,Nottingham Forest,49,Chelsea,1,1,0,1,1,1,,,,,FT,566.0,The City Ground,P. Bankes
+868128,2023-01-02 17:30:00,2022,Regular Season - 19,39,Premier League,England,55,Brentford,40,Liverpool,3,1,2,0,3,1,,,,,FT,10503.0,Gtech Community Stadium,S. Attwell
+868126,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,42,Arsenal,34,Newcastle,0,0,0,0,0,0,,,,,FT,494.0,Emirates Stadium,A. Madley
+868131,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,45,Everton,51,Brighton,1,4,0,1,1,4,,,,,FT,8560.0,Goodison Park,A. Marriner
+868133,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,46,Leicester,36,Fulham,0,1,0,1,0,1,,,,,FT,547.0,King Power Stadium,D. Bond
+868134,2023-01-03 20:00:00,2022,Regular Season - 19,39,Premier League,England,33,Manchester United,35,Bournemouth,3,0,1,0,3,0,,,,,FT,556.0,Old Trafford,M. Salisbury
+868135,2023-01-04 19:30:00,2022,Regular Season - 19,39,Premier League,England,41,Southampton,65,Nottingham Forest,0,1,0,1,0,1,,,,,FT,585.0,St. Mary's Stadium,T. Bramall
+868132,2023-01-04 19:45:00,2022,Regular Season - 19,39,Premier League,England,63,Leeds,48,West Ham,2,2,1,1,2,2,,,,,FT,546.0,Elland Road,D. Coote
+868127,2023-01-04 20:00:00,2022,Regular Season - 19,39,Premier League,England,66,Aston Villa,39,Wolves,1,1,0,1,1,1,,,,,FT,495.0,Villa Park,J. Gillett
+868130,2023-01-04 20:00:00,2022,Regular Season - 19,39,Premier League,England,52,Crystal Palace,47,Tottenham,0,4,0,0,0,4,,,,,FT,525.0,Selhurst Park,M. Oliver
+868129,2023-01-05 20:00:00,2022,Regular Season - 19,39,Premier League,England,49,Chelsea,50,Manchester City,0,1,0,0,0,1,,,,,FT,519.0,Stamford Bridge,P. Tierney
+976488,2023-01-06 20:00:00,2022,3rd Round,45,FA Cup,England,33,Manchester United,45,Everton,3,1,1,1,3,1,,,,,FT,556.0,Old Trafford,D. England
+976466,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,47,Tottenham,1355,Portsmouth,1,0,0,0,1,0,,,,,FT,593.0,Tottenham Hotspur Stadium,T. Bramall
+976484,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,52,Crystal Palace,41,Southampton,1,2,1,1,1,2,,,,,FT,525.0,Selhurst Park,D. Bond
+981448,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,1347,Gillingham,46,Leicester,0,1,0,0,0,1,,,,,FT,19202.0,MEMS Priestfield Stadium,S. Barrott
+976462,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,70,Middlesbrough,51,Brighton,1,5,1,2,1,5,,,,,FT,558.0,Riverside Stadium,S. Hooper
+976470,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,35,Bournemouth,44,Burnley,2,4,1,3,2,4,,,,,FT,504.0,Vitality Stadium,T. Robinson
+976479,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,1356,Blackpool,65,Nottingham Forest,4,1,1,0,4,1,,,,,FT,501.0,Bloomfield Road,J. Linington
+976483,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,64,Hull City,36,Fulham,0,2,0,1,0,2,,,,,FT,12051.0,The MKM Stadium,J. Smith
+976469,2023-01-07 17:30:00,2022,3rd Round,45,FA Cup,England,55,Brentford,48,West Ham,0,1,0,0,0,1,,,,,FT,10503.0,Gtech Community Stadium,A. Marriner
+976487,2023-01-07 18:00:00,2022,3rd Round,45,FA Cup,England,74,Sheffield Wednesday,34,Newcastle,2,1,0,0,2,1,,,,,FT,582.0,Hillsborough,M. Salisbury
+976477,2023-01-07 20:00:00,2022,3rd Round,45,FA Cup,England,40,Liverpool,39,Wolves,2,2,1,1,2,2,,,,,FT,550.0,Anfield,A. Madley
+976468,2023-01-08 14:00:00,2022,3rd Round,45,FA Cup,England,43,Cardiff,63,Leeds,2,2,2,0,2,2,,,,,FT,516.0,Cardiff City Stadium,J. Gillett
+976464,2023-01-08 16:30:00,2022,3rd Round,45,FA Cup,England,50,Manchester City,49,Chelsea,4,0,3,0,4,0,,,,,FT,555.0,Etihad Stadium,R. Jones
+976473,2023-01-08 16:30:00,2022,3rd Round,45,FA Cup,England,66,Aston Villa,1368,Stevenage,1,2,1,0,1,2,,,,,FT,495.0,Villa Park,G. Scott
+976475,2023-01-09 20:00:00,2022,3rd Round,45,FA Cup,England,1338,Oxford United,42,Arsenal,0,3,0,0,0,3,,,,,FT,569.0,The Kassam Stadium,D. Coote
+981786,2023-01-10 20:00:00,2022,Quarter-finals,48,League Cup,England,33,Manchester United,1335,Charlton,3,0,1,0,3,0,,,,,FT,556.0,Old Trafford,J. Gillett
+981789,2023-01-10 20:00:00,2022,Quarter-finals,48,League Cup,England,34,Newcastle,46,Leicester,2,0,0,0,2,0,,,,,FT,562.0,St. James' Park,D. England
+981787,2023-01-11 20:00:00,2022,Quarter-finals,48,League Cup,England,41,Southampton,50,Manchester City,2,0,2,0,2,0,,,,,FT,585.0,St. Mary's Stadium,P. Bankes
+868009,2023-01-12 20:00:00,2022,Regular Season - 7,39,Premier League,England,36,Fulham,49,Chelsea,2,1,1,0,2,1,,,,,FT,535.0,Craven Cottage,D. Coote
+868136,2023-01-13 20:00:00,2022,Regular Season - 20,39,Premier League,England,66,Aston Villa,63,Leeds,2,1,1,0,2,1,,,,,FT,495.0,Villa Park,M. Oliver
+868141,2023-01-14 12:30:00,2022,Regular Season - 20,39,Premier League,England,33,Manchester United,50,Manchester City,2,1,0,0,2,1,,,,,FT,556.0,Old Trafford,S. Attwell
+868138,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,51,Brighton,40,Liverpool,3,0,0,0,3,0,,,,,FT,508.0,The American Express Community Stadium,D. England
+868140,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,45,Everton,41,Southampton,1,2,1,0,1,2,,,,,FT,8560.0,Goodison Park,J. Brooks
+868143,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,65,Nottingham Forest,46,Leicester,2,0,0,0,2,0,,,,,FT,566.0,The City Ground,P. Tierney
+868145,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,39,Wolves,48,West Ham,1,0,0,0,1,0,,,,,FT,600.0,Molineux Stadium,S. Hooper
+868137,2023-01-14 17:30:00,2022,Regular Season - 20,39,Premier League,England,55,Brentford,35,Bournemouth,2,0,1,0,2,0,,,,,FT,10503.0,Gtech Community Stadium,J. Gillett
+868139,2023-01-15 14:00:00,2022,Regular Season - 20,39,Premier League,England,49,Chelsea,52,Crystal Palace,1,0,0,0,1,0,,,,,FT,519.0,Stamford Bridge,P. Bankes
+868142,2023-01-15 14:00:00,2022,Regular Season - 20,39,Premier League,England,34,Newcastle,36,Fulham,1,0,0,0,1,0,,,,,FT,562.0,St. James' Park,R. Jones
+868144,2023-01-15 16:30:00,2022,Regular Season - 20,39,Premier League,England,47,Tottenham,42,Arsenal,0,2,0,2,0,2,,,,,FT,593.0,Tottenham Hotspur Stadium,C. Pawson
+986119,2023-01-17 19:45:00,2022,3rd Round Replays,45,FA Cup,England,39,Wolves,40,Liverpool,0,1,0,1,0,1,,,,,FT,600.0,Molineux Stadium,A. Marriner
+986120,2023-01-18 19:45:00,2022,3rd Round Replays,45,FA Cup,England,63,Leeds,43,Cardiff,5,2,3,0,5,2,,,,,FT,546.0,Elland Road,T. Bramall
+868008,2023-01-18 20:00:00,2022,Regular Season - 7,39,Premier League,England,52,Crystal Palace,33,Manchester United,1,1,0,1,1,1,,,,,FT,525.0,Selhurst Park,R. Jones
+868013,2023-01-19 20:00:00,2022,Regular Season - 7,39,Premier League,England,50,Manchester City,47,Tottenham,4,2,0,2,4,2,,,,,FT,555.0,Etihad Stadium,S. Hooper
+868152,2023-01-21 12:30:00,2022,Regular Season - 21,39,Premier League,England,40,Liverpool,49,Chelsea,0,0,0,0,0,0,,,,,FT,550.0,Anfield,M. Oliver
+868146,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,35,Bournemouth,65,Nottingham Forest,1,1,1,0,1,1,,,,,FT,504.0,Vitality Stadium,A. Madley
+868151,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,46,Leicester,51,Brighton,2,2,1,1,2,2,,,,,FT,547.0,King Power Stadium,T. Bramall
+868154,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,41,Southampton,66,Aston Villa,0,1,0,0,0,1,,,,,FT,585.0,St. Mary's Stadium,M. Salisbury
+868155,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,48,West Ham,45,Everton,2,0,2,0,2,0,,,,,FT,598.0,London Stadium,S. Attwell
+868148,2023-01-21 17:30:00,2022,Regular Season - 21,39,Premier League,England,52,Crystal Palace,34,Newcastle,0,0,0,0,0,0,,,,,FT,525.0,Selhurst Park,C. Pawson
+868150,2023-01-22 14:00:00,2022,Regular Season - 21,39,Premier League,England,63,Leeds,55,Brentford,0,0,0,0,0,0,,,,,FT,546.0,Elland Road,P. Bankes
+868153,2023-01-22 14:00:00,2022,Regular Season - 21,39,Premier League,England,50,Manchester City,39,Wolves,3,0,1,0,3,0,,,,,FT,555.0,Etihad Stadium,D. Coote
+868147,2023-01-22 16:30:00,2022,Regular Season - 21,39,Premier League,England,42,Arsenal,33,Manchester United,3,2,1,1,3,2,,,,,FT,494.0,Emirates Stadium,A. Taylor
+868149,2023-01-23 20:00:00,2022,Regular Season - 21,39,Premier League,England,36,Fulham,47,Tottenham,0,1,0,1,0,1,,,,,FT,535.0,Craven Cottage,P. Tierney
+986793,2023-01-24 20:00:00,2022,Semi-finals,48,League Cup,England,41,Southampton,34,Newcastle,0,1,0,0,0,1,,,,,FT,585.0,St. Mary's Stadium,S. Attwell
+986795,2023-01-25 20:00:00,2022,Semi-finals,48,League Cup,England,65,Nottingham Forest,33,Manchester United,0,3,0,2,0,3,,,,,FT,566.0,The City Ground,M. Oliver
+986497,2023-01-27 20:00:00,2022,4th Round,45,FA Cup,England,50,Manchester City,42,Arsenal,1,0,0,0,1,0,,,,,FT,555.0,Etihad Stadium,P. Tierney
+986112,2023-01-28 12:30:00,2022,4th Round,45,FA Cup,England,1342,Walsall,46,Leicester,0,1,0,0,0,1,,,,,FT,18620.0,Poundland Bescot Stadium,G. Ward
+994591,2023-01-28 12:30:00,2022,4th Round,45,FA Cup,England,1360,Accrington ST,63,Leeds,1,3,0,1,1,3,,,,,FT,490.0,Wham Stadium,J. Smith
+986106,2023-01-28 15:00:00,2022,4th Round,45,FA Cup,England,41,Southampton,1356,Blackpool,2,1,1,0,2,1,,,,,FT,585.0,St. Mary's Stadium,C. Pawson
+986114,2023-01-28 15:00:00,2022,4th Round,45,FA Cup,England,36,Fulham,746,Sunderland,1,1,0,1,1,1,,,,,FT,535.0,Craven Cottage,M. Salisbury
+986108,2023-01-28 18:00:00,2022,4th Round,45,FA Cup,England,59,Preston,47,Tottenham,0,3,0,0,0,3,,,,,FT,574.0,Deepdale,P. Bankes
+986110,2023-01-28 20:00:00,2022,4th Round,45,FA Cup,England,33,Manchester United,53,Reading,3,1,0,0,3,1,,,,,FT,556.0,Old Trafford,D. England
+990835,2023-01-29 13:30:00,2022,4th Round,45,FA Cup,England,51,Brighton,40,Liverpool,2,1,1,1,2,1,,,,,FT,508.0,The American Express Community Stadium,D. Coote
+986111,2023-01-30 19:45:00,2022,4th Round,45,FA Cup,England,69,Derby,48,West Ham,0,2,0,1,0,2,,,,,FT,527.0,Pride Park Stadium,T. Bramall
+986794,2023-01-31 20:00:00,2022,Semi-finals,48,League Cup,England,34,Newcastle,41,Southampton,2,1,2,1,2,1,,,,,FT,562.0,St. James' Park,P. Tierney
+986796,2023-02-01 20:00:00,2022,Semi-finals,48,League Cup,England,33,Manchester United,65,Nottingham Forest,2,0,0,0,2,0,,,,,FT,556.0,Old Trafford,P. Bankes
+868159,2023-02-03 20:00:00,2022,Regular Season - 22,39,Premier League,England,49,Chelsea,36,Fulham,0,0,0,0,0,0,,,,,FT,519.0,Stamford Bridge,S. Attwell
+868160,2023-02-04 12:30:00,2022,Regular Season - 22,39,Premier League,England,45,Everton,42,Arsenal,1,0,0,0,1,0,,,,,FT,8560.0,Goodison Park,D. Coote
+868156,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,66,Aston Villa,46,Leicester,2,4,2,3,2,4,,,,,FT,495.0,Villa Park,D. England
+868157,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,55,Brentford,41,Southampton,3,0,2,0,3,0,,,,,FT,10503.0,Gtech Community Stadium,D. Bond
+868158,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,51,Brighton,35,Bournemouth,1,0,0,0,1,0,,,,,FT,508.0,The American Express Community Stadium,C. Pawson
+868161,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,33,Manchester United,52,Crystal Palace,2,1,1,0,2,1,,,,,FT,556.0,Old Trafford,A. Marriner
+868165,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,39,Wolves,40,Liverpool,3,0,2,0,3,0,,,,,FT,600.0,Molineux Stadium,P. Tierney
+868162,2023-02-04 17:30:00,2022,Regular Season - 22,39,Premier League,England,34,Newcastle,48,West Ham,1,1,1,1,1,1,,,,,FT,562.0,St. James' Park,P. Bankes
+868163,2023-02-05 14:00:00,2022,Regular Season - 22,39,Premier League,England,65,Nottingham Forest,63,Leeds,1,0,1,0,1,0,,,,,FT,566.0,The City Ground,R. Jones
+868164,2023-02-05 16:30:00,2022,Regular Season - 22,39,Premier League,England,47,Tottenham,50,Manchester City,1,0,1,0,1,0,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Madley
+997631,2023-02-08 19:45:00,2022,4th Round Replays,45,FA Cup,England,746,Sunderland,36,Fulham,2,3,0,1,2,3,,,,,FT,589.0,Stadium of Light,T. Robinson
+868021,2023-02-08 20:00:00,2022,Regular Season - 8,39,Premier League,England,33,Manchester United,63,Leeds,2,2,0,1,2,2,,,,,FT,556.0,Old Trafford,S. Hooper
+868175,2023-02-11 12:30:00,2022,Regular Season - 23,39,Premier League,England,48,West Ham,49,Chelsea,1,1,1,1,1,1,,,,,FT,598.0,London Stadium,C. Pawson
+868167,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,42,Arsenal,55,Brentford,1,1,0,0,1,1,,,,,FT,494.0,Emirates Stadium,P. Bankes
+868168,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,52,Crystal Palace,51,Brighton,1,1,0,0,1,1,,,,,FT,525.0,Selhurst Park,M. Oliver
+868169,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,36,Fulham,65,Nottingham Forest,2,0,1,0,2,0,,,,,FT,535.0,Craven Cottage,A. Madley
+868171,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,46,Leicester,47,Tottenham,4,1,3,1,4,1,,,,,FT,547.0,King Power Stadium,M. Salisbury
+868174,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,41,Southampton,39,Wolves,1,2,1,0,1,2,,,,,FT,585.0,St. Mary's Stadium,J. Gillett
+868166,2023-02-11 17:30:00,2022,Regular Season - 23,39,Premier League,England,35,Bournemouth,34,Newcastle,1,1,1,1,1,1,,,,,FT,504.0,Vitality Stadium,S. Attwell
+868170,2023-02-12 14:00:00,2022,Regular Season - 23,39,Premier League,England,63,Leeds,33,Manchester United,0,2,0,0,0,2,,,,,FT,546.0,Elland Road,P. Tierney
+868173,2023-02-12 16:30:00,2022,Regular Season - 23,39,Premier League,England,50,Manchester City,66,Aston Villa,3,1,3,0,3,1,,,,,FT,555.0,Etihad Stadium,R. Jones
+868172,2023-02-13 20:00:00,2022,Regular Season - 23,39,Premier League,England,40,Liverpool,45,Everton,2,0,1,0,2,0,,,,,FT,550.0,Anfield,S. Hooper
+971793,2023-02-14 20:00:00,2022,Round of 16,2,UEFA Champions League,World,489,AC Milan,47,Tottenham,1,0,1,0,1,0,,,,,FT,907.0,Stadio Giuseppe Meazza,S. Schärer
+868057,2023-02-15 19:30:00,2022,Regular Season - 12,39,Premier League,England,42,Arsenal,50,Manchester City,1,3,1,1,1,3,,,,,FT,494.0,Emirates Stadium,A. Taylor
+971799,2023-02-15 20:00:00,2022,Round of 16,2,UEFA Champions League,World,165,Borussia Dortmund,49,Chelsea,1,0,0,0,1,0,,,,,FT,19381.0,SIGNAL IDUNA PARK,Jesús Gil
+971761,2023-02-16 17:45:00,2022,Knockout Round Play-offs,3,UEFA Europa League,World,529,Barcelona,33,Manchester United,2,2,0,0,2,2,,,,,FT,18630.0,Spotify Camp Nou,M. Mariani
+868176,2023-02-18 12:30:00,2022,Regular Season - 24,39,Premier League,England,66,Aston Villa,42,Arsenal,2,4,2,1,2,4,,,,,FT,495.0,Villa Park,S. Hooper
+868177,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,55,Brentford,52,Crystal Palace,1,1,0,0,1,1,,,,,FT,10503.0,Gtech Community Stadium,P. Tierney
+868178,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,51,Brighton,36,Fulham,0,1,0,0,0,1,,,,,FT,508.0,The American Express Community Stadium,D. England
+868179,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,49,Chelsea,41,Southampton,0,1,0,1,0,1,,,,,FT,519.0,Stamford Bridge,D. Coote
+868180,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,45,Everton,63,Leeds,1,0,0,0,1,0,,,,,FT,8560.0,Goodison Park,A. Madley
+868183,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,65,Nottingham Forest,50,Manchester City,1,1,0,1,1,1,,,,,FT,566.0,The City Ground,G. Scott
+868185,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,39,Wolves,35,Bournemouth,0,1,0,0,0,1,,,,,FT,600.0,Molineux Stadium,M. Salisbury
+868182,2023-02-18 17:30:00,2022,Regular Season - 24,39,Premier League,England,34,Newcastle,40,Liverpool,0,2,0,2,0,2,,,,,FT,562.0,St. James' Park,A. Taylor
+868181,2023-02-19 14:00:00,2022,Regular Season - 24,39,Premier League,England,33,Manchester United,46,Leicester,3,0,1,0,3,0,,,,,FT,556.0,Old Trafford,S. Attwell
+868184,2023-02-19 16:30:00,2022,Regular Season - 24,39,Premier League,England,47,Tottenham,48,West Ham,2,0,0,0,2,0,,,,,FT,593.0,Tottenham Hotspur Stadium,M. Oliver
+971801,2023-02-21 20:00:00,2022,Round of 16,2,UEFA Champions League,World,40,Liverpool,541,Real Madrid,2,5,2,2,2,5,,,,,FT,550.0,Anfield,I. Kovacs
+971805,2023-02-22 20:00:00,2022,Round of 16,2,UEFA Champions League,World,173,RB Leipzig,50,Manchester City,1,1,0,1,1,1,,,,,FT,738.0,Red Bull Arena,S. Gözübüyük
+971762,2023-02-23 20:00:00,2022,Knockout Round Play-offs,3,UEFA Europa League,World,33,Manchester United,529,Barcelona,2,1,0,1,2,1,,,,,FT,556.0,Old Trafford,C. Turpin
+868189,2023-02-24 20:00:00,2022,Regular Season - 25,39,Premier League,England,36,Fulham,39,Wolves,1,1,0,1,1,1,,,,,FT,535.0,Craven Cottage,M. Oliver
+868188,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,45,Everton,66,Aston Villa,0,2,0,0,0,2,,,,,FT,8560.0,Goodison Park,A. Taylor
+868190,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,63,Leeds,41,Southampton,1,0,0,0,1,0,,,,,FT,546.0,Elland Road,P. Bankes
+868191,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,46,Leicester,42,Arsenal,0,1,0,0,0,1,,,,,FT,547.0,King Power Stadium,C. Pawson
+868195,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,48,West Ham,65,Nottingham Forest,4,0,0,0,4,0,,,,,FT,598.0,London Stadium,J. Gillett
+868186,2023-02-25 17:30:00,2022,Regular Season - 25,39,Premier League,England,35,Bournemouth,50,Manchester City,1,4,0,3,1,4,,,,,FT,504.0,Vitality Stadium,P. Tierney
+868187,2023-02-25 19:45:00,2022,Regular Season - 25,39,Premier League,England,52,Crystal Palace,40,Liverpool,0,0,0,0,0,0,,,,,FT,525.0,Selhurst Park,D. England
+868194,2023-02-26 13:30:00,2022,Regular Season - 25,39,Premier League,England,47,Tottenham,49,Chelsea,2,0,0,0,2,0,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Attwell
+998280,2023-02-26 16:30:00,2022,Final,48,League Cup,England,33,Manchester United,34,Newcastle,2,0,2,0,2,0,,,,,FT,489.0,Wembley Stadium,D. Coote
+997624,2023-02-28 19:15:00,2022,5th Round,45,FA Cup,England,75,Stoke City,51,Brighton,0,1,0,1,0,1,,,,,FT,588.0,bet365 Stadium,D. Bond
+997988,2023-02-28 19:30:00,2022,5th Round,45,FA Cup,England,46,Leicester,67,Blackburn,1,2,0,1,1,2,,,,,FT,547.0,King Power Stadium,T. Robinson
+1004838,2023-02-28 19:45:00,2022,5th Round,45,FA Cup,England,36,Fulham,63,Leeds,2,0,1,0,2,0,,,,,FT,535.0,Craven Cottage,C. Kavanagh
+997625,2023-02-28 20:00:00,2022,5th Round,45,FA Cup,England,56,Bristol City,50,Manchester City,0,3,0,1,0,3,,,,,FT,509.0,Ashton Gate,A. Marriner
+1004839,2023-03-01 19:15:00,2022,5th Round,45,FA Cup,England,41,Southampton,1365,Grimsby,1,2,0,1,1,2,,,,,FT,585.0,St. Mary's Stadium,T. Bramall
+868007,2023-03-01 19:45:00,2022,Regular Season - 7,39,Premier League,England,42,Arsenal,45,Everton,4,0,2,0,4,0,,,,,FT,494.0,Emirates Stadium,M. Oliver
+997626,2023-03-01 19:45:00,2022,5th Round,45,FA Cup,England,33,Manchester United,48,West Ham,3,1,0,0,3,1,,,,,FT,556.0,Old Trafford,M. Salisbury
+1004841,2023-03-01 19:55:00,2022,5th Round,45,FA Cup,England,62,Sheffield Utd,47,Tottenham,1,0,0,0,1,0,,,,,FT,581.0,Bramall Lane,J. Brooks
+868012,2023-03-01 20:00:00,2022,Regular Season - 7,39,Premier League,England,40,Liverpool,39,Wolves,2,0,0,0,2,0,,,,,FT,550.0,Anfield,P. Tierney
+868202,2023-03-04 12:30:00,2022,Regular Season - 26,39,Premier League,England,50,Manchester City,34,Newcastle,2,0,1,0,2,0,,,,,FT,555.0,Etihad Stadium,S. Hooper
+868196,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,42,Arsenal,35,Bournemouth,3,2,0,1,3,2,,,,,FT,494.0,Emirates Stadium,C. Kavanagh
+868197,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,66,Aston Villa,52,Crystal Palace,1,0,1,0,1,0,,,,,FT,495.0,Villa Park,C. Pawson
+868199,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,51,Brighton,48,West Ham,4,0,1,0,4,0,,,,,FT,508.0,The American Express Community Stadium,S. Attwell
+868200,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,49,Chelsea,63,Leeds,1,0,0,0,1,0,,,,,FT,519.0,Stamford Bridge,M. Oliver
+868205,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,39,Wolves,47,Tottenham,1,0,0,0,1,0,,,,,FT,600.0,Molineux Stadium,T. Robinson
+868204,2023-03-04 17:30:00,2022,Regular Season - 26,39,Premier League,England,41,Southampton,46,Leicester,1,0,1,0,1,0,,,,,FT,585.0,St. Mary's Stadium,R. Jones
+868203,2023-03-05 14:00:00,2022,Regular Season - 26,39,Premier League,England,65,Nottingham Forest,45,Everton,2,2,1,2,2,2,,,,,FT,566.0,The City Ground,J. Brooks
+868201,2023-03-05 16:30:00,2022,Regular Season - 26,39,Premier League,England,40,Liverpool,33,Manchester United,7,0,1,0,7,0,,,,,FT,550.0,Anfield,A. Madley
+868198,2023-03-06 20:00:00,2022,Regular Season - 26,39,Premier League,England,55,Brentford,36,Fulham,3,2,1,1,3,2,,,,,FT,10503.0,Gtech Community Stadium,A. Taylor
+971800,2023-03-07 20:00:00,2022,Round of 16,2,UEFA Champions League,World,49,Chelsea,165,Borussia Dortmund,2,0,1,0,2,0,,,,,FT,519.0,Stamford Bridge,D. Makkelie
+971794,2023-03-08 20:00:00,2022,Round of 16,2,UEFA Champions League,World,47,Tottenham,489,AC Milan,0,0,0,0,0,0,,,,,FT,593.0,Tottenham Hotspur Stadium,C. Turpin
+1010826,2023-03-09 17:45:00,2022,Round of 16,3,UEFA Europa League,World,228,Sporting CP,42,Arsenal,2,2,1,1,2,2,,,,,FT,1293.0,Estádio José Alvalade,T. Stieler
+1010844,2023-03-09 17:45:00,2022,Round of 16,848,UEFA Europa Conference League,World,614,AEK Larnaca,48,West Ham,0,2,0,2,0,2,,,,,FT,,AEK Arena - George Karapatakis,E. Eskås
+1010834,2023-03-09 20:00:00,2022,Round of 16,3,UEFA Europa League,World,33,Manchester United,543,Real Betis,4,1,1,1,4,1,,,,,FT,556.0,Old Trafford,D. Siebert
+868206,2023-03-11 12:30:00,2022,Regular Season - 27,39,Premier League,England,35,Bournemouth,40,Liverpool,1,0,1,0,1,0,,,,,FT,504.0,Vitality Stadium,J. Brooks
+868208,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,45,Everton,55,Brentford,1,0,1,0,1,0,,,,,FT,8560.0,Goodison Park,S. Hooper
+868210,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,63,Leeds,51,Brighton,2,2,1,1,2,2,,,,,FT,546.0,Elland Road,P. Tierney
+868211,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,46,Leicester,49,Chelsea,1,3,1,2,1,3,,,,,FT,547.0,King Power Stadium,A. Marriner
+868214,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,47,Tottenham,65,Nottingham Forest,3,1,2,0,3,1,,,,,FT,593.0,Tottenham Hotspur Stadium,C. Pawson
+868207,2023-03-11 17:30:00,2022,Regular Season - 27,39,Premier League,England,52,Crystal Palace,50,Manchester City,0,1,0,0,0,1,,,,,FT,525.0,Selhurst Park,R. Jones
+868209,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,36,Fulham,42,Arsenal,0,3,0,3,0,3,,,,,FT,535.0,Craven Cottage,D. Coote
+868212,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,33,Manchester United,41,Southampton,0,0,0,0,0,0,,,,,FT,556.0,Old Trafford,A. Taylor
+868215,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,48,West Ham,66,Aston Villa,1,1,1,1,1,1,,,,,FT,598.0,London Stadium,C. Kavanagh
+868213,2023-03-12 16:30:00,2022,Regular Season - 27,39,Premier League,England,34,Newcastle,39,Wolves,2,1,1,0,2,1,,,,,FT,562.0,St. James' Park,A. Madley
+971806,2023-03-14 20:00:00,2022,Round of 16,2,UEFA Champions League,World,50,Manchester City,173,RB Leipzig,7,0,3,0,7,0,,,,,FT,555.0,Etihad Stadium,S. Vinčić
+868014,2023-03-15 19:30:00,2022,Regular Season - 7,39,Premier League,England,41,Southampton,55,Brentford,0,2,0,1,0,2,,,,,FT,585.0,St. Mary's Stadium,M. Salisbury
+868018,2023-03-15 19:30:00,2022,Regular Season - 8,39,Premier League,England,51,Brighton,52,Crystal Palace,1,0,1,0,1,0,,,,,FT,508.0,The American Express Community Stadium,P. Bankes
+971802,2023-03-15 20:00:00,2022,Round of 16,2,UEFA Champions League,World,541,Real Madrid,40,Liverpool,1,0,0,0,1,0,,,,,FT,1456.0,Estadio Santiago Bernabéu,F. Zwayer
+1010835,2023-03-16 17:45:00,2022,Round of 16,3,UEFA Europa League,World,543,Real Betis,33,Manchester United,0,1,0,0,0,1,,,,,FT,1489.0,Estadio Benito Villamarín,S. Jovanović
+1010845,2023-03-16 20:00:00,2022,Round of 16,848,UEFA Europa Conference League,World,48,West Ham,614,AEK Larnaca,4,0,1,0,4,0,,,,,FT,598.0,London Stadium,G. Kabakov
+868223,2023-03-17 20:00:00,2022,Regular Season - 28,39,Premier League,England,65,Nottingham Forest,34,Newcastle,1,2,1,1,1,2,,,,,FT,566.0,The City Ground,P. Tierney
+868217,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,66,Aston Villa,35,Bournemouth,3,0,1,0,3,0,,,,,FT,495.0,Villa Park,R. Jones
+868218,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,55,Brentford,46,Leicester,1,1,1,0,1,1,,,,,FT,10503.0,Gtech Community Stadium,D. Bond
+868224,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,41,Southampton,47,Tottenham,3,3,0,1,3,3,,,,,FT,585.0,St. Mary's Stadium,S. Hooper
+868225,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,39,Wolves,63,Leeds,2,4,0,1,2,4,,,,,FT,600.0,Molineux Stadium,M. Salisbury
+868220,2023-03-18 17:30:00,2022,Regular Season - 28,39,Premier League,England,49,Chelsea,45,Everton,2,2,0,0,2,2,,,,,FT,519.0,Stamford Bridge,D. England
+1011478,2023-03-18 17:45:00,2022,Quarter-finals,45,FA Cup,England,50,Manchester City,44,Burnley,6,0,2,0,6,0,,,,,FT,555.0,Etihad Stadium,J. Brooks
+868216,2023-03-19 14:00:00,2022,Regular Season - 28,39,Premier League,England,42,Arsenal,52,Crystal Palace,4,1,2,0,4,1,,,,,FT,494.0,Emirates Stadium,S. Attwell
+1011480,2023-03-19 14:15:00,2022,Quarter-finals,45,FA Cup,England,51,Brighton,1365,Grimsby,5,0,1,0,5,0,,,,,FT,508.0,The American Express Community Stadium,J. Gillett
+1011479,2023-03-19 16:30:00,2022,Quarter-finals,45,FA Cup,England,33,Manchester United,36,Fulham,3,1,0,0,3,1,,,,,FT,556.0,Old Trafford,C. Kavanagh
+868232,2023-04-01 11:30:00,2022,Regular Season - 29,39,Premier League,England,50,Manchester City,40,Liverpool,4,1,1,1,4,1,,,,,FT,555.0,Etihad Stadium,S. Hooper
+868226,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,35,Bournemouth,36,Fulham,2,1,0,1,2,1,,,,,FT,504.0,Vitality Stadium,P. Bankes
+868227,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,42,Arsenal,63,Leeds,4,1,1,0,4,1,,,,,FT,494.0,Emirates Stadium,D. England
+868228,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,51,Brighton,55,Brentford,3,3,2,2,3,3,,,,,FT,508.0,The American Express Community Stadium,M. Oliver
+868230,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,52,Crystal Palace,46,Leicester,2,1,0,0,2,1,,,,,FT,525.0,Selhurst Park,T. Robinson
+868234,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,65,Nottingham Forest,39,Wolves,1,1,1,0,1,1,,,,,FT,566.0,The City Ground,C. Kavanagh
+868229,2023-04-01 16:30:00,2022,Regular Season - 29,39,Premier League,England,49,Chelsea,66,Aston Villa,0,2,0,1,0,2,,,,,FT,519.0,Stamford Bridge,A. Madley
+868235,2023-04-02 13:00:00,2022,Regular Season - 29,39,Premier League,England,48,West Ham,41,Southampton,1,0,1,0,1,0,,,,,FT,598.0,London Stadium,P. Tierney
+868233,2023-04-02 15:30:00,2022,Regular Season - 29,39,Premier League,England,34,Newcastle,33,Manchester United,2,0,0,0,2,0,,,,,FT,562.0,St. James' Park,S. Attwell
+868231,2023-04-03 19:00:00,2022,Regular Season - 29,39,Premier League,England,45,Everton,47,Tottenham,1,1,0,0,1,1,,,,,FT,8560.0,Goodison Park,D. Coote
+868006,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,35,Bournemouth,51,Brighton,0,2,0,1,0,2,,,,,FT,504.0,Vitality Stadium,D. Bond
+868010,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,63,Leeds,65,Nottingham Forest,2,1,2,1,2,1,,,,,FT,546.0,Elland Road,R. Jones
+868011,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,46,Leicester,66,Aston Villa,1,2,1,1,1,2,,,,,FT,547.0,King Power Stadium,G. Scott
+868019,2023-04-04 19:00:00,2022,Regular Season - 8,39,Premier League,England,49,Chelsea,40,Liverpool,0,0,0,0,0,0,,,,,FT,519.0,Stamford Bridge,A. Taylor
+868015,2023-04-05 19:00:00,2022,Regular Season - 7,39,Premier League,England,48,West Ham,34,Newcastle,1,5,1,2,1,5,,,,,FT,598.0,London Stadium,C. Pawson
+868192,2023-04-05 19:00:00,2022,Regular Season - 25,39,Premier League,England,33,Manchester United,55,Brentford,1,0,1,0,1,0,,,,,FT,556.0,Old Trafford,J. Brooks
+868242,2023-04-08 11:30:00,2022,Regular Season - 30,39,Premier League,England,33,Manchester United,45,Everton,2,0,1,0,2,0,,,,,FT,556.0,Old Trafford,M. Oliver
+868236,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,66,Aston Villa,65,Nottingham Forest,2,0,0,0,2,0,,,,,FT,495.0,Villa Park,A. Taylor
+868237,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,55,Brentford,34,Newcastle,1,2,1,0,1,2,,,,,FT,10503.0,Gtech Community Stadium,C. Kavanagh
+868238,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,36,Fulham,48,West Ham,0,1,0,1,0,1,,,,,FT,535.0,Craven Cottage,J. Gillett
+868240,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,46,Leicester,35,Bournemouth,0,1,0,1,0,1,,,,,FT,547.0,King Power Stadium,D. Coote
+868244,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,47,Tottenham,51,Brighton,2,1,1,1,2,1,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Attwell
+868245,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,39,Wolves,49,Chelsea,1,0,1,0,1,0,,,,,FT,600.0,Molineux Stadium,P. Bankes
+868243,2023-04-08 16:30:00,2022,Regular Season - 30,39,Premier League,England,41,Southampton,50,Manchester City,1,4,0,1,1,4,,,,,FT,585.0,St. Mary's Stadium,R. Jones
+868239,2023-04-09 13:00:00,2022,Regular Season - 30,39,Premier League,England,63,Leeds,52,Crystal Palace,1,5,1,1,1,5,,,,,FT,546.0,Elland Road,S. Hooper
+868241,2023-04-09 15:30:00,2022,Regular Season - 30,39,Premier League,England,40,Liverpool,42,Arsenal,2,2,1,2,2,2,,,,,FT,550.0,Anfield,P. Tierney
+1016057,2023-04-11 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,50,Manchester City,157,Bayern Munich,3,0,1,0,3,0,,,,,FT,555.0,Etihad Stadium,Jesús Gil
+1016059,2023-04-12 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,541,Real Madrid,49,Chelsea,2,0,1,0,2,0,,,,,FT,1456.0,Estadio Santiago Bernabéu,F. Letexier
+1016047,2023-04-13 16:45:00,2022,Quarter-finals,848,UEFA Europa Conference League,World,631,Gent,48,West Ham,1,1,0,1,1,1,,,,,FT,19773.0,Ghelamco Arena,A. Sidiropoulos
+1016041,2023-04-13 19:00:00,2022,Quarter-finals,3,UEFA Europa League,World,33,Manchester United,536,Sevilla,2,2,2,0,2,2,,,,,FT,556.0,Old Trafford,F. Zwayer
+868246,2023-04-15 11:30:00,2022,Regular Season - 31,39,Premier League,England,66,Aston Villa,34,Newcastle,3,0,1,0,3,0,,,,,FT,495.0,Villa Park,J. Brooks
+868247,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,49,Chelsea,51,Brighton,1,2,1,1,1,2,,,,,FT,519.0,Stamford Bridge,R. Jones
+868248,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,45,Everton,36,Fulham,1,3,1,1,1,3,,,,,FT,8560.0,Goodison Park,A. Taylor
+868252,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,41,Southampton,52,Crystal Palace,0,2,0,0,0,2,,,,,FT,585.0,St. Mary's Stadium,M. Oliver
+868255,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,39,Wolves,55,Brentford,2,0,1,0,2,0,,,,,FT,600.0,Molineux Stadium,P. Tierney
+868253,2023-04-15 14:15:00,2022,Regular Season - 31,39,Premier League,England,47,Tottenham,35,Bournemouth,2,3,1,1,2,3,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Madley
+868250,2023-04-15 16:30:00,2022,Regular Season - 31,39,Premier League,England,50,Manchester City,46,Leicester,3,1,3,0,3,1,,,,,FT,555.0,Etihad Stadium,D. England
+868254,2023-04-16 13:00:00,2022,Regular Season - 31,39,Premier League,England,48,West Ham,42,Arsenal,2,2,1,2,2,2,,,,,FT,598.0,London Stadium,D. Coote
+868251,2023-04-16 15:30:00,2022,Regular Season - 31,39,Premier League,England,65,Nottingham Forest,33,Manchester United,0,2,0,1,0,2,,,,,FT,566.0,The City Ground,S. Hooper
+868249,2023-04-17 19:00:00,2022,Regular Season - 31,39,Premier League,England,63,Leeds,40,Liverpool,1,6,0,2,1,6,,,,,FT,546.0,Elland Road,C. Pawson
+1016060,2023-04-18 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,49,Chelsea,541,Real Madrid,0,2,0,0,0,2,,,,,FT,519.0,Stamford Bridge,D. Orsato
+1016058,2023-04-19 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,157,Bayern Munich,50,Manchester City,1,1,0,0,1,1,,,,,FT,700.0,Allianz Arena,C. Turpin
+1016042,2023-04-20 19:00:00,2022,Quarter-finals,3,UEFA Europa League,World,536,Sevilla,33,Manchester United,3,0,1,0,3,0,,,,,FT,1494.0,Estadio Ramón Sánchez Pizjuán,Artur Soares Dias
+1016048,2023-04-20 19:00:00,2022,Quarter-finals,848,UEFA Europa Conference League,World,48,West Ham,631,Gent,4,1,1,1,4,1,,,,,FT,598.0,London Stadium,O. Grinfeeld
+868257,2023-04-21 19:00:00,2022,Regular Season - 32,39,Premier League,England,42,Arsenal,41,Southampton,3,3,1,2,3,3,,,,,FT,494.0,Emirates Stadium,S. Hooper
+868261,2023-04-22 11:30:00,2022,Regular Season - 32,39,Premier League,England,36,Fulham,63,Leeds,2,1,0,0,2,1,,,,,FT,535.0,Craven Cottage,P. Bankes
+868258,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,55,Brentford,66,Aston Villa,1,1,0,0,1,1,,,,,FT,10503.0,Gtech Community Stadium,M. Salisbury
+868260,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,52,Crystal Palace,45,Everton,0,0,0,0,0,0,,,,,FT,525.0,Selhurst Park,J. Brooks
+868262,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,46,Leicester,39,Wolves,2,1,1,1,2,1,,,,,FT,547.0,King Power Stadium,A. Madley
+868263,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,40,Liverpool,65,Nottingham Forest,3,2,0,0,3,2,,,,,FT,550.0,Anfield,M. Oliver
+1017112,2023-04-22 15:45:00,2022,Semi-finals,45,FA Cup,England,50,Manchester City,62,Sheffield Utd,3,0,1,0,3,0,,,,,FT,489.0,Wembley Stadium,S. Attwell
+868256,2023-04-23 13:00:00,2022,Regular Season - 32,39,Premier League,England,35,Bournemouth,48,West Ham,0,4,0,3,0,4,,,,,FT,504.0,Vitality Stadium,A. Taylor
+868265,2023-04-23 13:00:00,2022,Regular Season - 32,39,Premier League,England,34,Newcastle,47,Tottenham,6,1,5,0,6,1,,,,,FT,562.0,St. James' Park,D. Coote
+868271,2023-04-25 18:30:00,2022,Regular Season - 33,39,Premier League,England,39,Wolves,52,Crystal Palace,2,0,1,0,2,0,,,,,FT,600.0,Molineux Stadium,R. Jones
+868272,2023-04-25 18:45:00,2022,Regular Season - 33,39,Premier League,England,66,Aston Villa,36,Fulham,1,0,1,0,1,0,,,,,FT,495.0,Villa Park,T. Bramall
+868267,2023-04-25 19:00:00,2022,Regular Season - 33,39,Premier League,England,63,Leeds,46,Leicester,1,1,1,0,1,1,,,,,FT,546.0,Elland Road,P. Tierney
+868268,2023-04-26 18:30:00,2022,Regular Season - 33,39,Premier League,England,65,Nottingham Forest,51,Brighton,3,1,1,1,3,1,,,,,FT,566.0,The City Ground,J. Gillett
+868270,2023-04-26 18:45:00,2022,Regular Season - 33,39,Premier League,England,48,West Ham,40,Liverpool,1,2,1,1,1,2,,,,,FT,598.0,London Stadium,C. Kavanagh
+868273,2023-04-26 18:45:00,2022,Regular Season - 33,39,Premier League,England,49,Chelsea,55,Brentford,0,2,0,1,0,2,,,,,FT,519.0,Stamford Bridge,A. Madley
+868275,2023-04-26 19:00:00,2022,Regular Season - 33,39,Premier League,England,50,Manchester City,42,Arsenal,4,1,2,0,4,1,,,,,FT,555.0,Etihad Stadium,M. Oliver
+868266,2023-04-27 18:45:00,2022,Regular Season - 33,39,Premier League,England,45,Everton,34,Newcastle,1,4,0,1,1,4,,,,,FT,8560.0,Goodison Park,A. Marriner
+868274,2023-04-27 18:45:00,2022,Regular Season - 33,39,Premier League,England,41,Southampton,35,Bournemouth,0,1,0,0,0,1,,,,,FT,585.0,St. Mary's Stadium,D. England
+868269,2023-04-27 19:15:00,2022,Regular Season - 33,39,Premier League,England,47,Tottenham,33,Manchester United,2,2,0,2,2,2,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Taylor
+868280,2023-04-29 11:30:00,2022,Regular Season - 34,39,Premier League,England,52,Crystal Palace,48,West Ham,4,3,3,2,4,3,,,,,FT,525.0,Selhurst Park,C. Pawson
+868278,2023-04-29 14:00:00,2022,Regular Season - 34,39,Premier League,England,55,Brentford,65,Nottingham Forest,2,1,0,1,2,1,,,,,FT,10503.0,Gtech Community Stadium,P. Bankes
+868279,2023-04-29 14:00:00,2022,Regular Season - 34,39,Premier League,England,51,Brighton,39,Wolves,6,0,4,0,6,0,,,,,FT,508.0,The American Express Community Stadium,D. Coote
+868276,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,35,Bournemouth,63,Leeds,4,1,2,1,4,1,,,,,FT,504.0,Vitality Stadium,C. Kavanagh
+868281,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,36,Fulham,50,Manchester City,1,2,1,2,1,2,,,,,FT,535.0,Craven Cottage,S. Hooper
+868284,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,33,Manchester United,66,Aston Villa,1,0,1,0,1,0,,,,,FT,556.0,Old Trafford,J. Gillett
+868285,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,34,Newcastle,41,Southampton,3,1,0,1,3,1,,,,,FT,562.0,St. James' Park,A. Taylor
+868283,2023-04-30 15:30:00,2022,Regular Season - 34,39,Premier League,England,40,Liverpool,47,Tottenham,4,3,3,1,4,3,,,,,FT,550.0,Anfield,P. Tierney
+868282,2023-05-01 19:00:00,2022,Regular Season - 34,39,Premier League,England,46,Leicester,45,Everton,2,2,2,1,2,2,,,,,FT,547.0,King Power Stadium,M. Oliver
+868277,2023-05-02 19:00:00,2022,Regular Season - 34,39,Premier League,England,42,Arsenal,49,Chelsea,3,1,3,0,3,1,,,,,FT,494.0,Emirates Stadium,R. Jones
+868221,2023-05-03 19:00:00,2022,Regular Season - 28,39,Premier League,England,40,Liverpool,36,Fulham,1,0,1,0,1,0,,,,,FT,550.0,Anfield,S. Attwell
+868222,2023-05-03 19:00:00,2022,Regular Season - 28,39,Premier League,England,50,Manchester City,48,West Ham,3,0,0,0,3,0,,,,,FT,555.0,Etihad Stadium,J. Brooks
+868219,2023-05-04 19:00:00,2022,Regular Season - 28,39,Premier League,England,51,Brighton,33,Manchester United,1,0,0,0,1,0,,,,,FT,508.0,The American Express Community Stadium,A. Marriner
+868286,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,35,Bournemouth,49,Chelsea,1,3,1,1,1,3,,,,,FT,504.0,Vitality Stadium,J. Brooks
+868290,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,50,Manchester City,63,Leeds,2,1,2,0,2,1,,,,,FT,555.0,Etihad Stadium,A. Madley
+868293,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,47,Tottenham,52,Crystal Palace,1,0,1,0,1,0,,,,,FT,593.0,Tottenham Hotspur Stadium,D. England
+868295,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,39,Wolves,66,Aston Villa,1,0,1,0,1,0,,,,,FT,600.0,Molineux Stadium,S. Attwell
+868289,2023-05-06 16:30:00,2022,Regular Season - 35,39,Premier League,England,40,Liverpool,55,Brentford,1,0,1,0,1,0,,,,,FT,550.0,Anfield,A. Taylor
+868291,2023-05-07 15:30:00,2022,Regular Season - 35,39,Premier League,England,34,Newcastle,42,Arsenal,0,2,0,1,0,2,,,,,FT,562.0,St. James' Park,C. Kavanagh
+868294,2023-05-07 18:00:00,2022,Regular Season - 35,39,Premier League,England,48,West Ham,33,Manchester United,1,0,1,0,1,0,,,,,FT,598.0,London Stadium,P. Bankes
+868288,2023-05-08 14:00:00,2022,Regular Season - 35,39,Premier League,England,36,Fulham,46,Leicester,5,3,3,0,5,3,,,,,FT,535.0,Craven Cottage,R. Jones
+868287,2023-05-08 16:30:00,2022,Regular Season - 35,39,Premier League,England,51,Brighton,45,Everton,1,5,0,3,1,5,,,,,FT,508.0,The American Express Community Stadium,S. Hooper
+868292,2023-05-08 19:00:00,2022,Regular Season - 35,39,Premier League,England,65,Nottingham Forest,41,Southampton,4,3,3,1,4,3,,,,,FT,566.0,The City Ground,M. Oliver
+1022981,2023-05-09 19:00:00,2022,Semi-finals,2,UEFA Champions League,World,541,Real Madrid,50,Manchester City,1,1,1,0,1,1,,,,,FT,1456.0,Estadio Santiago Bernabéu,Artur Soares Dias
+1022976,2023-05-11 19:00:00,2022,Semi-finals,848,UEFA Europa Conference League,World,48,West Ham,201,AZ Alkmaar,2,1,0,1,2,1,,,,,FT,598.0,London Stadium,H. Meler
+868302,2023-05-13 11:30:00,2022,Regular Season - 36,39,Premier League,England,63,Leeds,34,Newcastle,2,2,1,1,2,2,,,,,FT,546.0,Elland Road,S. Hooper
+868297,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,66,Aston Villa,47,Tottenham,2,1,1,0,2,1,,,,,FT,495.0,Villa Park,P. Bankes
+868299,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,49,Chelsea,65,Nottingham Forest,2,2,0,1,2,2,,,,,FT,519.0,Stamford Bridge,P. Tierney
+868300,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,52,Crystal Palace,35,Bournemouth,2,0,1,0,2,0,,,,,FT,525.0,Selhurst Park,M. Salisbury
+868304,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,33,Manchester United,39,Wolves,2,0,1,0,2,0,,,,,FT,556.0,Old Trafford,J. Brooks
+868305,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,41,Southampton,36,Fulham,0,2,0,0,0,2,,,,,FT,585.0,St. Mary's Stadium,T. Bramall
+868298,2023-05-14 13:00:00,2022,Regular Season - 36,39,Premier League,England,55,Brentford,48,West Ham,2,0,2,0,2,0,,,,,FT,10503.0,Gtech Community Stadium,M. Oliver
+868301,2023-05-14 13:00:00,2022,Regular Season - 36,39,Premier League,England,45,Everton,50,Manchester City,0,3,0,2,0,3,,,,,FT,8560.0,Goodison Park,A. Taylor
+868296,2023-05-14 15:30:00,2022,Regular Season - 36,39,Premier League,England,42,Arsenal,51,Brighton,0,3,0,0,0,3,,,,,FT,494.0,Emirates Stadium,A. Madley
+868303,2023-05-15 19:00:00,2022,Regular Season - 36,39,Premier League,England,46,Leicester,40,Liverpool,0,3,0,2,0,3,,,,,FT,547.0,King Power Stadium,C. Pawson
+1022982,2023-05-17 19:00:00,2022,Semi-finals,2,UEFA Champions League,World,50,Manchester City,541,Real Madrid,4,0,2,0,4,0,,,,,FT,555.0,Etihad Stadium,S. Marciniak
+868193,2023-05-18 18:30:00,2022,Regular Season - 25,39,Premier League,England,34,Newcastle,51,Brighton,4,1,2,0,4,1,,,,,FT,562.0,St. James' Park,R. Jones
+1022977,2023-05-18 19:00:00,2022,Semi-finals,848,UEFA Europa Conference League,World,201,AZ Alkmaar,48,West Ham,0,1,0,0,0,1,,,,,FT,1119.0,AFAS Stadion,I. Kružliak
+868313,2023-05-20 11:30:00,2022,Regular Season - 37,39,Premier League,England,47,Tottenham,55,Brentford,1,3,1,0,1,3,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Gillett
+868306,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,35,Bournemouth,33,Manchester United,0,1,0,1,0,1,,,,,FT,504.0,Vitality Stadium,C. Kavanagh
+868308,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,36,Fulham,52,Crystal Palace,2,2,1,1,2,2,,,,,FT,535.0,Craven Cottage,J. Smith
+868309,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,40,Liverpool,66,Aston Villa,1,1,0,1,1,1,,,,,FT,550.0,Anfield,J. Brooks
+868315,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,39,Wolves,45,Everton,1,1,1,0,1,1,,,,,FT,600.0,Molineux Stadium,D. Coote
+868312,2023-05-20 16:30:00,2022,Regular Season - 37,39,Premier League,England,65,Nottingham Forest,42,Arsenal,1,0,1,0,1,0,,,,,FT,566.0,The City Ground,A. Taylor
+868314,2023-05-21 12:30:00,2022,Regular Season - 37,39,Premier League,England,48,West Ham,63,Leeds,3,1,1,1,3,1,,,,,FT,598.0,London Stadium,P. Bankes
+868307,2023-05-21 13:00:00,2022,Regular Season - 37,39,Premier League,England,51,Brighton,41,Southampton,3,1,2,0,3,1,,,,,FT,508.0,The American Express Community Stadium,P. Tierney
+868310,2023-05-21 15:00:00,2022,Regular Season - 37,39,Premier League,England,50,Manchester City,49,Chelsea,1,0,1,0,1,0,,,,,FT,555.0,Etihad Stadium,M. Oliver
+868311,2023-05-22 19:00:00,2022,Regular Season - 37,39,Premier League,England,34,Newcastle,46,Leicester,0,0,0,0,0,0,,,,,FT,562.0,St. James' Park,A. Marriner
+868259,2023-05-24 19:00:00,2022,Regular Season - 32,39,Premier League,England,51,Brighton,50,Manchester City,1,1,1,1,1,1,,,,,FT,508.0,The American Express Community Stadium,S. Hooper
+868264,2023-05-25 19:00:00,2022,Regular Season - 32,39,Premier League,England,33,Manchester United,49,Chelsea,4,1,2,0,4,1,,,,,FT,556.0,Old Trafford,S. Attwell
+868316,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,42,Arsenal,39,Wolves,5,0,3,0,5,0,,,,,FT,494.0,Emirates Stadium,A. Marriner
+868317,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,66,Aston Villa,51,Brighton,2,1,2,1,2,1,,,,,FT,495.0,Villa Park,D. Coote
+868318,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,55,Brentford,50,Manchester City,1,0,0,0,1,0,,,,,FT,10503.0,Gtech Community Stadium,J. Brooks
+868319,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,49,Chelsea,34,Newcastle,1,1,1,1,1,1,,,,,FT,519.0,Stamford Bridge,J. Gillett
+868320,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,52,Crystal Palace,65,Nottingham Forest,1,1,0,1,1,1,,,,,FT,525.0,Selhurst Park,T. Bramall
+868321,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,45,Everton,35,Bournemouth,1,0,0,0,1,0,,,,,FT,8560.0,Goodison Park,S. Attwell
+868322,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,63,Leeds,47,Tottenham,1,4,0,1,1,4,,,,,FT,546.0,Elland Road,A. Taylor
+868323,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,46,Leicester,48,West Ham,2,1,1,0,2,1,,,,,FT,547.0,King Power Stadium,S. Hooper
+868324,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,33,Manchester United,36,Fulham,2,1,1,1,2,1,,,,,FT,556.0,Old Trafford,R. Jones
+868325,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,41,Southampton,40,Liverpool,4,4,2,2,4,4,,,,,FT,585.0,St. Mary's Stadium,D. England
+1023277,2023-06-03 14:00:00,2022,Final,45,FA Cup,England,50,Manchester City,33,Manchester United,2,1,1,1,2,1,,,,,FT,489.0,Wembley Stadium,P. Tierney
+1027571,2023-06-07 19:00:00,2022,Final,848,UEFA Europa Conference League,World,502,Fiorentina,48,West Ham,1,2,0,0,1,2,,,,,FT,18856.0,Fortuna Arena,Carlos del Cerro
+1027909,2023-06-10 19:00:00,2022,Final,2,UEFA Champions League,World,50,Manchester City,505,Inter,1,0,0,0,1,0,,,,,FT,1968.0,Atatürk Olimpiyat Stadı,S. Marciniak

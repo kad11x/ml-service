@@ -1,0 +1,1053 @@
+fixture_id,date_utc,season,round,league_id,league_name,country,team_id,team_name,opponent_id,opponent,goals_for,goals_against,is_home
+867954,2022-08-07 13:00:00,2022,Regular Season - 1,39,Premier League,England,33,Manchester United,51,Brighton,1,2,True
+867958,2022-08-13 16:30:00,2022,Regular Season - 2,39,Premier League,England,33,Manchester United,55,Brentford,0,4,False
+867972,2022-08-22 19:00:00,2022,Regular Season - 3,39,Premier League,England,33,Manchester United,40,Liverpool,2,1,True
+867984,2022-08-27 11:30:00,2022,Regular Season - 4,39,Premier League,England,33,Manchester United,41,Southampton,1,0,False
+867990,2022-09-01 19:00:00,2022,Regular Season - 5,39,Premier League,England,33,Manchester United,46,Leicester,1,0,False
+868001,2022-09-04 15:30:00,2022,Regular Season - 6,39,Premier League,England,33,Manchester United,42,Arsenal,3,1,True
+946761,2022-09-08 19:00:00,2022,Group Stage - 1,3,UEFA Europa League,World,33,Manchester United,548,Real Sociedad,0,1,True
+946770,2022-09-15 16:45:00,2022,Group Stage - 2,3,UEFA Europa League,World,33,Manchester United,568,Sheriff Tiraspol,2,0,False
+868033,2022-10-02 13:00:00,2022,Regular Season - 9,39,Premier League,England,33,Manchester United,50,Manchester City,3,6,False
+946789,2022-10-06 16:45:00,2022,Group Stage - 3,3,UEFA Europa League,World,33,Manchester United,3402,Omonia Nicosia,3,2,False
+868041,2022-10-09 18:00:00,2022,Regular Season - 10,39,Premier League,England,33,Manchester United,45,Everton,2,1,False
+946812,2022-10-13 19:00:00,2022,Group Stage - 4,3,UEFA Europa League,World,33,Manchester United,3402,Omonia Nicosia,1,0,True
+868052,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,33,Manchester United,34,Newcastle,0,0,True
+868065,2022-10-19 19:15:00,2022,Regular Season - 12,39,Premier League,England,33,Manchester United,47,Tottenham,2,0,True
+868067,2022-10-22 16:30:00,2022,Regular Season - 13,39,Premier League,England,33,Manchester United,49,Chelsea,1,1,False
+946825,2022-10-27 19:00:00,2022,Group Stage - 5,3,UEFA Europa League,World,33,Manchester United,568,Sheriff Tiraspol,3,0,True
+868084,2022-10-30 16:15:00,2022,Regular Season - 14,39,Premier League,England,33,Manchester United,48,West Ham,1,0,True
+946833,2022-11-03 17:45:00,2022,Group Stage - 6,3,UEFA Europa League,World,33,Manchester United,548,Real Sociedad,1,0,False
+868086,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,33,Manchester United,66,Aston Villa,1,3,False
+945934,2022-11-10 20:00:00,2022,3rd Round,48,League Cup,England,33,Manchester United,66,Aston Villa,4,2,True
+868098,2022-11-13 16:30:00,2022,Regular Season - 16,39,Premier League,England,33,Manchester United,36,Fulham,2,1,False
+972363,2022-12-21 20:00:00,2022,Round of 16,48,League Cup,England,33,Manchester United,44,Burnley,2,0,True
+868114,2022-12-27 20:00:00,2022,Regular Season - 17,39,Premier League,England,33,Manchester United,65,Nottingham Forest,3,0,True
+868125,2022-12-31 12:30:00,2022,Regular Season - 18,39,Premier League,England,33,Manchester United,39,Wolves,1,0,False
+868134,2023-01-03 20:00:00,2022,Regular Season - 19,39,Premier League,England,33,Manchester United,35,Bournemouth,3,0,True
+976488,2023-01-06 20:00:00,2022,3rd Round,45,FA Cup,England,33,Manchester United,45,Everton,3,1,True
+981786,2023-01-10 20:00:00,2022,Quarter-finals,48,League Cup,England,33,Manchester United,1335,Charlton,3,0,True
+868141,2023-01-14 12:30:00,2022,Regular Season - 20,39,Premier League,England,33,Manchester United,50,Manchester City,2,1,True
+868008,2023-01-18 20:00:00,2022,Regular Season - 7,39,Premier League,England,33,Manchester United,52,Crystal Palace,1,1,False
+868147,2023-01-22 16:30:00,2022,Regular Season - 21,39,Premier League,England,33,Manchester United,42,Arsenal,2,3,False
+986795,2023-01-25 20:00:00,2022,Semi-finals,48,League Cup,England,33,Manchester United,65,Nottingham Forest,3,0,False
+986110,2023-01-28 20:00:00,2022,4th Round,45,FA Cup,England,33,Manchester United,53,Reading,3,1,True
+986796,2023-02-01 20:00:00,2022,Semi-finals,48,League Cup,England,33,Manchester United,65,Nottingham Forest,2,0,True
+868161,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,33,Manchester United,52,Crystal Palace,2,1,True
+868021,2023-02-08 20:00:00,2022,Regular Season - 8,39,Premier League,England,33,Manchester United,63,Leeds,2,2,True
+868170,2023-02-12 14:00:00,2022,Regular Season - 23,39,Premier League,England,33,Manchester United,63,Leeds,2,0,False
+971761,2023-02-16 17:45:00,2022,Knockout Round Play-offs,3,UEFA Europa League,World,33,Manchester United,529,Barcelona,2,2,False
+868181,2023-02-19 14:00:00,2022,Regular Season - 24,39,Premier League,England,33,Manchester United,46,Leicester,3,0,True
+971762,2023-02-23 20:00:00,2022,Knockout Round Play-offs,3,UEFA Europa League,World,33,Manchester United,529,Barcelona,2,1,True
+998280,2023-02-26 16:30:00,2022,Final,48,League Cup,England,33,Manchester United,34,Newcastle,2,0,True
+997626,2023-03-01 19:45:00,2022,5th Round,45,FA Cup,England,33,Manchester United,48,West Ham,3,1,True
+868201,2023-03-05 16:30:00,2022,Regular Season - 26,39,Premier League,England,33,Manchester United,40,Liverpool,0,7,False
+1010834,2023-03-09 20:00:00,2022,Round of 16,3,UEFA Europa League,World,33,Manchester United,543,Real Betis,4,1,True
+868212,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,33,Manchester United,41,Southampton,0,0,True
+1010835,2023-03-16 17:45:00,2022,Round of 16,3,UEFA Europa League,World,33,Manchester United,543,Real Betis,1,0,False
+1011479,2023-03-19 16:30:00,2022,Quarter-finals,45,FA Cup,England,33,Manchester United,36,Fulham,3,1,True
+868233,2023-04-02 15:30:00,2022,Regular Season - 29,39,Premier League,England,33,Manchester United,34,Newcastle,0,2,False
+868192,2023-04-05 19:00:00,2022,Regular Season - 25,39,Premier League,England,33,Manchester United,55,Brentford,1,0,True
+868242,2023-04-08 11:30:00,2022,Regular Season - 30,39,Premier League,England,33,Manchester United,45,Everton,2,0,True
+1016041,2023-04-13 19:00:00,2022,Quarter-finals,3,UEFA Europa League,World,33,Manchester United,536,Sevilla,2,2,True
+868251,2023-04-16 15:30:00,2022,Regular Season - 31,39,Premier League,England,33,Manchester United,65,Nottingham Forest,2,0,False
+1016042,2023-04-20 19:00:00,2022,Quarter-finals,3,UEFA Europa League,World,33,Manchester United,536,Sevilla,0,3,False
+868269,2023-04-27 19:15:00,2022,Regular Season - 33,39,Premier League,England,33,Manchester United,47,Tottenham,2,2,False
+868284,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,33,Manchester United,66,Aston Villa,1,0,True
+868219,2023-05-04 19:00:00,2022,Regular Season - 28,39,Premier League,England,33,Manchester United,51,Brighton,0,1,False
+868294,2023-05-07 18:00:00,2022,Regular Season - 35,39,Premier League,England,33,Manchester United,48,West Ham,0,1,False
+868304,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,33,Manchester United,39,Wolves,2,0,True
+868306,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,33,Manchester United,35,Bournemouth,1,0,False
+868264,2023-05-25 19:00:00,2022,Regular Season - 32,39,Premier League,England,33,Manchester United,49,Chelsea,4,1,True
+868324,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,33,Manchester United,36,Fulham,2,1,True
+1023277,2023-06-03 14:00:00,2022,Final,45,FA Cup,England,33,Manchester United,50,Manchester City,1,2,False
+867951,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,34,Newcastle,65,Nottingham Forest,2,0,True
+867959,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,34,Newcastle,51,Brighton,0,0,False
+867973,2022-08-21 15:30:00,2022,Regular Season - 3,39,Premier League,England,34,Newcastle,50,Manchester City,3,3,True
+933624,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,34,Newcastle,1381,Tranmere,2,1,False
+867985,2022-08-28 13:00:00,2022,Regular Season - 4,39,Premier League,England,34,Newcastle,39,Wolves,1,1,False
+867994,2022-08-31 19:00:00,2022,Regular Season - 5,39,Premier League,England,34,Newcastle,40,Liverpool,1,2,False
+868002,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,34,Newcastle,52,Crystal Palace,0,0,True
+868022,2022-09-17 14:00:00,2022,Regular Season - 8,39,Premier League,England,34,Newcastle,35,Bournemouth,1,1,True
+868029,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,34,Newcastle,36,Fulham,4,1,False
+868043,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,34,Newcastle,55,Brentford,5,1,True
+868052,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,34,Newcastle,33,Manchester United,0,0,False
+868063,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,34,Newcastle,45,Everton,1,0,True
+868073,2022-10-23 15:30:00,2022,Regular Season - 13,39,Premier League,England,34,Newcastle,47,Tottenham,2,1,False
+868085,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,34,Newcastle,66,Aston Villa,4,0,True
+868092,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,34,Newcastle,41,Southampton,4,1,False
+868101,2022-11-12 17:30:00,2022,Regular Season - 16,39,Premier League,England,34,Newcastle,49,Chelsea,1,0,True
+972361,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,34,Newcastle,35,Bournemouth,1,0,True
+868113,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,34,Newcastle,46,Leicester,3,0,False
+868121,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,34,Newcastle,63,Leeds,0,0,True
+868126,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,34,Newcastle,42,Arsenal,0,0,False
+976487,2023-01-07 18:00:00,2022,3rd Round,45,FA Cup,England,34,Newcastle,74,Sheffield Wednesday,1,2,False
+981789,2023-01-10 20:00:00,2022,Quarter-finals,48,League Cup,England,34,Newcastle,46,Leicester,2,0,True
+868142,2023-01-15 14:00:00,2022,Regular Season - 20,39,Premier League,England,34,Newcastle,36,Fulham,1,0,True
+868148,2023-01-21 17:30:00,2022,Regular Season - 21,39,Premier League,England,34,Newcastle,52,Crystal Palace,0,0,False
+986793,2023-01-24 20:00:00,2022,Semi-finals,48,League Cup,England,34,Newcastle,41,Southampton,1,0,False
+986794,2023-01-31 20:00:00,2022,Semi-finals,48,League Cup,England,34,Newcastle,41,Southampton,2,1,True
+868162,2023-02-04 17:30:00,2022,Regular Season - 22,39,Premier League,England,34,Newcastle,48,West Ham,1,1,True
+868166,2023-02-11 17:30:00,2022,Regular Season - 23,39,Premier League,England,34,Newcastle,35,Bournemouth,1,1,False
+868182,2023-02-18 17:30:00,2022,Regular Season - 24,39,Premier League,England,34,Newcastle,40,Liverpool,0,2,True
+998280,2023-02-26 16:30:00,2022,Final,48,League Cup,England,34,Newcastle,33,Manchester United,0,2,False
+868202,2023-03-04 12:30:00,2022,Regular Season - 26,39,Premier League,England,34,Newcastle,50,Manchester City,0,2,False
+868213,2023-03-12 16:30:00,2022,Regular Season - 27,39,Premier League,England,34,Newcastle,39,Wolves,2,1,True
+868223,2023-03-17 20:00:00,2022,Regular Season - 28,39,Premier League,England,34,Newcastle,65,Nottingham Forest,2,1,False
+868233,2023-04-02 15:30:00,2022,Regular Season - 29,39,Premier League,England,34,Newcastle,33,Manchester United,2,0,True
+868015,2023-04-05 19:00:00,2022,Regular Season - 7,39,Premier League,England,34,Newcastle,48,West Ham,5,1,False
+868237,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,34,Newcastle,55,Brentford,2,1,False
+868246,2023-04-15 11:30:00,2022,Regular Season - 31,39,Premier League,England,34,Newcastle,66,Aston Villa,0,3,False
+868265,2023-04-23 13:00:00,2022,Regular Season - 32,39,Premier League,England,34,Newcastle,47,Tottenham,6,1,True
+868266,2023-04-27 18:45:00,2022,Regular Season - 33,39,Premier League,England,34,Newcastle,45,Everton,4,1,False
+868285,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,34,Newcastle,41,Southampton,3,1,True
+868291,2023-05-07 15:30:00,2022,Regular Season - 35,39,Premier League,England,34,Newcastle,42,Arsenal,0,2,True
+868302,2023-05-13 11:30:00,2022,Regular Season - 36,39,Premier League,England,34,Newcastle,63,Leeds,2,2,False
+868193,2023-05-18 18:30:00,2022,Regular Season - 25,39,Premier League,England,34,Newcastle,51,Brighton,4,1,True
+868311,2023-05-22 19:00:00,2022,Regular Season - 37,39,Premier League,England,34,Newcastle,46,Leicester,0,0,True
+868319,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,34,Newcastle,49,Chelsea,1,1,False
+867948,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,35,Bournemouth,66,Aston Villa,2,0,True
+867962,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,35,Bournemouth,50,Manchester City,0,4,False
+867966,2022-08-20 16:30:00,2022,Regular Season - 3,39,Premier League,England,35,Bournemouth,42,Arsenal,0,3,True
+867981,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,35,Bournemouth,40,Liverpool,0,9,False
+867986,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,35,Bournemouth,39,Wolves,0,0,True
+868003,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,35,Bournemouth,65,Nottingham Forest,3,2,False
+868022,2022-09-17 14:00:00,2022,Regular Season - 8,39,Premier League,England,35,Bournemouth,34,Newcastle,1,1,False
+868026,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,35,Bournemouth,55,Brentford,0,0,True
+868036,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,35,Bournemouth,46,Leicester,2,1,True
+868048,2022-10-15 14:00:00,2022,Regular Season - 11,39,Premier League,England,35,Bournemouth,36,Fulham,2,2,False
+868056,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,35,Bournemouth,41,Southampton,0,1,True
+868074,2022-10-24 19:00:00,2022,Regular Season - 13,39,Premier League,England,35,Bournemouth,48,West Ham,0,2,False
+868076,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,35,Bournemouth,47,Tottenham,2,3,True
+868089,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,35,Bournemouth,63,Leeds,3,4,False
+945935,2022-11-08 19:45:00,2022,3rd Round,48,League Cup,England,35,Bournemouth,45,Everton,4,1,True
+868096,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,35,Bournemouth,45,Everton,3,0,True
+972361,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,35,Bournemouth,34,Newcastle,0,1,False
+868109,2022-12-27 17:30:00,2022,Regular Season - 17,39,Premier League,England,35,Bournemouth,49,Chelsea,0,2,False
+868116,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,35,Bournemouth,52,Crystal Palace,0,2,True
+868134,2023-01-03 20:00:00,2022,Regular Season - 19,39,Premier League,England,35,Bournemouth,33,Manchester United,0,3,False
+976470,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,35,Bournemouth,44,Burnley,2,4,True
+868137,2023-01-14 17:30:00,2022,Regular Season - 20,39,Premier League,England,35,Bournemouth,55,Brentford,0,2,False
+868146,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,35,Bournemouth,65,Nottingham Forest,1,1,True
+868158,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,35,Bournemouth,51,Brighton,0,1,False
+868166,2023-02-11 17:30:00,2022,Regular Season - 23,39,Premier League,England,35,Bournemouth,34,Newcastle,1,1,True
+868185,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,35,Bournemouth,39,Wolves,1,0,False
+868186,2023-02-25 17:30:00,2022,Regular Season - 25,39,Premier League,England,35,Bournemouth,50,Manchester City,1,4,True
+868196,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,35,Bournemouth,42,Arsenal,2,3,False
+868206,2023-03-11 12:30:00,2022,Regular Season - 27,39,Premier League,England,35,Bournemouth,40,Liverpool,1,0,True
+868217,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,35,Bournemouth,66,Aston Villa,0,3,False
+868226,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,35,Bournemouth,36,Fulham,2,1,True
+868006,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,35,Bournemouth,51,Brighton,0,2,True
+868240,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,35,Bournemouth,46,Leicester,1,0,False
+868253,2023-04-15 14:15:00,2022,Regular Season - 31,39,Premier League,England,35,Bournemouth,47,Tottenham,3,2,False
+868256,2023-04-23 13:00:00,2022,Regular Season - 32,39,Premier League,England,35,Bournemouth,48,West Ham,0,4,True
+868274,2023-04-27 18:45:00,2022,Regular Season - 33,39,Premier League,England,35,Bournemouth,41,Southampton,1,0,False
+868276,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,35,Bournemouth,63,Leeds,4,1,True
+868286,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,35,Bournemouth,49,Chelsea,1,3,True
+868300,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,35,Bournemouth,52,Crystal Palace,0,2,False
+868306,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,35,Bournemouth,33,Manchester United,0,1,True
+868321,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,35,Bournemouth,45,Everton,0,1,False
+867947,2022-08-06 11:30:00,2022,Regular Season - 1,39,Premier League,England,36,Fulham,40,Liverpool,2,2,True
+867965,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,36,Fulham,39,Wolves,0,0,False
+867969,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,36,Fulham,55,Brentford,3,2,True
+933639,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,36,Fulham,1362,Crawley Town,0,2,False
+867976,2022-08-27 16:30:00,2022,Regular Season - 4,39,Premier League,England,36,Fulham,42,Arsenal,1,2,False
+867988,2022-08-30 18:30:00,2022,Regular Season - 5,39,Premier League,England,36,Fulham,51,Brighton,2,1,True
+868004,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,36,Fulham,47,Tottenham,1,2,False
+868023,2022-09-16 19:00:00,2022,Regular Season - 8,39,Premier League,England,36,Fulham,65,Nottingham Forest,3,2,False
+868029,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,36,Fulham,34,Newcastle,1,4,True
+868045,2022-10-09 13:00:00,2022,Regular Season - 10,39,Premier League,England,36,Fulham,48,West Ham,1,3,False
+868048,2022-10-15 14:00:00,2022,Regular Season - 11,39,Premier League,England,36,Fulham,35,Bournemouth,2,2,True
+868060,2022-10-20 18:30:00,2022,Regular Season - 12,39,Premier League,England,36,Fulham,66,Aston Villa,3,0,True
+868069,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,36,Fulham,63,Leeds,3,2,False
+868081,2022-10-29 16:30:00,2022,Regular Season - 14,39,Premier League,England,36,Fulham,45,Everton,0,0,True
+868090,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,36,Fulham,50,Manchester City,1,2,False
+868098,2022-11-13 16:30:00,2022,Regular Season - 16,39,Premier League,England,36,Fulham,33,Manchester United,1,2,True
+868110,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,36,Fulham,52,Crystal Palace,3,0,False
+868118,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,36,Fulham,41,Southampton,2,1,True
+868133,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,36,Fulham,46,Leicester,1,0,False
+976483,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,36,Fulham,64,Hull City,2,0,False
+868009,2023-01-12 20:00:00,2022,Regular Season - 7,39,Premier League,England,36,Fulham,49,Chelsea,2,1,True
+868142,2023-01-15 14:00:00,2022,Regular Season - 20,39,Premier League,England,36,Fulham,34,Newcastle,0,1,False
+868149,2023-01-23 20:00:00,2022,Regular Season - 21,39,Premier League,England,36,Fulham,47,Tottenham,0,1,True
+986114,2023-01-28 15:00:00,2022,4th Round,45,FA Cup,England,36,Fulham,746,Sunderland,1,1,True
+868159,2023-02-03 20:00:00,2022,Regular Season - 22,39,Premier League,England,36,Fulham,49,Chelsea,0,0,False
+997631,2023-02-08 19:45:00,2022,4th Round Replays,45,FA Cup,England,36,Fulham,746,Sunderland,3,2,False
+868169,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,36,Fulham,65,Nottingham Forest,2,0,True
+868178,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,36,Fulham,51,Brighton,1,0,False
+868189,2023-02-24 20:00:00,2022,Regular Season - 25,39,Premier League,England,36,Fulham,39,Wolves,1,1,True
+1004838,2023-02-28 19:45:00,2022,5th Round,45,FA Cup,England,36,Fulham,63,Leeds,2,0,True
+868198,2023-03-06 20:00:00,2022,Regular Season - 26,39,Premier League,England,36,Fulham,55,Brentford,2,3,False
+868209,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,36,Fulham,42,Arsenal,0,3,True
+1011479,2023-03-19 16:30:00,2022,Quarter-finals,45,FA Cup,England,36,Fulham,33,Manchester United,1,3,False
+868226,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,36,Fulham,35,Bournemouth,1,2,False
+868238,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,36,Fulham,48,West Ham,0,1,True
+868248,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,36,Fulham,45,Everton,3,1,False
+868261,2023-04-22 11:30:00,2022,Regular Season - 32,39,Premier League,England,36,Fulham,63,Leeds,2,1,True
+868272,2023-04-25 18:45:00,2022,Regular Season - 33,39,Premier League,England,36,Fulham,66,Aston Villa,0,1,False
+868281,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,36,Fulham,50,Manchester City,1,2,True
+868221,2023-05-03 19:00:00,2022,Regular Season - 28,39,Premier League,England,36,Fulham,40,Liverpool,0,1,False
+868288,2023-05-08 14:00:00,2022,Regular Season - 35,39,Premier League,England,36,Fulham,46,Leicester,5,3,True
+868305,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,36,Fulham,41,Southampton,2,0,False
+868308,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,36,Fulham,52,Crystal Palace,2,2,True
+868324,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,36,Fulham,33,Manchester United,1,2,False
+867949,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,39,Wolves,63,Leeds,1,2,False
+867965,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,39,Wolves,36,Fulham,0,0,True
+867974,2022-08-20 11:30:00,2022,Regular Season - 3,39,Premier League,England,39,Wolves,47,Tottenham,0,1,False
+933620,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,39,Wolves,59,Preston,2,1,True
+867985,2022-08-28 13:00:00,2022,Regular Season - 4,39,Premier League,England,39,Wolves,34,Newcastle,1,1,True
+867986,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,39,Wolves,35,Bournemouth,0,0,False
+868005,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,39,Wolves,41,Southampton,1,0,True
+868025,2022-09-17 11:30:00,2022,Regular Season - 8,39,Premier League,England,39,Wolves,50,Manchester City,0,3,True
+868035,2022-10-01 16:30:00,2022,Regular Season - 9,39,Premier League,England,39,Wolves,48,West Ham,0,2,False
+868039,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,39,Wolves,49,Chelsea,0,3,False
+868055,2022-10-15 14:00:00,2022,Regular Season - 11,39,Premier League,England,39,Wolves,65,Nottingham Forest,1,0,True
+868062,2022-10-18 19:15:00,2022,Regular Season - 12,39,Premier League,England,39,Wolves,52,Crystal Palace,1,2,False
+868075,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,39,Wolves,46,Leicester,0,4,True
+868078,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,39,Wolves,55,Brentford,1,1,False
+868095,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,39,Wolves,51,Brighton,2,3,True
+945932,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,39,Wolves,63,Leeds,1,0,True
+868105,2022-11-12 19:45:00,2022,Regular Season - 16,39,Premier League,England,39,Wolves,42,Arsenal,0,2,True
+972358,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,39,Wolves,1347,Gillingham,2,0,True
+868111,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,39,Wolves,45,Everton,2,1,False
+868125,2022-12-31 12:30:00,2022,Regular Season - 18,39,Premier League,England,39,Wolves,33,Manchester United,0,1,True
+868127,2023-01-04 20:00:00,2022,Regular Season - 19,39,Premier League,England,39,Wolves,66,Aston Villa,1,1,False
+976477,2023-01-07 20:00:00,2022,3rd Round,45,FA Cup,England,39,Wolves,40,Liverpool,2,2,False
+868145,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,39,Wolves,48,West Ham,1,0,True
+986119,2023-01-17 19:45:00,2022,3rd Round Replays,45,FA Cup,England,39,Wolves,40,Liverpool,0,1,True
+868153,2023-01-22 14:00:00,2022,Regular Season - 21,39,Premier League,England,39,Wolves,50,Manchester City,0,3,False
+868165,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,39,Wolves,40,Liverpool,3,0,True
+868174,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,39,Wolves,41,Southampton,2,1,False
+868185,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,39,Wolves,35,Bournemouth,0,1,True
+868189,2023-02-24 20:00:00,2022,Regular Season - 25,39,Premier League,England,39,Wolves,36,Fulham,1,1,False
+868012,2023-03-01 20:00:00,2022,Regular Season - 7,39,Premier League,England,39,Wolves,40,Liverpool,0,2,False
+868205,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,39,Wolves,47,Tottenham,1,0,True
+868213,2023-03-12 16:30:00,2022,Regular Season - 27,39,Premier League,England,39,Wolves,34,Newcastle,1,2,False
+868225,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,39,Wolves,63,Leeds,2,4,True
+868234,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,39,Wolves,65,Nottingham Forest,1,1,False
+868245,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,39,Wolves,49,Chelsea,1,0,True
+868255,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,39,Wolves,55,Brentford,2,0,True
+868262,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,39,Wolves,46,Leicester,1,2,False
+868271,2023-04-25 18:30:00,2022,Regular Season - 33,39,Premier League,England,39,Wolves,52,Crystal Palace,2,0,True
+868279,2023-04-29 14:00:00,2022,Regular Season - 34,39,Premier League,England,39,Wolves,51,Brighton,0,6,False
+868295,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,39,Wolves,66,Aston Villa,1,0,True
+868304,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,39,Wolves,33,Manchester United,0,2,False
+868315,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,39,Wolves,45,Everton,1,1,True
+868316,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,39,Wolves,42,Arsenal,0,5,False
+862929,2022-07-30 16:00:00,2022,Final,528,Community Shield,England,40,Liverpool,50,Manchester City,3,1,True
+867947,2022-08-06 11:30:00,2022,Regular Season - 1,39,Premier League,England,40,Liverpool,36,Fulham,2,2,False
+867961,2022-08-15 19:00:00,2022,Regular Season - 2,39,Premier League,England,40,Liverpool,52,Crystal Palace,1,1,True
+867972,2022-08-22 19:00:00,2022,Regular Season - 3,39,Premier League,England,40,Liverpool,33,Manchester United,1,2,False
+867981,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,40,Liverpool,35,Bournemouth,9,0,True
+867994,2022-08-31 19:00:00,2022,Regular Season - 5,39,Premier League,England,40,Liverpool,34,Newcastle,2,1,True
+868000,2022-09-03 11:30:00,2022,Regular Season - 6,39,Premier League,England,40,Liverpool,45,Everton,0,0,False
+946859,2022-09-07 19:00:00,2022,Group A - 1,2,UEFA Champions League,World,40,Liverpool,492,Napoli,1,4,False
+946867,2022-09-13 19:00:00,2022,Group A - 2,2,UEFA Champions League,World,40,Liverpool,194,Ajax,2,1,True
+868032,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,40,Liverpool,51,Brighton,3,3,True
+946883,2022-10-04 19:00:00,2022,Group A - 3,2,UEFA Champions League,World,40,Liverpool,257,Rangers,2,0,True
+868037,2022-10-09 15:30:00,2022,Regular Season - 10,39,Premier League,England,40,Liverpool,42,Arsenal,2,3,False
+946907,2022-10-12 19:00:00,2022,Group A - 4,2,UEFA Champions League,World,40,Liverpool,257,Rangers,7,1,False
+868051,2022-10-16 15:30:00,2022,Regular Season - 11,39,Premier League,England,40,Liverpool,50,Manchester City,1,0,True
+868064,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,40,Liverpool,48,West Ham,1,0,True
+868071,2022-10-22 11:30:00,2022,Regular Season - 13,39,Premier League,England,40,Liverpool,65,Nottingham Forest,0,1,False
+946924,2022-10-26 19:00:00,2022,Group A - 5,2,UEFA Champions League,World,40,Liverpool,194,Ajax,3,0,False
+868083,2022-10-29 18:45:00,2022,Regular Season - 14,39,Premier League,England,40,Liverpool,63,Leeds,1,2,True
+946931,2022-11-01 20:00:00,2022,Group A - 6,2,UEFA Champions League,World,40,Liverpool,492,Napoli,2,0,True
+868093,2022-11-06 16:30:00,2022,Regular Season - 15,39,Premier League,England,40,Liverpool,47,Tottenham,2,1,False
+868099,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,40,Liverpool,41,Southampton,3,1,True
+972362,2022-12-22 20:00:00,2022,Round of 16,48,League Cup,England,40,Liverpool,50,Manchester City,2,3,False
+868107,2022-12-26 17:30:00,2022,Regular Season - 17,39,Premier League,England,40,Liverpool,66,Aston Villa,3,1,False
+868119,2022-12-30 20:00:00,2022,Regular Season - 18,39,Premier League,England,40,Liverpool,46,Leicester,2,1,True
+868128,2023-01-02 17:30:00,2022,Regular Season - 19,39,Premier League,England,40,Liverpool,55,Brentford,1,3,False
+976477,2023-01-07 20:00:00,2022,3rd Round,45,FA Cup,England,40,Liverpool,39,Wolves,2,2,True
+868138,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,40,Liverpool,51,Brighton,0,3,False
+986119,2023-01-17 19:45:00,2022,3rd Round Replays,45,FA Cup,England,40,Liverpool,39,Wolves,1,0,False
+868152,2023-01-21 12:30:00,2022,Regular Season - 21,39,Premier League,England,40,Liverpool,49,Chelsea,0,0,True
+990835,2023-01-29 13:30:00,2022,4th Round,45,FA Cup,England,40,Liverpool,51,Brighton,1,2,False
+868165,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,40,Liverpool,39,Wolves,0,3,False
+868172,2023-02-13 20:00:00,2022,Regular Season - 23,39,Premier League,England,40,Liverpool,45,Everton,2,0,True
+868182,2023-02-18 17:30:00,2022,Regular Season - 24,39,Premier League,England,40,Liverpool,34,Newcastle,2,0,False
+971801,2023-02-21 20:00:00,2022,Round of 16,2,UEFA Champions League,World,40,Liverpool,541,Real Madrid,2,5,True
+868187,2023-02-25 19:45:00,2022,Regular Season - 25,39,Premier League,England,40,Liverpool,52,Crystal Palace,0,0,False
+868012,2023-03-01 20:00:00,2022,Regular Season - 7,39,Premier League,England,40,Liverpool,39,Wolves,2,0,True
+868201,2023-03-05 16:30:00,2022,Regular Season - 26,39,Premier League,England,40,Liverpool,33,Manchester United,7,0,True
+868206,2023-03-11 12:30:00,2022,Regular Season - 27,39,Premier League,England,40,Liverpool,35,Bournemouth,0,1,False
+971802,2023-03-15 20:00:00,2022,Round of 16,2,UEFA Champions League,World,40,Liverpool,541,Real Madrid,0,1,False
+868232,2023-04-01 11:30:00,2022,Regular Season - 29,39,Premier League,England,40,Liverpool,50,Manchester City,1,4,False
+868019,2023-04-04 19:00:00,2022,Regular Season - 8,39,Premier League,England,40,Liverpool,49,Chelsea,0,0,False
+868241,2023-04-09 15:30:00,2022,Regular Season - 30,39,Premier League,England,40,Liverpool,42,Arsenal,2,2,True
+868249,2023-04-17 19:00:00,2022,Regular Season - 31,39,Premier League,England,40,Liverpool,63,Leeds,6,1,False
+868263,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,40,Liverpool,65,Nottingham Forest,3,2,True
+868270,2023-04-26 18:45:00,2022,Regular Season - 33,39,Premier League,England,40,Liverpool,48,West Ham,2,1,False
+868283,2023-04-30 15:30:00,2022,Regular Season - 34,39,Premier League,England,40,Liverpool,47,Tottenham,4,3,True
+868221,2023-05-03 19:00:00,2022,Regular Season - 28,39,Premier League,England,40,Liverpool,36,Fulham,1,0,True
+868289,2023-05-06 16:30:00,2022,Regular Season - 35,39,Premier League,England,40,Liverpool,55,Brentford,1,0,True
+868303,2023-05-15 19:00:00,2022,Regular Season - 36,39,Premier League,England,40,Liverpool,46,Leicester,3,0,False
+868309,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,40,Liverpool,66,Aston Villa,1,1,True
+868325,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,40,Liverpool,41,Southampton,4,4,False
+867952,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,41,Southampton,47,Tottenham,1,4,False
+867964,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,41,Southampton,63,Leeds,2,2,True
+867971,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,41,Southampton,46,Leicester,2,1,False
+933640,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,41,Southampton,1370,Cambridge United,3,0,False
+867984,2022-08-27 11:30:00,2022,Regular Season - 4,39,Premier League,England,41,Southampton,33,Manchester United,0,1,True
+867993,2022-08-30 18:45:00,2022,Regular Season - 5,39,Premier League,England,41,Southampton,49,Chelsea,2,1,True
+868005,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,41,Southampton,39,Wolves,0,1,False
+868016,2022-09-16 19:00:00,2022,Regular Season - 8,39,Premier League,England,41,Southampton,66,Aston Villa,0,1,False
+868034,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,41,Southampton,45,Everton,1,2,True
+868042,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,41,Southampton,50,Manchester City,0,4,False
+868053,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,41,Southampton,48,West Ham,1,1,True
+868056,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,41,Southampton,35,Bournemouth,1,0,False
+868072,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,41,Southampton,42,Arsenal,1,1,True
+868080,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,41,Southampton,52,Crystal Palace,0,1,False
+868092,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,41,Southampton,34,Newcastle,1,4,True
+868099,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,41,Southampton,40,Liverpool,1,3,False
+972359,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,41,Southampton,1379,Lincoln,2,1,True
+868115,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,41,Southampton,51,Brighton,1,3,True
+868118,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,41,Southampton,36,Fulham,1,2,False
+868135,2023-01-04 19:30:00,2022,Regular Season - 19,39,Premier League,England,41,Southampton,65,Nottingham Forest,0,1,True
+976484,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,41,Southampton,52,Crystal Palace,2,1,False
+981787,2023-01-11 20:00:00,2022,Quarter-finals,48,League Cup,England,41,Southampton,50,Manchester City,2,0,True
+868140,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,41,Southampton,45,Everton,2,1,False
+868154,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,41,Southampton,66,Aston Villa,0,1,True
+986793,2023-01-24 20:00:00,2022,Semi-finals,48,League Cup,England,41,Southampton,34,Newcastle,0,1,True
+986106,2023-01-28 15:00:00,2022,4th Round,45,FA Cup,England,41,Southampton,1356,Blackpool,2,1,True
+986794,2023-01-31 20:00:00,2022,Semi-finals,48,League Cup,England,41,Southampton,34,Newcastle,1,2,False
+868157,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,41,Southampton,55,Brentford,0,3,False
+868174,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,41,Southampton,39,Wolves,1,2,True
+868179,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,41,Southampton,49,Chelsea,1,0,False
+868190,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,41,Southampton,63,Leeds,0,1,False
+1004839,2023-03-01 19:15:00,2022,5th Round,45,FA Cup,England,41,Southampton,1365,Grimsby,1,2,True
+868204,2023-03-04 17:30:00,2022,Regular Season - 26,39,Premier League,England,41,Southampton,46,Leicester,1,0,True
+868212,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,41,Southampton,33,Manchester United,0,0,False
+868014,2023-03-15 19:30:00,2022,Regular Season - 7,39,Premier League,England,41,Southampton,55,Brentford,0,2,True
+868224,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,41,Southampton,47,Tottenham,3,3,True
+868235,2023-04-02 13:00:00,2022,Regular Season - 29,39,Premier League,England,41,Southampton,48,West Ham,0,1,False
+868243,2023-04-08 16:30:00,2022,Regular Season - 30,39,Premier League,England,41,Southampton,50,Manchester City,1,4,True
+868252,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,41,Southampton,52,Crystal Palace,0,2,True
+868257,2023-04-21 19:00:00,2022,Regular Season - 32,39,Premier League,England,41,Southampton,42,Arsenal,3,3,False
+868274,2023-04-27 18:45:00,2022,Regular Season - 33,39,Premier League,England,41,Southampton,35,Bournemouth,0,1,True
+868285,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,41,Southampton,34,Newcastle,1,3,False
+868292,2023-05-08 19:00:00,2022,Regular Season - 35,39,Premier League,England,41,Southampton,65,Nottingham Forest,3,4,False
+868305,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,41,Southampton,36,Fulham,0,2,True
+868307,2023-05-21 13:00:00,2022,Regular Season - 37,39,Premier League,England,41,Southampton,51,Brighton,1,3,False
+868325,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,41,Southampton,40,Liverpool,4,4,True
+867946,2022-08-05 19:00:00,2022,Regular Season - 1,39,Premier League,England,42,Arsenal,52,Crystal Palace,2,0,False
+867956,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,42,Arsenal,46,Leicester,4,2,True
+867966,2022-08-20 16:30:00,2022,Regular Season - 3,39,Premier League,England,42,Arsenal,35,Bournemouth,3,0,False
+867976,2022-08-27 16:30:00,2022,Regular Season - 4,39,Premier League,England,42,Arsenal,36,Fulham,2,1,True
+867987,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,42,Arsenal,66,Aston Villa,2,1,True
+868001,2022-09-04 15:30:00,2022,Regular Season - 6,39,Premier League,England,42,Arsenal,33,Manchester United,1,3,False
+946753,2022-09-08 16:45:00,2022,Group Stage - 1,3,UEFA Europa League,World,42,Arsenal,783,FC Zurich,2,1,False
+868017,2022-09-18 11:00:00,2022,Regular Season - 8,39,Premier League,England,42,Arsenal,55,Brentford,3,0,False
+868027,2022-10-01 11:30:00,2022,Regular Season - 9,39,Premier League,England,42,Arsenal,47,Tottenham,3,1,True
+946793,2022-10-06 19:00:00,2022,Group Stage - 3,3,UEFA Europa League,World,42,Arsenal,327,Bodo/Glimt,3,0,True
+868037,2022-10-09 15:30:00,2022,Regular Season - 10,39,Premier League,England,42,Arsenal,40,Liverpool,3,2,True
+946801,2022-10-13 16:45:00,2022,Group Stage - 4,3,UEFA Europa League,World,42,Arsenal,327,Bodo/Glimt,1,0,False
+868049,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,42,Arsenal,63,Leeds,1,0,False
+946777,2022-10-20 17:00:00,2022,Group Stage - 2,3,UEFA Europa League,World,42,Arsenal,197,PSV Eindhoven,1,0,True
+868072,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,42,Arsenal,41,Southampton,1,1,False
+946818,2022-10-27 16:45:00,2022,Group Stage - 5,3,UEFA Europa League,World,42,Arsenal,197,PSV Eindhoven,0,2,False
+868077,2022-10-30 14:00:00,2022,Regular Season - 14,39,Premier League,England,42,Arsenal,65,Nottingham Forest,5,0,True
+946841,2022-11-03 20:00:00,2022,Group Stage - 6,3,UEFA Europa League,World,42,Arsenal,783,FC Zurich,1,0,True
+868087,2022-11-06 12:00:00,2022,Regular Season - 15,39,Premier League,England,42,Arsenal,49,Chelsea,1,0,False
+945944,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,42,Arsenal,51,Brighton,1,3,True
+868105,2022-11-12 19:45:00,2022,Regular Season - 16,39,Premier League,England,42,Arsenal,39,Wolves,2,0,False
+868106,2022-12-26 20:00:00,2022,Regular Season - 17,39,Premier League,England,42,Arsenal,48,West Ham,3,1,True
+868117,2022-12-31 17:30:00,2022,Regular Season - 18,39,Premier League,England,42,Arsenal,51,Brighton,4,2,False
+868126,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,42,Arsenal,34,Newcastle,0,0,True
+976475,2023-01-09 20:00:00,2022,3rd Round,45,FA Cup,England,42,Arsenal,1338,Oxford United,3,0,False
+868144,2023-01-15 16:30:00,2022,Regular Season - 20,39,Premier League,England,42,Arsenal,47,Tottenham,2,0,False
+868147,2023-01-22 16:30:00,2022,Regular Season - 21,39,Premier League,England,42,Arsenal,33,Manchester United,3,2,True
+986497,2023-01-27 20:00:00,2022,4th Round,45,FA Cup,England,42,Arsenal,50,Manchester City,0,1,False
+868160,2023-02-04 12:30:00,2022,Regular Season - 22,39,Premier League,England,42,Arsenal,45,Everton,0,1,False
+868167,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,42,Arsenal,55,Brentford,1,1,True
+868057,2023-02-15 19:30:00,2022,Regular Season - 12,39,Premier League,England,42,Arsenal,50,Manchester City,1,3,True
+868176,2023-02-18 12:30:00,2022,Regular Season - 24,39,Premier League,England,42,Arsenal,66,Aston Villa,4,2,False
+868191,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,42,Arsenal,46,Leicester,1,0,False
+868007,2023-03-01 19:45:00,2022,Regular Season - 7,39,Premier League,England,42,Arsenal,45,Everton,4,0,True
+868196,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,42,Arsenal,35,Bournemouth,3,2,True
+1010826,2023-03-09 17:45:00,2022,Round of 16,3,UEFA Europa League,World,42,Arsenal,228,Sporting CP,2,2,False
+868209,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,42,Arsenal,36,Fulham,3,0,False
+868216,2023-03-19 14:00:00,2022,Regular Season - 28,39,Premier League,England,42,Arsenal,52,Crystal Palace,4,1,True
+868227,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,42,Arsenal,63,Leeds,4,1,True
+868241,2023-04-09 15:30:00,2022,Regular Season - 30,39,Premier League,England,42,Arsenal,40,Liverpool,2,2,False
+868254,2023-04-16 13:00:00,2022,Regular Season - 31,39,Premier League,England,42,Arsenal,48,West Ham,2,2,False
+868257,2023-04-21 19:00:00,2022,Regular Season - 32,39,Premier League,England,42,Arsenal,41,Southampton,3,3,True
+868275,2023-04-26 19:00:00,2022,Regular Season - 33,39,Premier League,England,42,Arsenal,50,Manchester City,1,4,False
+868277,2023-05-02 19:00:00,2022,Regular Season - 34,39,Premier League,England,42,Arsenal,49,Chelsea,3,1,True
+868291,2023-05-07 15:30:00,2022,Regular Season - 35,39,Premier League,England,42,Arsenal,34,Newcastle,2,0,False
+868296,2023-05-14 15:30:00,2022,Regular Season - 36,39,Premier League,England,42,Arsenal,51,Brighton,0,3,True
+868312,2023-05-20 16:30:00,2022,Regular Season - 37,39,Premier League,England,42,Arsenal,65,Nottingham Forest,0,1,False
+868316,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,42,Arsenal,39,Wolves,5,0,True
+976468,2023-01-08 14:00:00,2022,3rd Round,45,FA Cup,England,43,Cardiff,63,Leeds,2,2,True
+986120,2023-01-18 19:45:00,2022,3rd Round Replays,45,FA Cup,England,43,Cardiff,63,Leeds,2,5,False
+972363,2022-12-21 20:00:00,2022,Round of 16,48,League Cup,England,44,Burnley,33,Manchester United,0,2,False
+976470,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,44,Burnley,35,Bournemouth,4,2,False
+1011478,2023-03-18 17:45:00,2022,Quarter-finals,45,FA Cup,England,44,Burnley,50,Manchester City,0,6,False
+867953,2022-08-06 16:30:00,2022,Regular Season - 1,39,Premier League,England,45,Everton,49,Chelsea,0,1,True
+867957,2022-08-13 11:30:00,2022,Regular Season - 2,39,Premier League,England,45,Everton,66,Aston Villa,1,2,False
+867968,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,45,Everton,65,Nottingham Forest,1,1,True
+933622,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,45,Everton,1336,Fleetwood Town,1,0,False
+867978,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,45,Everton,55,Brentford,1,1,False
+867989,2022-08-30 19:00:00,2022,Regular Season - 5,39,Premier League,England,45,Everton,63,Leeds,1,1,False
+868000,2022-09-03 11:30:00,2022,Regular Season - 6,39,Premier League,England,45,Everton,40,Liverpool,0,0,True
+868020,2022-09-18 13:15:00,2022,Regular Season - 8,39,Premier League,England,45,Everton,48,West Ham,1,0,True
+868034,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,45,Everton,41,Southampton,2,1,False
+868041,2022-10-09 18:00:00,2022,Regular Season - 10,39,Premier League,England,45,Everton,33,Manchester United,1,2,True
+868054,2022-10-15 16:30:00,2022,Regular Season - 11,39,Premier League,England,45,Everton,47,Tottenham,0,2,False
+868063,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,45,Everton,34,Newcastle,0,1,False
+868068,2022-10-22 14:00:00,2022,Regular Season - 13,39,Premier League,England,45,Everton,52,Crystal Palace,3,0,True
+868081,2022-10-29 16:30:00,2022,Regular Season - 14,39,Premier League,England,45,Everton,36,Fulham,0,0,False
+868088,2022-11-05 17:30:00,2022,Regular Season - 15,39,Premier League,England,45,Everton,46,Leicester,0,2,True
+945935,2022-11-08 19:45:00,2022,3rd Round,48,League Cup,England,45,Everton,35,Bournemouth,1,4,False
+868096,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,45,Everton,35,Bournemouth,0,3,False
+868111,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,45,Everton,39,Wolves,1,2,True
+868120,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,45,Everton,50,Manchester City,1,1,False
+868131,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,45,Everton,51,Brighton,1,4,True
+976488,2023-01-06 20:00:00,2022,3rd Round,45,FA Cup,England,45,Everton,33,Manchester United,1,3,False
+868140,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,45,Everton,41,Southampton,1,2,True
+868155,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,45,Everton,48,West Ham,0,2,False
+868160,2023-02-04 12:30:00,2022,Regular Season - 22,39,Premier League,England,45,Everton,42,Arsenal,1,0,True
+868172,2023-02-13 20:00:00,2022,Regular Season - 23,39,Premier League,England,45,Everton,40,Liverpool,0,2,False
+868180,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,45,Everton,63,Leeds,1,0,True
+868188,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,45,Everton,66,Aston Villa,0,2,True
+868007,2023-03-01 19:45:00,2022,Regular Season - 7,39,Premier League,England,45,Everton,42,Arsenal,0,4,False
+868203,2023-03-05 14:00:00,2022,Regular Season - 26,39,Premier League,England,45,Everton,65,Nottingham Forest,2,2,False
+868208,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,45,Everton,55,Brentford,1,0,True
+868220,2023-03-18 17:30:00,2022,Regular Season - 28,39,Premier League,England,45,Everton,49,Chelsea,2,2,False
+868231,2023-04-03 19:00:00,2022,Regular Season - 29,39,Premier League,England,45,Everton,47,Tottenham,1,1,True
+868242,2023-04-08 11:30:00,2022,Regular Season - 30,39,Premier League,England,45,Everton,33,Manchester United,0,2,False
+868248,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,45,Everton,36,Fulham,1,3,True
+868260,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,45,Everton,52,Crystal Palace,0,0,False
+868266,2023-04-27 18:45:00,2022,Regular Season - 33,39,Premier League,England,45,Everton,34,Newcastle,1,4,True
+868282,2023-05-01 19:00:00,2022,Regular Season - 34,39,Premier League,England,45,Everton,46,Leicester,2,2,False
+868287,2023-05-08 16:30:00,2022,Regular Season - 35,39,Premier League,England,45,Everton,51,Brighton,5,1,False
+868301,2023-05-14 13:00:00,2022,Regular Season - 36,39,Premier League,England,45,Everton,50,Manchester City,0,3,True
+868315,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,45,Everton,39,Wolves,1,1,False
+868321,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,45,Everton,35,Bournemouth,1,0,True
+867950,2022-08-07 13:00:00,2022,Regular Season - 1,39,Premier League,England,46,Leicester,55,Brentford,2,2,True
+867956,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,46,Leicester,42,Arsenal,2,4,False
+867971,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,46,Leicester,41,Southampton,1,2,True
+867980,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,46,Leicester,49,Chelsea,1,2,False
+867990,2022-09-01 19:00:00,2022,Regular Season - 5,39,Premier League,England,46,Leicester,33,Manchester United,0,1,True
+867998,2022-09-04 13:00:00,2022,Regular Season - 6,39,Premier League,England,46,Leicester,51,Brighton,2,5,False
+868024,2022-09-17 16:30:00,2022,Regular Season - 8,39,Premier League,England,46,Leicester,47,Tottenham,2,6,False
+868031,2022-10-03 19:00:00,2022,Regular Season - 9,39,Premier League,England,46,Leicester,65,Nottingham Forest,4,0,True
+868036,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,46,Leicester,35,Bournemouth,1,2,False
+868050,2022-10-15 11:30:00,2022,Regular Season - 11,39,Premier League,England,46,Leicester,52,Crystal Palace,0,0,True
+868061,2022-10-20 19:15:00,2022,Regular Season - 12,39,Premier League,England,46,Leicester,63,Leeds,2,0,True
+868075,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,46,Leicester,39,Wolves,4,0,False
+868082,2022-10-29 11:30:00,2022,Regular Season - 14,39,Premier League,England,46,Leicester,50,Manchester City,0,1,True
+868088,2022-11-05 17:30:00,2022,Regular Season - 15,39,Premier League,England,46,Leicester,45,Everton,2,0,False
+945930,2022-11-08 19:45:00,2022,3rd Round,48,League Cup,England,46,Leicester,1367,Newport County,3,0,True
+868104,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,46,Leicester,48,West Ham,2,0,False
+972364,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,46,Leicester,1348,Milton Keynes Dons,3,0,False
+868113,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,46,Leicester,34,Newcastle,0,3,True
+868119,2022-12-30 20:00:00,2022,Regular Season - 18,39,Premier League,England,46,Leicester,40,Liverpool,1,2,False
+868133,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,46,Leicester,36,Fulham,0,1,True
+981448,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,46,Leicester,1347,Gillingham,1,0,False
+981789,2023-01-10 20:00:00,2022,Quarter-finals,48,League Cup,England,46,Leicester,34,Newcastle,0,2,False
+868143,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,46,Leicester,65,Nottingham Forest,0,2,False
+868151,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,46,Leicester,51,Brighton,2,2,True
+986112,2023-01-28 12:30:00,2022,4th Round,45,FA Cup,England,46,Leicester,1342,Walsall,1,0,False
+868156,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,46,Leicester,66,Aston Villa,4,2,False
+868171,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,46,Leicester,47,Tottenham,4,1,True
+868181,2023-02-19 14:00:00,2022,Regular Season - 24,39,Premier League,England,46,Leicester,33,Manchester United,0,3,False
+868191,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,46,Leicester,42,Arsenal,0,1,True
+997988,2023-02-28 19:30:00,2022,5th Round,45,FA Cup,England,46,Leicester,67,Blackburn,1,2,True
+868204,2023-03-04 17:30:00,2022,Regular Season - 26,39,Premier League,England,46,Leicester,41,Southampton,0,1,False
+868211,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,46,Leicester,49,Chelsea,1,3,True
+868218,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,46,Leicester,55,Brentford,1,1,False
+868230,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,46,Leicester,52,Crystal Palace,1,2,False
+868011,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,46,Leicester,66,Aston Villa,1,2,True
+868240,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,46,Leicester,35,Bournemouth,0,1,True
+868250,2023-04-15 16:30:00,2022,Regular Season - 31,39,Premier League,England,46,Leicester,50,Manchester City,1,3,False
+868262,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,46,Leicester,39,Wolves,2,1,True
+868267,2023-04-25 19:00:00,2022,Regular Season - 33,39,Premier League,England,46,Leicester,63,Leeds,1,1,False
+868282,2023-05-01 19:00:00,2022,Regular Season - 34,39,Premier League,England,46,Leicester,45,Everton,2,2,True
+868288,2023-05-08 14:00:00,2022,Regular Season - 35,39,Premier League,England,46,Leicester,36,Fulham,3,5,False
+868303,2023-05-15 19:00:00,2022,Regular Season - 36,39,Premier League,England,46,Leicester,40,Liverpool,0,3,True
+868311,2023-05-22 19:00:00,2022,Regular Season - 37,39,Premier League,England,46,Leicester,34,Newcastle,0,0,False
+868323,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,46,Leicester,48,West Ham,2,1,True
+867952,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,47,Tottenham,41,Southampton,4,1,True
+867960,2022-08-14 15:30:00,2022,Regular Season - 2,39,Premier League,England,47,Tottenham,49,Chelsea,2,2,False
+867974,2022-08-20 11:30:00,2022,Regular Season - 3,39,Premier League,England,47,Tottenham,39,Wolves,1,0,True
+867983,2022-08-28 15:30:00,2022,Regular Season - 4,39,Premier League,England,47,Tottenham,65,Nottingham Forest,2,0,False
+867991,2022-08-31 18:45:00,2022,Regular Season - 5,39,Premier League,England,47,Tottenham,48,West Ham,1,1,False
+868004,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,47,Tottenham,36,Fulham,2,1,True
+946864,2022-09-07 19:00:00,2022,Group D - 1,2,UEFA Champions League,World,47,Tottenham,81,Marseille,2,0,True
+946866,2022-09-13 16:45:00,2022,Group D - 2,2,UEFA Champions League,World,47,Tottenham,228,Sporting CP,0,2,False
+868024,2022-09-17 16:30:00,2022,Regular Season - 8,39,Premier League,England,47,Tottenham,46,Leicester,6,2,True
+868027,2022-10-01 11:30:00,2022,Regular Season - 9,39,Premier League,England,47,Tottenham,42,Arsenal,1,3,False
+946888,2022-10-04 19:00:00,2022,Group D - 3,2,UEFA Champions League,World,47,Tottenham,169,Eintracht Frankfurt,0,0,False
+868038,2022-10-08 16:30:00,2022,Regular Season - 10,39,Premier League,England,47,Tottenham,51,Brighton,1,0,False
+946911,2022-10-12 19:00:00,2022,Group D - 4,2,UEFA Champions League,World,47,Tottenham,169,Eintracht Frankfurt,3,2,True
+868054,2022-10-15 16:30:00,2022,Regular Season - 11,39,Premier League,England,47,Tottenham,45,Everton,2,0,True
+868065,2022-10-19 19:15:00,2022,Regular Season - 12,39,Premier League,England,47,Tottenham,33,Manchester United,0,2,False
+868073,2022-10-23 15:30:00,2022,Regular Season - 13,39,Premier League,England,47,Tottenham,34,Newcastle,1,2,True
+946927,2022-10-26 19:00:00,2022,Group D - 5,2,UEFA Champions League,World,47,Tottenham,228,Sporting CP,1,1,True
+868076,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,47,Tottenham,35,Bournemouth,3,2,False
+946936,2022-11-01 20:00:00,2022,Group D - 6,2,UEFA Champions League,World,47,Tottenham,81,Marseille,2,1,False
+868093,2022-11-06 16:30:00,2022,Regular Season - 15,39,Premier League,England,47,Tottenham,40,Liverpool,1,2,True
+945933,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,47,Tottenham,65,Nottingham Forest,0,2,False
+868103,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,47,Tottenham,63,Leeds,4,3,True
+868108,2022-12-26 12:30:00,2022,Regular Season - 17,39,Premier League,England,47,Tottenham,55,Brentford,2,2,False
+868123,2023-01-01 14:00:00,2022,Regular Season - 18,39,Premier League,England,47,Tottenham,66,Aston Villa,0,2,True
+868130,2023-01-04 20:00:00,2022,Regular Season - 19,39,Premier League,England,47,Tottenham,52,Crystal Palace,4,0,False
+976466,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,47,Tottenham,1355,Portsmouth,1,0,True
+868144,2023-01-15 16:30:00,2022,Regular Season - 20,39,Premier League,England,47,Tottenham,42,Arsenal,0,2,True
+868013,2023-01-19 20:00:00,2022,Regular Season - 7,39,Premier League,England,47,Tottenham,50,Manchester City,2,4,False
+868149,2023-01-23 20:00:00,2022,Regular Season - 21,39,Premier League,England,47,Tottenham,36,Fulham,1,0,False
+986108,2023-01-28 18:00:00,2022,4th Round,45,FA Cup,England,47,Tottenham,59,Preston,3,0,False
+868164,2023-02-05 16:30:00,2022,Regular Season - 22,39,Premier League,England,47,Tottenham,50,Manchester City,1,0,True
+868171,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,47,Tottenham,46,Leicester,1,4,False
+971793,2023-02-14 20:00:00,2022,Round of 16,2,UEFA Champions League,World,47,Tottenham,489,AC Milan,0,1,False
+868184,2023-02-19 16:30:00,2022,Regular Season - 24,39,Premier League,England,47,Tottenham,48,West Ham,2,0,True
+868194,2023-02-26 13:30:00,2022,Regular Season - 25,39,Premier League,England,47,Tottenham,49,Chelsea,2,0,True
+1004841,2023-03-01 19:55:00,2022,5th Round,45,FA Cup,England,47,Tottenham,62,Sheffield Utd,0,1,False
+868205,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,47,Tottenham,39,Wolves,0,1,False
+971794,2023-03-08 20:00:00,2022,Round of 16,2,UEFA Champions League,World,47,Tottenham,489,AC Milan,0,0,True
+868214,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,47,Tottenham,65,Nottingham Forest,3,1,True
+868224,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,47,Tottenham,41,Southampton,3,3,False
+868231,2023-04-03 19:00:00,2022,Regular Season - 29,39,Premier League,England,47,Tottenham,45,Everton,1,1,False
+868244,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,47,Tottenham,51,Brighton,2,1,True
+868253,2023-04-15 14:15:00,2022,Regular Season - 31,39,Premier League,England,47,Tottenham,35,Bournemouth,2,3,True
+868265,2023-04-23 13:00:00,2022,Regular Season - 32,39,Premier League,England,47,Tottenham,34,Newcastle,1,6,False
+868269,2023-04-27 19:15:00,2022,Regular Season - 33,39,Premier League,England,47,Tottenham,33,Manchester United,2,2,True
+868283,2023-04-30 15:30:00,2022,Regular Season - 34,39,Premier League,England,47,Tottenham,40,Liverpool,3,4,False
+868293,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,47,Tottenham,52,Crystal Palace,1,0,True
+868297,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,47,Tottenham,66,Aston Villa,1,2,False
+868313,2023-05-20 11:30:00,2022,Regular Season - 37,39,Premier League,England,47,Tottenham,55,Brentford,1,3,True
+868322,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,47,Tottenham,63,Leeds,4,1,False
+867955,2022-08-07 15:30:00,2022,Regular Season - 1,39,Premier League,England,48,West Ham,50,Manchester City,0,2,True
+867963,2022-08-14 13:00:00,2022,Regular Season - 2,39,Premier League,England,48,West Ham,65,Nottingham Forest,0,1,False
+932865,2022-08-18 18:45:00,2022,Play-offs,848,UEFA Europa Conference League,World,48,West Ham,2070,Viborg,3,1,True
+867975,2022-08-21 13:00:00,2022,Regular Season - 3,39,Premier League,England,48,West Ham,51,Brighton,0,2,True
+932866,2022-08-25 17:00:00,2022,Play-offs,848,UEFA Europa Conference League,World,48,West Ham,2070,Viborg,3,0,False
+867977,2022-08-28 13:00:00,2022,Regular Season - 4,39,Premier League,England,48,West Ham,66,Aston Villa,1,0,False
+867991,2022-08-31 18:45:00,2022,Regular Season - 5,39,Premier League,England,48,West Ham,47,Tottenham,1,1,True
+867999,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,48,West Ham,49,Chelsea,1,2,False
+946665,2022-09-08 19:00:00,2022,Group Stage - 1,848,UEFA Europa Conference League,World,48,West Ham,559,FCSB,3,1,True
+946684,2022-09-15 19:00:00,2022,Group Stage - 2,848,UEFA Europa Conference League,World,48,West Ham,2073,Silkeborg,3,2,False
+868020,2022-09-18 13:15:00,2022,Regular Season - 8,39,Premier League,England,48,West Ham,45,Everton,0,1,False
+868035,2022-10-01 16:30:00,2022,Regular Season - 9,39,Premier League,England,48,West Ham,39,Wolves,2,0,True
+946689,2022-10-06 16:45:00,2022,Group Stage - 3,848,UEFA Europa Conference League,World,48,West Ham,554,Anderlecht,1,0,False
+868045,2022-10-09 13:00:00,2022,Regular Season - 10,39,Premier League,England,48,West Ham,36,Fulham,3,1,True
+946714,2022-10-13 19:00:00,2022,Group Stage - 4,848,UEFA Europa Conference League,World,48,West Ham,554,Anderlecht,2,1,True
+868053,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,48,West Ham,41,Southampton,1,1,False
+868064,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,48,West Ham,40,Liverpool,0,1,False
+868074,2022-10-24 19:00:00,2022,Regular Season - 13,39,Premier League,England,48,West Ham,35,Bournemouth,2,0,True
+946729,2022-10-27 19:00:00,2022,Group Stage - 5,848,UEFA Europa Conference League,World,48,West Ham,2073,Silkeborg,1,0,True
+868084,2022-10-30 16:15:00,2022,Regular Season - 14,39,Premier League,England,48,West Ham,33,Manchester United,0,1,False
+946747,2022-11-03 20:00:00,2022,Group Stage - 6,848,UEFA Europa Conference League,World,48,West Ham,559,FCSB,3,0,False
+868094,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,48,West Ham,52,Crystal Palace,1,2,True
+868104,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,48,West Ham,46,Leicester,0,2,True
+868106,2022-12-26 20:00:00,2022,Regular Season - 17,39,Premier League,England,48,West Ham,42,Arsenal,1,3,False
+868124,2022-12-30 19:45:00,2022,Regular Season - 18,39,Premier League,England,48,West Ham,55,Brentford,0,2,True
+868132,2023-01-04 19:45:00,2022,Regular Season - 19,39,Premier League,England,48,West Ham,63,Leeds,2,2,False
+976469,2023-01-07 17:30:00,2022,3rd Round,45,FA Cup,England,48,West Ham,55,Brentford,1,0,False
+868145,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,48,West Ham,39,Wolves,0,1,False
+868155,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,48,West Ham,45,Everton,2,0,True
+986111,2023-01-30 19:45:00,2022,4th Round,45,FA Cup,England,48,West Ham,69,Derby,2,0,False
+868162,2023-02-04 17:30:00,2022,Regular Season - 22,39,Premier League,England,48,West Ham,34,Newcastle,1,1,False
+868175,2023-02-11 12:30:00,2022,Regular Season - 23,39,Premier League,England,48,West Ham,49,Chelsea,1,1,True
+868184,2023-02-19 16:30:00,2022,Regular Season - 24,39,Premier League,England,48,West Ham,47,Tottenham,0,2,False
+868195,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,48,West Ham,65,Nottingham Forest,4,0,True
+997626,2023-03-01 19:45:00,2022,5th Round,45,FA Cup,England,48,West Ham,33,Manchester United,1,3,False
+868199,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,48,West Ham,51,Brighton,0,4,False
+1010844,2023-03-09 17:45:00,2022,Round of 16,848,UEFA Europa Conference League,World,48,West Ham,614,AEK Larnaca,2,0,False
+868215,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,48,West Ham,66,Aston Villa,1,1,True
+1010845,2023-03-16 20:00:00,2022,Round of 16,848,UEFA Europa Conference League,World,48,West Ham,614,AEK Larnaca,4,0,True
+868235,2023-04-02 13:00:00,2022,Regular Season - 29,39,Premier League,England,48,West Ham,41,Southampton,1,0,True
+868015,2023-04-05 19:00:00,2022,Regular Season - 7,39,Premier League,England,48,West Ham,34,Newcastle,1,5,True
+868238,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,48,West Ham,36,Fulham,1,0,False
+1016047,2023-04-13 16:45:00,2022,Quarter-finals,848,UEFA Europa Conference League,World,48,West Ham,631,Gent,1,1,False
+868254,2023-04-16 13:00:00,2022,Regular Season - 31,39,Premier League,England,48,West Ham,42,Arsenal,2,2,True
+1016048,2023-04-20 19:00:00,2022,Quarter-finals,848,UEFA Europa Conference League,World,48,West Ham,631,Gent,4,1,True
+868256,2023-04-23 13:00:00,2022,Regular Season - 32,39,Premier League,England,48,West Ham,35,Bournemouth,4,0,False
+868270,2023-04-26 18:45:00,2022,Regular Season - 33,39,Premier League,England,48,West Ham,40,Liverpool,1,2,True
+868280,2023-04-29 11:30:00,2022,Regular Season - 34,39,Premier League,England,48,West Ham,52,Crystal Palace,3,4,False
+868222,2023-05-03 19:00:00,2022,Regular Season - 28,39,Premier League,England,48,West Ham,50,Manchester City,0,3,False
+868294,2023-05-07 18:00:00,2022,Regular Season - 35,39,Premier League,England,48,West Ham,33,Manchester United,1,0,True
+1022976,2023-05-11 19:00:00,2022,Semi-finals,848,UEFA Europa Conference League,World,48,West Ham,201,AZ Alkmaar,2,1,True
+868298,2023-05-14 13:00:00,2022,Regular Season - 36,39,Premier League,England,48,West Ham,55,Brentford,0,2,False
+1022977,2023-05-18 19:00:00,2022,Semi-finals,848,UEFA Europa Conference League,World,48,West Ham,201,AZ Alkmaar,1,0,False
+868314,2023-05-21 12:30:00,2022,Regular Season - 37,39,Premier League,England,48,West Ham,63,Leeds,3,1,True
+868323,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,48,West Ham,46,Leicester,1,2,False
+1027571,2023-06-07 19:00:00,2022,Final,848,UEFA Europa Conference League,World,48,West Ham,502,Fiorentina,2,1,False
+867953,2022-08-06 16:30:00,2022,Regular Season - 1,39,Premier League,England,49,Chelsea,45,Everton,1,0,False
+867960,2022-08-14 15:30:00,2022,Regular Season - 2,39,Premier League,England,49,Chelsea,47,Tottenham,2,2,True
+867970,2022-08-21 13:00:00,2022,Regular Season - 3,39,Premier League,England,49,Chelsea,63,Leeds,0,3,False
+867980,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,49,Chelsea,46,Leicester,2,1,True
+867993,2022-08-30 18:45:00,2022,Regular Season - 5,39,Premier League,England,49,Chelsea,41,Southampton,1,2,False
+867999,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,49,Chelsea,48,West Ham,2,1,True
+946849,2022-09-06 16:45:00,2022,Group E - 1,2,UEFA Champions League,World,49,Chelsea,620,Dinamo Zagreb,0,1,False
+946875,2022-09-14 19:00:00,2022,Group E - 2,2,UEFA Champions League,World,49,Chelsea,571,Red Bull Salzburg,1,1,True
+868028,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,49,Chelsea,52,Crystal Palace,2,1,False
+946891,2022-10-05 19:00:00,2022,Group E - 3,2,UEFA Champions League,World,49,Chelsea,489,AC Milan,3,0,True
+868039,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,49,Chelsea,39,Wolves,3,0,True
+946900,2022-10-11 19:00:00,2022,Group E - 4,2,UEFA Champions League,World,49,Chelsea,489,AC Milan,2,0,False
+868046,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,49,Chelsea,66,Aston Villa,2,0,False
+868058,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,49,Chelsea,55,Brentford,0,0,False
+868067,2022-10-22 16:30:00,2022,Regular Season - 13,39,Premier League,England,49,Chelsea,33,Manchester United,1,1,True
+946913,2022-10-25 16:45:00,2022,Group E - 5,2,UEFA Champions League,World,49,Chelsea,571,Red Bull Salzburg,2,1,False
+868079,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,49,Chelsea,51,Brighton,1,4,False
+946939,2022-11-02 20:00:00,2022,Group E - 6,2,UEFA Champions League,World,49,Chelsea,620,Dinamo Zagreb,2,1,True
+868087,2022-11-06 12:00:00,2022,Regular Season - 15,39,Premier League,England,49,Chelsea,42,Arsenal,0,1,True
+945939,2022-11-09 20:00:00,2022,3rd Round,48,League Cup,England,49,Chelsea,50,Manchester City,0,2,False
+868101,2022-11-12 17:30:00,2022,Regular Season - 16,39,Premier League,England,49,Chelsea,34,Newcastle,0,1,False
+868109,2022-12-27 17:30:00,2022,Regular Season - 17,39,Premier League,England,49,Chelsea,35,Bournemouth,2,0,True
+868122,2023-01-01 16:30:00,2022,Regular Season - 18,39,Premier League,England,49,Chelsea,65,Nottingham Forest,1,1,False
+868129,2023-01-05 20:00:00,2022,Regular Season - 19,39,Premier League,England,49,Chelsea,50,Manchester City,0,1,True
+976464,2023-01-08 16:30:00,2022,3rd Round,45,FA Cup,England,49,Chelsea,50,Manchester City,0,4,False
+868009,2023-01-12 20:00:00,2022,Regular Season - 7,39,Premier League,England,49,Chelsea,36,Fulham,1,2,False
+868139,2023-01-15 14:00:00,2022,Regular Season - 20,39,Premier League,England,49,Chelsea,52,Crystal Palace,1,0,True
+868152,2023-01-21 12:30:00,2022,Regular Season - 21,39,Premier League,England,49,Chelsea,40,Liverpool,0,0,False
+868159,2023-02-03 20:00:00,2022,Regular Season - 22,39,Premier League,England,49,Chelsea,36,Fulham,0,0,True
+868175,2023-02-11 12:30:00,2022,Regular Season - 23,39,Premier League,England,49,Chelsea,48,West Ham,1,1,False
+971799,2023-02-15 20:00:00,2022,Round of 16,2,UEFA Champions League,World,49,Chelsea,165,Borussia Dortmund,0,1,False
+868179,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,49,Chelsea,41,Southampton,0,1,True
+868194,2023-02-26 13:30:00,2022,Regular Season - 25,39,Premier League,England,49,Chelsea,47,Tottenham,0,2,False
+868200,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,49,Chelsea,63,Leeds,1,0,True
+971800,2023-03-07 20:00:00,2022,Round of 16,2,UEFA Champions League,World,49,Chelsea,165,Borussia Dortmund,2,0,True
+868211,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,49,Chelsea,46,Leicester,3,1,False
+868220,2023-03-18 17:30:00,2022,Regular Season - 28,39,Premier League,England,49,Chelsea,45,Everton,2,2,True
+868229,2023-04-01 16:30:00,2022,Regular Season - 29,39,Premier League,England,49,Chelsea,66,Aston Villa,0,2,True
+868019,2023-04-04 19:00:00,2022,Regular Season - 8,39,Premier League,England,49,Chelsea,40,Liverpool,0,0,True
+868245,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,49,Chelsea,39,Wolves,0,1,False
+1016059,2023-04-12 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,49,Chelsea,541,Real Madrid,0,2,False
+868247,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,49,Chelsea,51,Brighton,1,2,True
+1016060,2023-04-18 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,49,Chelsea,541,Real Madrid,0,2,True
+868273,2023-04-26 18:45:00,2022,Regular Season - 33,39,Premier League,England,49,Chelsea,55,Brentford,0,2,True
+868277,2023-05-02 19:00:00,2022,Regular Season - 34,39,Premier League,England,49,Chelsea,42,Arsenal,1,3,False
+868286,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,49,Chelsea,35,Bournemouth,3,1,False
+868299,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,49,Chelsea,65,Nottingham Forest,2,2,True
+868310,2023-05-21 15:00:00,2022,Regular Season - 37,39,Premier League,England,49,Chelsea,50,Manchester City,0,1,False
+868264,2023-05-25 19:00:00,2022,Regular Season - 32,39,Premier League,England,49,Chelsea,33,Manchester United,1,4,False
+868319,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,49,Chelsea,34,Newcastle,1,1,True
+862929,2022-07-30 16:00:00,2022,Final,528,Community Shield,England,50,Manchester City,40,Liverpool,1,3,False
+867955,2022-08-07 15:30:00,2022,Regular Season - 1,39,Premier League,England,50,Manchester City,48,West Ham,2,0,False
+867962,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,50,Manchester City,35,Bournemouth,4,0,True
+867973,2022-08-21 15:30:00,2022,Regular Season - 3,39,Premier League,England,50,Manchester City,34,Newcastle,3,3,False
+867982,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,50,Manchester City,52,Crystal Palace,4,2,True
+867995,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,50,Manchester City,65,Nottingham Forest,6,0,True
+867996,2022-09-03 16:30:00,2022,Regular Season - 6,39,Premier League,England,50,Manchester City,66,Aston Villa,1,1,False
+946854,2022-09-06 19:00:00,2022,Group G - 1,2,UEFA Champions League,World,50,Manchester City,536,Sevilla,4,0,False
+946877,2022-09-14 19:00:00,2022,Group G - 2,2,UEFA Champions League,World,50,Manchester City,165,Borussia Dortmund,2,1,True
+868025,2022-09-17 11:30:00,2022,Regular Season - 8,39,Premier League,England,50,Manchester City,39,Wolves,3,0,False
+868033,2022-10-02 13:00:00,2022,Regular Season - 9,39,Premier League,England,50,Manchester City,33,Manchester United,6,3,True
+946893,2022-10-05 19:00:00,2022,Group G - 3,2,UEFA Champions League,World,50,Manchester City,400,FC Copenhagen,5,0,True
+868042,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,50,Manchester City,41,Southampton,4,0,True
+946897,2022-10-11 16:45:00,2022,Group G - 4,2,UEFA Champions League,World,50,Manchester City,400,FC Copenhagen,0,0,False
+868051,2022-10-16 15:30:00,2022,Regular Season - 11,39,Premier League,England,50,Manchester City,40,Liverpool,0,1,False
+868070,2022-10-22 14:00:00,2022,Regular Season - 13,39,Premier League,England,50,Manchester City,51,Brighton,3,1,True
+946918,2022-10-25 19:00:00,2022,Group G - 5,2,UEFA Champions League,World,50,Manchester City,165,Borussia Dortmund,0,0,False
+868082,2022-10-29 11:30:00,2022,Regular Season - 14,39,Premier League,England,50,Manchester City,46,Leicester,1,0,False
+946941,2022-11-02 20:00:00,2022,Group G - 6,2,UEFA Champions League,World,50,Manchester City,536,Sevilla,3,1,True
+868090,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,50,Manchester City,36,Fulham,2,1,True
+945939,2022-11-09 20:00:00,2022,3rd Round,48,League Cup,England,50,Manchester City,49,Chelsea,2,0,True
+868100,2022-11-12 12:30:00,2022,Regular Season - 16,39,Premier League,England,50,Manchester City,55,Brentford,1,2,True
+972362,2022-12-22 20:00:00,2022,Round of 16,48,League Cup,England,50,Manchester City,40,Liverpool,3,2,True
+868112,2022-12-28 20:00:00,2022,Regular Season - 17,39,Premier League,England,50,Manchester City,63,Leeds,3,1,False
+868120,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,50,Manchester City,45,Everton,1,1,True
+868129,2023-01-05 20:00:00,2022,Regular Season - 19,39,Premier League,England,50,Manchester City,49,Chelsea,1,0,False
+976464,2023-01-08 16:30:00,2022,3rd Round,45,FA Cup,England,50,Manchester City,49,Chelsea,4,0,True
+981787,2023-01-11 20:00:00,2022,Quarter-finals,48,League Cup,England,50,Manchester City,41,Southampton,0,2,False
+868141,2023-01-14 12:30:00,2022,Regular Season - 20,39,Premier League,England,50,Manchester City,33,Manchester United,1,2,False
+868013,2023-01-19 20:00:00,2022,Regular Season - 7,39,Premier League,England,50,Manchester City,47,Tottenham,4,2,True
+868153,2023-01-22 14:00:00,2022,Regular Season - 21,39,Premier League,England,50,Manchester City,39,Wolves,3,0,True
+986497,2023-01-27 20:00:00,2022,4th Round,45,FA Cup,England,50,Manchester City,42,Arsenal,1,0,True
+868164,2023-02-05 16:30:00,2022,Regular Season - 22,39,Premier League,England,50,Manchester City,47,Tottenham,0,1,False
+868173,2023-02-12 16:30:00,2022,Regular Season - 23,39,Premier League,England,50,Manchester City,66,Aston Villa,3,1,True
+868057,2023-02-15 19:30:00,2022,Regular Season - 12,39,Premier League,England,50,Manchester City,42,Arsenal,3,1,False
+868183,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,50,Manchester City,65,Nottingham Forest,1,1,False
+971805,2023-02-22 20:00:00,2022,Round of 16,2,UEFA Champions League,World,50,Manchester City,173,RB Leipzig,1,1,False
+868186,2023-02-25 17:30:00,2022,Regular Season - 25,39,Premier League,England,50,Manchester City,35,Bournemouth,4,1,False
+997625,2023-02-28 20:00:00,2022,5th Round,45,FA Cup,England,50,Manchester City,56,Bristol City,3,0,False
+868202,2023-03-04 12:30:00,2022,Regular Season - 26,39,Premier League,England,50,Manchester City,34,Newcastle,2,0,True
+868207,2023-03-11 17:30:00,2022,Regular Season - 27,39,Premier League,England,50,Manchester City,52,Crystal Palace,1,0,False
+971806,2023-03-14 20:00:00,2022,Round of 16,2,UEFA Champions League,World,50,Manchester City,173,RB Leipzig,7,0,True
+1011478,2023-03-18 17:45:00,2022,Quarter-finals,45,FA Cup,England,50,Manchester City,44,Burnley,6,0,True
+868232,2023-04-01 11:30:00,2022,Regular Season - 29,39,Premier League,England,50,Manchester City,40,Liverpool,4,1,True
+868243,2023-04-08 16:30:00,2022,Regular Season - 30,39,Premier League,England,50,Manchester City,41,Southampton,4,1,False
+1016057,2023-04-11 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,50,Manchester City,157,Bayern Munich,3,0,True
+868250,2023-04-15 16:30:00,2022,Regular Season - 31,39,Premier League,England,50,Manchester City,46,Leicester,3,1,True
+1016058,2023-04-19 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,50,Manchester City,157,Bayern Munich,1,1,False
+1017112,2023-04-22 15:45:00,2022,Semi-finals,45,FA Cup,England,50,Manchester City,62,Sheffield Utd,3,0,True
+868275,2023-04-26 19:00:00,2022,Regular Season - 33,39,Premier League,England,50,Manchester City,42,Arsenal,4,1,True
+868281,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,50,Manchester City,36,Fulham,2,1,False
+868222,2023-05-03 19:00:00,2022,Regular Season - 28,39,Premier League,England,50,Manchester City,48,West Ham,3,0,True
+868290,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,50,Manchester City,63,Leeds,2,1,True
+1022981,2023-05-09 19:00:00,2022,Semi-finals,2,UEFA Champions League,World,50,Manchester City,541,Real Madrid,1,1,False
+868301,2023-05-14 13:00:00,2022,Regular Season - 36,39,Premier League,England,50,Manchester City,45,Everton,3,0,False
+1022982,2023-05-17 19:00:00,2022,Semi-finals,2,UEFA Champions League,World,50,Manchester City,541,Real Madrid,4,0,True
+868310,2023-05-21 15:00:00,2022,Regular Season - 37,39,Premier League,England,50,Manchester City,49,Chelsea,1,0,True
+868259,2023-05-24 19:00:00,2022,Regular Season - 32,39,Premier League,England,50,Manchester City,51,Brighton,1,1,False
+868318,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,50,Manchester City,55,Brentford,0,1,False
+1023277,2023-06-03 14:00:00,2022,Final,45,FA Cup,England,50,Manchester City,33,Manchester United,2,1,True
+1027909,2023-06-10 19:00:00,2022,Final,2,UEFA Champions League,World,50,Manchester City,505,Inter,1,0,True
+867954,2022-08-07 13:00:00,2022,Regular Season - 1,39,Premier League,England,51,Brighton,33,Manchester United,2,1,False
+867959,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,51,Brighton,34,Newcastle,0,0,True
+867975,2022-08-21 13:00:00,2022,Regular Season - 3,39,Premier League,England,51,Brighton,48,West Ham,2,0,False
+933642,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,51,Brighton,1378,Forest Green,3,0,False
+867979,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,51,Brighton,63,Leeds,1,0,True
+867988,2022-08-30 18:30:00,2022,Regular Season - 5,39,Premier League,England,51,Brighton,36,Fulham,1,2,False
+867998,2022-09-04 13:00:00,2022,Regular Season - 6,39,Premier League,England,51,Brighton,46,Leicester,5,2,True
+868032,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,51,Brighton,40,Liverpool,3,3,False
+868038,2022-10-08 16:30:00,2022,Regular Season - 10,39,Premier League,England,51,Brighton,47,Tottenham,0,1,True
+868047,2022-10-14 19:00:00,2022,Regular Season - 11,39,Premier League,England,51,Brighton,55,Brentford,0,2,False
+868059,2022-10-18 18:30:00,2022,Regular Season - 12,39,Premier League,England,51,Brighton,65,Nottingham Forest,0,0,True
+868070,2022-10-22 14:00:00,2022,Regular Season - 13,39,Premier League,England,51,Brighton,50,Manchester City,1,3,False
+868079,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,51,Brighton,49,Chelsea,4,1,True
+868095,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,51,Brighton,39,Wolves,3,2,False
+945944,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,51,Brighton,42,Arsenal,3,1,False
+868097,2022-11-13 14:00:00,2022,Regular Season - 16,39,Premier League,England,51,Brighton,66,Aston Villa,1,2,True
+868115,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,51,Brighton,41,Southampton,3,1,False
+868117,2022-12-31 17:30:00,2022,Regular Season - 18,39,Premier League,England,51,Brighton,42,Arsenal,2,4,True
+868131,2023-01-03 19:45:00,2022,Regular Season - 19,39,Premier League,England,51,Brighton,45,Everton,4,1,False
+976462,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,51,Brighton,70,Middlesbrough,5,1,False
+868138,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,51,Brighton,40,Liverpool,3,0,True
+868151,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,51,Brighton,46,Leicester,2,2,False
+990835,2023-01-29 13:30:00,2022,4th Round,45,FA Cup,England,51,Brighton,40,Liverpool,2,1,True
+868158,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,51,Brighton,35,Bournemouth,1,0,True
+868168,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,51,Brighton,52,Crystal Palace,1,1,False
+868178,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,51,Brighton,36,Fulham,0,1,True
+997624,2023-02-28 19:15:00,2022,5th Round,45,FA Cup,England,51,Brighton,75,Stoke City,1,0,False
+868199,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,51,Brighton,48,West Ham,4,0,True
+868210,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,51,Brighton,63,Leeds,2,2,False
+868018,2023-03-15 19:30:00,2022,Regular Season - 8,39,Premier League,England,51,Brighton,52,Crystal Palace,1,0,True
+1011480,2023-03-19 14:15:00,2022,Quarter-finals,45,FA Cup,England,51,Brighton,1365,Grimsby,5,0,True
+868228,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,51,Brighton,55,Brentford,3,3,True
+868006,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,51,Brighton,35,Bournemouth,2,0,False
+868244,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,51,Brighton,47,Tottenham,1,2,False
+868247,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,51,Brighton,49,Chelsea,2,1,False
+868268,2023-04-26 18:30:00,2022,Regular Season - 33,39,Premier League,England,51,Brighton,65,Nottingham Forest,1,3,False
+868279,2023-04-29 14:00:00,2022,Regular Season - 34,39,Premier League,England,51,Brighton,39,Wolves,6,0,True
+868219,2023-05-04 19:00:00,2022,Regular Season - 28,39,Premier League,England,51,Brighton,33,Manchester United,1,0,True
+868287,2023-05-08 16:30:00,2022,Regular Season - 35,39,Premier League,England,51,Brighton,45,Everton,1,5,True
+868296,2023-05-14 15:30:00,2022,Regular Season - 36,39,Premier League,England,51,Brighton,42,Arsenal,3,0,False
+868193,2023-05-18 18:30:00,2022,Regular Season - 25,39,Premier League,England,51,Brighton,34,Newcastle,1,4,False
+868307,2023-05-21 13:00:00,2022,Regular Season - 37,39,Premier League,England,51,Brighton,41,Southampton,3,1,True
+868259,2023-05-24 19:00:00,2022,Regular Season - 32,39,Premier League,England,51,Brighton,50,Manchester City,1,1,True
+868317,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,51,Brighton,66,Aston Villa,1,2,False
+867946,2022-08-05 19:00:00,2022,Regular Season - 1,39,Premier League,England,52,Crystal Palace,42,Arsenal,0,2,True
+867961,2022-08-15 19:00:00,2022,Regular Season - 2,39,Premier League,England,52,Crystal Palace,40,Liverpool,1,1,False
+867967,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,52,Crystal Palace,66,Aston Villa,3,1,True
+933634,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,52,Crystal Palace,1338,Oxford United,2,0,False
+867982,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,52,Crystal Palace,50,Manchester City,2,4,False
+867992,2022-08-30 18:30:00,2022,Regular Season - 5,39,Premier League,England,52,Crystal Palace,55,Brentford,1,1,True
+868002,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,52,Crystal Palace,34,Newcastle,0,0,False
+868028,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,52,Crystal Palace,49,Chelsea,1,2,True
+868040,2022-10-09 13:00:00,2022,Regular Season - 10,39,Premier League,England,52,Crystal Palace,63,Leeds,2,1,True
+868050,2022-10-15 11:30:00,2022,Regular Season - 11,39,Premier League,England,52,Crystal Palace,46,Leicester,0,0,False
+868062,2022-10-18 19:15:00,2022,Regular Season - 12,39,Premier League,England,52,Crystal Palace,39,Wolves,2,1,True
+868068,2022-10-22 14:00:00,2022,Regular Season - 13,39,Premier League,England,52,Crystal Palace,45,Everton,0,3,False
+868080,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,52,Crystal Palace,41,Southampton,1,0,True
+868094,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,52,Crystal Palace,48,West Ham,2,1,False
+868102,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,52,Crystal Palace,65,Nottingham Forest,0,1,False
+868110,2022-12-26 15:00:00,2022,Regular Season - 17,39,Premier League,England,52,Crystal Palace,36,Fulham,0,3,True
+868116,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,52,Crystal Palace,35,Bournemouth,2,0,False
+868130,2023-01-04 20:00:00,2022,Regular Season - 19,39,Premier League,England,52,Crystal Palace,47,Tottenham,0,4,True
+976484,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,52,Crystal Palace,41,Southampton,1,2,True
+868139,2023-01-15 14:00:00,2022,Regular Season - 20,39,Premier League,England,52,Crystal Palace,49,Chelsea,0,1,False
+868008,2023-01-18 20:00:00,2022,Regular Season - 7,39,Premier League,England,52,Crystal Palace,33,Manchester United,1,1,True
+868148,2023-01-21 17:30:00,2022,Regular Season - 21,39,Premier League,England,52,Crystal Palace,34,Newcastle,0,0,True
+868161,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,52,Crystal Palace,33,Manchester United,1,2,False
+868168,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,52,Crystal Palace,51,Brighton,1,1,True
+868177,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,52,Crystal Palace,55,Brentford,1,1,False
+868187,2023-02-25 19:45:00,2022,Regular Season - 25,39,Premier League,England,52,Crystal Palace,40,Liverpool,0,0,True
+868197,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,52,Crystal Palace,66,Aston Villa,0,1,False
+868207,2023-03-11 17:30:00,2022,Regular Season - 27,39,Premier League,England,52,Crystal Palace,50,Manchester City,0,1,True
+868018,2023-03-15 19:30:00,2022,Regular Season - 8,39,Premier League,England,52,Crystal Palace,51,Brighton,0,1,False
+868216,2023-03-19 14:00:00,2022,Regular Season - 28,39,Premier League,England,52,Crystal Palace,42,Arsenal,1,4,False
+868230,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,52,Crystal Palace,46,Leicester,2,1,True
+868239,2023-04-09 13:00:00,2022,Regular Season - 30,39,Premier League,England,52,Crystal Palace,63,Leeds,5,1,False
+868252,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,52,Crystal Palace,41,Southampton,2,0,False
+868260,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,52,Crystal Palace,45,Everton,0,0,True
+868271,2023-04-25 18:30:00,2022,Regular Season - 33,39,Premier League,England,52,Crystal Palace,39,Wolves,0,2,False
+868280,2023-04-29 11:30:00,2022,Regular Season - 34,39,Premier League,England,52,Crystal Palace,48,West Ham,4,3,True
+868293,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,52,Crystal Palace,47,Tottenham,0,1,False
+868300,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,52,Crystal Palace,35,Bournemouth,2,0,True
+868308,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,52,Crystal Palace,36,Fulham,2,2,False
+868320,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,52,Crystal Palace,65,Nottingham Forest,1,1,True
+986110,2023-01-28 20:00:00,2022,4th Round,45,FA Cup,England,53,Reading,33,Manchester United,1,3,False
+867950,2022-08-07 13:00:00,2022,Regular Season - 1,39,Premier League,England,55,Brentford,46,Leicester,2,2,False
+867958,2022-08-13 16:30:00,2022,Regular Season - 2,39,Premier League,England,55,Brentford,33,Manchester United,4,0,True
+867969,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,55,Brentford,36,Fulham,2,3,False
+933636,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,55,Brentford,1361,Colchester,2,0,False
+867978,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,55,Brentford,45,Everton,1,1,True
+867992,2022-08-30 18:30:00,2022,Regular Season - 5,39,Premier League,England,55,Brentford,52,Crystal Palace,1,1,False
+867997,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,55,Brentford,63,Leeds,5,2,True
+868017,2022-09-18 11:00:00,2022,Regular Season - 8,39,Premier League,England,55,Brentford,42,Arsenal,0,3,True
+868026,2022-10-01 14:00:00,2022,Regular Season - 9,39,Premier League,England,55,Brentford,35,Bournemouth,0,0,False
+868043,2022-10-08 14:00:00,2022,Regular Season - 10,39,Premier League,England,55,Brentford,34,Newcastle,1,5,False
+868047,2022-10-14 19:00:00,2022,Regular Season - 11,39,Premier League,England,55,Brentford,51,Brighton,2,0,True
+868058,2022-10-19 18:30:00,2022,Regular Season - 12,39,Premier League,England,55,Brentford,49,Chelsea,0,0,True
+868066,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,55,Brentford,66,Aston Villa,0,4,False
+868078,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,55,Brentford,39,Wolves,1,1,True
+868091,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,55,Brentford,65,Nottingham Forest,2,2,False
+868100,2022-11-12 12:30:00,2022,Regular Season - 16,39,Premier League,England,55,Brentford,50,Manchester City,2,1,False
+868108,2022-12-26 12:30:00,2022,Regular Season - 17,39,Premier League,England,55,Brentford,47,Tottenham,2,2,True
+868124,2022-12-30 19:45:00,2022,Regular Season - 18,39,Premier League,England,55,Brentford,48,West Ham,2,0,False
+868128,2023-01-02 17:30:00,2022,Regular Season - 19,39,Premier League,England,55,Brentford,40,Liverpool,3,1,True
+976469,2023-01-07 17:30:00,2022,3rd Round,45,FA Cup,England,55,Brentford,48,West Ham,0,1,True
+868137,2023-01-14 17:30:00,2022,Regular Season - 20,39,Premier League,England,55,Brentford,35,Bournemouth,2,0,True
+868150,2023-01-22 14:00:00,2022,Regular Season - 21,39,Premier League,England,55,Brentford,63,Leeds,0,0,False
+868157,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,55,Brentford,41,Southampton,3,0,True
+868167,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,55,Brentford,42,Arsenal,1,1,False
+868177,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,55,Brentford,52,Crystal Palace,1,1,True
+868198,2023-03-06 20:00:00,2022,Regular Season - 26,39,Premier League,England,55,Brentford,36,Fulham,3,2,True
+868208,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,55,Brentford,45,Everton,0,1,False
+868014,2023-03-15 19:30:00,2022,Regular Season - 7,39,Premier League,England,55,Brentford,41,Southampton,2,0,False
+868218,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,55,Brentford,46,Leicester,1,1,True
+868228,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,55,Brentford,51,Brighton,3,3,False
+868192,2023-04-05 19:00:00,2022,Regular Season - 25,39,Premier League,England,55,Brentford,33,Manchester United,0,1,False
+868237,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,55,Brentford,34,Newcastle,1,2,True
+868255,2023-04-15 14:00:00,2022,Regular Season - 31,39,Premier League,England,55,Brentford,39,Wolves,0,2,False
+868258,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,55,Brentford,66,Aston Villa,1,1,True
+868273,2023-04-26 18:45:00,2022,Regular Season - 33,39,Premier League,England,55,Brentford,49,Chelsea,2,0,False
+868278,2023-04-29 14:00:00,2022,Regular Season - 34,39,Premier League,England,55,Brentford,65,Nottingham Forest,2,1,True
+868289,2023-05-06 16:30:00,2022,Regular Season - 35,39,Premier League,England,55,Brentford,40,Liverpool,0,1,False
+868298,2023-05-14 13:00:00,2022,Regular Season - 36,39,Premier League,England,55,Brentford,48,West Ham,2,0,True
+868313,2023-05-20 11:30:00,2022,Regular Season - 37,39,Premier League,England,55,Brentford,47,Tottenham,3,1,False
+868318,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,55,Brentford,50,Manchester City,1,0,True
+997625,2023-02-28 20:00:00,2022,5th Round,45,FA Cup,England,56,Bristol City,50,Manchester City,0,3,True
+933620,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,59,Preston,39,Wolves,1,2,False
+986108,2023-01-28 18:00:00,2022,4th Round,45,FA Cup,England,59,Preston,47,Tottenham,0,3,True
+1004841,2023-03-01 19:55:00,2022,5th Round,45,FA Cup,England,62,Sheffield Utd,47,Tottenham,1,0,True
+1017112,2023-04-22 15:45:00,2022,Semi-finals,45,FA Cup,England,62,Sheffield Utd,50,Manchester City,0,3,False
+867949,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,63,Leeds,39,Wolves,2,1,True
+867964,2022-08-13 14:00:00,2022,Regular Season - 2,39,Premier League,England,63,Leeds,41,Southampton,2,2,False
+867970,2022-08-21 13:00:00,2022,Regular Season - 3,39,Premier League,England,63,Leeds,49,Chelsea,3,0,True
+933621,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,63,Leeds,747,Barnsley,3,1,True
+867979,2022-08-27 14:00:00,2022,Regular Season - 4,39,Premier League,England,63,Leeds,51,Brighton,0,1,False
+867989,2022-08-30 19:00:00,2022,Regular Season - 5,39,Premier League,England,63,Leeds,45,Everton,1,1,True
+867997,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,63,Leeds,55,Brentford,2,5,False
+868030,2022-10-02 15:30:00,2022,Regular Season - 9,39,Premier League,England,63,Leeds,66,Aston Villa,0,0,True
+868040,2022-10-09 13:00:00,2022,Regular Season - 10,39,Premier League,England,63,Leeds,52,Crystal Palace,1,2,False
+868049,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,63,Leeds,42,Arsenal,0,1,True
+868061,2022-10-20 19:15:00,2022,Regular Season - 12,39,Premier League,England,63,Leeds,46,Leicester,0,2,False
+868069,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,63,Leeds,36,Fulham,2,3,True
+868083,2022-10-29 18:45:00,2022,Regular Season - 14,39,Premier League,England,63,Leeds,40,Liverpool,2,1,False
+868089,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,63,Leeds,35,Bournemouth,4,3,True
+945932,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,63,Leeds,39,Wolves,0,1,False
+868103,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,63,Leeds,47,Tottenham,3,4,False
+868112,2022-12-28 20:00:00,2022,Regular Season - 17,39,Premier League,England,63,Leeds,50,Manchester City,1,3,True
+868121,2022-12-31 15:00:00,2022,Regular Season - 18,39,Premier League,England,63,Leeds,34,Newcastle,0,0,False
+868132,2023-01-04 19:45:00,2022,Regular Season - 19,39,Premier League,England,63,Leeds,48,West Ham,2,2,True
+976468,2023-01-08 14:00:00,2022,3rd Round,45,FA Cup,England,63,Leeds,43,Cardiff,2,2,False
+868136,2023-01-13 20:00:00,2022,Regular Season - 20,39,Premier League,England,63,Leeds,66,Aston Villa,1,2,False
+986120,2023-01-18 19:45:00,2022,3rd Round Replays,45,FA Cup,England,63,Leeds,43,Cardiff,5,2,True
+868150,2023-01-22 14:00:00,2022,Regular Season - 21,39,Premier League,England,63,Leeds,55,Brentford,0,0,True
+994591,2023-01-28 12:30:00,2022,4th Round,45,FA Cup,England,63,Leeds,1360,Accrington ST,3,1,False
+868163,2023-02-05 14:00:00,2022,Regular Season - 22,39,Premier League,England,63,Leeds,65,Nottingham Forest,0,1,False
+868021,2023-02-08 20:00:00,2022,Regular Season - 8,39,Premier League,England,63,Leeds,33,Manchester United,2,2,False
+868170,2023-02-12 14:00:00,2022,Regular Season - 23,39,Premier League,England,63,Leeds,33,Manchester United,0,2,True
+868180,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,63,Leeds,45,Everton,0,1,False
+868190,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,63,Leeds,41,Southampton,1,0,True
+1004838,2023-02-28 19:45:00,2022,5th Round,45,FA Cup,England,63,Leeds,36,Fulham,0,2,False
+868200,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,63,Leeds,49,Chelsea,0,1,False
+868210,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,63,Leeds,51,Brighton,2,2,True
+868225,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,63,Leeds,39,Wolves,4,2,False
+868227,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,63,Leeds,42,Arsenal,1,4,False
+868010,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,63,Leeds,65,Nottingham Forest,2,1,True
+868239,2023-04-09 13:00:00,2022,Regular Season - 30,39,Premier League,England,63,Leeds,52,Crystal Palace,1,5,True
+868249,2023-04-17 19:00:00,2022,Regular Season - 31,39,Premier League,England,63,Leeds,40,Liverpool,1,6,True
+868261,2023-04-22 11:30:00,2022,Regular Season - 32,39,Premier League,England,63,Leeds,36,Fulham,1,2,False
+868267,2023-04-25 19:00:00,2022,Regular Season - 33,39,Premier League,England,63,Leeds,46,Leicester,1,1,True
+868276,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,63,Leeds,35,Bournemouth,1,4,False
+868290,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,63,Leeds,50,Manchester City,1,2,False
+868302,2023-05-13 11:30:00,2022,Regular Season - 36,39,Premier League,England,63,Leeds,34,Newcastle,2,2,True
+868314,2023-05-21 12:30:00,2022,Regular Season - 37,39,Premier League,England,63,Leeds,48,West Ham,1,3,False
+868322,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,63,Leeds,47,Tottenham,1,4,True
+976483,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,64,Hull City,36,Fulham,0,2,True
+867951,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,65,Nottingham Forest,34,Newcastle,0,2,False
+867963,2022-08-14 13:00:00,2022,Regular Season - 2,39,Premier League,England,65,Nottingham Forest,48,West Ham,1,0,True
+867968,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,65,Nottingham Forest,45,Everton,1,1,False
+933629,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,65,Nottingham Forest,1365,Grimsby,3,0,False
+867983,2022-08-28 15:30:00,2022,Regular Season - 4,39,Premier League,England,65,Nottingham Forest,47,Tottenham,0,2,True
+867995,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,65,Nottingham Forest,50,Manchester City,0,6,False
+868003,2022-09-03 14:00:00,2022,Regular Season - 6,39,Premier League,England,65,Nottingham Forest,35,Bournemouth,2,3,True
+868023,2022-09-16 19:00:00,2022,Regular Season - 8,39,Premier League,England,65,Nottingham Forest,36,Fulham,2,3,True
+868031,2022-10-03 19:00:00,2022,Regular Season - 9,39,Premier League,England,65,Nottingham Forest,46,Leicester,0,4,False
+868044,2022-10-10 19:00:00,2022,Regular Season - 10,39,Premier League,England,65,Nottingham Forest,66,Aston Villa,1,1,True
+868055,2022-10-15 14:00:00,2022,Regular Season - 11,39,Premier League,England,65,Nottingham Forest,39,Wolves,0,1,False
+868059,2022-10-18 18:30:00,2022,Regular Season - 12,39,Premier League,England,65,Nottingham Forest,51,Brighton,0,0,False
+868071,2022-10-22 11:30:00,2022,Regular Season - 13,39,Premier League,England,65,Nottingham Forest,40,Liverpool,1,0,True
+868077,2022-10-30 14:00:00,2022,Regular Season - 14,39,Premier League,England,65,Nottingham Forest,42,Arsenal,0,5,False
+868091,2022-11-05 15:00:00,2022,Regular Season - 15,39,Premier League,England,65,Nottingham Forest,55,Brentford,2,2,True
+945933,2022-11-09 19:45:00,2022,3rd Round,48,League Cup,England,65,Nottingham Forest,47,Tottenham,2,0,True
+868102,2022-11-12 15:00:00,2022,Regular Season - 16,39,Premier League,England,65,Nottingham Forest,52,Crystal Palace,1,0,True
+972360,2022-12-21 19:45:00,2022,Round of 16,48,League Cup,England,65,Nottingham Forest,67,Blackburn,4,1,False
+868114,2022-12-27 20:00:00,2022,Regular Season - 17,39,Premier League,England,65,Nottingham Forest,33,Manchester United,0,3,False
+868122,2023-01-01 16:30:00,2022,Regular Season - 18,39,Premier League,England,65,Nottingham Forest,49,Chelsea,1,1,True
+868135,2023-01-04 19:30:00,2022,Regular Season - 19,39,Premier League,England,65,Nottingham Forest,41,Southampton,1,0,False
+976479,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,65,Nottingham Forest,1356,Blackpool,1,4,False
+868143,2023-01-14 15:00:00,2022,Regular Season - 20,39,Premier League,England,65,Nottingham Forest,46,Leicester,2,0,True
+868146,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,65,Nottingham Forest,35,Bournemouth,1,1,False
+986795,2023-01-25 20:00:00,2022,Semi-finals,48,League Cup,England,65,Nottingham Forest,33,Manchester United,0,3,True
+986796,2023-02-01 20:00:00,2022,Semi-finals,48,League Cup,England,65,Nottingham Forest,33,Manchester United,0,2,False
+868163,2023-02-05 14:00:00,2022,Regular Season - 22,39,Premier League,England,65,Nottingham Forest,63,Leeds,1,0,True
+868169,2023-02-11 15:00:00,2022,Regular Season - 23,39,Premier League,England,65,Nottingham Forest,36,Fulham,0,2,False
+868183,2023-02-18 15:00:00,2022,Regular Season - 24,39,Premier League,England,65,Nottingham Forest,50,Manchester City,1,1,True
+868195,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,65,Nottingham Forest,48,West Ham,0,4,False
+868203,2023-03-05 14:00:00,2022,Regular Season - 26,39,Premier League,England,65,Nottingham Forest,45,Everton,2,2,True
+868214,2023-03-11 15:00:00,2022,Regular Season - 27,39,Premier League,England,65,Nottingham Forest,47,Tottenham,1,3,False
+868223,2023-03-17 20:00:00,2022,Regular Season - 28,39,Premier League,England,65,Nottingham Forest,34,Newcastle,1,2,True
+868234,2023-04-01 14:00:00,2022,Regular Season - 29,39,Premier League,England,65,Nottingham Forest,39,Wolves,1,1,True
+868010,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,65,Nottingham Forest,63,Leeds,1,2,False
+868236,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,65,Nottingham Forest,66,Aston Villa,0,2,False
+868251,2023-04-16 15:30:00,2022,Regular Season - 31,39,Premier League,England,65,Nottingham Forest,33,Manchester United,0,2,True
+868263,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,65,Nottingham Forest,40,Liverpool,2,3,False
+868268,2023-04-26 18:30:00,2022,Regular Season - 33,39,Premier League,England,65,Nottingham Forest,51,Brighton,3,1,True
+868278,2023-04-29 14:00:00,2022,Regular Season - 34,39,Premier League,England,65,Nottingham Forest,55,Brentford,1,2,False
+868292,2023-05-08 19:00:00,2022,Regular Season - 35,39,Premier League,England,65,Nottingham Forest,41,Southampton,4,3,True
+868299,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,65,Nottingham Forest,49,Chelsea,2,2,False
+868312,2023-05-20 16:30:00,2022,Regular Season - 37,39,Premier League,England,65,Nottingham Forest,42,Arsenal,1,0,True
+868320,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,65,Nottingham Forest,52,Crystal Palace,1,1,False
+867948,2022-08-06 14:00:00,2022,Regular Season - 1,39,Premier League,England,66,Aston Villa,35,Bournemouth,0,2,False
+867957,2022-08-13 11:30:00,2022,Regular Season - 2,39,Premier League,England,66,Aston Villa,45,Everton,2,1,True
+867967,2022-08-20 14:00:00,2022,Regular Season - 3,39,Premier League,England,66,Aston Villa,52,Crystal Palace,1,3,False
+933619,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,66,Aston Villa,68,Bolton,4,1,False
+867977,2022-08-28 13:00:00,2022,Regular Season - 4,39,Premier League,England,66,Aston Villa,48,West Ham,0,1,True
+867987,2022-08-31 18:30:00,2022,Regular Season - 5,39,Premier League,England,66,Aston Villa,42,Arsenal,1,2,False
+867996,2022-09-03 16:30:00,2022,Regular Season - 6,39,Premier League,England,66,Aston Villa,50,Manchester City,1,1,True
+868016,2022-09-16 19:00:00,2022,Regular Season - 8,39,Premier League,England,66,Aston Villa,41,Southampton,1,0,True
+868030,2022-10-02 15:30:00,2022,Regular Season - 9,39,Premier League,England,66,Aston Villa,63,Leeds,0,0,False
+868044,2022-10-10 19:00:00,2022,Regular Season - 10,39,Premier League,England,66,Aston Villa,65,Nottingham Forest,1,1,False
+868046,2022-10-16 13:00:00,2022,Regular Season - 11,39,Premier League,England,66,Aston Villa,49,Chelsea,0,2,True
+868060,2022-10-20 18:30:00,2022,Regular Season - 12,39,Premier League,England,66,Aston Villa,36,Fulham,0,3,False
+868066,2022-10-23 13:00:00,2022,Regular Season - 13,39,Premier League,England,66,Aston Villa,55,Brentford,4,0,True
+868085,2022-10-29 14:00:00,2022,Regular Season - 14,39,Premier League,England,66,Aston Villa,34,Newcastle,0,4,False
+868086,2022-11-06 14:00:00,2022,Regular Season - 15,39,Premier League,England,66,Aston Villa,33,Manchester United,3,1,True
+945934,2022-11-10 20:00:00,2022,3rd Round,48,League Cup,England,66,Aston Villa,33,Manchester United,2,4,False
+868097,2022-11-13 14:00:00,2022,Regular Season - 16,39,Premier League,England,66,Aston Villa,51,Brighton,2,1,False
+868107,2022-12-26 17:30:00,2022,Regular Season - 17,39,Premier League,England,66,Aston Villa,40,Liverpool,1,3,True
+868123,2023-01-01 14:00:00,2022,Regular Season - 18,39,Premier League,England,66,Aston Villa,47,Tottenham,2,0,False
+868127,2023-01-04 20:00:00,2022,Regular Season - 19,39,Premier League,England,66,Aston Villa,39,Wolves,1,1,True
+976473,2023-01-08 16:30:00,2022,3rd Round,45,FA Cup,England,66,Aston Villa,1368,Stevenage,1,2,True
+868136,2023-01-13 20:00:00,2022,Regular Season - 20,39,Premier League,England,66,Aston Villa,63,Leeds,2,1,True
+868154,2023-01-21 15:00:00,2022,Regular Season - 21,39,Premier League,England,66,Aston Villa,41,Southampton,1,0,False
+868156,2023-02-04 15:00:00,2022,Regular Season - 22,39,Premier League,England,66,Aston Villa,46,Leicester,2,4,True
+868173,2023-02-12 16:30:00,2022,Regular Season - 23,39,Premier League,England,66,Aston Villa,50,Manchester City,1,3,False
+868176,2023-02-18 12:30:00,2022,Regular Season - 24,39,Premier League,England,66,Aston Villa,42,Arsenal,2,4,True
+868188,2023-02-25 15:00:00,2022,Regular Season - 25,39,Premier League,England,66,Aston Villa,45,Everton,2,0,False
+868197,2023-03-04 15:00:00,2022,Regular Season - 26,39,Premier League,England,66,Aston Villa,52,Crystal Palace,1,0,True
+868215,2023-03-12 14:00:00,2022,Regular Season - 27,39,Premier League,England,66,Aston Villa,48,West Ham,1,1,False
+868217,2023-03-18 15:00:00,2022,Regular Season - 28,39,Premier League,England,66,Aston Villa,35,Bournemouth,3,0,True
+868229,2023-04-01 16:30:00,2022,Regular Season - 29,39,Premier League,England,66,Aston Villa,49,Chelsea,2,0,False
+868011,2023-04-04 18:45:00,2022,Regular Season - 7,39,Premier League,England,66,Aston Villa,46,Leicester,2,1,False
+868236,2023-04-08 14:00:00,2022,Regular Season - 30,39,Premier League,England,66,Aston Villa,65,Nottingham Forest,2,0,True
+868246,2023-04-15 11:30:00,2022,Regular Season - 31,39,Premier League,England,66,Aston Villa,34,Newcastle,3,0,True
+868258,2023-04-22 14:00:00,2022,Regular Season - 32,39,Premier League,England,66,Aston Villa,55,Brentford,1,1,False
+868272,2023-04-25 18:45:00,2022,Regular Season - 33,39,Premier League,England,66,Aston Villa,36,Fulham,1,0,True
+868284,2023-04-30 13:00:00,2022,Regular Season - 34,39,Premier League,England,66,Aston Villa,33,Manchester United,0,1,False
+868295,2023-05-06 14:00:00,2022,Regular Season - 35,39,Premier League,England,66,Aston Villa,39,Wolves,0,1,False
+868297,2023-05-13 14:00:00,2022,Regular Season - 36,39,Premier League,England,66,Aston Villa,47,Tottenham,2,1,True
+868309,2023-05-20 14:00:00,2022,Regular Season - 37,39,Premier League,England,66,Aston Villa,40,Liverpool,1,1,False
+868317,2023-05-28 15:30:00,2022,Regular Season - 38,39,Premier League,England,66,Aston Villa,51,Brighton,2,1,True
+972360,2022-12-21 19:45:00,2022,Round of 16,48,League Cup,England,67,Blackburn,65,Nottingham Forest,1,4,True
+997988,2023-02-28 19:30:00,2022,5th Round,45,FA Cup,England,67,Blackburn,46,Leicester,2,1,False
+933619,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,68,Bolton,66,Aston Villa,1,4,True
+986111,2023-01-30 19:45:00,2022,4th Round,45,FA Cup,England,69,Derby,48,West Ham,0,2,True
+976462,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,70,Middlesbrough,51,Brighton,1,5,True
+976487,2023-01-07 18:00:00,2022,3rd Round,45,FA Cup,England,74,Sheffield Wednesday,34,Newcastle,2,1,True
+997624,2023-02-28 19:15:00,2022,5th Round,45,FA Cup,England,75,Stoke City,51,Brighton,0,1,True
+946864,2022-09-07 19:00:00,2022,Group D - 1,2,UEFA Champions League,World,81,Marseille,47,Tottenham,0,2,False
+946936,2022-11-01 20:00:00,2022,Group D - 6,2,UEFA Champions League,World,81,Marseille,47,Tottenham,1,2,True
+1016057,2023-04-11 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,157,Bayern Munich,50,Manchester City,0,3,False
+1016058,2023-04-19 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,157,Bayern Munich,50,Manchester City,1,1,True
+946877,2022-09-14 19:00:00,2022,Group G - 2,2,UEFA Champions League,World,165,Borussia Dortmund,50,Manchester City,1,2,False
+946918,2022-10-25 19:00:00,2022,Group G - 5,2,UEFA Champions League,World,165,Borussia Dortmund,50,Manchester City,0,0,True
+971799,2023-02-15 20:00:00,2022,Round of 16,2,UEFA Champions League,World,165,Borussia Dortmund,49,Chelsea,1,0,True
+971800,2023-03-07 20:00:00,2022,Round of 16,2,UEFA Champions League,World,165,Borussia Dortmund,49,Chelsea,0,2,False
+946888,2022-10-04 19:00:00,2022,Group D - 3,2,UEFA Champions League,World,169,Eintracht Frankfurt,47,Tottenham,0,0,True
+946911,2022-10-12 19:00:00,2022,Group D - 4,2,UEFA Champions League,World,169,Eintracht Frankfurt,47,Tottenham,2,3,False
+971805,2023-02-22 20:00:00,2022,Round of 16,2,UEFA Champions League,World,173,RB Leipzig,50,Manchester City,1,1,True
+971806,2023-03-14 20:00:00,2022,Round of 16,2,UEFA Champions League,World,173,RB Leipzig,50,Manchester City,0,7,False
+946867,2022-09-13 19:00:00,2022,Group A - 2,2,UEFA Champions League,World,194,Ajax,40,Liverpool,1,2,False
+946924,2022-10-26 19:00:00,2022,Group A - 5,2,UEFA Champions League,World,194,Ajax,40,Liverpool,0,3,True
+946777,2022-10-20 17:00:00,2022,Group Stage - 2,3,UEFA Europa League,World,197,PSV Eindhoven,42,Arsenal,0,1,False
+946818,2022-10-27 16:45:00,2022,Group Stage - 5,3,UEFA Europa League,World,197,PSV Eindhoven,42,Arsenal,2,0,True
+1022976,2023-05-11 19:00:00,2022,Semi-finals,848,UEFA Europa Conference League,World,201,AZ Alkmaar,48,West Ham,1,2,False
+1022977,2023-05-18 19:00:00,2022,Semi-finals,848,UEFA Europa Conference League,World,201,AZ Alkmaar,48,West Ham,0,1,True
+946866,2022-09-13 16:45:00,2022,Group D - 2,2,UEFA Champions League,World,228,Sporting CP,47,Tottenham,2,0,True
+946927,2022-10-26 19:00:00,2022,Group D - 5,2,UEFA Champions League,World,228,Sporting CP,47,Tottenham,1,1,False
+1010826,2023-03-09 17:45:00,2022,Round of 16,3,UEFA Europa League,World,228,Sporting CP,42,Arsenal,2,2,True
+946883,2022-10-04 19:00:00,2022,Group A - 3,2,UEFA Champions League,World,257,Rangers,40,Liverpool,0,2,False
+946907,2022-10-12 19:00:00,2022,Group A - 4,2,UEFA Champions League,World,257,Rangers,40,Liverpool,1,7,True
+946793,2022-10-06 19:00:00,2022,Group Stage - 3,3,UEFA Europa League,World,327,Bodo/Glimt,42,Arsenal,0,3,False
+946801,2022-10-13 16:45:00,2022,Group Stage - 4,3,UEFA Europa League,World,327,Bodo/Glimt,42,Arsenal,0,1,True
+946893,2022-10-05 19:00:00,2022,Group G - 3,2,UEFA Champions League,World,400,FC Copenhagen,50,Manchester City,0,5,False
+946897,2022-10-11 16:45:00,2022,Group G - 4,2,UEFA Champions League,World,400,FC Copenhagen,50,Manchester City,0,0,True
+946891,2022-10-05 19:00:00,2022,Group E - 3,2,UEFA Champions League,World,489,AC Milan,49,Chelsea,0,3,False
+946900,2022-10-11 19:00:00,2022,Group E - 4,2,UEFA Champions League,World,489,AC Milan,49,Chelsea,0,2,True
+971793,2023-02-14 20:00:00,2022,Round of 16,2,UEFA Champions League,World,489,AC Milan,47,Tottenham,1,0,True
+971794,2023-03-08 20:00:00,2022,Round of 16,2,UEFA Champions League,World,489,AC Milan,47,Tottenham,0,0,False
+946859,2022-09-07 19:00:00,2022,Group A - 1,2,UEFA Champions League,World,492,Napoli,40,Liverpool,4,1,True
+946931,2022-11-01 20:00:00,2022,Group A - 6,2,UEFA Champions League,World,492,Napoli,40,Liverpool,0,2,False
+1027571,2023-06-07 19:00:00,2022,Final,848,UEFA Europa Conference League,World,502,Fiorentina,48,West Ham,1,2,True
+1027909,2023-06-10 19:00:00,2022,Final,2,UEFA Champions League,World,505,Inter,50,Manchester City,0,1,False
+971761,2023-02-16 17:45:00,2022,Knockout Round Play-offs,3,UEFA Europa League,World,529,Barcelona,33,Manchester United,2,2,True
+971762,2023-02-23 20:00:00,2022,Knockout Round Play-offs,3,UEFA Europa League,World,529,Barcelona,33,Manchester United,1,2,False
+946854,2022-09-06 19:00:00,2022,Group G - 1,2,UEFA Champions League,World,536,Sevilla,50,Manchester City,0,4,True
+946941,2022-11-02 20:00:00,2022,Group G - 6,2,UEFA Champions League,World,536,Sevilla,50,Manchester City,1,3,False
+1016041,2023-04-13 19:00:00,2022,Quarter-finals,3,UEFA Europa League,World,536,Sevilla,33,Manchester United,2,2,False
+1016042,2023-04-20 19:00:00,2022,Quarter-finals,3,UEFA Europa League,World,536,Sevilla,33,Manchester United,3,0,True
+971801,2023-02-21 20:00:00,2022,Round of 16,2,UEFA Champions League,World,541,Real Madrid,40,Liverpool,5,2,False
+971802,2023-03-15 20:00:00,2022,Round of 16,2,UEFA Champions League,World,541,Real Madrid,40,Liverpool,1,0,True
+1016059,2023-04-12 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,541,Real Madrid,49,Chelsea,2,0,True
+1016060,2023-04-18 19:00:00,2022,Quarter-finals,2,UEFA Champions League,World,541,Real Madrid,49,Chelsea,2,0,False
+1022981,2023-05-09 19:00:00,2022,Semi-finals,2,UEFA Champions League,World,541,Real Madrid,50,Manchester City,1,1,True
+1022982,2023-05-17 19:00:00,2022,Semi-finals,2,UEFA Champions League,World,541,Real Madrid,50,Manchester City,0,4,False
+1010834,2023-03-09 20:00:00,2022,Round of 16,3,UEFA Europa League,World,543,Real Betis,33,Manchester United,1,4,False
+1010835,2023-03-16 17:45:00,2022,Round of 16,3,UEFA Europa League,World,543,Real Betis,33,Manchester United,0,1,True
+946761,2022-09-08 19:00:00,2022,Group Stage - 1,3,UEFA Europa League,World,548,Real Sociedad,33,Manchester United,1,0,False
+946833,2022-11-03 17:45:00,2022,Group Stage - 6,3,UEFA Europa League,World,548,Real Sociedad,33,Manchester United,0,1,True
+946689,2022-10-06 16:45:00,2022,Group Stage - 3,848,UEFA Europa Conference League,World,554,Anderlecht,48,West Ham,0,1,True
+946714,2022-10-13 19:00:00,2022,Group Stage - 4,848,UEFA Europa Conference League,World,554,Anderlecht,48,West Ham,1,2,False
+946665,2022-09-08 19:00:00,2022,Group Stage - 1,848,UEFA Europa Conference League,World,559,FCSB,48,West Ham,1,3,False
+946747,2022-11-03 20:00:00,2022,Group Stage - 6,848,UEFA Europa Conference League,World,559,FCSB,48,West Ham,0,3,True
+946770,2022-09-15 16:45:00,2022,Group Stage - 2,3,UEFA Europa League,World,568,Sheriff Tiraspol,33,Manchester United,0,2,True
+946825,2022-10-27 19:00:00,2022,Group Stage - 5,3,UEFA Europa League,World,568,Sheriff Tiraspol,33,Manchester United,0,3,False
+946875,2022-09-14 19:00:00,2022,Group E - 2,2,UEFA Champions League,World,571,Red Bull Salzburg,49,Chelsea,1,1,False
+946913,2022-10-25 16:45:00,2022,Group E - 5,2,UEFA Champions League,World,571,Red Bull Salzburg,49,Chelsea,1,2,True
+1010844,2023-03-09 17:45:00,2022,Round of 16,848,UEFA Europa Conference League,World,614,AEK Larnaca,48,West Ham,0,2,True
+1010845,2023-03-16 20:00:00,2022,Round of 16,848,UEFA Europa Conference League,World,614,AEK Larnaca,48,West Ham,0,4,False
+946849,2022-09-06 16:45:00,2022,Group E - 1,2,UEFA Champions League,World,620,Dinamo Zagreb,49,Chelsea,1,0,True
+946939,2022-11-02 20:00:00,2022,Group E - 6,2,UEFA Champions League,World,620,Dinamo Zagreb,49,Chelsea,1,2,False
+1016047,2023-04-13 16:45:00,2022,Quarter-finals,848,UEFA Europa Conference League,World,631,Gent,48,West Ham,1,1,True
+1016048,2023-04-20 19:00:00,2022,Quarter-finals,848,UEFA Europa Conference League,World,631,Gent,48,West Ham,1,4,False
+986114,2023-01-28 15:00:00,2022,4th Round,45,FA Cup,England,746,Sunderland,36,Fulham,1,1,False
+997631,2023-02-08 19:45:00,2022,4th Round Replays,45,FA Cup,England,746,Sunderland,36,Fulham,2,3,True
+933621,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,747,Barnsley,63,Leeds,1,3,False
+946753,2022-09-08 16:45:00,2022,Group Stage - 1,3,UEFA Europa League,World,783,FC Zurich,42,Arsenal,1,2,True
+946841,2022-11-03 20:00:00,2022,Group Stage - 6,3,UEFA Europa League,World,783,FC Zurich,42,Arsenal,0,1,False
+981786,2023-01-10 20:00:00,2022,Quarter-finals,48,League Cup,England,1335,Charlton,33,Manchester United,0,3,False
+933622,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1336,Fleetwood Town,45,Everton,0,1,True
+933634,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1338,Oxford United,52,Crystal Palace,0,2,True
+976475,2023-01-09 20:00:00,2022,3rd Round,45,FA Cup,England,1338,Oxford United,42,Arsenal,0,3,True
+986112,2023-01-28 12:30:00,2022,4th Round,45,FA Cup,England,1342,Walsall,46,Leicester,0,1,True
+972358,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,1347,Gillingham,39,Wolves,0,2,False
+981448,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,1347,Gillingham,46,Leicester,0,1,True
+972364,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,1348,Milton Keynes Dons,46,Leicester,0,3,True
+976466,2023-01-07 12:30:00,2022,3rd Round,45,FA Cup,England,1355,Portsmouth,47,Tottenham,0,1,False
+976479,2023-01-07 15:00:00,2022,3rd Round,45,FA Cup,England,1356,Blackpool,65,Nottingham Forest,4,1,True
+986106,2023-01-28 15:00:00,2022,4th Round,45,FA Cup,England,1356,Blackpool,41,Southampton,1,2,False
+994591,2023-01-28 12:30:00,2022,4th Round,45,FA Cup,England,1360,Accrington ST,63,Leeds,1,3,True
+933636,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1361,Colchester,55,Brentford,0,2,True
+933639,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1362,Crawley Town,36,Fulham,2,0,True
+933629,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1365,Grimsby,65,Nottingham Forest,0,3,True
+1004839,2023-03-01 19:15:00,2022,5th Round,45,FA Cup,England,1365,Grimsby,41,Southampton,2,1,False
+1011480,2023-03-19 14:15:00,2022,Quarter-finals,45,FA Cup,England,1365,Grimsby,51,Brighton,0,5,False
+945930,2022-11-08 19:45:00,2022,3rd Round,48,League Cup,England,1367,Newport County,46,Leicester,0,3,False
+976473,2023-01-08 16:30:00,2022,3rd Round,45,FA Cup,England,1368,Stevenage,66,Aston Villa,2,1,False
+933640,2022-08-23 18:45:00,2022,2nd Round,48,League Cup,England,1370,Cambridge United,41,Southampton,0,3,True
+933642,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,1378,Forest Green,51,Brighton,0,3,True
+972359,2022-12-20 19:45:00,2022,Round of 16,48,League Cup,England,1379,Lincoln,41,Southampton,1,2,False
+933624,2022-08-24 18:45:00,2022,2nd Round,48,League Cup,England,1381,Tranmere,34,Newcastle,1,2,True
+932865,2022-08-18 18:45:00,2022,Play-offs,848,UEFA Europa Conference League,World,2070,Viborg,48,West Ham,1,3,False
+932866,2022-08-25 17:00:00,2022,Play-offs,848,UEFA Europa Conference League,World,2070,Viborg,48,West Ham,0,3,True
+946684,2022-09-15 19:00:00,2022,Group Stage - 2,848,UEFA Europa Conference League,World,2073,Silkeborg,48,West Ham,2,3,True
+946729,2022-10-27 19:00:00,2022,Group Stage - 5,848,UEFA Europa Conference League,World,2073,Silkeborg,48,West Ham,0,1,False
+946789,2022-10-06 16:45:00,2022,Group Stage - 3,3,UEFA Europa League,World,3402,Omonia Nicosia,33,Manchester United,2,3,True
+946812,2022-10-13 19:00:00,2022,Group Stage - 4,3,UEFA Europa League,World,3402,Omonia Nicosia,33,Manchester United,0,1,False

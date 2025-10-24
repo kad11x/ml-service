@@ -7,26 +7,12 @@ Author: ChatGPT
 """
 
 import os
+import re
+import argparse
 import pandas as pd
 import numpy as np
 from collections import defaultdict
-
-
-# ====================================================
-# CONFIG
-# ====================================================
-CONFIG = {
-    # Folder containing your season CSVs. Files must be named like:
-    #   2025_matches.csv, 2025_team_matches.csv, 2025_player_matches.csv
-    "base_dir": "data/csv_datasets/all",
-    # Seasons to include (edit this)
-    "seasons": [2025],
-    # Single combined output file
-    "output_csv": "data/output/features_all_seasons.csv",
-    # Rolling windows
-    "win_size_form": 5,  # for form & team ratings
-    "win_size_home_away": 5,  # for home/away xG & xGA
-}
+from typing import Iterable, List
 
 
 # ====================================================
@@ -35,10 +21,11 @@ CONFIG = {
 def _rename_first_match(df, targets: dict):
     """Rename the first matching alias of each target to the standard name."""
     rename_map = {}
+    lower = {c.lower(): c for c in df.columns}
     for std, aliases in targets.items():
         for a in aliases:
-            if a in df.columns:
-                rename_map[a] = std
+            if a.lower() in lower:
+                rename_map[lower[a.lower()]] = std
                 break
     return df.rename(columns=rename_map)
 
@@ -72,8 +59,9 @@ def normalize_team_matches_df(df: pd.DataFrame) -> pd.DataFrame:
         {
             "fixture_id": ["fixture_id", "fixtureId", "match_id", "id"],
             "team_id": ["team_id", "teamId", "team", "team_code"],
-            "is_home": ["is_home", "home", "at_home"],
-            "expected_goals": ["expected_goals", "xG", "team_xg"],
+            "is_home": ["is_home", "home", "at_home", "venue", "side"],
+            # expected_goals may be absent; we calculate it if missing.
+            "expected_goals": ["expected_goals", "xG", "xg", "team_xg"],
             "goals_for": ["goals_for", "goals", "gf"],
             "goals_against": ["goals_against", "ga", "conceded"],
             "date_utc": ["date_utc", "utc_date", "kickoff_time", "date", "datetime"],
@@ -81,26 +69,28 @@ def normalize_team_matches_df(df: pd.DataFrame) -> pd.DataFrame:
     )
     # Normalize boolean for is_home
     if "is_home" in df.columns and df["is_home"].dtype != bool:
-        df["is_home"] = (
-            df["is_home"]
-            .astype(str)
-            .str.strip()
-            .str.lower()
-            .map({"true": True, "false": False, "1": True, "0": False})
+        s = df["is_home"].astype(str).str.strip().str.lower()
+        df["is_home"] = s.map(
+            {
+                "true": True,
+                "false": False,
+                "1": True,
+                "0": False,
+                "home": True,
+                "away": False,
+                "h": True,
+                "a": False,
+            }
         )
         if df["is_home"].isna().any():
             df["is_home"] = (
-                pd.to_numeric(df["is_home"], errors="coerce")
-                .fillna(0)
-                .astype(int)
-                .astype(bool)
+                pd.to_numeric(s, errors="coerce").fillna(0).astype(int).astype(bool)
             )
-    # Numerics
+
     for c in ["expected_goals", "goals_for", "goals_against"]:
         if c in df.columns:
             df[c] = pd.to_numeric(df[c], errors="coerce")
 
-    # Ensure date_utc is datetime if present
     if "date_utc" in df.columns:
         df["date_utc"] = pd.to_datetime(df["date_utc"], errors="coerce")
 
@@ -128,7 +118,6 @@ def normalize_player_matches_df(df: pd.DataFrame) -> pd.DataFrame:
         },
     )
     df["rating"] = pd.to_numeric(df.get("rating"), errors="coerce")
-    # starter: if missing, infer from minutes>0
     if "starter" not in df.columns:
         df["starter"] = (
             pd.to_numeric(df.get("minutes"), errors="coerce").fillna(0) > 0
@@ -137,23 +126,255 @@ def normalize_player_matches_df(df: pd.DataFrame) -> pd.DataFrame:
         df["starter"] = (
             pd.to_numeric(df["starter"], errors="coerce").fillna(0).astype(int)
         )
-    # Ensure minutes numeric (used later)
     if "minutes" in df.columns:
         df["minutes"] = pd.to_numeric(df["minutes"], errors="coerce").fillna(0)
     return df
 
 
 # ====================================================
+# xG calculation from goals (no external xG needed)
+# ====================================================
+def _ensure_is_home(team_matches: pd.DataFrame, matches: pd.DataFrame) -> pd.DataFrame:
+    """Infer is_home if missing by comparing team_id to matches.home_team_id."""
+    if "is_home" in team_matches.columns:
+        return team_matches
+    if "team_id" not in team_matches.columns:
+        return team_matches
+    mm = matches[["fixture_id", "home_team_id"]]
+    tm2 = team_matches.merge(mm, on="fixture_id", how="left")
+    tm2["is_home"] = tm2["team_id"].eq(tm2["home_team_id"])
+    return tm2.drop(columns=["home_team_id"], errors="ignore")
+
+
+def _coalesce_date_utc(df: pd.DataFrame) -> pd.DataFrame:
+    """After merges, collapse date_utc_x/date_utc_y into date_utc."""
+    if "date_utc" in df.columns:
+        return df
+    left = pd.to_datetime(df.get("date_utc_x"), errors="coerce")
+    right = pd.to_datetime(df.get("date_utc_y"), errors="coerce")
+    if ("date_utc_x" not in df.columns) and ("date_utc_y" not in df.columns):
+        return df
+    df["date_utc"] = left
+    if "date_utc_y" in df.columns:
+        df["date_utc"] = df["date_utc"].where(df["date_utc"].notna(), right)
+    return df.drop(columns=[c for c in ["date_utc_x", "date_utc_y"] if c in df.columns])
+
+
+def add_calculated_expected_goals(
+    team_matches: pd.DataFrame,
+    matches: pd.DataFrame,
+    win_size_home_away: int,
+    min_matches_for_factors: int = 2,
+) -> pd.DataFrame:
+    """
+    Compute per-team pre-match expected_goals using rolling GF/GA and
+    season baselines (μ_home, μ_away), fully leakage-safe.
+    Adds/overwrites column 'expected_goals' in team_matches.
+    """
+    w = int(win_size_home_away)
+    min_mp = int(min_matches_for_factors)
+
+    # Attach season & opponent ids and date to team rows (this merge can create date_utc_x/y)
+    mm = matches[
+        ["fixture_id", "date_utc", "season", "home_team_id", "away_team_id"]
+    ].copy()
+    tm = team_matches.merge(mm, on="fixture_id", how="left")
+
+    # Coalesce date_utc_x / date_utc_y if created
+    tm = _coalesce_date_utc(tm)
+
+    # Ensure is_home present; infer if missing
+    tm = _ensure_is_home(tm, matches)
+
+    # Sort for rolling calcs
+    tm = tm.sort_values(["team_id", "date_utc"]).reset_index(drop=True)
+
+    # League baselines per season (constants per season)
+    season_home_avg = (
+        matches.groupby("season", dropna=False)["home_goals"].mean().rename("mu_home")
+    )
+    season_away_avg = (
+        matches.groupby("season", dropna=False)["away_goals"].mean().rename("mu_away")
+    )
+    tm = tm.merge(season_home_avg, on="season", how="left")
+    tm = tm.merge(season_away_avg, on="season", how="left")
+
+    # Rolling GF/GA split by venue (shifted to avoid leakage)
+    is_home = tm["is_home"].astype(bool)
+    tid = tm["team_id"]
+
+    tm["roll_home_gf"] = (
+        tm["goals_for"]
+        .where(is_home)
+        .groupby(tid)
+        .transform(lambda s: s.rolling(w, min_periods=1).mean().shift(1))
+    )
+    tm["roll_away_gf"] = (
+        tm["goals_for"]
+        .where(~is_home)
+        .groupby(tid)
+        .transform(lambda s: s.rolling(w, min_periods=1).mean().shift(1))
+    )
+    tm["roll_home_ga"] = (
+        tm["goals_against"]
+        .where(is_home)
+        .groupby(tid)
+        .transform(lambda s: s.rolling(w, min_periods=1).mean().shift(1))
+    )
+    tm["roll_away_ga"] = (
+        tm["goals_against"]
+        .where(~is_home)
+        .groupby(tid)
+        .transform(lambda s: s.rolling(w, min_periods=1).mean().shift(1))
+    )
+
+    # Match counts (to gate factors)
+    tm["cnt_home"] = is_home.groupby(tid).transform(
+        lambda s: s.cumsum().shift(1).fillna(0)
+    )
+    tm["cnt_away"] = (
+        (~is_home).groupby(tid).transform(lambda s: s.cumsum().shift(1).fillna(0))
+    )
+
+    # Attack & defense factors (with clamps to avoid extremes)
+    eps = 1e-9
+    tm["attack_home_factor"] = np.where(
+        (tm["cnt_home"] >= min_mp) & tm["mu_home"].notna(),
+        (tm["roll_home_gf"] / (tm["mu_home"] + eps)).clip(0.1, 5.0),
+        1.0,
+    )
+    tm["attack_away_factor"] = np.where(
+        (tm["cnt_away"] >= min_mp) & tm["mu_away"].notna(),
+        (tm["roll_away_gf"] / (tm["mu_away"] + eps)).clip(0.1, 5.0),
+        1.0,
+    )
+    tm["defense_home_factor"] = np.where(
+        (tm["cnt_home"] >= min_mp) & tm["mu_away"].notna(),
+        (tm["roll_home_ga"] / (tm["mu_away"] + eps)).clip(0.1, 5.0),
+        1.0,
+    )
+    tm["defense_away_factor"] = np.where(
+        (tm["cnt_away"] >= min_mp) & tm["mu_home"].notna(),
+        (tm["roll_away_ga"] / (tm["mu_home"] + eps)).clip(0.1, 5.0),
+        1.0,
+    )
+
+    # Get opponent defensive factor per fixture
+    opp = tm[
+        [
+            "fixture_id",
+            "team_id",
+            "is_home",
+            "defense_home_factor",
+            "defense_away_factor",
+        ]
+    ].copy()
+    opp = opp.rename(
+        columns={
+            "team_id": "opp_team_id",
+            "is_home": "opp_is_home",
+            "defense_home_factor": "opp_defense_home_factor",
+            "defense_away_factor": "opp_defense_away_factor",
+        }
+    )
+    tm = tm.merge(opp, on="fixture_id", how="left")
+    tm = tm[tm["team_id"] != tm["opp_team_id"]].copy()
+
+    # Expected goals per team row (pre-match)
+    tm["expected_goals"] = np.where(
+        tm["is_home"],
+        tm["mu_home"] * tm["attack_home_factor"] * tm["opp_defense_away_factor"],
+        tm["mu_away"] * tm["attack_away_factor"] * tm["opp_defense_home_factor"],
+    )
+
+    # Fallback for earliest matches: season baseline by venue
+    tm["expected_goals"] = np.where(
+        tm["expected_goals"].notna(),
+        tm["expected_goals"],
+        np.where(tm["is_home"], tm["mu_home"], tm["mu_away"]),
+    )
+
+    # Return to team_matches shape
+    tm_expected = tm[["fixture_id", "team_id", "expected_goals"]]
+    out = team_matches.merge(
+        tm_expected, on=["fixture_id", "team_id"], how="left", validate="m:1"
+    )
+    return out
+
+
+# ====================================================
+# Season argument parsing
+# ====================================================
+def _detect_seasons(base_dir: str) -> List[int]:
+    """Detect available seasons by scanning for '<year>_matches.csv' (and companion files)."""
+    if not os.path.isdir(base_dir):
+        return []
+    years = []
+    for fn in os.listdir(base_dir):
+        m = re.match(r"^(\d{4})_matches\.csv$", fn)
+        if not m:
+            continue
+        y = int(m.group(1))
+        tm = os.path.join(base_dir, f"{y}_team_matches.csv")
+        pm = os.path.join(base_dir, f"{y}_player_matches.csv")
+        if os.path.exists(tm) and os.path.exists(pm):
+            years.append(y)
+    return sorted(set(years))
+
+
+def _parse_seasons_arg(seasons_arg: str, base_dir: str) -> List[int]:
+    """
+    Accepts:
+      - 'all' -> scan base_dir to find all seasons present
+      - single year, e.g. '2025'
+      - comma list, e.g. '2023,2024,2025'
+      - range, e.g. '2020-2025'
+    """
+    seasons_arg = seasons_arg.strip().lower()
+    if seasons_arg == "all":
+        det = _detect_seasons(base_dir)
+        if not det:
+            raise ValueError(
+                f"No seasons found in '{base_dir}'. Expecting files like '2025_matches.csv' with companions."
+            )
+        return det
+
+    rng = re.match(r"^(\d{4})\s*-\s*(\d{4})$", seasons_arg)
+    if rng:
+        start, end = int(rng.group(1)), int(rng.group(2))
+        if end < start:
+            start, end = end, start
+        return list(range(start, end + 1))
+
+    parts = [p.strip() for p in seasons_arg.split(",") if p.strip()]
+    out = []
+    for p in parts:
+        if not re.match(r"^\d{4}$", p):
+            raise ValueError(
+                f"Invalid season '{p}'. Use YYYY, CSV list, range 'YYYY-YYYY', or 'all'."
+            )
+        out.append(int(p))
+    return sorted(set(out))
+
+
+# ====================================================
 # Core builder over ALL seasons (chronological)
 # ====================================================
-def build_features_all(cfg):
+def build_features_all(
+    base_dir: str,
+    seasons: Iterable[int],
+    output_csv: str,
+    win_size_form: int = 5,
+    win_size_home_away: int = 5,
+    min_matches_for_factors: int = 2,
+) -> pd.DataFrame:
     # 1) Load and normalize all seasons, then concatenate chronologically
     all_matches, all_team_matches, all_player_matches = [], [], []
-    for season in cfg["seasons"]:
+    for season in seasons:
         print(f" Loading season {season}...")
-        m_path = os.path.join(cfg["base_dir"], f"{season}_matches.csv")
-        tm_path = os.path.join(cfg["base_dir"], f"{season}_team_matches.csv")
-        pm_path = os.path.join(cfg["base_dir"], f"{season}_player_matches.csv")
+        m_path = os.path.join(base_dir, f"{season}_matches.csv")
+        tm_path = os.path.join(base_dir, f"{season}_team_matches.csv")
+        pm_path = os.path.join(base_dir, f"{season}_player_matches.csv")
 
         if not os.path.exists(m_path):
             raise FileNotFoundError(f"Missing file: {m_path}")
@@ -204,13 +425,10 @@ def build_features_all(cfg):
             team_matches["away_team_id"],
         )
         team_matches = team_matches.drop(
-            columns=[
-                c for c in ["home_team_id", "away_team_id"] if c in team_matches.columns
-            ]
+            columns=["home_team_id", "away_team_id"], errors="ignore"
         )
 
-    # ---------- Attach match dates for sorting team_matches chronologically (no column clash) ----------
-    # If team_matches already has date_utc, just use it; otherwise pull from matches.
+    # ---------- Attach match dates for sorting team_matches chronologically ----------
     if "date_utc" in team_matches.columns:
         team_matches["date_utc"] = pd.to_datetime(
             team_matches["date_utc"], errors="coerce"
@@ -220,8 +438,19 @@ def build_features_all(cfg):
             matches[["fixture_id", "date_utc"]], on="fixture_id", how="left"
         )
 
-    # Sort by date and then drop the helper column (we don't need it further in team_matches)
-    team_matches = team_matches.sort_values("date_utc").drop(columns=["date_utc"])
+    # Sort by date (keep for xG calc), but do NOT drop date_utc yet—we need it
+    team_matches = team_matches.sort_values("date_utc")
+
+    # ---------- CALCULATE expected_goals from goals ----------
+    team_matches = add_calculated_expected_goals(
+        team_matches=team_matches,
+        matches=matches,
+        win_size_home_away=win_size_home_away,
+        min_matches_for_factors=min_matches_for_factors,
+    )
+
+    # After calculation, we can drop helper date; we'll re-merge fresh later
+    team_matches = team_matches.drop(columns=["date_utc"], errors="ignore")
 
     # 2) Build features across full timeline (cross-season)
 
@@ -251,9 +480,9 @@ def build_features_all(cfg):
 
     tm["points"] = tm.apply(_points, axis=1)
 
-    # 2.3 Form (rolling last 5), shifted to avoid leakage
-    w_form = cfg["win_size_form"]
-    tm["form_points_last5"] = (
+    # 2.3 Form (rolling last N), shifted to avoid leakage
+    w_form = win_size_form
+    tm["form_points_lastN"] = (
         tm.groupby("team_id")["points"]
         .rolling(w_form, min_periods=1)
         .sum()
@@ -262,9 +491,10 @@ def build_features_all(cfg):
     )
 
     # 2.4 Rolling xG/xGA (home/away) with transform, shifted
-    w = cfg["win_size_home_away"]
+    w = win_size_home_away
     expg, oexpg, tid = tm["expected_goals"], tm["opp_expected_goals"], tm["team_id"]
 
+    tm["is_home"] = tm["is_home"].astype(bool)
     tm["home_xG_avg_team"] = (
         expg.where(tm["is_home"])
         .groupby(tid)
@@ -303,7 +533,6 @@ def build_features_all(cfg):
         g["away_win_streak_team"] = pd.Series(a, index=g.index).shift(1)
         return g
 
-    # === Preserve team_id through groupby.apply across pandas versions
     tm["_team_id_backup"] = tm["team_id"]
     try:
         tm = tm.groupby("team_id", group_keys=False).apply(
@@ -318,7 +547,7 @@ def build_features_all(cfg):
     if "_team_id_backup" in tm.columns:
         tm = tm.drop(columns=["_team_id_backup"])
 
-    # 2.6 TEAM RATING (robust to missing team_id in player_matches)
+    # 2.6 TEAM RATING
     pm = player_matches.copy()
     pm["rating"] = pd.to_numeric(pm.get("rating"), errors="coerce")
     pm["starter"] = pd.to_numeric(pm["starter"], errors="coerce").fillna(0).astype(int)
@@ -372,17 +601,12 @@ def build_features_all(cfg):
             .mean()
             .rename(columns={"rating": "team_avg_player_rating"})
         )
-
         if "team_id" not in tm.columns:
-            raise KeyError(
-                "Internal: tm lost 'team_id' before ratings merge. "
-                "Check groupby/apply and ensure restoration ran."
-            )
-
+            raise KeyError("Internal: tm lost 'team_id' before ratings merge.")
         tm = tm.merge(per_match_team_rating, on=["fixture_id", "team_id"], how="left")
         tm["team_rating"] = (
             tm.groupby("team_id")["team_avg_player_rating"]
-            .rolling(w_form, min_periods=1)
+            .rolling(win_size_form, min_periods=1)
             .mean()
             .shift(1)
             .reset_index(level=0, drop=True)
@@ -416,14 +640,22 @@ def build_features_all(cfg):
     away_tm = tm[~tm["is_home"]].set_index("fixture_id")
 
     feat = base.copy()
+
+    # Explicit pre-match xG for each side (from computed expected_goals)
+    feat["pre_xG_home"] = home_tm["expected_goals"]
+    feat["pre_xG_away"] = away_tm["expected_goals"]
+
+    # Rolling xG/xGA features
     feat["home_xG_avg"] = home_tm["home_xG_avg_team"]
     feat["away_xG_avg"] = away_tm["away_xG_avg_team"]
     feat["home_xGA_avg"] = home_tm["home_xGA_avg_team"]
     feat["away_xGA_avg"] = away_tm["away_xGA_avg_team"]
+
+    # Other features
     feat["home_team_rating"] = home_tm["team_rating"]
     feat["away_team_rating"] = away_tm["team_rating"]
-    feat["home_form_points"] = home_tm["form_points_last5"]
-    feat["away_form_points"] = away_tm["form_points_last5"]
+    feat["home_form_points"] = home_tm["form_points_lastN"]
+    feat["away_form_points"] = away_tm["form_points_lastN"]
     feat["home_win_streak"] = home_tm["home_win_streak_team"]
     feat["away_win_streak"] = away_tm["away_win_streak_team"]
     feat["rest_days_home"] = home_tm["rest_days"]
@@ -471,7 +703,7 @@ def build_features_all(cfg):
     feat["h2h_home_wins"] = h2h_home
     feat["h2h_away_wins"] = h2h_away
 
-    # 2.10 Key players missing (top-5 by minutes + 10*avg_rating, accumulated BEFORE match) — cross-season
+    # 2.10 Key players missing (top-5 by minutes + 10*avg_rating), accumulated BEFORE each match
     pm_small = player_matches[
         ["fixture_id", "team_id", "player_id", "minutes", "rating"]
     ].copy()
@@ -514,7 +746,7 @@ def build_features_all(cfg):
                 key_home.append((fx, missing))
             else:
                 key_away.append((fx, missing))
-        # update cumulative stats AFTER match
+        # update AFTER match
         for tid, grp in pm_small[pm_small["fixture_id"] == fx].groupby("team_id"):
             for _, rr in grp.iterrows():
                 s = cum_stats[tid][rr["player_id"]]
@@ -546,17 +778,69 @@ def build_features_all(cfg):
     feat = feat.drop(columns=["round"]).reset_index()
 
     # 3) Save single combined CSV
-    os.makedirs(os.path.dirname(cfg["output_csv"]), exist_ok=True)
+    os.makedirs(os.path.dirname(output_csv), exist_ok=True)
     feat = feat.sort_values(["date_utc", "fixture_id"])
-    feat.to_csv(cfg["output_csv"], index=False)
+    feat.to_csv(output_csv, index=False)
 
-    print(f" Combined features saved to: {cfg['output_csv']}")
+    print(f" Combined features saved to: {output_csv}")
     print(f"Rows: {len(feat):,} | Seasons: {sorted(matches['season'].unique())}")
     return feat
 
 
 # ====================================================
-# Run
+# CLI
 # ====================================================
+def parse_args() -> argparse.Namespace:
+    p = argparse.ArgumentParser(description="Multi-season feature builder.")
+    p.add_argument(
+        "--base-dir",
+        default="data/csv_datasets/all",
+        help="Folder with season CSVs (YYYY_matches.csv, YYYY_team_matches.csv, YYYY_player_matches.csv).",
+    )
+    p.add_argument(
+        "--seasons",
+        default="2025",
+        help="Choose seasons: 'all', 'YYYY', 'YYYY,YYYY,YYYY', or 'YYYY-YYYY'. Example: --seasons 2023-2025",
+    )
+    p.add_argument(
+        "--output",
+        default="data/output/features_all_seasons.csv",
+        help="Path to the single combined output CSV.",
+    )
+    p.add_argument(
+        "--win-form",
+        type=int,
+        default=5,
+        help="Rolling window for form & team ratings (default: 5).",
+    )
+    p.add_argument(
+        "--win-homeaway",
+        type=int,
+        default=5,
+        help="Rolling window for home/away xG & xGA (default: 5).",
+    )
+    p.add_argument(
+        "--min-matches-factors",
+        type=int,
+        default=2,
+        help="Min past matches at the venue before using attack/defense factors (default: 2).",
+    )
+    return p.parse_args()
+
+
+def main():
+    args = parse_args()
+    seasons = _parse_seasons_arg(args.seasons, args.base_dir)
+    print(f"Using seasons: {seasons}")
+    build_features_all(
+        base_dir=args.base_dir,
+        seasons=seasons,
+        output_csv=args.output,
+        win_size_form=args.win_form,
+        win_size_home_away=args.win_homeaway,
+        min_matches_for_factors=args.min_matches_factors,
+    )
+
+
 if __name__ == "__main__":
-    build_features_all(CONFIG)
+    main()

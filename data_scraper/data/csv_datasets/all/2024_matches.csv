@@ -1,0 +1,543 @@
+fixture_id,date_utc,season,round,league_id,league_name,country,home_team_id,home_team,away_team_id,away_team,home_goals,away_goals,ht_home,ht_away,ft_home,ft_away,et_home,et_away,pen_home,pen_away,status,venue_id,venue_name,referee
+1208021,2024-08-16 19:00:00,2024,Regular Season - 1,39,Premier League,England,33,Manchester United,36,Fulham,1,0,0,0,1,0,,,,,FT,556.0,Old Trafford,R. Jones
+1208022,2024-08-17 11:30:00,2024,Regular Season - 1,39,Premier League,England,57,Ipswich,40,Liverpool,0,2,0,0,0,2,,,,,FT,545.0,Portman Road,T. Robinson
+1208023,2024-08-17 14:00:00,2024,Regular Season - 1,39,Premier League,England,42,Arsenal,39,Wolves,2,0,1,0,2,0,,,,,FT,494.0,Emirates Stadium,J. Gillett
+1208024,2024-08-17 14:00:00,2024,Regular Season - 1,39,Premier League,England,45,Everton,51,Brighton,0,3,0,1,0,3,,,,,FT,8560.0,Goodison Park,S. Hooper
+1208025,2024-08-17 14:00:00,2024,Regular Season - 1,39,Premier League,England,34,Newcastle,41,Southampton,1,0,1,0,1,0,,,,,FT,562.0,St. James' Park,C. Pawson
+1208026,2024-08-17 14:00:00,2024,Regular Season - 1,39,Premier League,England,65,Nottingham Forest,35,Bournemouth,1,1,1,0,1,1,,,,,FT,566.0,The City Ground,M. Oliver
+1208027,2024-08-17 16:30:00,2024,Regular Season - 1,39,Premier League,England,48,West Ham,66,Aston Villa,1,2,1,1,1,2,,,,,FT,598.0,London Stadium,T. Harrington
+1208028,2024-08-18 13:00:00,2024,Regular Season - 1,39,Premier League,England,55,Brentford,52,Crystal Palace,2,1,1,0,2,1,,,,,FT,10503.0,Gtech Community Stadium,S. Barrott
+1208029,2024-08-18 15:30:00,2024,Regular Season - 1,39,Premier League,England,49,Chelsea,50,Manchester City,0,2,0,1,0,2,,,,,FT,519.0,Stamford Bridge,A. Taylor
+1208030,2024-08-19 19:00:00,2024,Regular Season - 1,39,Premier League,England,46,Leicester,47,Tottenham,1,1,0,1,1,1,,,,,FT,547.0,King Power Stadium,C. Kavanagh
+1287584,2024-08-22 19:00:00,2024,Play-offs,848,UEFA Europa Conference League,World,49,Chelsea,2184,Servette FC,2,0,0,0,2,0,,,,,FT,519.0,Stamford Bridge,J. Pignard
+1208033,2024-08-24 11:30:00,2024,Regular Season - 2,39,Premier League,England,51,Brighton,33,Manchester United,2,1,1,0,2,1,,,,,FT,508.0,American Express Stadium,C. Pawson
+1208034,2024-08-24 14:00:00,2024,Regular Season - 2,39,Premier League,England,52,Crystal Palace,48,West Ham,0,2,0,0,0,2,,,,,FT,525.0,Selhurst Park,R. Jones
+1208035,2024-08-24 14:00:00,2024,Regular Season - 2,39,Premier League,England,36,Fulham,46,Leicester,2,1,1,1,2,1,,,,,FT,535.0,Craven Cottage,D. Bond
+1208037,2024-08-24 14:00:00,2024,Regular Season - 2,39,Premier League,England,50,Manchester City,57,Ipswich,4,1,3,1,4,1,,,,,FT,555.0,Etihad Stadium,S. Allison
+1208038,2024-08-24 14:00:00,2024,Regular Season - 2,39,Premier League,England,41,Southampton,65,Nottingham Forest,0,1,0,0,0,1,,,,,FT,585.0,St. Mary's Stadium,S. Barrott
+1208039,2024-08-24 14:00:00,2024,Regular Season - 2,39,Premier League,England,47,Tottenham,45,Everton,4,0,2,0,4,0,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Taylor
+1208032,2024-08-24 16:30:00,2024,Regular Season - 2,39,Premier League,England,66,Aston Villa,42,Arsenal,0,2,0,0,0,2,,,,,FT,495.0,Villa Park,M. Oliver
+1208031,2024-08-25 13:00:00,2024,Regular Season - 2,39,Premier League,England,35,Bournemouth,34,Newcastle,1,1,1,0,1,1,,,,,FT,504.0,Vitality Stadium,D. Coote
+1208040,2024-08-25 13:00:00,2024,Regular Season - 2,39,Premier League,England,39,Wolves,49,Chelsea,2,6,2,2,2,6,,,,,FT,600.0,Molineux Stadium,D. England
+1208036,2024-08-25 15:30:00,2024,Regular Season - 2,39,Premier League,England,40,Liverpool,55,Brentford,2,0,1,0,2,0,,,,,FT,550.0,Anfield,S. Attwell
+1287643,2024-08-27 18:45:00,2024,2nd Round,48,League Cup,England,51,Brighton,1362,Crawley Town,4,0,1,0,4,0,,,,,FT,508.0,American Express Stadium,A. Chilowicz
+1287648,2024-08-27 18:45:00,2024,2nd Round,48,League Cup,England,45,Everton,1354,Doncaster,3,0,0,0,3,0,,,,,FT,8560.0,Goodison Park,J. Bell
+1287653,2024-08-27 18:45:00,2024,2nd Round,48,League Cup,England,46,Leicester,1381,Tranmere,4,0,1,0,4,0,,,,,FT,547.0,King Power Stadium,L. Smith
+1287639,2024-08-27 19:00:00,2024,2nd Round,48,League Cup,England,54,Birmingham,36,Fulham,0,2,0,2,0,2,,,,,FT,,St. Andrew's @ Knighthead Park,K. Stroud
+1287644,2024-08-27 19:00:00,2024,2nd Round,48,League Cup,England,52,Crystal Palace,71,Norwich,4,0,1,0,4,0,,,,,FT,525.0,Selhurst Park,M. Donohue
+1287657,2024-08-28 18:30:00,2024,2nd Round,48,League Cup,England,39,Wolves,44,Burnley,2,0,1,0,2,0,,,,,FT,600.0,Molineux Stadium,J. Smith
+1287641,2024-08-28 18:45:00,2024,2nd Round,48,League Cup,England,48,West Ham,35,Bournemouth,1,0,0,0,1,0,,,,,FT,598.0,London Stadium,P. Bankes
+1287645,2024-08-28 18:45:00,2024,2nd Round,48,League Cup,England,43,Cardiff,41,Southampton,3,5,1,2,3,5,,,,,FT,516.0,Cardiff City Stadium,T. Nield
+1287647,2024-08-28 18:45:00,2024,2nd Round,48,League Cup,England,1361,Colchester,55,Brentford,0,1,0,1,0,1,,,,,FT,522.0,JobServe Community Stadium,P. Howard
+1287585,2024-08-29 18:30:00,2024,Play-offs,848,UEFA Europa Conference League,World,2184,Servette FC,49,Chelsea,2,1,1,1,2,1,,,,,FT,,Stade de Genève,M. Di Bello
+1208041,2024-08-31 11:30:00,2024,Regular Season - 3,39,Premier League,England,42,Arsenal,51,Brighton,1,1,1,0,1,1,,,,,FT,494.0,Emirates Stadium,C. Kavanagh
+1208042,2024-08-31 14:00:00,2024,Regular Season - 3,39,Premier League,England,55,Brentford,41,Southampton,3,1,1,0,3,1,,,,,FT,10503.0,Gtech Community Stadium,J. Smith
+1208044,2024-08-31 14:00:00,2024,Regular Season - 3,39,Premier League,England,45,Everton,35,Bournemouth,2,3,0,0,2,3,,,,,FT,8560.0,Goodison Park,S. Attwell
+1208045,2024-08-31 14:00:00,2024,Regular Season - 3,39,Premier League,England,57,Ipswich,36,Fulham,1,1,1,1,1,1,,,,,FT,545.0,Portman Road,L. Smith
+1208046,2024-08-31 14:00:00,2024,Regular Season - 3,39,Premier League,England,46,Leicester,66,Aston Villa,1,2,0,1,1,2,,,,,FT,547.0,King Power Stadium,D. Coote
+1208049,2024-08-31 14:00:00,2024,Regular Season - 3,39,Premier League,England,65,Nottingham Forest,39,Wolves,1,1,1,1,1,1,,,,,FT,566.0,The City Ground,S. Hooper
+1208050,2024-08-31 16:30:00,2024,Regular Season - 3,39,Premier League,England,48,West Ham,50,Manchester City,1,3,1,2,1,3,,,,,FT,598.0,London Stadium,M. Oliver
+1208043,2024-09-01 12:30:00,2024,Regular Season - 3,39,Premier League,England,49,Chelsea,52,Crystal Palace,1,1,1,0,1,1,,,,,FT,519.0,Stamford Bridge,J. Gillett
+1208048,2024-09-01 12:30:00,2024,Regular Season - 3,39,Premier League,England,34,Newcastle,47,Tottenham,2,1,1,0,2,1,,,,,FT,562.0,St. James' Park,R. Jones
+1208047,2024-09-01 15:00:00,2024,Regular Season - 3,39,Premier League,England,33,Manchester United,40,Liverpool,0,3,0,2,0,3,,,,,FT,556.0,Old Trafford,A. Taylor
+1208058,2024-09-14 11:30:00,2024,Regular Season - 4,39,Premier League,England,41,Southampton,33,Manchester United,0,3,0,2,0,3,,,,,FT,585.0,St. Mary's Stadium,S. Attwell
+1208053,2024-09-14 14:00:00,2024,Regular Season - 4,39,Premier League,England,51,Brighton,57,Ipswich,0,0,0,0,0,0,,,,,FT,508.0,American Express Stadium,S. Barrott
+1208054,2024-09-14 14:00:00,2024,Regular Season - 4,39,Premier League,England,52,Crystal Palace,46,Leicester,2,2,0,1,2,2,,,,,FT,525.0,Selhurst Park,T. Harrington
+1208055,2024-09-14 14:00:00,2024,Regular Season - 4,39,Premier League,England,36,Fulham,48,West Ham,1,1,1,0,1,1,,,,,FT,535.0,Craven Cottage,T. Robinson
+1208056,2024-09-14 14:00:00,2024,Regular Season - 4,39,Premier League,England,40,Liverpool,65,Nottingham Forest,0,1,0,0,0,1,,,,,FT,550.0,Anfield,M. Oliver
+1208057,2024-09-14 14:00:00,2024,Regular Season - 4,39,Premier League,England,50,Manchester City,55,Brentford,2,1,2,1,2,1,,,,,FT,555.0,Etihad Stadium,D. Bond
+1208052,2024-09-14 16:30:00,2024,Regular Season - 4,39,Premier League,England,66,Aston Villa,45,Everton,3,2,1,2,3,2,,,,,FT,495.0,Villa Park,C. Pawson
+1208051,2024-09-14 19:00:00,2024,Regular Season - 4,39,Premier League,England,35,Bournemouth,49,Chelsea,0,1,0,0,0,1,,,,,FT,504.0,Vitality Stadium,A. Taylor
+1208059,2024-09-15 13:00:00,2024,Regular Season - 4,39,Premier League,England,47,Tottenham,42,Arsenal,0,1,0,0,0,1,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Gillett
+1208060,2024-09-15 15:30:00,2024,Regular Season - 4,39,Premier League,England,39,Wolves,34,Newcastle,1,2,1,0,1,2,,,,,FT,600.0,Molineux Stadium,C. Kavanagh
+1298985,2024-09-17 16:45:00,2024,League Stage - 1,2,UEFA Champions League,World,565,BSC Young Boys,66,Aston Villa,0,3,0,2,0,3,,,,,FT,10500.0,Stadion Wankdorf,G. Kabakov
+1298646,2024-09-17 18:45:00,2024,3rd Round,48,League Cup,England,55,Brentford,1373,Leyton Orient,3,1,3,1,3,1,,,,,FT,10503.0,Gtech Community Stadium,L. Smith
+1298650,2024-09-17 18:45:00,2024,3rd Round,48,League Cup,England,72,QPR,52,Crystal Palace,1,2,0,1,1,2,,,,,FT,20414.0,MATRADE Loftus Road,S. Singh
+1298643,2024-09-17 19:00:00,2024,3rd Round,48,League Cup,England,33,Manchester United,747,Barnsley,7,0,3,0,7,0,,,,,FT,556.0,Old Trafford,G. Ward
+1298987,2024-09-17 19:00:00,2024,League Stage - 1,2,UEFA Champions League,World,489,AC Milan,40,Liverpool,1,3,1,2,1,3,,,,,FT,907.0,Stadio Giuseppe Meazza,E. Eskås
+1298652,2024-09-18 18:45:00,2024,3rd Round,48,League Cup,England,51,Brighton,39,Wolves,3,2,2,1,3,2,,,,,FT,508.0,American Express Stadium,J. Brooks
+1298645,2024-09-18 19:00:00,2024,3rd Round,48,League Cup,England,1346,Coventry,47,Tottenham,1,2,0,0,1,2,,,,,FT,11896.0,The Coventry Building Society Arena,D. England
+1298994,2024-09-18 19:00:00,2024,League Stage - 1,2,UEFA Champions League,World,50,Manchester City,505,Inter,0,0,0,0,0,0,,,,,FT,555.0,Etihad Stadium,G. Nyberg
+1298998,2024-09-19 19:00:00,2024,League Stage - 1,2,UEFA Champions League,World,499,Atalanta,42,Arsenal,0,0,0,0,0,0,,,,,FT,879.0,Gewiss Stadium,C. Turpin
+1208070,2024-09-21 11:30:00,2024,Regular Season - 5,39,Premier League,England,48,West Ham,49,Chelsea,0,3,0,2,0,3,,,,,FT,598.0,London Stadium,S. Barrott
+1208061,2024-09-21 14:00:00,2024,Regular Season - 5,39,Premier League,England,66,Aston Villa,39,Wolves,3,1,0,1,3,1,,,,,FT,495.0,Villa Park,T. Robinson
+1208064,2024-09-21 14:00:00,2024,Regular Season - 5,39,Premier League,England,36,Fulham,34,Newcastle,3,1,2,0,3,1,,,,,FT,535.0,Craven Cottage,P. Bankes
+1208065,2024-09-21 14:00:00,2024,Regular Season - 5,39,Premier League,England,46,Leicester,45,Everton,1,1,0,1,1,1,,,,,FT,547.0,King Power Stadium,D. England
+1208066,2024-09-21 14:00:00,2024,Regular Season - 5,39,Premier League,England,40,Liverpool,35,Bournemouth,3,0,3,0,3,0,,,,,FT,550.0,Anfield,T. Harrington
+1208068,2024-09-21 14:00:00,2024,Regular Season - 5,39,Premier League,England,41,Southampton,57,Ipswich,1,1,1,0,1,1,,,,,FT,585.0,St. Mary's Stadium,S. Allison
+1208069,2024-09-21 14:00:00,2024,Regular Season - 5,39,Premier League,England,47,Tottenham,55,Brentford,3,1,2,1,3,1,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Brooks
+1208063,2024-09-21 16:30:00,2024,Regular Season - 5,39,Premier League,England,52,Crystal Palace,33,Manchester United,0,0,0,0,0,0,,,,,FT,525.0,Selhurst Park,D. Coote
+1208062,2024-09-22 13:00:00,2024,Regular Season - 5,39,Premier League,England,51,Brighton,65,Nottingham Forest,2,2,2,1,2,2,,,,,FT,508.0,American Express Stadium,R. Jones
+1208067,2024-09-22 15:30:00,2024,Regular Season - 5,39,Premier League,England,50,Manchester City,42,Arsenal,2,2,1,2,2,2,,,,,FT,555.0,Etihad Stadium,M. Oliver
+1298641,2024-09-24 18:45:00,2024,3rd Round,48,League Cup,England,50,Manchester City,38,Watford,2,1,2,0,2,1,,,,,FT,555.0,Etihad Stadium,D. Webb
+1298654,2024-09-24 18:45:00,2024,3rd Round,48,League Cup,England,49,Chelsea,1819,Barrow,5,0,3,0,5,0,,,,,FT,519.0,Stamford Bridge,O. Langford
+1298644,2024-09-24 19:00:00,2024,3rd Round,48,League Cup,England,1358,Wycombe,66,Aston Villa,1,2,0,0,1,2,,,,,FT,602.0,Adams Park,J. Busby
+1298642,2024-09-25 18:45:00,2024,3rd Round,48,League Cup,England,42,Arsenal,68,Bolton,5,1,2,0,5,1,,,,,FT,494.0,Emirates Stadium,J. Smith
+1298640,2024-09-25 19:00:00,2024,3rd Round,48,League Cup,England,40,Liverpool,48,West Ham,5,1,1,1,5,1,,,,,FT,550.0,Anfield,A. Madley
+1299134,2024-09-25 19:00:00,2024,League Stage - 1,3,UEFA Europa League,World,33,Manchester United,415,Twente,1,1,1,0,1,1,,,,,FT,556.0,Old Trafford,S. Sozza
+1299145,2024-09-26 19:00:00,2024,League Stage - 1,3,UEFA Europa League,World,47,Tottenham,556,Qarabag,3,0,1,0,3,0,,,,,FT,593.0,Tottenham Hotspur Stadium,W. Delajod
+1208078,2024-09-28 11:30:00,2024,Regular Season - 6,39,Premier League,England,34,Newcastle,50,Manchester City,1,1,0,1,1,1,,,,,FT,562.0,St. James' Park,J. Gillett
+1208072,2024-09-28 14:00:00,2024,Regular Season - 6,39,Premier League,England,42,Arsenal,46,Leicester,4,2,2,0,4,2,,,,,FT,494.0,Emirates Stadium,S. Barrott
+1208073,2024-09-28 14:00:00,2024,Regular Season - 6,39,Premier League,England,55,Brentford,48,West Ham,1,1,1,0,1,1,,,,,FT,10503.0,Gtech Community Stadium,S. Hooper
+1208074,2024-09-28 14:00:00,2024,Regular Season - 6,39,Premier League,England,49,Chelsea,51,Brighton,4,2,4,2,4,2,,,,,FT,519.0,Stamford Bridge,P. Bankes
+1208075,2024-09-28 14:00:00,2024,Regular Season - 6,39,Premier League,England,45,Everton,52,Crystal Palace,2,1,0,1,2,1,,,,,FT,8560.0,Goodison Park,A. Madley
+1208079,2024-09-28 14:00:00,2024,Regular Season - 6,39,Premier League,England,65,Nottingham Forest,36,Fulham,0,1,0,0,0,1,,,,,FT,566.0,The City Ground,J. Smith
+1208080,2024-09-28 16:30:00,2024,Regular Season - 6,39,Premier League,England,39,Wolves,40,Liverpool,1,2,0,1,1,2,,,,,FT,600.0,Molineux Stadium,A. Taylor
+1208076,2024-09-29 13:00:00,2024,Regular Season - 6,39,Premier League,England,57,Ipswich,66,Aston Villa,2,2,1,2,2,2,,,,,FT,545.0,Portman Road,S. Attwell
+1208077,2024-09-29 15:30:00,2024,Regular Season - 6,39,Premier League,England,33,Manchester United,47,Tottenham,0,3,0,1,0,3,,,,,FT,556.0,Old Trafford,C. Kavanagh
+1208071,2024-09-30 19:00:00,2024,Regular Season - 6,39,Premier League,England,35,Bournemouth,41,Southampton,3,1,3,0,3,1,,,,,FT,504.0,Vitality Stadium,M. Oliver
+1298653,2024-10-01 18:45:00,2024,3rd Round,48,League Cup,England,34,Newcastle,1333,AFC Wimbledon,1,0,1,0,1,0,,,,,FT,562.0,St. James' Park,D. Bond
+1299009,2024-10-01 19:00:00,2024,League Stage - 2,2,UEFA Champions League,World,656,Slovan Bratislava,50,Manchester City,0,4,0,2,0,4,,,,,FT,11914.0,Štadión Tehelné pole,D. Massa
+1299010,2024-10-01 19:00:00,2024,League Stage - 2,2,UEFA Champions League,World,42,Arsenal,85,Paris Saint Germain,2,0,2,0,2,0,,,,,FT,494.0,Emirates Stadium,S. Vinčić
+1299013,2024-10-02 19:00:00,2024,League Stage - 2,2,UEFA Champions League,World,66,Aston Villa,157,Bayern München,1,0,0,0,1,0,,,,,FT,495.0,Villa Park,R. Petrescu
+1299017,2024-10-02 19:00:00,2024,League Stage - 2,2,UEFA Champions League,World,40,Liverpool,500,Bologna,2,0,1,0,2,0,,,,,FT,550.0,Anfield,N. Dabanović
+1299146,2024-10-03 16:45:00,2024,League Stage - 2,3,UEFA Europa League,World,651,Ferencvarosi TC,47,Tottenham,1,2,0,1,1,2,,,,,FT,799.0,Groupama Aréna,I. Pajač
+1299158,2024-10-03 19:00:00,2024,League Stage - 2,3,UEFA Europa League,World,212,FC Porto,33,Manchester United,3,3,2,2,3,3,,,,,FT,1286.0,Estádio Do Dragão,T. Stieler
+1299304,2024-10-03 19:00:00,2024,League Stage - 1,848,UEFA Europa Conference League,World,49,Chelsea,631,Gent,4,2,1,0,4,2,,,,,FT,519.0,Stamford Bridge,D. Schlager
+1208086,2024-10-05 11:30:00,2024,Regular Season - 7,39,Premier League,England,52,Crystal Palace,40,Liverpool,0,1,0,1,0,1,,,,,FT,525.0,Selhurst Park,S. Hooper
+1208081,2024-10-05 14:00:00,2024,Regular Season - 7,39,Premier League,England,42,Arsenal,41,Southampton,3,1,0,0,3,1,,,,,FT,494.0,Emirates Stadium,T. Harrington
+1208083,2024-10-05 14:00:00,2024,Regular Season - 7,39,Premier League,England,55,Brentford,39,Wolves,5,3,4,2,5,3,,,,,FT,10503.0,Gtech Community Stadium,A. Madley
+1208088,2024-10-05 14:00:00,2024,Regular Season - 7,39,Premier League,England,46,Leicester,35,Bournemouth,1,0,1,0,1,0,,,,,FT,547.0,King Power Stadium,D. Bond
+1208089,2024-10-05 14:00:00,2024,Regular Season - 7,39,Premier League,England,50,Manchester City,36,Fulham,3,2,1,1,3,2,,,,,FT,555.0,Etihad Stadium,P. Bankes
+1208090,2024-10-05 14:00:00,2024,Regular Season - 7,39,Premier League,England,48,West Ham,57,Ipswich,4,1,2,1,4,1,,,,,FT,598.0,London Stadium,A. Taylor
+1208087,2024-10-05 16:30:00,2024,Regular Season - 7,39,Premier League,England,45,Everton,34,Newcastle,0,0,0,0,0,0,,,,,FT,8560.0,Goodison Park,C. Pawson
+1208082,2024-10-06 13:00:00,2024,Regular Season - 7,39,Premier League,England,66,Aston Villa,33,Manchester United,0,0,0,0,0,0,,,,,FT,495.0,Villa Park,R. Jones
+1208085,2024-10-06 13:00:00,2024,Regular Season - 7,39,Premier League,England,49,Chelsea,65,Nottingham Forest,1,1,0,0,1,1,,,,,FT,519.0,Stamford Bridge,C. Kavanagh
+1208084,2024-10-06 15:30:00,2024,Regular Season - 7,39,Premier League,England,51,Brighton,47,Tottenham,3,2,0,2,3,2,,,,,FT,508.0,American Express Stadium,D. Coote
+1208099,2024-10-19 11:30:00,2024,Regular Season - 8,39,Premier League,England,47,Tottenham,48,West Ham,4,1,1,1,4,1,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Madley
+1208092,2024-10-19 14:00:00,2024,Regular Season - 8,39,Premier League,England,36,Fulham,66,Aston Villa,1,3,1,1,1,3,,,,,FT,535.0,Craven Cottage,D. England
+1208093,2024-10-19 14:00:00,2024,Regular Season - 8,39,Premier League,England,57,Ipswich,45,Everton,0,2,0,2,0,2,,,,,FT,545.0,Portman Road,M. Oliver
+1208095,2024-10-19 14:00:00,2024,Regular Season - 8,39,Premier League,England,33,Manchester United,55,Brentford,2,1,0,1,2,1,,,,,FT,556.0,Old Trafford,S. Barrott
+1208096,2024-10-19 14:00:00,2024,Regular Season - 8,39,Premier League,England,34,Newcastle,51,Brighton,0,1,0,1,0,1,,,,,FT,562.0,St. James' Park,P. Bankes
+1208098,2024-10-19 14:00:00,2024,Regular Season - 8,39,Premier League,England,41,Southampton,46,Leicester,2,3,2,0,2,3,,,,,FT,585.0,St. Mary's Stadium,A. Taylor
+1208091,2024-10-19 16:30:00,2024,Regular Season - 8,39,Premier League,England,35,Bournemouth,42,Arsenal,2,0,0,0,2,0,,,,,FT,504.0,Vitality Stadium,R. Jones
+1208100,2024-10-20 13:00:00,2024,Regular Season - 8,39,Premier League,England,39,Wolves,50,Manchester City,1,2,1,1,1,2,,,,,FT,600.0,Molineux Stadium,C. Kavanagh
+1208094,2024-10-20 15:30:00,2024,Regular Season - 8,39,Premier League,England,40,Liverpool,49,Chelsea,2,1,1,0,2,1,,,,,FT,550.0,Anfield,J. Brooks
+1208097,2024-10-21 19:00:00,2024,Regular Season - 8,39,Premier League,England,65,Nottingham Forest,52,Crystal Palace,1,0,0,0,1,0,,,,,FT,566.0,The City Ground,T. Robinson
+1299022,2024-10-22 19:00:00,2024,League Stage - 3,2,UEFA Champions League,World,66,Aston Villa,500,Bologna,2,0,0,0,2,0,,,,,FT,495.0,Villa Park,João Pedro Pinheiro
+1299027,2024-10-22 19:00:00,2024,League Stage - 3,2,UEFA Champions League,World,42,Arsenal,550,Shakhtar Donetsk,1,0,1,0,1,0,,,,,FT,494.0,Emirates Stadium,B. Bastien
+1299035,2024-10-23 19:00:00,2024,League Stage - 3,2,UEFA Champions League,World,50,Manchester City,628,Sparta Praha,5,0,1,0,5,0,,,,,FT,555.0,Etihad Stadium,M. Mariani
+1299036,2024-10-23 19:00:00,2024,League Stage - 3,2,UEFA Champions League,World,173,RB Leipzig,40,Liverpool,0,1,0,1,0,1,,,,,FT,738.0,Red Bull Arena,S. Schärer
+1299319,2024-10-24 16:45:00,2024,League Stage - 2,848,UEFA Europa Conference League,World,617,Panathinaikos,49,Chelsea,1,4,0,1,1,4,,,,,FT,,Olympiako Stadio Spyros Louis,António Nobre
+1299176,2024-10-24 19:00:00,2024,League Stage - 3,3,UEFA Europa League,World,611,Fenerbahce,33,Manchester United,1,1,0,1,1,1,,,,,FT,1581.0,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,C. Turpin
+1299181,2024-10-24 19:00:00,2024,League Stage - 3,3,UEFA Europa League,World,47,Tottenham,201,AZ Alkmaar,1,0,0,0,1,0,,,,,FT,593.0,Tottenham Hotspur Stadium,M. Lukjančukas
+1208110,2024-10-25 19:00:00,2024,Regular Season - 9,39,Premier League,England,46,Leicester,65,Nottingham Forest,1,3,1,1,1,3,,,,,FT,547.0,King Power Stadium,C. Pawson
+1208104,2024-10-26 14:00:00,2024,Regular Season - 9,39,Premier League,England,66,Aston Villa,35,Bournemouth,1,1,0,0,1,1,,,,,FT,495.0,Villa Park,C. Kavanagh
+1208105,2024-10-26 14:00:00,2024,Regular Season - 9,39,Premier League,England,55,Brentford,57,Ipswich,4,3,2,2,4,3,,,,,FT,10503.0,Gtech Community Stadium,L. Smith
+1208106,2024-10-26 14:00:00,2024,Regular Season - 9,39,Premier League,England,51,Brighton,39,Wolves,2,2,1,0,2,2,,,,,FT,508.0,American Express Stadium,M. Oliver
+1208111,2024-10-26 14:00:00,2024,Regular Season - 9,39,Premier League,England,50,Manchester City,41,Southampton,1,0,1,0,1,0,,,,,FT,555.0,Etihad Stadium,T. Harrington
+1208109,2024-10-26 16:30:00,2024,Regular Season - 9,39,Premier League,England,45,Everton,36,Fulham,1,1,0,0,1,1,,,,,FT,8560.0,Goodison Park,J. Brooks
+1208107,2024-10-27 13:00:00,2024,Regular Season - 9,39,Premier League,England,49,Chelsea,34,Newcastle,2,1,1,1,2,1,,,,,FT,519.0,Stamford Bridge,S. Hooper
+1208108,2024-10-27 13:00:00,2024,Regular Season - 9,39,Premier League,England,52,Crystal Palace,47,Tottenham,1,0,1,0,1,0,,,,,FT,525.0,Selhurst Park,D. Bond
+1208112,2024-10-27 13:00:00,2024,Regular Season - 9,39,Premier League,England,48,West Ham,33,Manchester United,2,1,0,0,2,1,,,,,FT,598.0,London Stadium,D. Coote
+1208103,2024-10-27 15:30:00,2024,Regular Season - 9,39,Premier League,England,42,Arsenal,40,Liverpool,2,2,2,1,2,2,,,,,FT,494.0,Emirates Stadium,A. Taylor
+1309280,2024-10-29 19:45:00,2024,Round of 16,48,League Cup,England,41,Southampton,75,Stoke City,3,2,2,1,3,2,,,,,FT,585.0,St. Mary's Stadium,L. Smith
+1309283,2024-10-30 19:30:00,2024,Round of 16,48,League Cup,England,51,Brighton,40,Liverpool,2,3,0,0,2,3,,,,,FT,508.0,American Express Stadium,D. Bond
+1309282,2024-10-30 19:45:00,2024,Round of 16,48,League Cup,England,33,Manchester United,46,Leicester,5,2,4,2,5,2,,,,,FT,556.0,Old Trafford,A. Madley
+1309284,2024-10-30 19:45:00,2024,Round of 16,48,League Cup,England,59,Preston,42,Arsenal,0,3,0,2,0,3,,,,,FT,574.0,Deepdale,P. Bankes
+1309285,2024-10-30 19:45:00,2024,Round of 16,48,League Cup,England,66,Aston Villa,52,Crystal Palace,1,2,1,1,1,2,,,,,FT,495.0,Villa Park,S. Barrott
+1310475,2024-10-30 19:45:00,2024,Round of 16,48,League Cup,England,34,Newcastle,49,Chelsea,2,0,2,0,2,0,,,,,FT,562.0,St. James' Park,C. Kavanagh
+1309281,2024-10-30 20:15:00,2024,Round of 16,48,League Cup,England,47,Tottenham,50,Manchester City,2,1,2,1,2,1,,,,,FT,593.0,Tottenham Hotspur Stadium,R. Jones
+1208118,2024-11-02 12:30:00,2024,Regular Season - 10,39,Premier League,England,34,Newcastle,42,Arsenal,1,0,1,0,1,0,,,,,FT,562.0,St. James' Park,J. Brooks
+1208113,2024-11-02 15:00:00,2024,Regular Season - 10,39,Premier League,England,35,Bournemouth,50,Manchester City,2,1,1,0,2,1,,,,,FT,504.0,Vitality Stadium,M. Oliver
+1208115,2024-11-02 15:00:00,2024,Regular Season - 10,39,Premier League,England,57,Ipswich,46,Leicester,1,1,0,0,1,1,,,,,FT,545.0,Portman Road,T. Robinson
+1208116,2024-11-02 15:00:00,2024,Regular Season - 10,39,Premier League,England,40,Liverpool,51,Brighton,2,1,0,1,2,1,,,,,FT,550.0,Anfield,T. Harrington
+1208119,2024-11-02 15:00:00,2024,Regular Season - 10,39,Premier League,England,65,Nottingham Forest,48,West Ham,3,0,1,0,3,0,,,,,FT,566.0,The City Ground,P. Bankes
+1208120,2024-11-02 15:00:00,2024,Regular Season - 10,39,Premier League,England,41,Southampton,45,Everton,1,0,0,0,1,0,,,,,FT,585.0,St. Mary's Stadium,A. Madley
+1208122,2024-11-02 17:30:00,2024,Regular Season - 10,39,Premier League,England,39,Wolves,52,Crystal Palace,2,2,0,0,2,2,,,,,FT,600.0,Molineux Stadium,A. Taylor
+1208121,2024-11-03 14:00:00,2024,Regular Season - 10,39,Premier League,England,47,Tottenham,66,Aston Villa,4,1,0,1,4,1,,,,,FT,593.0,Tottenham Hotspur Stadium,C. Pawson
+1208117,2024-11-03 16:30:00,2024,Regular Season - 10,39,Premier League,England,33,Manchester United,49,Chelsea,1,1,0,0,1,1,,,,,FT,556.0,Old Trafford,R. Jones
+1208114,2024-11-04 20:00:00,2024,Regular Season - 10,39,Premier League,England,36,Fulham,55,Brentford,2,1,0,1,2,1,,,,,FT,535.0,Craven Cottage,S. Attwell
+1299044,2024-11-05 20:00:00,2024,League Stage - 4,2,UEFA Champions League,World,40,Liverpool,168,Bayer Leverkusen,4,0,0,0,4,0,,,,,FT,550.0,Anfield,D. Makkelie
+1299045,2024-11-05 20:00:00,2024,League Stage - 4,2,UEFA Champions League,World,228,Sporting CP,50,Manchester City,4,1,1,1,4,1,,,,,FT,1293.0,Estádio José Alvalade,D. Siebert
+1299047,2024-11-06 17:45:00,2024,League Stage - 4,2,UEFA Champions League,World,569,Club Brugge KV,66,Aston Villa,1,0,0,0,1,0,,,,,FT,176.0,Jan Breydelstadion,T. Stieler
+1299052,2024-11-06 20:00:00,2024,League Stage - 4,2,UEFA Champions League,World,505,Inter,42,Arsenal,1,0,1,0,1,0,,,,,FT,907.0,Stadio Giuseppe Meazza,I. Kovács
+1299187,2024-11-07 17:45:00,2024,League Stage - 4,3,UEFA Europa League,World,645,Galatasaray,47,Tottenham,3,2,3,1,3,2,,,,,FT,,RAMS Park,L. Visser
+1299196,2024-11-07 20:00:00,2024,League Stage - 4,3,UEFA Europa League,World,33,Manchester United,619,PAOK,2,0,0,0,2,0,,,,,FT,556.0,Old Trafford,R. Petrescu
+1299338,2024-11-07 20:00:00,2024,League Stage - 3,848,UEFA Europa Conference League,World,49,Chelsea,3684,FC Noah,8,0,6,0,8,0,,,,,FT,519.0,Stamford Bridge,C. Ciochirca
+1208123,2024-11-09 15:00:00,2024,Regular Season - 11,39,Premier League,England,55,Brentford,35,Bournemouth,3,2,1,1,3,2,,,,,FT,10503.0,Gtech Community Stadium,D. Bond
+1208126,2024-11-09 15:00:00,2024,Regular Season - 11,39,Premier League,England,52,Crystal Palace,36,Fulham,0,2,0,1,0,2,,,,,FT,525.0,Selhurst Park,M. Salisbury
+1208131,2024-11-09 15:00:00,2024,Regular Season - 11,39,Premier League,England,48,West Ham,45,Everton,0,0,0,0,0,0,,,,,FT,598.0,London Stadium,S. Attwell
+1208132,2024-11-09 15:00:00,2024,Regular Season - 11,39,Premier League,England,39,Wolves,41,Southampton,2,0,1,0,2,0,,,,,FT,600.0,Molineux Stadium,T. Bramall
+1208124,2024-11-09 17:30:00,2024,Regular Season - 11,39,Premier League,England,51,Brighton,50,Manchester City,2,1,0,1,2,1,,,,,FT,508.0,American Express Stadium,S. Barrott
+1208127,2024-11-09 20:00:00,2024,Regular Season - 11,39,Premier League,England,40,Liverpool,66,Aston Villa,2,0,1,0,2,0,,,,,FT,550.0,Anfield,D. Coote
+1208128,2024-11-10 14:00:00,2024,Regular Season - 11,39,Premier League,England,33,Manchester United,46,Leicester,3,0,2,0,3,0,,,,,FT,556.0,Old Trafford,P. Bankes
+1208129,2024-11-10 14:00:00,2024,Regular Season - 11,39,Premier League,England,65,Nottingham Forest,34,Newcastle,1,3,1,0,1,3,,,,,FT,566.0,The City Ground,A. Taylor
+1208130,2024-11-10 14:00:00,2024,Regular Season - 11,39,Premier League,England,47,Tottenham,57,Ipswich,1,2,0,2,1,2,,,,,FT,593.0,Tottenham Hotspur Stadium,D. England
+1208125,2024-11-10 16:30:00,2024,Regular Season - 11,39,Premier League,England,49,Chelsea,42,Arsenal,1,1,0,0,1,1,,,,,FT,519.0,Stamford Bridge,M. Oliver
+1208139,2024-11-23 12:30:00,2024,Regular Season - 12,39,Premier League,England,46,Leicester,49,Chelsea,1,2,0,1,1,2,,,,,FT,547.0,King Power Stadium,A. Madley
+1208133,2024-11-23 15:00:00,2024,Regular Season - 12,39,Premier League,England,35,Bournemouth,51,Brighton,1,2,0,1,1,2,,,,,FT,504.0,Vitality Stadium,S. Attwell
+1208134,2024-11-23 15:00:00,2024,Regular Season - 12,39,Premier League,England,42,Arsenal,65,Nottingham Forest,3,0,1,0,3,0,,,,,FT,494.0,Emirates Stadium,S. Hooper
+1208135,2024-11-23 15:00:00,2024,Regular Season - 12,39,Premier League,England,66,Aston Villa,52,Crystal Palace,2,2,1,2,2,2,,,,,FT,495.0,Villa Park,T. Robinson
+1208136,2024-11-23 15:00:00,2024,Regular Season - 12,39,Premier League,England,45,Everton,55,Brentford,0,0,0,0,0,0,,,,,FT,8560.0,Goodison Park,C. Kavanagh
+1208137,2024-11-23 15:00:00,2024,Regular Season - 12,39,Premier League,England,36,Fulham,39,Wolves,1,4,1,1,1,4,,,,,FT,535.0,Craven Cottage,R. Jones
+1208140,2024-11-23 17:30:00,2024,Regular Season - 12,39,Premier League,England,50,Manchester City,47,Tottenham,0,4,0,2,0,4,,,,,FT,555.0,Etihad Stadium,J. Brooks
+1208142,2024-11-24 14:00:00,2024,Regular Season - 12,39,Premier League,England,41,Southampton,40,Liverpool,2,3,1,1,2,3,,,,,FT,585.0,St. Mary's Stadium,S. Barrott
+1208138,2024-11-24 16:30:00,2024,Regular Season - 12,39,Premier League,England,57,Ipswich,33,Manchester United,1,1,1,1,1,1,,,,,FT,545.0,Portman Road,A. Taylor
+1208141,2024-11-25 20:00:00,2024,Regular Season - 12,39,Premier League,England,34,Newcastle,48,West Ham,0,2,0,1,0,2,,,,,FT,562.0,St. James' Park,C. Pawson
+1299062,2024-11-26 20:00:00,2024,League Stage - 5,2,UEFA Champions League,World,50,Manchester City,209,Feyenoord,3,3,1,0,3,3,,,,,FT,555.0,Etihad Stadium,R. Petrescu
+1299063,2024-11-26 20:00:00,2024,League Stage - 5,2,UEFA Champions League,World,228,Sporting CP,42,Arsenal,1,5,0,3,1,5,,,,,FT,1293.0,Estádio José Alvalade,S. Marciniak
+1299067,2024-11-27 20:00:00,2024,League Stage - 5,2,UEFA Champions League,World,66,Aston Villa,496,Juventus,0,0,0,0,0,0,,,,,FT,495.0,Villa Park,Gil Manzano
+1299071,2024-11-27 20:00:00,2024,League Stage - 5,2,UEFA Champions League,World,40,Liverpool,541,Real Madrid,2,0,0,0,2,0,,,,,FT,550.0,Anfield,F. Letexier
+1299349,2024-11-28 17:45:00,2024,League Stage - 4,848,UEFA Europa Conference League,World,180,1. FC Heidenheim,49,Chelsea,0,2,0,0,0,2,,,,,FT,723.0,Voith-Arena,S. Gözübüyük
+1299212,2024-11-28 20:00:00,2024,League Stage - 5,3,UEFA Europa League,World,33,Manchester United,327,Bodo/Glimt,3,2,2,2,3,2,,,,,FT,556.0,Old Trafford,L. Visser
+1299217,2024-11-28 20:00:00,2024,League Stage - 5,3,UEFA Europa League,World,47,Tottenham,497,AS Roma,2,2,2,1,2,2,,,,,FT,593.0,Tottenham Hotspur Stadium,G. Nyberg
+1208144,2024-11-29 20:00:00,2024,Regular Season - 13,39,Premier League,England,51,Brighton,41,Southampton,1,1,1,0,1,1,,,,,FT,508.0,American Express Stadium,R. Jones
+1208143,2024-11-30 15:00:00,2024,Regular Season - 13,39,Premier League,England,55,Brentford,46,Leicester,4,1,3,1,4,1,,,,,FT,10503.0,Gtech Community Stadium,M. Oliver
+1208146,2024-11-30 15:00:00,2024,Regular Season - 13,39,Premier League,England,52,Crystal Palace,34,Newcastle,1,1,0,0,1,1,,,,,FT,525.0,Selhurst Park,D. England
+1208149,2024-11-30 15:00:00,2024,Regular Season - 13,39,Premier League,England,65,Nottingham Forest,57,Ipswich,1,0,0,0,1,0,,,,,FT,566.0,The City Ground,T. Harrington
+1208152,2024-11-30 15:00:00,2024,Regular Season - 13,39,Premier League,England,39,Wolves,35,Bournemouth,2,4,1,3,2,4,,,,,FT,600.0,Molineux Stadium,P. Bankes
+1208151,2024-11-30 17:30:00,2024,Regular Season - 13,39,Premier League,England,48,West Ham,42,Arsenal,2,5,2,5,2,5,,,,,FT,598.0,London Stadium,A. Taylor
+1208145,2024-12-01 13:30:00,2024,Regular Season - 13,39,Premier League,England,49,Chelsea,66,Aston Villa,3,0,2,0,3,0,,,,,FT,519.0,Stamford Bridge,S. Attwell
+1208148,2024-12-01 13:30:00,2024,Regular Season - 13,39,Premier League,England,33,Manchester United,45,Everton,4,0,2,0,4,0,,,,,FT,556.0,Old Trafford,J. Brooks
+1208150,2024-12-01 13:30:00,2024,Regular Season - 13,39,Premier League,England,47,Tottenham,36,Fulham,1,1,0,0,1,1,,,,,FT,593.0,Tottenham Hotspur Stadium,D. Bond
+1208147,2024-12-01 16:00:00,2024,Regular Season - 13,39,Premier League,England,40,Liverpool,50,Manchester City,2,0,1,0,2,0,,,,,FT,550.0,Anfield,C. Kavanagh
+1208158,2024-12-03 19:30:00,2024,Regular Season - 14,39,Premier League,England,57,Ipswich,52,Crystal Palace,0,1,0,0,0,1,,,,,FT,545.0,Portman Road,C. Pawson
+1208159,2024-12-03 20:15:00,2024,Regular Season - 14,39,Premier League,England,46,Leicester,48,West Ham,3,1,1,0,3,1,,,,,FT,547.0,King Power Stadium,J. Smith
+1208156,2024-12-04 19:30:00,2024,Regular Season - 14,39,Premier League,England,45,Everton,39,Wolves,4,0,2,0,4,0,,,,,FT,8560.0,Goodison Park,M. Salisbury
+1208160,2024-12-04 19:30:00,2024,Regular Season - 14,39,Premier League,England,50,Manchester City,65,Nottingham Forest,3,0,2,0,3,0,,,,,FT,555.0,Etihad Stadium,M. Oliver
+1208161,2024-12-04 19:30:00,2024,Regular Season - 14,39,Premier League,England,34,Newcastle,40,Liverpool,3,3,1,0,3,3,,,,,FT,562.0,St. James' Park,A. Madley
+1208162,2024-12-04 19:30:00,2024,Regular Season - 14,39,Premier League,England,41,Southampton,49,Chelsea,1,5,1,3,1,5,,,,,FT,585.0,St. Mary's Stadium,T. Harrington
+1208154,2024-12-04 20:15:00,2024,Regular Season - 14,39,Premier League,England,42,Arsenal,33,Manchester United,2,0,0,0,2,0,,,,,FT,494.0,Emirates Stadium,S. Barrott
+1208155,2024-12-04 20:15:00,2024,Regular Season - 14,39,Premier League,England,66,Aston Villa,55,Brentford,3,1,3,0,3,1,,,,,FT,495.0,Villa Park,L. Smith
+1208157,2024-12-05 19:30:00,2024,Regular Season - 14,39,Premier League,England,36,Fulham,51,Brighton,3,1,1,0,3,1,,,,,FT,535.0,Craven Cottage,P. Bankes
+1208153,2024-12-05 20:15:00,2024,Regular Season - 14,39,Premier League,England,35,Bournemouth,47,Tottenham,1,0,1,0,1,0,,,,,FT,504.0,Vitality Stadium,S. Hooper
+1208163,2024-12-07 15:00:00,2024,Regular Season - 15,39,Premier League,England,66,Aston Villa,41,Southampton,1,0,1,0,1,0,,,,,FT,495.0,Villa Park,D. Bond
+1208164,2024-12-07 15:00:00,2024,Regular Season - 15,39,Premier League,England,55,Brentford,34,Newcastle,4,2,2,2,4,2,,,,,FT,10503.0,Gtech Community Stadium,S. Hooper
+1208165,2024-12-07 15:00:00,2024,Regular Season - 15,39,Premier League,England,52,Crystal Palace,50,Manchester City,2,2,1,1,2,2,,,,,FT,525.0,Selhurst Park,R. Jones
+1208170,2024-12-07 17:30:00,2024,Regular Season - 15,39,Premier League,England,33,Manchester United,65,Nottingham Forest,2,3,1,1,2,3,,,,,FT,556.0,Old Trafford,D. England
+1208167,2024-12-08 14:00:00,2024,Regular Season - 15,39,Premier League,England,36,Fulham,42,Arsenal,1,1,1,0,1,1,,,,,FT,535.0,Craven Cottage,C. Kavanagh
+1208168,2024-12-08 14:00:00,2024,Regular Season - 15,39,Premier League,England,57,Ipswich,35,Bournemouth,1,2,1,0,1,2,,,,,FT,545.0,Portman Road,M. Salisbury
+1208169,2024-12-08 14:00:00,2024,Regular Season - 15,39,Premier League,England,46,Leicester,51,Brighton,2,2,0,1,2,2,,,,,FT,547.0,King Power Stadium,S. Attwell
+1208171,2024-12-08 16:30:00,2024,Regular Season - 15,39,Premier League,England,47,Tottenham,49,Chelsea,3,4,2,1,3,4,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Taylor
+1208172,2024-12-09 20:00:00,2024,Regular Season - 15,39,Premier League,England,48,West Ham,39,Wolves,2,1,0,0,2,1,,,,,FT,598.0,London Stadium,J. Brooks
+1299075,2024-12-10 17:45:00,2024,League Stage - 6,2,UEFA Champions League,World,547,Girona,40,Liverpool,0,1,0,0,0,1,,,,,FT,1478.0,Estadi Municipal de Montilivi,B. Bastien
+1299081,2024-12-10 20:00:00,2024,League Stage - 6,2,UEFA Champions League,World,173,RB Leipzig,66,Aston Villa,2,3,1,1,2,3,,,,,FT,738.0,Red Bull Arena,M. Mariani
+1299088,2024-12-11 20:00:00,2024,League Stage - 6,2,UEFA Champions League,World,496,Juventus,50,Manchester City,2,0,0,0,2,0,,,,,FT,909.0,Allianz Stadium,C. Turpin
+1299091,2024-12-11 20:00:00,2024,League Stage - 6,2,UEFA Champions League,World,42,Arsenal,91,Monaco,3,0,1,0,3,0,,,,,FT,494.0,Emirates Stadium,D. Massa
+1299365,2024-12-12 15:30:00,2024,League Stage - 5,848,UEFA Europa Conference League,World,562,FC Astana,49,Chelsea,1,3,1,3,1,3,,,,,FT,,Ortalyq stadıon,S. Jablonski
+1299226,2024-12-12 17:45:00,2024,League Stage - 6,3,UEFA Europa League,World,567,Plzen,33,Manchester United,1,2,0,0,1,2,,,,,FT,438.0,Doosan Aréna,M. Barbu
+1299233,2024-12-12 20:00:00,2024,League Stage - 6,3,UEFA Europa League,World,257,Rangers,47,Tottenham,1,1,0,0,1,1,,,,,FT,1401.0,Ibrox Stadium,S. Schärer
+1208174,2024-12-14 15:00:00,2024,Regular Season - 16,39,Premier League,England,42,Arsenal,45,Everton,0,0,0,0,0,0,,,,,FT,494.0,Emirates Stadium,C. Pawson
+1208177,2024-12-14 15:00:00,2024,Regular Season - 16,39,Premier League,England,40,Liverpool,36,Fulham,2,2,0,1,2,2,,,,,FT,550.0,Anfield,T. Harrington
+1208179,2024-12-14 15:00:00,2024,Regular Season - 16,39,Premier League,England,34,Newcastle,46,Leicester,4,0,1,0,4,0,,,,,FT,562.0,St. James' Park,T. Bramall
+1208182,2024-12-14 15:00:00,2024,Regular Season - 16,39,Premier League,England,39,Wolves,57,Ipswich,1,2,0,1,1,2,,,,,FT,600.0,Molineux Stadium,S. Hooper
+1208180,2024-12-14 17:30:00,2024,Regular Season - 16,39,Premier League,England,65,Nottingham Forest,66,Aston Villa,2,1,0,0,2,1,,,,,FT,566.0,The City Ground,S. Barrott
+1208175,2024-12-15 14:00:00,2024,Regular Season - 16,39,Premier League,England,51,Brighton,52,Crystal Palace,1,3,0,2,1,3,,,,,FT,508.0,American Express Stadium,M. Oliver
+1208178,2024-12-15 16:30:00,2024,Regular Season - 16,39,Premier League,England,50,Manchester City,33,Manchester United,1,2,1,0,1,2,,,,,FT,555.0,Etihad Stadium,A. Taylor
+1208176,2024-12-15 19:00:00,2024,Regular Season - 16,39,Premier League,England,49,Chelsea,55,Brentford,2,1,1,0,2,1,,,,,FT,519.0,Stamford Bridge,P. Bankes
+1208181,2024-12-15 19:00:00,2024,Regular Season - 16,39,Premier League,England,41,Southampton,47,Tottenham,0,5,0,5,0,5,,,,,FT,585.0,St. Mary's Stadium,D. England
+1208173,2024-12-16 20:00:00,2024,Regular Season - 16,39,Premier League,England,35,Bournemouth,48,West Ham,1,1,0,0,1,1,,,,,FT,504.0,Vitality Stadium,C. Kavanagh
+1314297,2024-12-18 19:30:00,2024,Quarter-finals,48,League Cup,England,42,Arsenal,52,Crystal Palace,3,2,0,1,3,2,,,,,FT,494.0,Emirates Stadium,A. Madley
+1314298,2024-12-18 19:45:00,2024,Quarter-finals,48,League Cup,England,34,Newcastle,55,Brentford,3,1,2,0,3,1,,,,,FT,562.0,St. James' Park,S. Barrott
+1314299,2024-12-18 20:00:00,2024,Quarter-finals,48,League Cup,England,41,Southampton,40,Liverpool,1,2,0,2,1,2,,,,,FT,585.0,St. Mary's Stadium,S. Hooper
+1299386,2024-12-19 20:00:00,2024,League Stage - 6,848,UEFA Europa Conference League,World,49,Chelsea,652,Shamrock Rovers,5,1,4,1,5,1,,,,,FT,519.0,Stamford Bridge,W. Delajod
+1314296,2024-12-19 20:00:00,2024,Quarter-finals,48,League Cup,England,47,Tottenham,33,Manchester United,4,3,1,0,4,3,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Brooks
+1208183,2024-12-21 12:30:00,2024,Regular Season - 17,39,Premier League,England,66,Aston Villa,50,Manchester City,2,1,1,0,2,1,,,,,FT,495.0,Villa Park,P. Bankes
+1208184,2024-12-21 15:00:00,2024,Regular Season - 17,39,Premier League,England,55,Brentford,65,Nottingham Forest,0,2,0,1,0,2,,,,,FT,10503.0,Gtech Community Stadium,M. Oliver
+1208188,2024-12-21 15:00:00,2024,Regular Season - 17,39,Premier League,England,57,Ipswich,34,Newcastle,0,4,0,3,0,4,,,,,FT,545.0,Portman Road,S. Attwell
+1208192,2024-12-21 15:00:00,2024,Regular Season - 17,39,Premier League,England,48,West Ham,51,Brighton,1,1,0,0,1,1,,,,,FT,598.0,London Stadium,R. Jones
+1208185,2024-12-21 17:30:00,2024,Regular Season - 17,39,Premier League,England,52,Crystal Palace,42,Arsenal,1,5,1,3,1,5,,,,,FT,525.0,Selhurst Park,S. Hooper
+1208186,2024-12-22 14:00:00,2024,Regular Season - 17,39,Premier League,England,45,Everton,49,Chelsea,0,0,0,0,0,0,,,,,FT,8560.0,Goodison Park,C. Kavanagh
+1208187,2024-12-22 14:00:00,2024,Regular Season - 17,39,Premier League,England,36,Fulham,41,Southampton,0,0,0,0,0,0,,,,,FT,535.0,Craven Cottage,T. Robinson
+1208189,2024-12-22 14:00:00,2024,Regular Season - 17,39,Premier League,England,46,Leicester,39,Wolves,0,3,0,3,0,3,,,,,FT,547.0,King Power Stadium,A. Taylor
+1208190,2024-12-22 14:00:00,2024,Regular Season - 17,39,Premier League,England,33,Manchester United,35,Bournemouth,0,3,0,1,0,3,,,,,FT,556.0,Old Trafford,C. Pawson
+1208191,2024-12-22 16:30:00,2024,Regular Season - 17,39,Premier League,England,47,Tottenham,40,Liverpool,3,6,1,3,3,6,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Barrott
+1208198,2024-12-26 12:30:00,2024,Regular Season - 18,39,Premier League,England,50,Manchester City,45,Everton,1,1,1,1,1,1,,,,,FT,555.0,Etihad Stadium,S. Hooper
+1208193,2024-12-26 15:00:00,2024,Regular Season - 18,39,Premier League,England,35,Bournemouth,52,Crystal Palace,0,0,0,0,0,0,,,,,FT,504.0,Vitality Stadium,T. Bramall
+1208196,2024-12-26 15:00:00,2024,Regular Season - 18,39,Premier League,England,49,Chelsea,36,Fulham,1,2,1,0,1,2,,,,,FT,519.0,Stamford Bridge,S. Barrott
+1208199,2024-12-26 15:00:00,2024,Regular Season - 18,39,Premier League,England,34,Newcastle,66,Aston Villa,3,0,1,0,3,0,,,,,FT,562.0,St. James' Park,A. Taylor
+1208200,2024-12-26 15:00:00,2024,Regular Season - 18,39,Premier League,England,65,Nottingham Forest,47,Tottenham,1,0,1,0,1,0,,,,,FT,566.0,The City Ground,C. Pawson
+1208201,2024-12-26 15:00:00,2024,Regular Season - 18,39,Premier League,England,41,Southampton,48,West Ham,0,1,0,0,0,1,,,,,FT,585.0,St. Mary's Stadium,L. Smith
+1208202,2024-12-26 17:30:00,2024,Regular Season - 18,39,Premier League,England,39,Wolves,33,Manchester United,2,0,0,0,2,0,,,,,FT,600.0,Molineux Stadium,T. Harrington
+1208197,2024-12-26 20:00:00,2024,Regular Season - 18,39,Premier League,England,40,Liverpool,46,Leicester,3,1,1,1,3,1,,,,,FT,550.0,Anfield,D. Bond
+1208195,2024-12-27 19:30:00,2024,Regular Season - 18,39,Premier League,England,51,Brighton,55,Brentford,0,0,0,0,0,0,,,,,FT,508.0,American Express Stadium,A. Madley
+1208194,2024-12-27 20:15:00,2024,Regular Season - 18,39,Premier League,England,42,Arsenal,57,Ipswich,1,0,1,0,1,0,,,,,FT,494.0,Emirates Stadium,D. England
+1208209,2024-12-29 14:30:00,2024,Regular Season - 19,39,Premier League,England,46,Leicester,50,Manchester City,0,2,0,1,0,2,,,,,FT,547.0,King Power Stadium,M. Oliver
+1208205,2024-12-29 15:00:00,2024,Regular Season - 19,39,Premier League,England,52,Crystal Palace,41,Southampton,2,1,1,1,2,1,,,,,FT,525.0,Selhurst Park,M. Salisbury
+1208206,2024-12-29 15:00:00,2024,Regular Season - 19,39,Premier League,England,45,Everton,65,Nottingham Forest,0,2,0,1,0,2,,,,,FT,8560.0,Goodison Park,T. Harrington
+1208207,2024-12-29 15:00:00,2024,Regular Season - 19,39,Premier League,England,36,Fulham,35,Bournemouth,2,2,1,0,2,2,,,,,FT,535.0,Craven Cottage,R. Jones
+1208211,2024-12-29 15:00:00,2024,Regular Season - 19,39,Premier League,England,47,Tottenham,39,Wolves,2,2,2,1,2,2,,,,,FT,593.0,Tottenham Hotspur Stadium,C. Kavanagh
+1208212,2024-12-29 17:15:00,2024,Regular Season - 19,39,Premier League,England,48,West Ham,40,Liverpool,0,5,0,3,0,5,,,,,FT,598.0,London Stadium,A. Taylor
+1208203,2024-12-30 19:45:00,2024,Regular Season - 19,39,Premier League,England,66,Aston Villa,51,Brighton,2,2,1,1,2,2,,,,,FT,495.0,Villa Park,C. Pawson
+1208208,2024-12-30 19:45:00,2024,Regular Season - 19,39,Premier League,England,57,Ipswich,49,Chelsea,2,0,1,0,2,0,,,,,FT,545.0,Portman Road,J. Brooks
+1208210,2024-12-30 20:00:00,2024,Regular Season - 19,39,Premier League,England,33,Manchester United,34,Newcastle,0,2,0,2,0,2,,,,,FT,556.0,Old Trafford,S. Hooper
+1208204,2025-01-01 17:30:00,2024,Regular Season - 19,39,Premier League,England,55,Brentford,42,Arsenal,1,3,1,1,1,3,,,,,FT,10503.0,Gtech Community Stadium,P. Bankes
+1208221,2025-01-04 12:30:00,2024,Regular Season - 20,39,Premier League,England,47,Tottenham,34,Newcastle,1,2,1,2,1,2,,,,,FT,593.0,Tottenham Hotspur Stadium,A. Madley
+1208213,2025-01-04 15:00:00,2024,Regular Season - 20,39,Premier League,England,35,Bournemouth,45,Everton,1,0,0,0,1,0,,,,,FT,504.0,Vitality Stadium,J. Brooks
+1208214,2025-01-04 15:00:00,2024,Regular Season - 20,39,Premier League,England,66,Aston Villa,46,Leicester,2,1,0,0,2,1,,,,,FT,495.0,Villa Park,J. Gillett
+1208216,2025-01-04 15:00:00,2024,Regular Season - 20,39,Premier League,England,52,Crystal Palace,49,Chelsea,1,1,0,1,1,1,,,,,FT,525.0,Selhurst Park,T. Robinson
+1208219,2025-01-04 15:00:00,2024,Regular Season - 20,39,Premier League,England,50,Manchester City,48,West Ham,4,1,2,0,4,1,,,,,FT,555.0,Etihad Stadium,M. Salisbury
+1208220,2025-01-04 15:00:00,2024,Regular Season - 20,39,Premier League,England,41,Southampton,55,Brentford,0,5,0,1,0,5,,,,,FT,585.0,St. Mary's Stadium,S. Attwell
+1208215,2025-01-04 17:30:00,2024,Regular Season - 20,39,Premier League,England,51,Brighton,42,Arsenal,1,1,0,1,1,1,,,,,FT,508.0,American Express Stadium,A. Taylor
+1208217,2025-01-05 14:00:00,2024,Regular Season - 20,39,Premier League,England,36,Fulham,57,Ipswich,2,2,0,1,2,2,,,,,FT,535.0,Craven Cottage,D. Bond
+1208218,2025-01-05 16:30:00,2024,Regular Season - 20,39,Premier League,England,40,Liverpool,33,Manchester United,2,2,0,0,2,2,,,,,FT,550.0,Anfield,M. Oliver
+1208222,2025-01-06 20:00:00,2024,Regular Season - 20,39,Premier League,England,39,Wolves,65,Nottingham Forest,0,3,0,2,0,3,,,,,FT,600.0,Molineux Stadium,P. Bankes
+1327988,2025-01-07 20:00:00,2024,Semi-finals,48,League Cup,England,42,Arsenal,34,Newcastle,0,2,0,1,0,2,,,,,FT,494.0,Emirates Stadium,J. Brooks
+1327990,2025-01-08 20:00:00,2024,Semi-finals,48,League Cup,England,47,Tottenham,40,Liverpool,1,0,0,0,1,0,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Attwell
+1318860,2025-01-09 19:45:00,2024,3rd Round,45,FA Cup,England,45,Everton,1350,Peterborough,2,0,1,0,2,0,,,,,FT,8560.0,Goodison Park,T. Bramall
+1318866,2025-01-09 19:45:00,2024,3rd Round,45,FA Cup,England,36,Fulham,38,Watford,4,1,1,1,4,1,,,,,FT,535.0,Craven Cottage,M. Donohue
+1318841,2025-01-10 20:00:00,2024,3rd Round,45,FA Cup,England,66,Aston Villa,48,West Ham,2,1,0,1,2,1,,,,,FT,495.0,Villa Park,T. Robinson
+1318846,2025-01-11 12:00:00,2024,3rd Round,45,FA Cup,England,56,Bristol City,39,Wolves,1,2,1,2,1,2,,,,,FT,20106.0,Ashton Gate Stadium,R. Jones
+1318845,2025-01-11 12:15:00,2024,3rd Round,45,FA Cup,England,40,Liverpool,1360,Accrington ST,4,0,2,0,4,0,,,,,FT,550.0,Anfield,L. Smith
+1318856,2025-01-11 14:00:00,2024,3rd Round,45,FA Cup,England,46,Leicester,72,QPR,6,2,3,2,6,2,,,,,FT,547.0,King Power Stadium,D. Webb
+1318842,2025-01-11 15:00:00,2024,3rd Round,45,FA Cup,England,71,Norwich,51,Brighton,0,4,0,2,0,4,,,,,FT,565.0,Carrow Road,S. Hooper
+1318848,2025-01-11 15:00:00,2024,3rd Round,45,FA Cup,England,49,Chelsea,1375,Morecambe,5,0,1,0,5,0,,,,,FT,519.0,Stamford Bridge,A. Kitchen
+1318850,2025-01-11 15:00:00,2024,3rd Round,45,FA Cup,England,35,Bournemouth,60,West Brom,5,1,3,1,5,1,,,,,FT,504.0,Vitality Stadium,J. Busby
+1318857,2025-01-11 15:00:00,2024,3rd Round,45,FA Cup,England,55,Brentford,1357,Plymouth,0,1,0,0,0,1,,,,,FT,10503.0,Gtech Community Stadium,B. Toner
+1318864,2025-01-11 15:00:00,2024,3rd Round,45,FA Cup,England,65,Nottingham Forest,1359,Luton,2,0,1,0,2,0,,,,,FT,566.0,The City Ground,D. England
+1318843,2025-01-11 17:45:00,2024,3rd Round,45,FA Cup,England,50,Manchester City,1844,Salford City,8,0,3,0,8,0,,,,,FT,555.0,Etihad Stadium,J. Smith
+1318852,2025-01-12 12:30:00,2024,3rd Round,45,FA Cup,England,7752,Tamworth,47,Tottenham,0,3,0,0,0,3,,,,,FT,5610.0,The Lamb Ground,P. Bankes
+1318859,2025-01-12 15:00:00,2024,3rd Round,45,FA Cup,England,34,Newcastle,1832,Bromley,3,1,1,1,3,1,,,,,FT,562.0,St. James' Park,W. Finnie
+1318867,2025-01-12 15:00:00,2024,3rd Round,45,FA Cup,England,57,Ipswich,1334,Bristol Rovers,3,0,3,0,3,0,,,,,FT,545.0,Portman Road,O. Langford
+1318868,2025-01-12 15:00:00,2024,3rd Round,45,FA Cup,England,52,Crystal Palace,4686,Stockport County,1,0,1,0,1,0,,,,,FT,525.0,Selhurst Park,S. Attwell
+1318837,2025-01-12 16:30:00,2024,3rd Round,45,FA Cup,England,41,Southampton,76,Swansea,3,0,2,0,3,0,,,,,FT,585.0,St. Mary's Stadium,T. Harrington
+1208224,2025-01-14 19:30:00,2024,Regular Season - 21,39,Premier League,England,55,Brentford,50,Manchester City,2,2,0,0,2,2,,,,,FT,10503.0,Gtech Community Stadium,A. Taylor
+1208229,2025-01-14 19:30:00,2024,Regular Season - 21,39,Premier League,England,48,West Ham,36,Fulham,3,2,2,0,3,2,,,,,FT,598.0,London Stadium,C. Pawson
+1208230,2025-01-14 19:30:00,2024,Regular Season - 21,39,Premier League,England,49,Chelsea,35,Bournemouth,2,2,1,0,2,2,,,,,FT,519.0,Stamford Bridge,R. Jones
+1208228,2025-01-14 20:00:00,2024,Regular Season - 21,39,Premier League,England,65,Nottingham Forest,40,Liverpool,1,1,1,0,1,1,,,,,FT,566.0,The City Ground,C. Kavanagh
+1208225,2025-01-15 19:30:00,2024,Regular Season - 21,39,Premier League,England,45,Everton,66,Aston Villa,0,1,0,0,0,1,,,,,FT,8560.0,Goodison Park,S. Barrott
+1208227,2025-01-15 19:30:00,2024,Regular Season - 21,39,Premier League,England,46,Leicester,52,Crystal Palace,0,2,0,0,0,2,,,,,FT,547.0,King Power Stadium,A. Madley
+1208231,2025-01-15 19:30:00,2024,Regular Season - 21,39,Premier League,England,34,Newcastle,39,Wolves,3,0,1,0,3,0,,,,,FT,562.0,St. James' Park,D. England
+1208223,2025-01-15 20:00:00,2024,Regular Season - 21,39,Premier League,England,42,Arsenal,47,Tottenham,2,1,2,1,2,1,,,,,FT,494.0,Emirates Stadium,S. Hooper
+1208226,2025-01-16 19:30:00,2024,Regular Season - 21,39,Premier League,England,57,Ipswich,51,Brighton,0,2,0,0,0,2,,,,,FT,545.0,Portman Road,T. Harrington
+1208232,2025-01-16 20:00:00,2024,Regular Season - 21,39,Premier League,England,33,Manchester United,41,Southampton,3,1,0,1,3,1,,,,,FT,556.0,Old Trafford,J. Brooks
+1208240,2025-01-18 12:30:00,2024,Regular Season - 22,39,Premier League,England,34,Newcastle,35,Bournemouth,1,4,1,2,1,4,,,,,FT,562.0,St. James' Park,S. Attwell
+1208234,2025-01-18 15:00:00,2024,Regular Season - 22,39,Premier League,England,55,Brentford,40,Liverpool,0,2,0,0,0,2,,,,,FT,10503.0,Gtech Community Stadium,A. Madley
+1208238,2025-01-18 15:00:00,2024,Regular Season - 22,39,Premier League,England,46,Leicester,36,Fulham,0,2,0,0,0,2,,,,,FT,547.0,King Power Stadium,M. Salisbury
+1208242,2025-01-18 15:00:00,2024,Regular Season - 22,39,Premier League,England,48,West Ham,52,Crystal Palace,0,2,0,0,0,2,,,,,FT,598.0,London Stadium,T. Bramall
+1208233,2025-01-18 17:30:00,2024,Regular Season - 22,39,Premier League,England,42,Arsenal,66,Aston Villa,2,2,1,0,2,2,,,,,FT,494.0,Emirates Stadium,C. Kavanagh
+1208236,2025-01-19 14:00:00,2024,Regular Season - 22,39,Premier League,England,45,Everton,47,Tottenham,3,2,3,0,3,2,,,,,FT,8560.0,Goodison Park,D. England
+1208239,2025-01-19 14:00:00,2024,Regular Season - 22,39,Premier League,England,33,Manchester United,51,Brighton,1,3,1,1,1,3,,,,,FT,556.0,Old Trafford,P. Bankes
+1208241,2025-01-19 14:00:00,2024,Regular Season - 22,39,Premier League,England,65,Nottingham Forest,41,Southampton,3,2,3,0,3,2,,,,,FT,566.0,The City Ground,A. Taylor
+1208237,2025-01-19 16:30:00,2024,Regular Season - 22,39,Premier League,England,57,Ipswich,50,Manchester City,0,6,0,3,0,6,,,,,FT,545.0,Portman Road,S. Barrott
+1208235,2025-01-20 20:00:00,2024,Regular Season - 22,39,Premier League,England,49,Chelsea,39,Wolves,3,1,1,1,3,1,,,,,FT,519.0,Stamford Bridge,S. Hooper
+1299093,2025-01-21 17:45:00,2024,League Stage - 7,2,UEFA Champions League,World,91,Monaco,66,Aston Villa,1,0,1,0,1,0,,,,,FT,20470.0,Stade Louis-II,S. Vinčić
+1299099,2025-01-21 20:00:00,2024,League Stage - 7,2,UEFA Champions League,World,40,Liverpool,79,Lille,2,1,1,0,2,1,,,,,FT,550.0,Anfield,F. Zwayer
+1299106,2025-01-22 20:00:00,2024,League Stage - 7,2,UEFA Champions League,World,85,Paris Saint Germain,50,Manchester City,4,2,0,0,4,2,,,,,FT,671.0,Parc des Princes,S. Marciniak
+1299108,2025-01-22 20:00:00,2024,League Stage - 7,2,UEFA Champions League,World,42,Arsenal,620,Dinamo Zagreb,3,0,1,0,3,0,,,,,FT,494.0,Emirates Stadium,D. Siebert
+1299244,2025-01-23 17:45:00,2024,League Stage - 7,3,UEFA Europa League,World,167,1899 Hoffenheim,47,Tottenham,2,3,0,2,2,3,,,,,FT,724.0,PreZero Arena,M. Krogh
+1299250,2025-01-23 20:00:00,2024,League Stage - 7,3,UEFA Europa League,World,33,Manchester United,257,Rangers,2,1,0,0,2,1,,,,,FT,556.0,Old Trafford,E. Lambrechts
+1208243,2025-01-25 15:00:00,2024,Regular Season - 23,39,Premier League,England,35,Bournemouth,65,Nottingham Forest,5,0,1,0,5,0,,,,,FT,504.0,Vitality Stadium,C. Pawson
+1208245,2025-01-25 15:00:00,2024,Regular Season - 23,39,Premier League,England,51,Brighton,45,Everton,0,1,0,1,0,1,,,,,FT,508.0,American Express Stadium,T. Robinson
+1208248,2025-01-25 15:00:00,2024,Regular Season - 23,39,Premier League,England,40,Liverpool,57,Ipswich,4,1,3,0,4,1,,,,,FT,550.0,Anfield,M. Salisbury
+1208250,2025-01-25 15:00:00,2024,Regular Season - 23,39,Premier League,England,41,Southampton,34,Newcastle,1,3,1,2,1,3,,,,,FT,585.0,St. Mary's Stadium,S. Barrott
+1208252,2025-01-25 15:00:00,2024,Regular Season - 23,39,Premier League,England,39,Wolves,42,Arsenal,0,1,0,0,0,1,,,,,FT,600.0,Molineux Stadium,M. Oliver
+1208249,2025-01-25 17:30:00,2024,Regular Season - 23,39,Premier League,England,50,Manchester City,49,Chelsea,3,1,1,1,3,1,,,,,FT,555.0,Etihad Stadium,J. Brooks
+1208246,2025-01-26 14:00:00,2024,Regular Season - 23,39,Premier League,England,52,Crystal Palace,55,Brentford,1,2,0,0,1,2,,,,,FT,525.0,Selhurst Park,T. Harrington
+1208251,2025-01-26 14:00:00,2024,Regular Season - 23,39,Premier League,England,47,Tottenham,46,Leicester,1,2,1,0,1,2,,,,,FT,593.0,Tottenham Hotspur Stadium,R. Jones
+1208244,2025-01-26 16:30:00,2024,Regular Season - 23,39,Premier League,England,66,Aston Villa,48,West Ham,1,1,1,0,1,1,,,,,FT,495.0,Villa Park,P. Bankes
+1208247,2025-01-26 19:00:00,2024,Regular Season - 23,39,Premier League,England,36,Fulham,33,Manchester United,0,1,0,0,0,1,,,,,FT,535.0,Craven Cottage,A. Taylor
+1299110,2025-01-29 20:00:00,2024,League Stage - 8,2,UEFA Champions League,World,66,Aston Villa,247,Celtic,4,2,2,2,4,2,,,,,FT,495.0,Villa Park,C. Turpin
+1299118,2025-01-29 20:00:00,2024,League Stage - 8,2,UEFA Champions League,World,547,Girona,42,Arsenal,1,2,1,2,1,2,,,,,FT,1478.0,Estadi Municipal de Montilivi,M. Mariani
+1299122,2025-01-29 20:00:00,2024,League Stage - 8,2,UEFA Champions League,World,50,Manchester City,569,Club Brugge KV,3,1,0,1,3,1,,,,,FT,555.0,Etihad Stadium,José Sánchez
+1299123,2025-01-29 20:00:00,2024,League Stage - 8,2,UEFA Champions League,World,197,PSV Eindhoven,40,Liverpool,3,2,3,2,3,2,,,,,FT,1143.0,Philips Stadion,T. Stieler
+1299259,2025-01-30 20:00:00,2024,League Stage - 8,3,UEFA Europa League,World,559,FCSB,33,Manchester United,0,2,0,0,0,2,,,,,FT,1326.0,Arena Naţională,H. Osmers
+1299271,2025-01-30 20:00:00,2024,League Stage - 8,3,UEFA Europa League,World,47,Tottenham,372,IF Elfsborg,3,0,0,0,3,0,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Gishamer
+1208261,2025-02-01 12:30:00,2024,Regular Season - 24,39,Premier League,England,65,Nottingham Forest,51,Brighton,7,0,3,0,7,0,,,,,FT,566.0,The City Ground,S. Hooper
+1208253,2025-02-01 15:00:00,2024,Regular Season - 24,39,Premier League,England,35,Bournemouth,40,Liverpool,0,2,0,1,0,2,,,,,FT,504.0,Vitality Stadium,D. England
+1208257,2025-02-01 15:00:00,2024,Regular Season - 24,39,Premier League,England,45,Everton,46,Leicester,4,0,3,0,4,0,,,,,FT,8560.0,Goodison Park,D. Bond
+1208258,2025-02-01 15:00:00,2024,Regular Season - 24,39,Premier League,England,57,Ipswich,41,Southampton,1,2,1,1,1,2,,,,,FT,545.0,Portman Road,M. Oliver
+1208260,2025-02-01 15:00:00,2024,Regular Season - 24,39,Premier League,England,34,Newcastle,36,Fulham,1,2,1,0,1,2,,,,,FT,562.0,St. James' Park,C. Kavanagh
+1208262,2025-02-01 17:30:00,2024,Regular Season - 24,39,Premier League,England,39,Wolves,66,Aston Villa,2,0,1,0,2,0,,,,,FT,600.0,Molineux Stadium,A. Madley
+1208255,2025-02-02 14:00:00,2024,Regular Season - 24,39,Premier League,England,55,Brentford,47,Tottenham,0,2,0,1,0,2,,,,,FT,10503.0,Gtech Community Stadium,J. Gillett
+1208259,2025-02-02 14:00:00,2024,Regular Season - 24,39,Premier League,England,33,Manchester United,52,Crystal Palace,0,2,0,0,0,2,,,,,FT,556.0,Old Trafford,J. Brooks
+1208254,2025-02-02 16:30:00,2024,Regular Season - 24,39,Premier League,England,42,Arsenal,50,Manchester City,5,1,1,0,5,1,,,,,FT,494.0,Emirates Stadium,P. Bankes
+1208256,2025-02-03 20:00:00,2024,Regular Season - 24,39,Premier League,England,49,Chelsea,48,West Ham,2,1,0,1,2,1,,,,,FT,519.0,Stamford Bridge,S. Attwell
+1327989,2025-02-05 20:00:00,2024,Semi-finals,48,League Cup,England,34,Newcastle,42,Arsenal,2,0,1,0,2,0,,,,,FT,562.0,St. James' Park,S. Hooper
+1327991,2025-02-06 20:00:00,2024,Semi-finals,48,League Cup,England,40,Liverpool,47,Tottenham,4,0,1,0,4,0,,,,,FT,550.0,Anfield,C. Pawson
+1334962,2025-02-07 20:00:00,2024,4th Round,45,FA Cup,England,33,Manchester United,46,Leicester,2,1,0,1,2,1,,,,,FT,556.0,Old Trafford,M. Salisbury
+1335516,2025-02-08 12:15:00,2024,4th Round,45,FA Cup,England,1373,Leyton Orient,50,Manchester City,1,2,1,0,1,2,,,,,FT,,Gaughan Group Stadium,D. Bond
+1334964,2025-02-08 15:00:00,2024,4th Round,45,FA Cup,England,1346,Coventry,57,Ipswich,1,4,1,3,1,4,,,,,FT,11896.0,The Coventry Building Society Arena,B. Toner
+1334969,2025-02-08 15:00:00,2024,4th Round,45,FA Cup,England,45,Everton,35,Bournemouth,0,2,0,2,0,2,,,,,FT,8560.0,Goodison Park,J. Brooks
+1334971,2025-02-08 15:00:00,2024,4th Round,45,FA Cup,England,41,Southampton,44,Burnley,0,1,0,0,0,1,,,,,FT,585.0,St. Mary's Stadium,W. Finnie
+1335515,2025-02-08 15:00:00,2024,4th Round,45,FA Cup,England,61,Wigan,36,Fulham,1,2,0,1,1,2,,,,,FT,,The Brick Community Stadium,D. Webb
+1334967,2025-02-08 17:45:00,2024,4th Round,45,FA Cup,England,54,Birmingham,34,Newcastle,2,3,2,2,2,3,,,,,FT,,St. Andrew's @ Knighthead Park,M. Donohue
+1334963,2025-02-08 20:00:00,2024,4th Round,45,FA Cup,England,51,Brighton,49,Chelsea,2,1,1,1,2,1,,,,,FT,508.0,American Express Stadium,J. Gillett
+1334966,2025-02-09 12:30:00,2024,4th Round,45,FA Cup,England,67,Blackburn,39,Wolves,0,2,0,2,0,2,,,,,FT,500.0,Ewood Park,L. Smith
+1334968,2025-02-09 15:00:00,2024,4th Round,45,FA Cup,England,1357,Plymouth,40,Liverpool,1,0,0,0,1,0,,,,,FT,571.0,Home Park,S. Barrott
+1334970,2025-02-09 17:35:00,2024,4th Round,45,FA Cup,England,66,Aston Villa,47,Tottenham,2,1,1,0,2,1,,,,,FT,495.0,Villa Park,A. Taylor
+1334972,2025-02-10 19:45:00,2024,4th Round,45,FA Cup,England,1354,Doncaster,52,Crystal Palace,0,2,0,1,0,2,,,,,FT,12676.0,Eco-Power Stadium,F. Hallam
+1345743,2025-02-11 20:00:00,2024,Knockout Round Play-offs,2,UEFA Champions League,World,50,Manchester City,541,Real Madrid,2,3,1,0,2,3,,,,,FT,555.0,Etihad Stadium,C. Turpin
+1208166,2025-02-12 19:30:00,2024,Regular Season - 15,39,Premier League,England,45,Everton,40,Liverpool,2,2,1,1,2,2,,,,,FT,8560.0,Goodison Park,M. Oliver
+1208264,2025-02-14 20:00:00,2024,Regular Season - 25,39,Premier League,England,51,Brighton,49,Chelsea,3,0,2,0,3,0,,,,,FT,508.0,American Express Stadium,C. Kavanagh
+1208267,2025-02-15 12:30:00,2024,Regular Season - 25,39,Premier League,England,46,Leicester,42,Arsenal,0,2,0,0,0,2,,,,,FT,547.0,King Power Stadium,S. Barrott
+1208263,2025-02-15 15:00:00,2024,Regular Season - 25,39,Premier League,England,66,Aston Villa,57,Ipswich,1,1,0,0,1,1,,,,,FT,495.0,Villa Park,R. Jones
+1208266,2025-02-15 15:00:00,2024,Regular Season - 25,39,Premier League,England,36,Fulham,65,Nottingham Forest,2,1,1,1,2,1,,,,,FT,535.0,Craven Cottage,T. Bramall
+1208269,2025-02-15 15:00:00,2024,Regular Season - 25,39,Premier League,England,50,Manchester City,34,Newcastle,4,0,3,0,4,0,,,,,FT,555.0,Etihad Stadium,A. Madley
+1208270,2025-02-15 15:00:00,2024,Regular Season - 25,39,Premier League,England,41,Southampton,35,Bournemouth,1,3,0,2,1,3,,,,,FT,585.0,St. Mary's Stadium,J. Gillett
+1208272,2025-02-15 15:00:00,2024,Regular Season - 25,39,Premier League,England,48,West Ham,55,Brentford,0,1,0,1,0,1,,,,,FT,598.0,London Stadium,D. England
+1208265,2025-02-15 17:30:00,2024,Regular Season - 25,39,Premier League,England,52,Crystal Palace,45,Everton,1,2,0,1,1,2,,,,,FT,525.0,Selhurst Park,A. Taylor
+1208268,2025-02-16 14:00:00,2024,Regular Season - 25,39,Premier League,England,40,Liverpool,39,Wolves,2,1,2,0,2,1,,,,,FT,550.0,Anfield,S. Hooper
+1208271,2025-02-16 16:30:00,2024,Regular Season - 25,39,Premier League,England,47,Tottenham,33,Manchester United,1,0,1,0,1,0,,,,,FT,593.0,Tottenham Hotspur Stadium,P. Bankes
+1208305,2025-02-19 19:30:00,2024,Regular Season - 29,39,Premier League,England,66,Aston Villa,40,Liverpool,2,2,2,1,2,2,,,,,FT,495.0,Villa Park,C. Pawson
+1345744,2025-02-19 20:00:00,2024,Knockout Round Play-offs,2,UEFA Champions League,World,541,Real Madrid,50,Manchester City,3,1,2,0,3,1,,,,,FT,1456.0,Estadio Santiago Bernabéu,I. Kovács
+1208279,2025-02-21 20:00:00,2024,Regular Season - 26,39,Premier League,England,46,Leicester,55,Brentford,0,4,0,3,0,4,,,,,FT,547.0,King Power Stadium,T. Harrington
+1208276,2025-02-22 12:30:00,2024,Regular Season - 26,39,Premier League,England,45,Everton,33,Manchester United,2,2,2,0,2,2,,,,,FT,8560.0,Goodison Park,A. Madley
+1208273,2025-02-22 15:00:00,2024,Regular Season - 26,39,Premier League,England,35,Bournemouth,39,Wolves,0,1,0,1,0,1,,,,,FT,504.0,Vitality Stadium,M. Salisbury
+1208274,2025-02-22 15:00:00,2024,Regular Season - 26,39,Premier League,England,42,Arsenal,48,West Ham,0,1,0,1,0,1,,,,,FT,494.0,Emirates Stadium,C. Pawson
+1208277,2025-02-22 15:00:00,2024,Regular Season - 26,39,Premier League,England,36,Fulham,52,Crystal Palace,0,2,0,1,0,2,,,,,FT,535.0,Craven Cottage,R. Jones
+1208278,2025-02-22 15:00:00,2024,Regular Season - 26,39,Premier League,England,57,Ipswich,47,Tottenham,1,4,1,2,1,4,,,,,FT,545.0,Portman Road,T. Robinson
+1208282,2025-02-22 15:00:00,2024,Regular Season - 26,39,Premier League,England,41,Southampton,51,Brighton,0,4,0,1,0,4,,,,,FT,585.0,St. Mary's Stadium,D. Bond
+1208275,2025-02-22 17:30:00,2024,Regular Season - 26,39,Premier League,England,66,Aston Villa,49,Chelsea,2,1,0,1,2,1,,,,,FT,495.0,Villa Park,M. Oliver
+1208281,2025-02-23 14:00:00,2024,Regular Season - 26,39,Premier League,England,34,Newcastle,65,Nottingham Forest,4,3,4,1,4,3,,,,,FT,562.0,St. James' Park,J. Gillett
+1208280,2025-02-23 16:30:00,2024,Regular Season - 26,39,Premier League,England,50,Manchester City,40,Liverpool,0,2,0,2,0,2,,,,,FT,555.0,Etihad Stadium,A. Taylor
+1208284,2025-02-25 19:30:00,2024,Regular Season - 27,39,Premier League,England,51,Brighton,35,Bournemouth,2,1,1,0,2,1,,,,,FT,508.0,American Express Stadium,M. Oliver
+1208288,2025-02-25 19:30:00,2024,Regular Season - 27,39,Premier League,England,39,Wolves,36,Fulham,1,2,1,1,1,2,,,,,FT,600.0,Molineux Stadium,P. Bankes
+1208289,2025-02-25 19:30:00,2024,Regular Season - 27,39,Premier League,England,52,Crystal Palace,66,Aston Villa,4,1,1,0,4,1,,,,,FT,525.0,Selhurst Park,S. Barrott
+1208290,2025-02-25 20:15:00,2024,Regular Season - 27,39,Premier League,England,49,Chelsea,41,Southampton,4,0,3,0,4,0,,,,,FT,519.0,Stamford Bridge,T. Bramall
+1208283,2025-02-26 19:30:00,2024,Regular Season - 27,39,Premier League,England,55,Brentford,45,Everton,1,1,1,0,1,1,,,,,FT,10503.0,Gtech Community Stadium,S. Hooper
+1208285,2025-02-26 19:30:00,2024,Regular Season - 27,39,Premier League,England,65,Nottingham Forest,42,Arsenal,0,0,0,0,0,0,,,,,FT,566.0,The City Ground,A. Madley
+1208286,2025-02-26 19:30:00,2024,Regular Season - 27,39,Premier League,England,47,Tottenham,50,Manchester City,0,1,0,1,0,1,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Gillett
+1208292,2025-02-26 19:30:00,2024,Regular Season - 27,39,Premier League,England,33,Manchester United,57,Ipswich,3,2,2,2,3,2,,,,,FT,556.0,Old Trafford,D. England
+1208291,2025-02-26 20:15:00,2024,Regular Season - 27,39,Premier League,England,40,Liverpool,34,Newcastle,2,0,1,0,2,0,,,,,FT,550.0,Anfield,S. Attwell
+1208287,2025-02-27 20:00:00,2024,Regular Season - 27,39,Premier League,England,48,West Ham,46,Leicester,2,0,2,0,2,0,,,,,FT,598.0,London Stadium,A. Taylor
+1349953,2025-02-28 20:00:00,2024,5th Round,45,FA Cup,England,66,Aston Villa,43,Cardiff,2,0,0,0,2,0,,,,,FT,495.0,Villa Park,P. Bankes
+1349954,2025-03-01 12:15:00,2024,5th Round,45,FA Cup,England,52,Crystal Palace,58,Millwall,3,1,2,1,3,1,,,,,FT,525.0,Selhurst Park,M. Oliver
+1349958,2025-03-01 17:45:00,2024,5th Round,45,FA Cup,England,50,Manchester City,1357,Plymouth,3,1,1,1,3,1,,,,,FT,555.0,Etihad Stadium,C. Pawson
+1353166,2025-03-04 17:45:00,2024,Round of 16,2,UEFA Champions League,World,569,Club Brugge KV,66,Aston Villa,1,3,1,1,1,3,,,,,FT,176.0,Jan Breydelstadion,João Pedro Pinheiro
+1353172,2025-03-04 20:00:00,2024,Round of 16,2,UEFA Champions League,World,197,PSV Eindhoven,42,Arsenal,1,7,1,3,1,7,,,,,FT,1143.0,Philips Stadion,Gil Manzano
+1353178,2025-03-05 20:00:00,2024,Round of 16,2,UEFA Champions League,World,85,Paris Saint Germain,40,Liverpool,0,1,0,0,0,1,,,,,FT,671.0,Parc des Princes,D. Massa
+1353186,2025-03-06 17:45:00,2024,Round of 16,3,UEFA Europa League,World,201,AZ Alkmaar,47,Tottenham,1,0,1,0,1,0,,,,,FT,1119.0,AFAS Stadion,R. Obrenović
+1353192,2025-03-06 17:45:00,2024,Round of 16,3,UEFA Europa League,World,548,Real Sociedad,33,Manchester United,1,1,0,0,1,1,,,,,FT,1491.0,Reale Arena,I. Kružliak
+1353208,2025-03-06 17:45:00,2024,Round of 16,848,UEFA Europa Conference League,World,400,FC Copenhagen,49,Chelsea,1,2,0,0,1,2,,,,,FT,11600.0,Parken,G. Kabakov
+1208299,2025-03-08 12:30:00,2024,Regular Season - 28,39,Premier League,England,65,Nottingham Forest,50,Manchester City,1,0,0,0,1,0,,,,,FT,566.0,The City Ground,C. Kavanagh
+1208294,2025-03-08 15:00:00,2024,Regular Season - 28,39,Premier League,England,51,Brighton,36,Fulham,2,1,1,1,2,1,,,,,FT,508.0,American Express Stadium,S. Barrott
+1208296,2025-03-08 15:00:00,2024,Regular Season - 28,39,Premier League,England,52,Crystal Palace,57,Ipswich,1,0,0,0,1,0,,,,,FT,525.0,Selhurst Park,S. Hooper
+1208297,2025-03-08 15:00:00,2024,Regular Season - 28,39,Premier League,England,40,Liverpool,41,Southampton,3,1,0,1,3,1,,,,,FT,550.0,Anfield,L. Smith
+1208293,2025-03-08 17:30:00,2024,Regular Season - 28,39,Premier League,England,55,Brentford,66,Aston Villa,0,1,0,0,0,1,,,,,FT,10503.0,Gtech Community Stadium,J. Gillett
+1208302,2025-03-08 20:00:00,2024,Regular Season - 28,39,Premier League,England,39,Wolves,45,Everton,1,1,1,1,1,1,,,,,FT,600.0,Molineux Stadium,S. Attwell
+1208295,2025-03-09 14:00:00,2024,Regular Season - 28,39,Premier League,England,49,Chelsea,46,Leicester,1,0,0,0,1,0,,,,,FT,519.0,Stamford Bridge,T. Robinson
+1208300,2025-03-09 14:00:00,2024,Regular Season - 28,39,Premier League,England,47,Tottenham,35,Bournemouth,2,2,0,1,2,2,,,,,FT,593.0,Tottenham Hotspur Stadium,J. Brooks
+1208298,2025-03-09 16:30:00,2024,Regular Season - 28,39,Premier League,England,33,Manchester United,42,Arsenal,1,1,1,0,1,1,,,,,FT,556.0,Old Trafford,A. Taylor
+1208301,2025-03-10 20:00:00,2024,Regular Season - 28,39,Premier League,England,48,West Ham,34,Newcastle,0,1,0,0,0,1,,,,,FT,598.0,London Stadium,M. Salisbury
+1353167,2025-03-12 20:00:00,2024,Round of 16,2,UEFA Champions League,World,66,Aston Villa,569,Club Brugge KV,3,0,0,0,3,0,,,,,FT,495.0,Villa Park,D. Siebert
+1353173,2025-03-12 20:00:00,2024,Round of 16,2,UEFA Champions League,World,42,Arsenal,197,PSV Eindhoven,2,2,2,1,2,2,,,,,FT,494.0,Emirates Stadium,R. Obrenović
+1353187,2025-03-13 20:00:00,2024,Round of 16,3,UEFA Europa League,World,47,Tottenham,201,AZ Alkmaar,3,1,1,0,3,1,,,,,FT,593.0,Tottenham Hotspur Stadium,João Pedro Pinheiro
+1353193,2025-03-13 20:00:00,2024,Round of 16,3,UEFA Europa League,World,33,Manchester United,548,Real Sociedad,4,1,1,1,4,1,,,,,FT,556.0,Old Trafford,B. Bastien
+1353209,2025-03-13 20:00:00,2024,Round of 16,848,UEFA Europa Conference League,World,49,Chelsea,400,FC Copenhagen,1,0,0,0,1,0,,,,,FT,519.0,Stamford Bridge,R. Petrescu
+1208306,2025-03-15 15:00:00,2024,Regular Season - 29,39,Premier League,England,45,Everton,48,West Ham,1,1,0,0,1,1,,,,,FT,8560.0,Goodison Park,D. Bond
+1208308,2025-03-15 15:00:00,2024,Regular Season - 29,39,Premier League,England,57,Ipswich,65,Nottingham Forest,2,4,0,3,2,4,,,,,FT,545.0,Portman Road,M. Salisbury
+1208310,2025-03-15 15:00:00,2024,Regular Season - 29,39,Premier League,England,50,Manchester City,51,Brighton,2,2,2,1,2,2,,,,,FT,555.0,Etihad Stadium,S. Hooper
+1208312,2025-03-15 15:00:00,2024,Regular Season - 29,39,Premier League,England,41,Southampton,39,Wolves,1,2,0,1,1,2,,,,,FT,585.0,St. Mary's Stadium,R. Jones
+1208303,2025-03-15 17:30:00,2024,Regular Season - 29,39,Premier League,England,35,Bournemouth,55,Brentford,1,2,1,1,1,2,,,,,FT,504.0,Vitality Stadium,C. Pawson
+1208304,2025-03-16 13:30:00,2024,Regular Season - 29,39,Premier League,England,42,Arsenal,49,Chelsea,1,0,1,0,1,0,,,,,FT,494.0,Emirates Stadium,C. Kavanagh
+1208307,2025-03-16 13:30:00,2024,Regular Season - 29,39,Premier League,England,36,Fulham,47,Tottenham,2,0,0,0,2,0,,,,,FT,535.0,Craven Cottage,A. Madley
+1351039,2025-03-16 16:30:00,2024,Final,48,League Cup,England,40,Liverpool,34,Newcastle,1,2,0,1,1,2,,,,,FT,489.0,Wembley Stadium,J. Brooks
+1208309,2025-03-16 19:00:00,2024,Regular Season - 29,39,Premier League,England,46,Leicester,33,Manchester United,0,3,0,1,0,3,,,,,FT,547.0,King Power Stadium,T. Bramall
+1357106,2025-03-29 12:15:00,2024,Quarter-finals,45,FA Cup,England,36,Fulham,52,Crystal Palace,0,3,0,2,0,3,,,,,FT,535.0,Craven Cottage,D. England
+1357109,2025-03-30 12:30:00,2024,Quarter-finals,45,FA Cup,England,59,Preston,66,Aston Villa,0,3,0,0,0,3,,,,,FT,574.0,Deepdale,C. Kavanagh
+1357107,2025-03-30 15:30:00,2024,Quarter-finals,45,FA Cup,England,35,Bournemouth,50,Manchester City,1,2,1,0,1,2,,,,,FT,504.0,Vitality Stadium,S. Attwell
+1208314,2025-04-01 18:45:00,2024,Regular Season - 30,39,Premier League,England,42,Arsenal,36,Fulham,2,1,1,0,2,1,,,,,FT,494.0,Emirates Stadium,J. Brooks
+1208317,2025-04-01 18:45:00,2024,Regular Season - 30,39,Premier League,England,39,Wolves,48,West Ham,1,0,1,0,1,0,,,,,FT,600.0,Molineux Stadium,T. Harrington
+1208316,2025-04-01 19:00:00,2024,Regular Season - 30,39,Premier League,England,65,Nottingham Forest,33,Manchester United,1,0,1,0,1,0,,,,,FT,566.0,The City Ground,J. Gillett
+1208313,2025-04-02 18:45:00,2024,Regular Season - 30,39,Premier League,England,35,Bournemouth,57,Ipswich,1,2,0,1,1,2,,,,,FT,504.0,Vitality Stadium,R. Jones
+1208315,2025-04-02 18:45:00,2024,Regular Season - 30,39,Premier League,England,51,Brighton,66,Aston Villa,0,3,0,0,0,3,,,,,FT,508.0,American Express Stadium,S. Attwell
+1208319,2025-04-02 18:45:00,2024,Regular Season - 30,39,Premier League,England,50,Manchester City,46,Leicester,2,0,2,0,2,0,,,,,FT,555.0,Etihad Stadium,D. England
+1208320,2025-04-02 18:45:00,2024,Regular Season - 30,39,Premier League,England,34,Newcastle,55,Brentford,2,1,1,0,2,1,,,,,FT,562.0,St. James' Park,P. Bankes
+1208321,2025-04-02 18:45:00,2024,Regular Season - 30,39,Premier League,England,41,Southampton,52,Crystal Palace,1,1,1,0,1,1,,,,,FT,585.0,St. Mary's Stadium,A. Madley
+1208322,2025-04-02 19:00:00,2024,Regular Season - 30,39,Premier League,England,40,Liverpool,45,Everton,1,0,0,0,1,0,,,,,FT,550.0,Anfield,S. Barrott
+1208318,2025-04-03 19:00:00,2024,Regular Season - 30,39,Premier League,England,49,Chelsea,47,Tottenham,1,0,0,0,1,0,,,,,FT,519.0,Stamford Bridge,C. Pawson
+1208326,2025-04-05 11:30:00,2024,Regular Season - 31,39,Premier League,England,45,Everton,42,Arsenal,1,1,0,1,1,1,,,,,FT,8560.0,Goodison Park,D. England
+1208325,2025-04-05 14:00:00,2024,Regular Season - 31,39,Premier League,England,52,Crystal Palace,51,Brighton,2,1,1,1,2,1,,,,,FT,525.0,Selhurst Park,A. Taylor
+1208328,2025-04-05 14:00:00,2024,Regular Season - 31,39,Premier League,England,57,Ipswich,39,Wolves,1,2,1,0,1,2,,,,,FT,545.0,Portman Road,P. Bankes
+1208332,2025-04-05 14:00:00,2024,Regular Season - 31,39,Premier League,England,48,West Ham,35,Bournemouth,2,2,0,1,2,2,,,,,FT,598.0,London Stadium,T. Robinson
+1208323,2025-04-05 16:30:00,2024,Regular Season - 31,39,Premier League,England,66,Aston Villa,65,Nottingham Forest,2,1,2,0,2,1,,,,,FT,495.0,Villa Park,S. Hooper
+1208324,2025-04-06 13:00:00,2024,Regular Season - 31,39,Premier League,England,55,Brentford,49,Chelsea,0,0,0,0,0,0,,,,,FT,10503.0,Gtech Community Stadium,M. Oliver
+1208327,2025-04-06 13:00:00,2024,Regular Season - 31,39,Premier League,England,36,Fulham,40,Liverpool,3,2,3,1,3,2,,,,,FT,535.0,Craven Cottage,C. Kavanagh
+1208331,2025-04-06 13:00:00,2024,Regular Season - 31,39,Premier League,England,47,Tottenham,41,Southampton,3,1,2,0,3,1,,,,,FT,593.0,Tottenham Hotspur Stadium,M. Salisbury
+1208330,2025-04-06 15:30:00,2024,Regular Season - 31,39,Premier League,England,33,Manchester United,50,Manchester City,0,0,0,0,0,0,,,,,FT,556.0,Old Trafford,J. Brooks
+1208329,2025-04-07 19:00:00,2024,Regular Season - 31,39,Premier League,England,46,Leicester,34,Newcastle,0,3,0,3,0,3,,,,,FT,547.0,King Power Stadium,R. Jones
+1360764,2025-04-08 19:00:00,2024,Quarter-finals,2,UEFA Champions League,World,42,Arsenal,541,Real Madrid,3,0,0,0,3,0,,,,,FT,494.0,Emirates Stadium,I. Peljto
+1360762,2025-04-09 19:00:00,2024,Quarter-finals,2,UEFA Champions League,World,85,Paris Saint Germain,66,Aston Villa,3,1,1,1,3,1,,,,,FT,671.0,Parc des Princes,M. Mariani
+1361288,2025-04-10 16:45:00,2024,Quarter-finals,848,UEFA Europa Conference League,World,339,Legia Warszawa,49,Chelsea,0,3,0,0,0,3,,,,,FT,1253.0,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,S. Gözübüyük
+1361278,2025-04-10 19:00:00,2024,Quarter-finals,3,UEFA Europa League,World,47,Tottenham,169,Eintracht Frankfurt,1,1,1,1,1,1,,,,,FT,593.0,Tottenham Hotspur Stadium,S. Marciniak
+1361282,2025-04-10 19:00:00,2024,Quarter-finals,3,UEFA Europa League,World,80,Lyon,33,Manchester United,2,2,1,1,2,2,,,,,FT,666.0,Groupama Stadium,G. Nyberg
+1208338,2025-04-12 11:30:00,2024,Regular Season - 32,39,Premier League,England,50,Manchester City,52,Crystal Palace,5,2,2,2,5,2,,,,,FT,555.0,Etihad Stadium,J. Gillett
+1208335,2025-04-12 14:00:00,2024,Regular Season - 32,39,Premier League,England,51,Brighton,46,Leicester,2,2,1,1,2,2,,,,,FT,508.0,American Express Stadium,D. Bond
+1208340,2025-04-12 14:00:00,2024,Regular Season - 32,39,Premier League,England,65,Nottingham Forest,45,Everton,0,1,0,0,0,1,,,,,FT,566.0,The City Ground,C. Pawson
+1208341,2025-04-12 14:00:00,2024,Regular Season - 32,39,Premier League,England,41,Southampton,66,Aston Villa,0,3,0,0,0,3,,,,,FT,585.0,St. Mary's Stadium,T. Bramall
+1208334,2025-04-12 16:30:00,2024,Regular Season - 32,39,Premier League,England,42,Arsenal,55,Brentford,1,1,0,0,1,1,,,,,FT,494.0,Emirates Stadium,S. Hooper
+1208336,2025-04-13 13:00:00,2024,Regular Season - 32,39,Premier League,England,49,Chelsea,57,Ipswich,2,2,0,2,2,2,,,,,FT,519.0,Stamford Bridge,S. Attwell
+1208337,2025-04-13 13:00:00,2024,Regular Season - 32,39,Premier League,England,40,Liverpool,48,West Ham,2,1,1,0,2,1,,,,,FT,550.0,Anfield,A. Madley
+1208342,2025-04-13 13:00:00,2024,Regular Season - 32,39,Premier League,England,39,Wolves,47,Tottenham,4,2,2,0,4,2,,,,,FT,600.0,Molineux Stadium,A. Taylor
+1208339,2025-04-13 15:30:00,2024,Regular Season - 32,39,Premier League,England,34,Newcastle,33,Manchester United,4,1,1,1,4,1,,,,,FT,562.0,St. James' Park,C. Kavanagh
+1208333,2025-04-14 19:00:00,2024,Regular Season - 32,39,Premier League,England,35,Bournemouth,36,Fulham,1,0,1,0,1,0,,,,,FT,504.0,Vitality Stadium,M. Oliver
+1360763,2025-04-15 19:00:00,2024,Quarter-finals,2,UEFA Champions League,World,66,Aston Villa,85,Paris Saint Germain,3,2,1,2,3,2,,,,,FT,495.0,Villa Park,José Sánchez
+1208311,2025-04-16 18:30:00,2024,Regular Season - 29,39,Premier League,England,34,Newcastle,52,Crystal Palace,5,0,4,0,5,0,,,,,FT,562.0,St. James' Park,D. England
+1360765,2025-04-16 19:00:00,2024,Quarter-finals,2,UEFA Champions League,World,541,Real Madrid,42,Arsenal,1,2,0,0,1,2,,,,,FT,1456.0,Estadio Santiago Bernabéu,F. Letexier
+1361279,2025-04-17 19:00:00,2024,Quarter-finals,3,UEFA Europa League,World,169,Eintracht Frankfurt,47,Tottenham,0,1,0,1,0,1,,,,,FT,10491.0,Deutsche Bank Park,D. Massa
+1361289,2025-04-17 19:00:00,2024,Quarter-finals,848,UEFA Europa Conference League,World,49,Chelsea,339,Legia Warszawa,1,2,1,1,1,2,,,,,FT,519.0,Stamford Bridge,Alejandro Hernández
+1208344,2025-04-19 14:00:00,2024,Regular Season - 33,39,Premier League,England,55,Brentford,51,Brighton,4,2,1,1,4,2,,,,,FT,10503.0,Gtech Community Stadium,T. Robinson
+1208345,2025-04-19 14:00:00,2024,Regular Season - 33,39,Premier League,England,52,Crystal Palace,35,Bournemouth,0,0,0,0,0,0,,,,,FT,525.0,Selhurst Park,S. Barrott
+1208346,2025-04-19 14:00:00,2024,Regular Season - 33,39,Premier League,England,45,Everton,50,Manchester City,0,2,0,0,0,2,,,,,FT,8560.0,Goodison Park,S. Hooper
+1208352,2025-04-19 14:00:00,2024,Regular Season - 33,39,Premier League,England,48,West Ham,41,Southampton,1,1,0,0,1,1,,,,,FT,598.0,London Stadium,A. Kitchen
+1208343,2025-04-19 16:30:00,2024,Regular Season - 33,39,Premier League,England,66,Aston Villa,34,Newcastle,4,1,1,1,4,1,,,,,FT,495.0,Villa Park,J. Gillett
+1208347,2025-04-20 13:00:00,2024,Regular Season - 33,39,Premier League,England,36,Fulham,49,Chelsea,1,2,1,0,1,2,,,,,FT,535.0,Craven Cottage,A. Taylor
+1208348,2025-04-20 13:00:00,2024,Regular Season - 33,39,Premier League,England,57,Ipswich,42,Arsenal,0,4,0,2,0,4,,,,,FT,545.0,Portman Road,C. Kavanagh
+1208350,2025-04-20 13:00:00,2024,Regular Season - 33,39,Premier League,England,33,Manchester United,39,Wolves,0,1,0,0,0,1,,,,,FT,556.0,Old Trafford,R. Jones
+1208349,2025-04-20 15:30:00,2024,Regular Season - 33,39,Premier League,England,46,Leicester,40,Liverpool,0,1,0,0,0,1,,,,,FT,547.0,King Power Stadium,S. Attwell
+1208351,2025-04-21 19:00:00,2024,Regular Season - 33,39,Premier League,England,47,Tottenham,65,Nottingham Forest,1,2,0,2,1,2,,,,,FT,593.0,Tottenham Hotspur Stadium,P. Bankes
+1208358,2025-04-22 19:00:00,2024,Regular Season - 34,39,Premier League,England,50,Manchester City,66,Aston Villa,2,1,1,1,2,1,,,,,FT,555.0,Etihad Stadium,C. Pawson
+1208354,2025-04-23 19:00:00,2024,Regular Season - 34,39,Premier League,England,42,Arsenal,52,Crystal Palace,2,2,2,1,2,2,,,,,FT,494.0,Emirates Stadium,M. Salisbury
+1208356,2025-04-26 11:30:00,2024,Regular Season - 34,39,Premier League,England,49,Chelsea,45,Everton,1,0,1,0,1,0,,,,,FT,519.0,Stamford Bridge,C. Kavanagh
+1208355,2025-04-26 14:00:00,2024,Regular Season - 34,39,Premier League,England,51,Brighton,48,West Ham,3,2,1,0,3,2,,,,,FT,508.0,American Express Stadium,D. England
+1208359,2025-04-26 14:00:00,2024,Regular Season - 34,39,Premier League,England,34,Newcastle,57,Ipswich,3,0,1,0,3,0,,,,,FT,562.0,St. James' Park,M. Salisbury
+1208361,2025-04-26 14:00:00,2024,Regular Season - 34,39,Premier League,England,41,Southampton,36,Fulham,1,2,1,0,1,2,,,,,FT,585.0,St. Mary's Stadium,T. Harrington
+1208362,2025-04-26 14:00:00,2024,Regular Season - 34,39,Premier League,England,39,Wolves,46,Leicester,3,0,1,0,3,0,,,,,FT,600.0,Molineux Stadium,S. Barrott
+1367449,2025-04-26 16:15:00,2024,Semi-finals,45,FA Cup,England,52,Crystal Palace,66,Aston Villa,3,0,1,0,3,0,,,,,FT,489.0,Wembley Stadium,A. Taylor
+1208353,2025-04-27 13:00:00,2024,Regular Season - 34,39,Premier League,England,35,Bournemouth,33,Manchester United,1,1,1,0,1,1,,,,,FT,504.0,Vitality Stadium,P. Bankes
+1208357,2025-04-27 15:30:00,2024,Regular Season - 34,39,Premier League,England,40,Liverpool,47,Tottenham,5,1,3,1,5,1,,,,,FT,550.0,Anfield,T. Bramall
+1367448,2025-04-27 15:30:00,2024,Semi-finals,45,FA Cup,England,65,Nottingham Forest,50,Manchester City,0,2,0,1,0,2,,,,,FT,489.0,Wembley Stadium,M. Oliver
+1371730,2025-04-29 19:00:00,2024,Semi-finals,2,UEFA Champions League,World,42,Arsenal,85,Paris Saint Germain,0,1,0,1,0,1,,,,,FT,494.0,Emirates Stadium,S. Vinčić
+1208360,2025-05-01 18:30:00,2024,Regular Season - 34,39,Premier League,England,65,Nottingham Forest,55,Brentford,0,2,0,1,0,2,,,,,FT,566.0,The City Ground,D. England
+1371990,2025-05-01 19:00:00,2024,Semi-finals,3,UEFA Europa League,World,47,Tottenham,327,Bodo/Glimt,3,1,2,0,3,1,,,,,FT,593.0,Tottenham Hotspur Stadium,José Sánchez
+1371992,2025-05-01 19:00:00,2024,Semi-finals,3,UEFA Europa League,World,531,Athletic Club,33,Manchester United,0,3,0,3,0,3,,,,,FT,1460.0,San Mamés Barria,E. Eskås
+1371998,2025-05-01 19:00:00,2024,Semi-finals,848,UEFA Europa Conference League,World,364,Djurgardens IF,49,Chelsea,1,4,0,2,1,4,,,,,FT,,3Arena,S. Schärer
+1208371,2025-05-02 19:00:00,2024,Regular Season - 35,39,Premier League,England,50,Manchester City,39,Wolves,1,0,1,0,1,0,,,,,FT,555.0,Etihad Stadium,P. Bankes
+1208364,2025-05-03 11:30:00,2024,Regular Season - 35,39,Premier League,England,66,Aston Villa,36,Fulham,1,0,1,0,1,0,,,,,FT,495.0,Villa Park,R. Jones
+1208369,2025-05-03 14:00:00,2024,Regular Season - 35,39,Premier League,England,45,Everton,57,Ipswich,2,2,2,1,2,2,,,,,FT,8560.0,Goodison Park,L. Smith
+1208370,2025-05-03 14:00:00,2024,Regular Season - 35,39,Premier League,England,46,Leicester,41,Southampton,2,0,2,0,2,0,,,,,FT,547.0,King Power Stadium,D. Webb
+1208363,2025-05-03 16:30:00,2024,Regular Season - 35,39,Premier League,England,42,Arsenal,35,Bournemouth,1,2,1,0,1,2,,,,,FT,494.0,Emirates Stadium,J. Gillett
+1208365,2025-05-04 13:00:00,2024,Regular Season - 35,39,Premier League,England,55,Brentford,33,Manchester United,4,3,2,1,4,3,,,,,FT,10503.0,Gtech Community Stadium,A. Taylor
+1208366,2025-05-04 13:00:00,2024,Regular Season - 35,39,Premier League,England,51,Brighton,34,Newcastle,1,1,1,0,1,1,,,,,FT,508.0,American Express Stadium,C. Pawson
+1208372,2025-05-04 13:00:00,2024,Regular Season - 35,39,Premier League,England,48,West Ham,47,Tottenham,1,1,1,1,1,1,,,,,FT,598.0,London Stadium,M. Oliver
+1208367,2025-05-04 15:30:00,2024,Regular Season - 35,39,Premier League,England,49,Chelsea,40,Liverpool,3,1,1,0,3,1,,,,,FT,519.0,Stamford Bridge,S. Hooper
+1208368,2025-05-05 19:00:00,2024,Regular Season - 35,39,Premier League,England,52,Crystal Palace,65,Nottingham Forest,1,1,0,0,1,1,,,,,FT,525.0,Selhurst Park,A. Madley
+1371731,2025-05-07 19:00:00,2024,Semi-finals,2,UEFA Champions League,World,85,Paris Saint Germain,42,Arsenal,2,1,1,0,2,1,,,,,FT,671.0,Parc des Princes,F. Zwayer
+1371991,2025-05-08 19:00:00,2024,Semi-finals,3,UEFA Europa League,World,327,Bodo/Glimt,47,Tottenham,0,2,0,0,0,2,,,,,FT,1175.0,Aspmyra Stadion,M. Mariani
+1371993,2025-05-08 19:00:00,2024,Semi-finals,3,UEFA Europa League,World,33,Manchester United,531,Athletic Club,4,1,0,1,4,1,,,,,FT,556.0,Old Trafford,D. Siebert
+1371999,2025-05-08 19:00:00,2024,Semi-finals,848,UEFA Europa Conference League,World,49,Chelsea,364,Djurgardens IF,1,0,1,0,1,0,,,,,FT,519.0,Stamford Bridge,João Pedro Pinheiro
+1208374,2025-05-10 14:00:00,2024,Regular Season - 36,39,Premier League,England,36,Fulham,45,Everton,1,3,1,1,1,3,,,,,FT,535.0,Craven Cottage,D. England
+1208375,2025-05-10 14:00:00,2024,Regular Season - 36,39,Premier League,England,57,Ipswich,55,Brentford,0,1,0,1,0,1,,,,,FT,545.0,Portman Road,S. Barrott
+1208380,2025-05-10 14:00:00,2024,Regular Season - 36,39,Premier League,England,41,Southampton,50,Manchester City,0,0,0,0,0,0,,,,,FT,585.0,St. Mary's Stadium,T. Robinson
+1208382,2025-05-10 14:00:00,2024,Regular Season - 36,39,Premier League,England,39,Wolves,51,Brighton,0,2,0,1,0,2,,,,,FT,600.0,Molineux Stadium,M. Oliver
+1208373,2025-05-10 16:30:00,2024,Regular Season - 36,39,Premier League,England,35,Bournemouth,66,Aston Villa,0,1,0,1,0,1,,,,,FT,504.0,Vitality Stadium,S. Attwell
+1208378,2025-05-11 11:00:00,2024,Regular Season - 36,39,Premier League,England,34,Newcastle,49,Chelsea,2,0,1,0,2,0,,,,,FT,562.0,St. James' Park,J. Brooks
+1208377,2025-05-11 13:15:00,2024,Regular Season - 36,39,Premier League,England,33,Manchester United,48,West Ham,0,2,0,1,0,2,,,,,FT,556.0,Old Trafford,J. Gillett
+1208379,2025-05-11 13:15:00,2024,Regular Season - 36,39,Premier League,England,65,Nottingham Forest,46,Leicester,2,2,1,1,2,2,,,,,FT,566.0,The City Ground,T. Harrington
+1208381,2025-05-11 13:15:00,2024,Regular Season - 36,39,Premier League,England,47,Tottenham,52,Crystal Palace,0,2,0,1,0,2,,,,,FT,593.0,Tottenham Hotspur Stadium,C. Kavanagh
+1208376,2025-05-11 15:30:00,2024,Regular Season - 36,39,Premier League,England,40,Liverpool,42,Arsenal,2,2,2,0,2,2,,,,,FT,550.0,Anfield,A. Taylor
+1208384,2025-05-16 18:30:00,2024,Regular Season - 37,39,Premier League,England,66,Aston Villa,47,Tottenham,2,0,0,0,2,0,,,,,FT,495.0,Villa Park,P. Bankes
+1208387,2025-05-16 19:15:00,2024,Regular Season - 37,39,Premier League,England,49,Chelsea,33,Manchester United,1,0,0,0,1,0,,,,,FT,519.0,Stamford Bridge,C. Kavanagh
+1373151,2025-05-17 15:30:00,2024,Final,45,FA Cup,England,52,Crystal Palace,50,Manchester City,1,0,1,0,1,0,,,,,FT,489.0,Wembley Stadium,S. Attwell
+1208389,2025-05-18 11:00:00,2024,Regular Season - 37,39,Premier League,England,45,Everton,41,Southampton,2,0,2,0,2,0,,,,,FT,8560.0,Goodison Park,M. Oliver
+1208392,2025-05-18 13:15:00,2024,Regular Season - 37,39,Premier League,England,48,West Ham,65,Nottingham Forest,1,2,0,1,1,2,,,,,FT,598.0,London Stadium,S. Barrott
+1208385,2025-05-18 14:00:00,2024,Regular Season - 37,39,Premier League,England,55,Brentford,36,Fulham,2,3,2,1,2,3,,,,,FT,10503.0,Gtech Community Stadium,J. Gillett
+1208390,2025-05-18 14:00:00,2024,Regular Season - 37,39,Premier League,England,46,Leicester,57,Ipswich,2,0,1,0,2,0,,,,,FT,547.0,King Power Stadium,A. Kitchen
+1208383,2025-05-18 15:30:00,2024,Regular Season - 37,39,Premier League,England,42,Arsenal,34,Newcastle,1,0,0,0,1,0,,,,,FT,494.0,Emirates Stadium,S. Hooper
+1208386,2025-05-19 19:00:00,2024,Regular Season - 37,39,Premier League,England,51,Brighton,40,Liverpool,3,2,1,2,3,2,,,,,FT,508.0,American Express Stadium,A. Madley
+1208388,2025-05-20 19:00:00,2024,Regular Season - 37,39,Premier League,England,52,Crystal Palace,39,Wolves,4,2,2,1,4,2,,,,,FT,525.0,Selhurst Park,D. Webb
+1208391,2025-05-20 19:00:00,2024,Regular Season - 37,39,Premier League,England,50,Manchester City,35,Bournemouth,3,1,2,0,3,1,,,,,FT,555.0,Etihad Stadium,T. Bramall
+1374897,2025-05-21 19:00:00,2024,Final,3,UEFA Europa League,World,47,Tottenham,33,Manchester United,1,0,1,0,1,0,,,,,FT,1460.0,San Mamés Barria,F. Zwayer
+1208393,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,35,Bournemouth,46,Leicester,2,0,0,0,2,0,,,,,FT,504.0,Vitality Stadium,L. Smith
+1208394,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,36,Fulham,50,Manchester City,0,2,0,1,0,2,,,,,FT,535.0,Craven Cottage,A. Madley
+1208395,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,57,Ipswich,48,West Ham,1,3,0,1,1,3,,,,,FT,545.0,Portman Road,T. Robinson
+1208396,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,40,Liverpool,52,Crystal Palace,1,1,0,1,1,1,,,,,FT,550.0,Anfield,D. England
+1208397,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,33,Manchester United,66,Aston Villa,2,0,0,0,2,0,,,,,FT,556.0,Old Trafford,T. Bramall
+1208398,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,34,Newcastle,45,Everton,0,1,0,0,0,1,,,,,FT,562.0,St. James' Park,T. Harrington
+1208399,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,65,Nottingham Forest,49,Chelsea,0,1,0,0,0,1,,,,,FT,566.0,The City Ground,A. Taylor
+1208400,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,41,Southampton,42,Arsenal,1,2,0,1,1,2,,,,,FT,585.0,St. Mary's Stadium,D. Bond
+1208401,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,47,Tottenham,51,Brighton,1,4,1,0,1,4,,,,,FT,593.0,Tottenham Hotspur Stadium,R. Jones
+1208402,2025-05-25 15:00:00,2024,Regular Season - 38,39,Premier League,England,39,Wolves,55,Brentford,1,1,0,1,1,1,,,,,FT,600.0,Molineux Stadium,C. Pawson
+1374899,2025-05-28 19:00:00,2024,Final,848,UEFA Europa Conference League,World,543,Real Betis,49,Chelsea,1,4,1,0,1,4,,,,,FT,18628.0,Tarczyński Arena,I. Peljto
