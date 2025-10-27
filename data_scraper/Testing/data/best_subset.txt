@@ -1,0 +1,6 @@
+home_team_rating
+away_team_rating
+home_form_points
+rest_days_away
+h2h_home_wins
+h2h_away_wins
